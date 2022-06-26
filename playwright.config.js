@@ -26,8 +26,8 @@ const config = {
     timeout: 5000
   },
   /* Run tests in files in parallel */
-  //fullyParallel: true,
-  fullyParallel: false,
+  fullyParallel: true,
+  //fullyParallel: false,
   /* Fail the build on CI if you accidentally left test.only in the source code. */
   forbidOnly: !!process.env.CI,
   /* Retry on CI only */
@@ -41,7 +41,7 @@ const config = {
     /* Maximum time each action such as `click()` can take. Defaults to 0 (no limit). */
     actionTimeout: 0,
     /* Base URL to use in actions like `await page.goto('/')`. */
-    //baseURL: process.env.SERVER === "dev" ? "franceverif-dev.franceverif.fr" : process.env.SERVER === "stage" ? "franceverif-staeg.franceverif.fr" : process.env.SERVER === "prod" ? "franceverif.fr" : "franceverif-dev.franceverif.fr",
+    baseURL: process.env.SERVER === "dev" ? "https://franceverif-dev.franceverif.fr" : process.env.SERVER === "stage" ? "https://franceverif-stage.franceverif.fr" : process.env.SERVER === "prod" ? "https://franceverif.fr" : "https://franceverif-dev.franceverif.fr",
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',

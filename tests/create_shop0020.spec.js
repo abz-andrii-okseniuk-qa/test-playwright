@@ -6,7 +6,7 @@ const testData = require('../utils/test-data');
 
 const domain = process.env.SERVER
 
-const URL = process.env.SERVER === "dev" ? "https://franceverif-dev.franceverif.fr" : process.env.SERVER === "stage" ? "https://franceverif-stage.franceverif.fr" : process.env.SERVER === "prod" ? "https://franceverif.fr" : "https://franceverif-dev.franceverif.fr"
+process.env.URL = process.env.SERVER === "dev" ? "https://franceverif-dev.franceverif.fr" : process.env.SERVER === "stage" ? "https://franceverif-stage.franceverif.fr" : process.env.SERVER === "prod" ? "https://franceverif.fr" : "https://franceverif-dev.franceverif.fr"
 
 const URL_API_GETEWAY = process.env.SERVER === "dev" ? "https://api-gateway-dev.franceverif.fr" : process.env.SERVER === "stage" ? "https://api-gateway-stage.franceverif.fr" : "https://api-gateway-franceverif.fr"
 
@@ -33,7 +33,7 @@ test.describe('1 page multiple tests', () => {
 
         const responseBody = await response.json()
 
-        const options = new Options(domain, URL, responseBody.token)
+        const options = new Options(domain, process.env.URL, responseBody.token)
 
         const context = await browser.newContext(options.data);
         const page = await context.newPage();
@@ -43,7 +43,7 @@ test.describe('1 page multiple tests', () => {
         await page.locator('.userDataDropdown').click();
 
         await Promise.all([
-            page.waitForNavigation( /*{ url: 'https://franceverif-dev.franceverif.fr/fr/boutique' }*/),
+            page.waitForNavigation(),
             page.locator('text=Ajouter une boutique').click()
         ]);
 
@@ -61,12 +61,12 @@ test.describe('1 page multiple tests', () => {
         await page.locator('button:has-text("Je valide")').click();
 
         await Promise.all([
-            page.waitForNavigation(/*{ url: 'https://franceverif-dev.franceverif.fr/fr/shops/offers/gmail.com' }*/),
+            page.waitForNavigation(),
             page.locator('text=Récupérer mon badge').click()
         ]);
 
         await Promise.all([
-            page.waitForNavigation(/*{ url: 'https://franceverif-dev.franceverif.fr/fr/shops/gmail.com' }*/),
+            page.waitForNavigation(),
             page.locator('text=Tableau de bord').click()
         ]);
 
