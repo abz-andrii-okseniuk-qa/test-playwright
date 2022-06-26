@@ -1,0 +1,24 @@
+{
+    "cookies": [
+        {
+            "name": "isAuth",
+            "value": "true",
+            "domain": "franceverif-dev.franceverif.fr",
+            "path": "/",
+            "expires": "3021-10-18T14:09:10.000Z",
+            "httpOnly": "",
+            "secure": "",
+            "sameSite": "10"
+        }
+    ],
+    "origins": [
+        {
+            "neme": "isOldToken",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTE4OCwiaWF0IjoxNjU1Mjk3NzI4LCJleHAiOjE2ODY0MDE3Mjh9.XN2l-khJUOIcmkqg8emsuDc1hYzB0YOHTfci6xJkWWQ"
+        },
+        {
+            "name": "token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTE5MSwiaWF0IjoxNjU1NDc0OTUwLCJleHAiOjE2NTYwNzk3NTB9.raB5bKcidTm2BNIcXrj2NnIPKTwSjvH-OXlKHx8ISYo"
+        }
+    ]
+}
