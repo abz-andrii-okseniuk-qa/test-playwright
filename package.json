@@ -16,6 +16,6 @@
     "@playwright/test": "^1.22.2"
   },
   "dependencies": {
-
+    "pg": "^8.7.3"
   }
 }
