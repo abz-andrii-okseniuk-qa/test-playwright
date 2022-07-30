@@ -1,4 +1,4 @@
-const { test, expect } = require('@playwright/test');
+const { test } = require('@playwright/test');
 
 const Options = require('../utils/options-storageState-auth');
 const testData = require('../utils/test-data');
