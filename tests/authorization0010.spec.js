@@ -3,6 +3,7 @@ const { test } = require('@playwright/test');
 
 test("Authorization in the site via email and password", async ({ page }) => {
     await page.goto("/");
+    await page.locator('button[role="button"]:has-text("Accepter")').click();
     await page.locator('text=Connexion').click();
     await page.locator('text=Connectez-vous !').click();
     await page.locator('[placeholder="mail\\@gmail\\.com"]').fill(process.env.EMAIL);

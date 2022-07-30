@@ -1,5 +1,3 @@
-const { test } = require('@playwright/test');
-
 class Options {
     constructor(domain, url, token) {
         this.domain = domain;
