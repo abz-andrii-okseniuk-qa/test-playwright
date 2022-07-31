@@ -3,16 +3,28 @@ const { test, expect } = require('@playwright/test');
 const VerifierSiteWeb = require('../../pages/verifier-site-web.js')
 
 
+test.use({
+    storageState: {
+        cookies: [{
+            name: "_iub_cs-69562122",
+            value: "%7B%22timestamp%22%3A%222022-07-30T15%3A14%3A49.734Z%22%2C%22version%22%3A%221.40.1%22%2C%22consent%22%3Atrue%2C%22id%22%3A69562122%2C%22cons%22%3A%7B%22rand%22%3A%22977021%22%7D%7D",
+            domain: ".franceverif.fr",
+            path: "/"
+        }
+        ]
+    }
+})
+
 test('2.1 Site analysis through input in the field', async ({ page }) => {
 
-    const verifierSitePage = new VerifierSiteWeb(page, 'amazon.fr')
+    const verifierSitePage = new VerifierSiteWeb(page, 'malindo.fr')
 
     await verifierSitePage.open()
     await verifierSitePage.runSiteAnalysis()
     await verifierSitePage.confirmationPopup()
 
-    await page.waitForSelector(".bannerTitle", { hasText: "Avis sur amazon.fr" })
-    await expect(page.locator(".bannerTitle")).toHaveText("Avis sur amazon.fr")
+    await page.waitForSelector(".bannerTitle", { hasText: "Avis sur malindo.fr" })
+    await expect(page.locator(".bannerTitle")).toHaveText("Avis sur malindo.fr")
 
 });
 
@@ -35,11 +47,11 @@ test('2.3 Testing autocomplete in the search field', async ({ page }) => {
 
     const verifierSitePage = new VerifierSiteWeb(page)
     await verifierSitePage.open()
-    await page.locator('[placeholder="Entrez une URL"]').fill('a');
-    await page.locator('text=amazon.fr').click();
+    await page.locator('[placeholder="Entrez une URL"]').fill('mal');
+    await page.locator('text=malindo.fr').click();
     await verifierSitePage.confirmationPopup()
-    await page.waitForSelector(".bannerTitle", { hasText: "Avis sur amazon.fr" })
-    await expect(page.locator(".bannerTitle")).toHaveText("Avis sur amazon.fr")
+    await page.waitForSelector(".bannerTitle", { hasText: "Avis sur malindo.fr" })
+    await expect(page.locator(".bannerTitle")).toHaveText("Avis sur malindo.fr")
 
 })
 
@@ -47,19 +59,29 @@ test('2.3 Testing autocomplete in the search field', async ({ page }) => {
 test.describe("Test mobile viewport", () => {
 
     test.use({
-        viewport: { width: 390, height: 844 }
+        viewport: { width: 390, height: 844 },
+        storageState: {
+            cookies: [{
+                name: "_iub_cs-69562122",
+                value: "%7B%22timestamp%22%3A%222022-07-30T15%3A14%3A49.734Z%22%2C%22version%22%3A%221.40.1%22%2C%22consent%22%3Atrue%2C%22id%22%3A69562122%2C%22cons%22%3A%7B%22rand%22%3A%22977021%22%7D%7D",
+                domain: ".franceverif.fr",
+                path: "/"
+            }
+            ]
+        }
     })
+
 
     test('2.4 Site analysis through input in the field - mobile', async ({ page }) => {
 
-        const verifierSitePage = new VerifierSiteWeb(page, 'amazon.fr')
+        const verifierSitePage = new VerifierSiteWeb(page, 'malindo.fr')
 
         await verifierSitePage.open()
         await verifierSitePage.runSiteAnalysis()
         await verifierSitePage.confirmationPopup()
 
-        await page.waitForSelector(".bannerTitle", { hasText: "Avis sur amazon.fr" })
-        await expect(page.locator(".bannerTitle")).toHaveText("Avis sur amazon.fr")
+        await page.waitForSelector(".bannerTitle", { hasText: "Avis sur malindo.fr" })
+        await expect(page.locator(".bannerTitle")).toHaveText("Avis sur malindo.fr")
 
     });
 
@@ -82,11 +104,11 @@ test.describe("Test mobile viewport", () => {
 
         const verifierSitePage = new VerifierSiteWeb(page)
         await verifierSitePage.open()
-        await page.locator('[placeholder="Entrez une URL"]').fill('a');
-        await page.locator('text=amazon.fr').click();
+        await page.locator('[placeholder="Entrez une URL"]').fill('mal');
+        await page.locator('text=malindo.fr').click();
         await verifierSitePage.confirmationPopup()
-        await page.waitForSelector(".bannerTitle", { hasText: "Avis sur amazon.fr" })
-        await expect(page.locator(".bannerTitle")).toHaveText("Avis sur amazon.fr")
+        await page.waitForSelector(".bannerTitle", { hasText: "Avis sur malindo.fr" })
+        await expect(page.locator(".bannerTitle")).toHaveText("Avis sur malindo.fr")
 
     })
 
