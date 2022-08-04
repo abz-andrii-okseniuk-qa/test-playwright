@@ -1,7 +1,7 @@
 class Options {
-    constructor(domain, url, token) {
+    constructor(domain, token) {
         this.domain = domain;
-        this.url = url
+        this.url = process.env.SERVER === "dev" ? "https://franceverif-dev.franceverif.fr" : process.env.SERVER === "stage" ? "https://franceverif-stage.franceverif.fr" : process.env.SERVER === "prod" ? "https://franceverif.fr" : "https://franceverif-dev.franceverif.fr"
         this.token = token
 
         this.data = {

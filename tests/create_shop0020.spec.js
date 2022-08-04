@@ -2,26 +2,15 @@ const { test } = require('@playwright/test');
 
 const Options = require('../utils/options-storageState-auth');
 const testData = require('../utils/test-data');
-
+const AdminToken = require('../utils/getAdminToken')
+const { URL_API_GETEWAY } = require("../utils/url-api-geteway")
 
 const domain = process.env.SERVER
 
-process.env.URL = process.env.SERVER === "dev" ? "https://franceverif-dev.franceverif.fr" : process.env.SERVER === "stage" ? "https://franceverif-stage.franceverif.fr" : process.env.SERVER === "prod" ? "https://franceverif.fr" : "https://franceverif-dev.franceverif.fr"
 
-const URL_API_GETEWAY = process.env.SERVER === "dev" ? "https://api-gateway-dev.franceverif.fr" : process.env.SERVER === "stage" ? "https://api-gateway-stage.franceverif.fr" : "https://api-gateway.franceverif.fr"
-
-
-const email = process.env.EMAIL
-const password = process.env.PASSWORD
-
-
-const AdminEmail = "admin@gmail.com"
-const AdminPassword = "MK7bLn3Lp9BnnP"
-
+//run test
 //SERVER=dev EMAIL=test.mail9565@gmail.com PASSWORD=11111111 npx playwright test create_shop0020.spec.js --headed
 //SERVER=dev or stage or prod
-
-//SERVER=stage EMAIL=test.mail9565@gmail.com PASSWORD=11111111 npx playwright test create_shop0020.spec.js "Search shop via API method GET /admin/shops"
 
 test.describe('Search shop via API method GET /admin/shops + Deleting a shop via admin API method DELETE admin/shops/:id + Creating shop via site UI + Auto verifications shop via email', () => {
 
@@ -29,16 +18,8 @@ test.describe('Search shop via API method GET /admin/shops + Deleting a shop via
 
         test.skip(domain === 'prod', 'The test does not work on prod');
 
-        const responseGetAdmonToken = await request.post(`${URL_API_GETEWAY}/auth/login`, {
-            data: {
-                email: AdminEmail,
-                password: AdminPassword
-            }
-        })
-
-        const responseBodyAdmonToken = await responseGetAdmonToken.json()
-
-        const adminToken = responseBodyAdmonToken.token
+        const getAdminToken = new AdminToken(request, process.env.SERVER)
+        const adminToken = await getAdminToken.getToken()
 
 
         const responseGetShop = await request.get(`${URL_API_GETEWAY}/admin/shops?search=${testData.SHOP_CREATION_DATA.domain}`, {
@@ -70,16 +51,10 @@ test.describe('Search shop via API method GET /admin/shops + Deleting a shop via
 
         test("Creating shop via site UI", async ({ browser, request }) => {
 
-            const response = await request.post(URL_API_GETEWAY + "/auth/login", {
-                data: {
-                    email,
-                    password
-                }
-            });
+            const adminToken = new AdminToken(request, process.env.SERVER)
+            const token = await adminToken.getToken()
 
-            const responseBody = await response.json()
-
-            const options = new Options(domain, process.env.URL, responseBody.token)
+            const options = new Options(domain, token)
 
             const context = await browser.newContext(options.data);
             const page = await context.newPage();
