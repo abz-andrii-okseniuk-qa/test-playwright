@@ -63,7 +63,7 @@ test("3.4 Test affiliate redirect", async ({ page, request, context }) => {
         const domainPage = new DomainPage(page, domain)
         await domainPage.open()
 
-        process.env.URL === "stage" || "prod" ? await page.locator('button[role="button"]:has-text("Accepter")').click() : null
+       // process.env.URL === "stage" || "prod" ? await page.locator('button[role="button"]:has-text("Accepter")').click() : null
 
         const [newPage] = await Promise.all([
             context.waitForEvent('page'),
