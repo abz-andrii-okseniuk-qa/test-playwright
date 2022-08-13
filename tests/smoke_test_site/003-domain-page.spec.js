@@ -95,42 +95,42 @@ test("3.5 Opening/closing information about metrics", async ({ page }) => {
 
 
 
-test("3.6 For domains with feedbacks, a list of feedbacks is displayed", async ({ page, request }) => {
+// test("3.6 For domains with feedbacks, a list of feedbacks is displayed", async ({ page, request }) => {
 
-    const adminToken = new GetToken(request, process.env.SERVER)
-    const token = await adminToken.admin()
+//     const adminToken = new GetToken(request, process.env.SERVER)
+//     const token = await adminToken.admin()
 
-    const responseFeedbackList = await request.get(`${URL_API_GETEWAY}/admin/users/feedbacks?filter=active&page=1&limit=10`, {
-        headers: {
-            'Authorization': `Bearer ${token}`,
-        }
-    })
+//     const responseFeedbackList = await request.get(`${URL_API_GETEWAY}/admin/users/feedbacks?filter=active&page=1&limit=10`, {
+//         headers: {
+//             'Authorization': `Bearer ${token}`,
+//         }
+//     })
 
-    const activeFeedbackList = await responseFeedbackList.json()
-    const activeFeedback = activeFeedbackList.data[Math.floor(Math.random() * 9)]
-    const responseFeedbackId = await request.get(`${URL_API_GETEWAY}/users/feedbacks/domain/${activeFeedback.domainName}`)
+//     const activeFeedbackList = await responseFeedbackList.json()
+//     const activeFeedback = activeFeedbackList.data[Math.floor(Math.random() * 9)]
+//     const responseFeedbackId = await request.get(`${URL_API_GETEWAY}/users/feedbacks/domain/${activeFeedback.domainName}`)
 
-    let feedbackData = await responseFeedbackId.json()
-    feedbackData = feedbackData.feedbacks.data
-    feedbackData = feedbackData[Math.floor(Math.random() * feedbackData.length)]
+//     let feedbackData = await responseFeedbackId.json()
+//     feedbackData = feedbackData.feedbacks.data
+//     feedbackData = feedbackData[Math.floor(Math.random() * feedbackData.length)]
 
-    //open domain page
-    const domainPage = new DomainPage(page, activeFeedback.domainName)
-    await domainPage.open()
+//     //open domain page
+//     const domainPage = new DomainPage(page, activeFeedback.domainName)
+//     await domainPage.open()
 
-    const commentBody = await page.locator(".commentBody", { hasText: feedbackData.text })
+//     const commentBody = await page.locator(".commentBody", { hasText: feedbackData.text })
 
-    test.info().annotations.push({ type: 'Domain', description: activeFeedback.domainName });
+//     test.info().annotations.push({ type: 'Domain', description: activeFeedback.domainName });
 
-    let name = feedbackData.name.split(" ")
-    name = name.length > 1 ? `${name[0]} ${name[1].split("")[0]}.` : name
+//     let name = feedbackData.name.split(" ")
+//     name = name.length > 1 ? `${name[0]} ${name[1].split("")[0]}.` : name
 
-    const text = feedbackData.text === null ? "" : feedbackData.text
+//     const text = feedbackData.text === null ? "" : feedbackData.text
 
-    await expect(await commentBody.locator(".commentText")).toHaveText(text)
-    await expect(await commentBody.locator(".commentTitle")).toHaveText(name)
+//     await expect(await commentBody.locator(".commentText")).toHaveText(text)
+//     await expect(await commentBody.locator(".commentTitle")).toHaveText(name)
 
-})
+// })
 
 
 
