@@ -1,13 +1,13 @@
 const { URL_API_GETEWAY } = require("./url-api-geteway")
 
-class AdminToken {
+class GetToken {
 
     constructor(request, server) {
         this.request = request
         this.server = server
     }
 
-    async getToken() {
+    async admin() {
         const responseGetAdmonToken = await this.request.post(`${URL_API_GETEWAY}/auth/login`, {
             data: {
                 email: this.server === "dev" || "stage" ? "admin@gmail.com" : null,
@@ -20,6 +20,19 @@ class AdminToken {
         return responseBodyAdmonToken.token
     }
 
+    async site() {
+        const responseGetAdmonToken = await this.request.post(`${URL_API_GETEWAY}/auth/login`, {
+            data: {
+                email: this.server === "dev" || "stage" ? "andrii.okseniuk@abz.agency" : null,
+                password: this.server === "dev" || "stage" ? "11111111" : null
+            }
+        })
+
+        const responseBodyAdmonToken = await responseGetAdmonToken.json()
+
+        return responseBodyAdmonToken.token
+    }
+
 }
 
-module.exports = AdminToken;
+module.exports = GetToken;

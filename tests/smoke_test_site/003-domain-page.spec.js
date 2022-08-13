@@ -3,7 +3,7 @@ const { URL_API_GETEWAY } = require("../../utils/url-api-geteway")
 
 const DomainPage = require('../../pages/domain-page')
 const Options = require('../../utils/options-storageState-auth');
-const AdminToken = require('../../utils/getAdminToken')
+const GetToken = require('../../utils/getToken')
 
 test('3.1 Cheking results for a GREEN site', async ({ page }) => {
 
@@ -97,8 +97,8 @@ test("3.5 Opening/closing information about metrics", async ({ page }) => {
 
 test("3.6 For domains with feedbacks, a list of feedbacks is displayed", async ({ page, request }) => {
 
-    const adminToken = new AdminToken(request, process.env.SERVER)
-    const token = await adminToken.getToken()
+    const adminToken = new GetToken(request, process.env.SERVER)
+    const token = await adminToken.admin()
 
     const responseFeedbackList = await request.get(`${URL_API_GETEWAY}/admin/users/feedbacks?filter=active&page=1&limit=10`, {
         headers: {
@@ -126,7 +126,7 @@ test("3.6 For domains with feedbacks, a list of feedbacks is displayed", async (
     name = name.length > 1 ? `${name[0]} ${name[1].split("")[0]}.` : name
 
     const text = feedbackData.text === null ? "" : feedbackData.text
-    
+
     await expect(await commentBody.locator(".commentText")).toHaveText(text)
     await expect(await commentBody.locator(".commentTitle")).toHaveText(name)
 
@@ -134,7 +134,7 @@ test("3.6 For domains with feedbacks, a list of feedbacks is displayed", async (
 
 
 
-test("3.7 For a domain without feedback, an empty block is displayed (checks for authorized users)", async ({page}) => {
+test("3.7 For a domain without feedback, an empty block is displayed (checks for authorized users)", async ({ page }) => {
 
     test.info().annotations.push({ type: 'Domain', description: "test-website-0000000.000webhostapp.com" });
 
@@ -147,15 +147,15 @@ test("3.7 For a domain without feedback, an empty block is displayed (checks for
 
 
 
-test("3.8 For a domain without feedback, an empty block is displayed (checks for unauthorized users)", async ({browser, request}) => {
+test("3.8 For a domain without feedback, an empty block is displayed (checks for unauthorized users)", async ({ browser, request }) => {
 
     test.info().annotations.push({ type: 'Domain', description: "test-website-0000000.000webhostapp.com" });
-    
-    const adminToken = new AdminToken(request, process.env.SERVER)
-    const token = await adminToken.getToken()
+
+    const siteToken = new GetToken(request, process.env.SERVER)
+    const token = await siteToken.site()
 
     const options = new Options(process.env.SERVER, token)
-    
+
     const context = await browser.newContext(options.data);
     const page = await context.newPage();
 
@@ -165,3 +165,96 @@ test("3.8 For a domain without feedback, an empty block is displayed (checks for
     await expect(page.locator(".no-comments-text")).toHaveText("Soyez le premier à donner votre avis sur test-website-0000000.000webhostapp.com")
 
 })
+
+
+
+test("3.9 An authorization form opens for an unauthorized user with userLogged=true", async ({ browser }) => {
+
+    const context = await browser.newContext({
+        storageState: {
+            origins: [{
+                origin: "/",
+                localStorage: [{
+                    name: "userLogged",
+                    value: "true"
+                }
+                ]
+            }]
+        }
+
+    });
+    const page = await context.newPage();
+
+    const domainPage = new DomainPage(page, "test-website-0000000.000webhostapp.com")
+    await domainPage.open()
+    await domainPage.openFeedbackForm()
+
+    await page.waitForSelector(".main-log-title")
+    await expect(page.locator(".main-log-title")).toHaveText("Inscrivez-vous")
+
+});
+
+
+
+test("3.10 For an unauthorized user with userLogged=false, a feedback form opens with the fields Prénom and Email", async ({ page }) => {
+
+    const domainPage = new DomainPage(page, "test-website-0000000.000webhostapp.com")
+    await domainPage.open()
+    await domainPage.openFeedbackForm()
+
+    const prenom = await page.locator("label", { hasText: 'Prénom' })
+    await expect(prenom).toHaveText("Prénom")
+
+    const email = await page.locator("label", { hasText: 'Email' })
+    await expect(email).toHaveText("Email")
+
+});
+
+
+
+test("3.11 For an authorized user, a feedback form without the Prénom and Email fields", async ({ request, browser }) => {
+
+    const siteToken = new GetToken(request, process.env.SERVER)
+    const token = await siteToken.site()
+
+    const options = new Options(process.env.SERVER, token)
+
+    const context = await browser.newContext(options.data);
+    const page = await context.newPage();
+
+    const domainPage = new DomainPage(page, "test-boutique-01.000webhostapp.com")
+    await domainPage.open()
+    await domainPage.openFeedbackForm()
+
+    const prenom = await page.locator("label", { hasText: 'Prénom' })
+    await expect(prenom).toBeHidden()
+
+    const email = await page.locator("label", { hasText: 'Email' })
+    await expect(email).toBeHidden()
+
+});
+
+
+
+test("3.12 Add feedback for authorized user", async ({ request, browser }) => {
+
+    const siteToken = new GetToken(request, process.env.SERVER)
+    const token = await siteToken.site()
+    const options = new Options(process.env.SERVER, token)
+    const context = await browser.newContext(options.data);
+    const page = await context.newPage();
+
+    const domainPage = new DomainPage(page, "test-boutique-01.000webhostapp.com")
+    await domainPage.open()
+    await domainPage.openFeedbackForm()
+
+    const submitBtn = await page.locator("button", { hasText: "Envoyer" })
+    await expect(submitBtn).toBeDisabled()
+
+    await domainPage.addFeedbackAuthUser()
+
+    await page.waitForSelector(".merci-body")
+    await expect(page.locator(".merci-body")).toHaveText("Merci !Votre commentaire a bien été pris en compteFermer")
+    await page.locator("button", { hasText: "Fermer" }).click()
+
+});

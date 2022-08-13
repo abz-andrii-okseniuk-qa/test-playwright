@@ -2,7 +2,7 @@ const { test } = require('@playwright/test');
 
 const Options = require('../utils/options-storageState-auth');
 const testData = require('../utils/test-data');
-const AdminToken = require('../utils/getAdminToken')
+const GetToken = require('../utils/getToken')
 const { URL_API_GETEWAY } = require("../utils/url-api-geteway")
 
 const domain = process.env.SERVER
@@ -18,8 +18,8 @@ test.describe('Search shop via API method GET /admin/shops + Deleting a shop via
 
         test.skip(domain === 'prod', 'The test does not work on prod');
 
-        const getAdminToken = new AdminToken(request, process.env.SERVER)
-        const adminToken = await getAdminToken.getToken()
+        const getAdminToken = new GetToken(request, process.env.SERVER)
+        const adminToken = await getAdminToken.admin()
 
 
         const responseGetShop = await request.get(`${URL_API_GETEWAY}/admin/shops?search=${testData.SHOP_CREATION_DATA.domain}`, {
@@ -51,8 +51,8 @@ test.describe('Search shop via API method GET /admin/shops + Deleting a shop via
 
         test("Creating shop via site UI", async ({ browser, request }) => {
 
-            const adminToken = new AdminToken(request, process.env.SERVER)
-            const token = await adminToken.getToken()
+            const siteToken = new GetToken(request, process.env.SERVER)
+            const token = await siteToken.site()
 
             const options = new Options(domain, token)
 
@@ -84,7 +84,7 @@ test.describe('Search shop via API method GET /admin/shops + Deleting a shop via
                 page.locator('text=Tableau de bord').click()
             ]);
 
-            await page.locator('text=Voici les statistiques de gmail.com aujourd’hui').click();
+            await page.locator(`text=Voici les statistiques de ${testData.SHOP_CREATION_DATA.domain} aujourd’hui`).click();
 
         })
 
