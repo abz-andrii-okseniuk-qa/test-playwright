@@ -15,7 +15,7 @@ jobs:
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
     - name: Run Playwright tests
-      run: SERVER=dev EMAIL=test.mail9565@gmail.com PASSWORD=${{ secrets.PASSWORD }} npx playwright test
+      run: SERVER=dev EMAIL=test.mail9565@gmail.com PASSWORD=11111111 npx playwright test
     - uses: actions/upload-artifact@v2
       if: always()
       with:
