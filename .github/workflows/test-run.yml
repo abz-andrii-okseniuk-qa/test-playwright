@@ -1,5 +1,10 @@
 name: Playwright Tests - dev
 on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - 'releases/*'
   workflow_dispatch:
 jobs:
   test:
