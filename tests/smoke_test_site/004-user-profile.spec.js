@@ -1,5 +1,6 @@
 const { test, expect } = require('@playwright/test')
 const { MailSlurp } = require("mailslurp-client")
+require('dotenv').config({path: ".env.development"})
 
 const UserProfilePage = require("../../pages/user-profile")
 
@@ -68,7 +69,7 @@ test.describe("4.2 Registration via email and reset pasword", async () => {
     const newPassword = "LVquMDz1zXxSSCw0OOJ"
     const apiKey = process.env.API_KEY_MAILSLURP
 
-    test('4.2.1 Login and verify email address with mailslurp', async ({ page }) => {
+    test('4.2.1 Registration and verify email address with mailslurp', async ({ page }) => {
 
         const mailslurp = new MailSlurp({ apiKey })
         const { id, emailAddress } = await mailslurp.createInbox()

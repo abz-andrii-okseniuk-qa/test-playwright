@@ -8,29 +8,29 @@ class GetToken {
     }
 
     async admin() {
-        const responseGetAdmonToken = await this.request.post(`${URL_API_GETEWAY}/auth/login`, {
+        const response = await this.request.post(`${URL_API_GETEWAY}/auth/login`, {
             data: {
-                email: this.server === "dev" || "stage" ? "admin@gmail.com" : null,
-                password: this.server === "dev" || "stage" ? "MK7bLn3Lp9BnnP" : null
+                email: this.server === "dev" || "stage" ? process.env.LOGIN_ADMIN_DEV : null,
+                password: this.server === "dev" || "stage" ? process.env.PASSWORD_ADMIN_DEV : null
             }
         })
 
-        const responseBodyAdmonToken = await responseGetAdmonToken.json()
+        const responseBody = await response.json()
 
-        return responseBodyAdmonToken.token
+        return responseBody.token
     }
 
     async site() {
-        const responseGetAdmonToken = await this.request.post(`${URL_API_GETEWAY}/auth/login`, {
+        const response = await this.request.post(`${URL_API_GETEWAY}/auth/login`, {
             data: {
-                email: this.server === "dev" || "stage" ? "andrii.okseniuk@abz.agency" : null,
-                password: this.server === "dev" || "stage" ? "11111111" : null
+                email: this.server === "dev" || "stage" ? process.env.EMAIL : null,
+                password: this.server === "dev" || "stage" ? process.env.PASSWORD : null
             }
         })
 
-        const responseBodyAdmonToken = await responseGetAdmonToken.json()
+        const responseBody = await response.json()
 
-        return responseBodyAdmonToken.token
+        return responseBody.token
     }
 
 }

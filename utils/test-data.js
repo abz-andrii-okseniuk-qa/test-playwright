@@ -1,5 +1,5 @@
 exports.SHOP_CREATION_DATA = {
-    domain: "abz.agency",
+    domain: "gmail.com",
     name: "Test shop 4845YEHXnR5cCI6IkpXVC3247583",
     address: "Robert Robertson, 1234 NW Bobcat Lane, St. Robert, MO 65584-5678.Apr 14, 2020",
     postalCode: "94300",

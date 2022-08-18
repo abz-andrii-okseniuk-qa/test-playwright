@@ -1,4 +1,5 @@
 const { test } = require('@playwright/test');
+require('dotenv').config({path: ".env.development"})
 
 const Options = require('../utils/options-storageState-auth');
 const testData = require('../utils/test-data');

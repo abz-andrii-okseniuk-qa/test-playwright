@@ -1,3 +1,5 @@
+require('dotenv').config({path: ".env.development"})
+
 class Options {
     constructor(domain, token) {
         this.domain = domain;

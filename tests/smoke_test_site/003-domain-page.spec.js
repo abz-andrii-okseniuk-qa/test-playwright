@@ -1,5 +1,6 @@
 const { test, expect } = require('@playwright/test')
 const { URL_API_GETEWAY } = require("../../utils/url-api-geteway")
+require('dotenv').config({path: ".env.development"})
 
 const DomainPage = require('../../pages/domain-page')
 const Options = require('../../utils/options-storageState-auth');
@@ -241,7 +242,11 @@ test("3.12 Add feedback for authorized user", async ({ request, browser }) => {
     const siteToken = new GetToken(request, process.env.SERVER)
     const token = await siteToken.site()
     const options = new Options(process.env.SERVER, token)
-    const context = await browser.newContext(options.data);
+    const context = await browser.newContext({
+        storageState: options.data.storageState,
+        viewport: { width: 1920, height: 1080 }
+    });
+
     const page = await context.newPage();
 
     const domainPage = new DomainPage(page, "test-boutique-01.000webhostapp.com")
