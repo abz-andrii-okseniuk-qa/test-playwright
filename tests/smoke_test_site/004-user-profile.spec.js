@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test')
+const { MailSlurp } = require("mailslurp-client")
 
 const UserProfilePage = require("../../pages/user-profile")
 
@@ -23,10 +24,159 @@ test("4.1 Auth and logout in the site", async ({ browser }) => {
 
     const profilePage = new UserProfilePage(page)
 
-    await profilePage.open()
+    await page.goto('/')
     await profilePage.auth()
     await expect(page).toHaveURL("/fr/dashboard")
     await profilePage.logout()
     await expect(page).toHaveURL("/")
+
+})
+
+
+
+test("4.2 Auth via Facebook", async ({ page }) => {
+
+    const email = "qat6695@yahoo.com"
+    const pass = process.env.FB_PASS
+
+    await page.goto('/')
+    await page.locator('text=Connexion').click();
+    await page.locator('text=Connectez-vous !').click();
+
+    const [page2] = await Promise.all([
+        page.waitForEvent('popup'),
+        page.locator('button:has-text("S’inscrire via Facebook")').click()
+    ]);
+    await page2.locator('input[name="email"]').click();
+    await page2.locator('input[name="email"]').fill(email);
+    await page2.locator('input[name="pass"]').click();
+    await page2.locator('input[name="pass"]').fill(pass);
+    await page2.locator('text=Log In').click()
+
+    await page.waitForSelector(".auth-main")
+    await expect(page.locator(".auth-main")).toHaveText("Test QA Andrey")
+    await page.goto("/fr/dashboard")
+    await expect(page).toHaveURL("/fr/dashboard")
+
+})
+
+
+
+test.describe("4.2 Registration via email and reset pasword", async () => {
+
+    const password = "11111111"
+    const newPassword = "LVquMDz1zXxSSCw0OOJ"
+    const apiKey = process.env.API_KEY_MAILSLURP
+
+    test('4.2.1 Login and verify email address with mailslurp', async ({ page }) => {
+
+        const mailslurp = new MailSlurp({ apiKey })
+        const { id, emailAddress } = await mailslurp.createInbox()
+
+        process.env.emailAddress_mailslurp_1 = emailAddress
+        process.env.id_mailslurp_1 = id
+
+        await page.goto("/")
+
+        await page.locator('text=Connexion').click();
+        await page.waitForSelector("text=S’inscrire avec Email")
+
+        await page.locator("text=S’inscrire avec Email").click()
+
+        //fill form
+        await page.locator("#firstName").fill("Andrey")
+        await page.locator("#lastName").fill("Tester")
+        await page.locator("#email").fill(emailAddress)
+        await page.locator("#pass").fill(password)
+        await page.locator("#passConfirm").fill(password)
+        await page.locator("label", { hasText: "J’accepte la charte France Verif & les CGU de France Verif*" }).click()
+        await page.locator("button", { hasText: "S'inscrire" }).click()
+
+        await expect(page.locator(".confirm-title")).toHaveText("Un code vous a été envoyé !")
+
+        // wait for verification code
+        const emailMailslurp = await mailslurp.waitController.waitForLatestEmail({
+            inboxId: id,
+            timeout: 60000,
+            unreadOnly: true,
+        })
+
+        const emailBody = await emailMailslurp.body;
+        const index = emailBody.indexOf("code=")
+
+        const code_1 = emailBody[index + 5]
+        const code_2 = emailBody[index + 6]
+        const code_3 = emailBody[index + 7]
+        const code_4 = emailBody[index + 9]
+        const code_5 = emailBody[index + 10]
+        const code_6 = emailBody[index + 11]
+
+        //fill verivication code
+        await page.locator('input').first().fill(code_1);
+        await page.locator('input:nth-child(2)').first().fill(code_2);
+        await page.locator('input:nth-child(3)').first().fill(code_3);
+        await page.locator('.confirm-code-right > input').first().fill(code_4);
+        await page.locator('.confirm-code-right > input:nth-child(2)').fill(code_5);
+        await page.locator('.confirm-code-right > input:nth-child(3)').fill(code_6);
+
+        await page.locator(".confirm-button").click()
+
+        await expect(page.locator(".auth-main")).toHaveText("Andrey Tester")
+
+    });
+
+    test("4.2.1 Reset password", async ({ page }) => {
+
+        const userProfilePage = await new UserProfilePage(page)
+        const mailslurp = new MailSlurp({ apiKey })
+
+        await page.goto("/")
+
+        await userProfilePage.auth(process.env.emailAddress_mailslurp_1, password)
+        await expect(page).toHaveURL("/fr/dashboard")
+        await userProfilePage.logout()
+
+        await page.goto("/")
+        await page.waitForSelector('text=Connexion')
+        await page.locator('text=Connexion').click();
+        await page.locator('text=Connectez-vous !').click();
+        await page.locator('text=Mot de passe oublié ?').click();
+        await page.waitForSelector(".forgot-password")
+        await page.locator('[placeholder="mail\\@gmail\\.com"]').fill(process.env.emailAddress_mailslurp_1);
+        await page.locator("button", { hasText: "Envoyer" }).click()
+        await page.waitForSelector(".forgot-title")
+        await expect(page.locator(".forgot-title")).toHaveText("Un email vous a été envoyé")
+        await page.locator('.popup-close-handler').click();
+
+
+        const emailResetPassword = await mailslurp.waitController.waitForLatestEmail({
+            inboxId: process.env.id_mailslurp_1,
+            timeout: 60000,
+            unreadOnly: true,
+        })
+
+        const emailBody = emailResetPassword.body
+
+        const r = /((class="link-main">)[^\s]+)/g
+        const results = r.exec(emailBody);
+        const url = decodeURIComponent(results);
+
+        const urlResetPassword = url.replace('class="link-main">', '').replace("</a>", "").split(",")[0]
+
+        await page.goto(urlResetPassword)
+
+        await page.waitForSelector("#pass1")
+        await page.locator("#pass1").fill(newPassword)
+        await page.locator("#pass2").fill(newPassword)
+        await page.locator("button", { hasText: "Réinitialiser le mot de passe" }).click()
+
+        await page.goto("/")
+
+        await userProfilePage.auth(process.env.emailAddress_mailslurp_1, newPassword)
+        await expect(page).toHaveURL("/fr/dashboard")
+        await userProfilePage.logout()
+
+    });
+
 
 })
