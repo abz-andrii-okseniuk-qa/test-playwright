@@ -21,6 +21,14 @@ class UserProfilePage {
         await this.page.locator("button", {hasText: "Je ferme"}).click()
     }
 
+    async sendPasswordResetForm (currentPassword, newPasword) {
+        await this.page.locator("label:text('Ancien mot de passe') ~ input").fill(currentPassword)
+        await this.page.locator('[placeholder="\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*"]').fill(newPasword)
+        await this.page.locator("label:text('Confirmer le nouveau mot de passe') ~ input").fill(newPasword)
+        await this.page.locator('.formButtonWrapper').click();
+        await this.page.locator('.formButtonWrapper').click();
+    }
+
 }
 
 module.exports = UserProfilePage;

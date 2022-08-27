@@ -10,3 +10,5 @@ exports.SHOP_CREATION_DATA = {
     phone: "380666464646",
     userPosition: "QA tester"
 }
+
+exports.email = "test.mail9565@gmail.com"

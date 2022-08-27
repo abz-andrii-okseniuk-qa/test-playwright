@@ -1,8 +1,10 @@
 const { test, expect } = require('@playwright/test')
 const { MailSlurp } = require("mailslurp-client")
-require('dotenv').config({path: ".env.development"})
+require('dotenv').config({ path: ".env.development" })
 
-const UserProfilePage = require("../../pages/user-profile")
+const AuthPage = require("../../utils/auth-page")
+const testData = require('../../utils/test-data');
+const UserProfilePage = require("../../pages/user-profile-page")
 
 
 //SERVER=dev EMAIL=test.mail9565@gmail.com PASSWORD=11111111 npx playwright test 004-user-profile.spec.js --headed
@@ -37,21 +39,23 @@ test("4.1 Auth and logout in the site", async ({ browser }) => {
 
 test("4.2 Auth via Facebook", async ({ page }) => {
 
+    test.skip(process.env.SERVER !== "prod", 'The test does not work on stage and dev. Because need to add an account to the FB test app.');
+
     const email = "qat6695@yahoo.com"
     const pass = process.env.FB_PASS
 
     await page.goto('/')
-    await page.locator('text=Connexion').click();
-    await page.locator('text=Connectez-vous !').click();
+    await page.locator('text=Connexion').click()
+    await page.locator('text=Connectez-vous !').click()
 
     const [page2] = await Promise.all([
         page.waitForEvent('popup'),
         page.locator('button:has-text("S’inscrire via Facebook")').click()
     ]);
-    await page2.locator('input[name="email"]').click();
-    await page2.locator('input[name="email"]').fill(email);
-    await page2.locator('input[name="pass"]').click();
-    await page2.locator('input[name="pass"]').fill(pass);
+    await page2.locator('input[name="email"]').click()
+    await page2.locator('input[name="email"]').fill(email)
+    await page2.locator('input[name="pass"]').click()
+    await page2.locator('input[name="pass"]').fill(pass)
     await page2.locator('text=Log In').click()
 
     await page.waitForSelector(".auth-main")
@@ -63,13 +67,13 @@ test("4.2 Auth via Facebook", async ({ page }) => {
 
 
 
-test.describe("4.2 Registration via email and reset pasword", async () => {
+test.describe("4.3 Registration via email and reset pasword", async () => {
 
     const password = "11111111"
     const newPassword = "LVquMDz1zXxSSCw0OOJ"
     const apiKey = process.env.API_KEY_MAILSLURP
 
-    test('4.2.1 Registration and verify email address with mailslurp', async ({ page }) => {
+    test('4.3.1 Registration and verify email address with mailslurp', async ({ page }) => {
 
         const mailslurp = new MailSlurp({ apiKey })
         const { id, emailAddress } = await mailslurp.createInbox()
@@ -113,12 +117,12 @@ test.describe("4.2 Registration via email and reset pasword", async () => {
         const code_6 = emailBody[index + 11]
 
         //fill verivication code
-        await page.locator('input').first().fill(code_1);
-        await page.locator('input:nth-child(2)').first().fill(code_2);
-        await page.locator('input:nth-child(3)').first().fill(code_3);
-        await page.locator('.confirm-code-right > input').first().fill(code_4);
-        await page.locator('.confirm-code-right > input:nth-child(2)').fill(code_5);
-        await page.locator('.confirm-code-right > input:nth-child(3)').fill(code_6);
+        await page.locator('input').first().fill(code_1)
+        await page.locator('input:nth-child(2)').first().fill(code_2)
+        await page.locator('input:nth-child(3)').first().fill(code_3)
+        await page.locator('.confirm-code-right > input').first().fill(code_4)
+        await page.locator('.confirm-code-right > input:nth-child(2)').fill(code_5)
+        await page.locator('.confirm-code-right > input:nth-child(3)').fill(code_6)
 
         await page.locator(".confirm-button").click()
 
@@ -126,7 +130,8 @@ test.describe("4.2 Registration via email and reset pasword", async () => {
 
     });
 
-    test("4.2.1 Reset password", async ({ page }) => {
+
+    test("4.3.2 Reset password", async ({ page }) => {
 
         const userProfilePage = await new UserProfilePage(page)
         const mailslurp = new MailSlurp({ apiKey })
@@ -159,8 +164,8 @@ test.describe("4.2 Registration via email and reset pasword", async () => {
         const emailBody = emailResetPassword.body
 
         const r = /((class="link-main">)[^\s]+)/g
-        const results = r.exec(emailBody);
-        const url = decodeURIComponent(results);
+        const results = r.exec(emailBody)
+        const url = decodeURIComponent(results)
 
         const urlResetPassword = url.replace('class="link-main">', '').replace("</a>", "").split(",")[0]
 
@@ -179,5 +184,50 @@ test.describe("4.2 Registration via email and reset pasword", async () => {
 
     });
 
+
+    test("4.3.3 Reset password in user profile", async ({ page }) => {
+
+        const userProfilePage = await new UserProfilePage(page)
+
+        await page.goto("/")
+
+        const email = process.env.emailAddress_mailslurp_1 ? process.env.emailAddress_mailslurp_1 : "test.mail9565@gmail.com"
+        const currentPassword = email === "test.mail9565@gmail.com" ? "11111111" : newPassword
+
+        await userProfilePage.auth(email, currentPassword)
+        await page.goto("/fr/security")
+        await userProfilePage.sendPasswordResetForm(currentPassword, "1234567QWER")
+
+        await userProfilePage.logout()
+        await page.goto("/")
+        await userProfilePage.auth(email, "1234567QWER")
+        await page.goto("/fr/security")
+        await userProfilePage.sendPasswordResetForm("1234567QWER", "11111111")
+
+    })
+
+
+})
+
+
+test("4.4 Edit user profile data", async ({ request, browser }) => {
+
+    const authPage = new AuthPage(browser, request)
+    const page = await authPage.page()
+
+    await page.goto('/fr/profile')
+
+    await page.locator('[placeholder="Albert"]').fill('Tester')
+    await page.locator('[placeholder="Dupont"]').fill('QA')
+    await page.locator('[placeholder="\\37  allée de la vigne"]').fill('kuvifedo@mailinator.com')
+    await page.locator('[placeholder="\\39 4300"]').fill('1111111111111')
+    await page.locator('[placeholder="Vincennes"]').fill('222222222222')
+    await page.locator('[placeholder="\\+33хххххххххх"]').fill('+33333333333333')
+    await page.locator('text=J’accepte de recevoir les informations et offres commerciales de France Verif').click()
+    await page.locator('button:has-text("Je valide")').click()
+    await expect(page.locator('text=Profil complété')).toHaveText("Profil complété")
+    await page.locator('[placeholder="\\37  allée de la vigne"]').fill('')
+    await page.locator('button:has-text("Je valide")').click()
+    await expect(page.locator('text=Profil incomplet')).toHaveText("Profil incomplet")
 
 })

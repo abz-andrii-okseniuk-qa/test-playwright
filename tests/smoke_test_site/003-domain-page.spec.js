@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test')
 const { URL_API_GETEWAY } = require("../../utils/url-api-geteway")
-require('dotenv').config({path: ".env.development"})
+require('dotenv').config({ path: ".env.development" })
 
 const DomainPage = require('../../pages/domain-page')
 const Options = require('../../utils/options-storageState-auth');
@@ -64,7 +64,7 @@ test("3.4 Test affiliate redirect", async ({ page, request, context }) => {
         const domainPage = new DomainPage(page, domain)
         await domainPage.open()
 
-       // process.env.URL === "stage" || "prod" ? await page.locator('button[role="button"]:has-text("Accepter")').click() : null
+        // process.env.URL === "stage" || "prod" ? await page.locator('button[role="button"]:has-text("Accepter")').click() : null
 
         const [newPage] = await Promise.all([
             context.waitForEvent('page'),
@@ -167,99 +167,90 @@ test("3.8 For a domain without feedback, an empty block is displayed (checks for
 
 })
 
+test.describe("3.9 Feedback tests on Domain Page", async () => {
 
-
-test("3.9 An authorization form opens for an unauthorized user with userLogged=true", async ({ browser }) => {
-
-    const context = await browser.newContext({
-        storageState: {
-            origins: [{
-                origin: "/",
-                localStorage: [{
-                    name: "userLogged",
-                    value: "true"
-                }
-                ]
-            }]
-        }
-
-    });
-    const page = await context.newPage();
-
-    const domainPage = new DomainPage(page, "test-website-0000000.000webhostapp.com")
-    await domainPage.open()
-    await domainPage.openFeedbackForm()
-
-    await page.waitForSelector(".main-log-title")
-    await expect(page.locator(".main-log-title")).toHaveText("Inscrivez-vous")
-
-});
-
-
-
-test("3.10 For an unauthorized user with userLogged=false, a feedback form opens with the fields Prénom and Email", async ({ page }) => {
-
-    const domainPage = new DomainPage(page, "test-website-0000000.000webhostapp.com")
-    await domainPage.open()
-    await domainPage.openFeedbackForm()
-
-    const prenom = await page.locator("label", { hasText: 'Prénom' })
-    await expect(prenom).toHaveText("Prénom")
-
-    const email = await page.locator("label", { hasText: 'Email' })
-    await expect(email).toHaveText("Email")
-
-});
-
-
-
-test("3.11 For an authorized user, a feedback form without the Prénom and Email fields", async ({ request, browser }) => {
-
-    const siteToken = new GetToken(request, process.env.SERVER)
-    const token = await siteToken.site()
-
-    const options = new Options(process.env.SERVER, token)
-
-    const context = await browser.newContext(options.data);
-    const page = await context.newPage();
-
-    const domainPage = new DomainPage(page, "test-boutique-01.000webhostapp.com")
-    await domainPage.open()
-    await domainPage.openFeedbackForm()
-
-    const prenom = await page.locator("label", { hasText: 'Prénom' })
-    await expect(prenom).toBeHidden()
-
-    const email = await page.locator("label", { hasText: 'Email' })
-    await expect(email).toBeHidden()
-
-});
-
-
-
-test("3.12 Add feedback for authorized user", async ({ request, browser }) => {
-
-    const siteToken = new GetToken(request, process.env.SERVER)
-    const token = await siteToken.site()
-    const options = new Options(process.env.SERVER, token)
-    const context = await browser.newContext({
-        storageState: options.data.storageState,
+    test.use({
         viewport: { width: 1920, height: 1080 }
+    })
+
+    test("3.9.1 An authorization form opens for an unauthorized user with userLogged=true", async ({ browser }) => {
+
+        const context = await browser.newContext({
+            storageState: {
+                origins: [{
+                    origin: "/",
+                    localStorage: [{
+                        name: "userLogged",
+                        value: "true"
+                    }
+                    ]
+                }]
+            }
+
+        });
+        const page = await context.newPage();
+
+        const domainPage = new DomainPage(page, "test-website-0000000.000webhostapp.com")
+        await domainPage.open()
+        await domainPage.openFeedbackForm()
+
+        await page.waitForSelector(".main-log-title")
+        await expect(page.locator(".main-log-title")).toHaveText("Inscrivez-vous")
+
     });
 
-    const page = await context.newPage();
 
-    const domainPage = new DomainPage(page, "test-boutique-01.000webhostapp.com")
-    await domainPage.open()
-    await domainPage.openFeedbackForm()
 
-    const submitBtn = await page.locator("button", { hasText: "Envoyer" })
-    await expect(submitBtn).toBeDisabled()
+    test("3.9.2 For user with userLogged=false, a feedback form opens with the fields Prénom and Email and add Feedback for an unauthorized user", async ({ page }) => {
 
-    await domainPage.addFeedbackAuthUser()
+        const domainPage = new DomainPage(page, "test-boutique-01.000webhostapp.com")
+        await domainPage.open()
+        await domainPage.openFeedbackForm()
 
-    await page.waitForSelector(".merci-body")
-    await expect(page.locator(".merci-body")).toHaveText("Merci !Votre commentaire a bien été pris en compteFermer")
-    await page.locator("button", { hasText: "Fermer" }).click()
+        await expect(await page.locator("label", { hasText: 'Prénom' })).toHaveText("Prénom")
+        await expect(await page.locator("label", { hasText: 'Email' })).toHaveText("Email")
 
-});
+        await domainPage.addFeedbackNotAuthUser()
+
+        await page.waitForSelector(".merci-top-text")
+        await expect(await page.locator(".merci-top-text")).toHaveText("Rejoignez la communauté France Vérif et enregistrez votre compte ! ")
+        await page.locator("button", { hasText: "S’inscrire" }).click()
+        await expect(await page.locator(".main-log-description")).toHaveText("Créez votre compte")
+
+    });
+
+
+
+    test("3.9.3 Add feedback for authorized user and feedback form without the Prénom and Email fields", async ({ request, browser }) => {
+
+        const siteToken = new GetToken(request, process.env.SERVER)
+        const token = await siteToken.site()
+        const options = new Options(process.env.SERVER, token)
+        const context = await browser.newContext(options.data);
+
+        const page = await context.newPage();
+
+        const domainPage = new DomainPage(page, "test-boutique-01.000webhostapp.com")
+        await domainPage.open()
+        await domainPage.openFeedbackForm()
+
+        const prenom = await page.locator("label", { hasText: 'Prénom' })
+        await expect(prenom).toBeHidden()
+
+        const email = await page.locator("label", { hasText: 'Email' })
+        await expect(email).toBeHidden()
+
+        const submitBtn = await page.locator("button", { hasText: "Envoyer" })
+        await expect(submitBtn).toBeDisabled()
+
+        await domainPage.addFeedbackAuthUser()
+
+        await page.waitForSelector(".merci-body")
+        await expect(page.locator(".merci-body")).toHaveText("Merci !Votre commentaire a bien été pris en compteFermer")
+        await page.locator("button", { hasText: "Fermer" }).click()
+
+    });
+
+})
+
+

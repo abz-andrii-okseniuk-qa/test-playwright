@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
 
-const VerifierSiteWeb = require('../../pages/verifier-site-web.js')
+const VerifierSiteWeb = require('../../pages/verifier-site-web-page')
 
 
 test.use({
