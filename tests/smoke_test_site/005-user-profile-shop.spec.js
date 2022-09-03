@@ -4,6 +4,8 @@ require('dotenv').config({ path: ".env.development" })
 const testData = require('../../utils/test-data');
 const AuthPage = require("../../utils/auth-page")
 const UserShopPage = require('../../pages/shop-profile-page')
+const Options = require('../../utils/options-storageState-auth');
+const GetToken = require('../../utils/getToken')
 
 const domain = process.env.SERVER
 const shopDomain = testData.SHOP_CREATION_DATA.domain
@@ -158,8 +160,14 @@ test("5.4 Shop verification via meta", async ({ browser, request }) => {
 
 test("5.5 Edit widget", async ({ browser, request }) => {
 
-    const authPage = new AuthPage(browser, request)
-    const page = await authPage.page()
+    const siteToken = new GetToken(request, process.env.SERVER)
+    const token = await siteToken.site()
+    const options = new Options(process.env.SERVER, token)
+    const context = await browser.newContext({
+        storageState: options.data.storageState
+    });
+
+    const page = await context.newPage();
 
     await page.goto("/fr/shops/badge/test-premium.infinityfreeapp.com")
 
