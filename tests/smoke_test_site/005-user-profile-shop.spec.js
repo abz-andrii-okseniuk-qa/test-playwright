@@ -187,7 +187,7 @@ test("5.5 Edit widget", async ({ browser, request }) => {
     await page.waitForTimeout(3000)
     await expect(await page.locator(".badge-view >> nth=0")).toHaveScreenshot('widget-Les-avis-clients.png');
 
-    await page.locator("text=Le badge >> nth=0").click()
+   // await page.locator("text=Le badge >> nth=0").click()
     await badge_view.scrollIntoViewIfNeeded()
     await page.waitForTimeout(3000)
     await expect(await page.locator(".badge-view >> nth=0")).toHaveScreenshot('widget-Les-avis-clients2.png');
