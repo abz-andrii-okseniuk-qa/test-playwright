@@ -4,3 +4,7 @@ node_modules/
 /playwright/.cache/
 .DS_Store
 .env.development
+tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Le-badge-chromium-darwin.png
+tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Le-score-IA-chromium-darwin.png
+tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Les-avis-clients-chromium-darwin.png
+tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Les-avis-clients2-chromium-darwin.png

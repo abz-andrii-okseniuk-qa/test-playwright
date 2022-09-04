@@ -1,11 +1,10 @@
 const { test, expect } = require('@playwright/test');
 require('dotenv').config({ path: ".env.development" })
+const fs = require('fs');
 
 const testData = require('../../utils/test-data');
 const AuthPage = require("../../utils/auth-page")
 const UserShopPage = require('../../pages/shop-profile-page')
-const Options = require('../../utils/options-storageState-auth');
-const GetToken = require('../../utils/getToken')
 
 const domain = process.env.SERVER
 const shopDomain = testData.SHOP_CREATION_DATA.domain
@@ -160,14 +159,8 @@ test("5.4 Shop verification via meta", async ({ browser, request }) => {
 
 test("5.5 Edit widget", async ({ browser, request }) => {
 
-    const siteToken = new GetToken(request, process.env.SERVER)
-    const token = await siteToken.site()
-    const options = new Options(process.env.SERVER, token)
-    const context = await browser.newContext({
-        storageState: options.data.storageState
-    });
-
-    const page = await context.newPage();
+    const authPage = new AuthPage(browser, request)
+    const page = await authPage.page()
 
     await page.goto("/fr/shops/badge/test-premium.infinityfreeapp.com")
 
@@ -195,3 +188,77 @@ test("5.5 Edit widget", async ({ browser, request }) => {
 })
 
 
+
+test("5.6 Widget - 'Le badge' view on the site", async ({ browser, request }) => {
+
+    const authPage = new AuthPage(browser, request)
+    const page_fv = await authPage.page()
+    const page_infinityfree = await authPage.page()
+
+    await page_fv.goto("/fr/shops/badge/test-premium.infinityfreeapp.com")
+
+    const textareaHead = await page_fv.locator(".badge-code-textarea >> nth=0")
+    const headCode = await textareaHead.textContent()
+
+
+    await page_fv.waitForTimeout(3000)
+    const textareaBody = await page_fv.locator(".badge-code-textarea >> nth=1")
+    const bodyCode = await textareaBody.textContent()
+
+    const html = `<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Test site</title>
+        ${headCode}
+    </head>
+    <body>
+        <h1>Тест виджета</h1>
+        <hr>
+        <div id=widget-bloc>
+        ${bodyCode}
+        </div>
+        <hr>
+    </body>
+    </html>`
+
+    fs.writeFile('utils/index.html', html, function (err) {
+        if (err) throw err;
+    });
+
+    //открытие файлового менеджера на infinityfree.net
+    await page_infinityfree.goto("https://app.infinityfree.net/login")
+    await page_infinityfree.locator("#email").fill("xotamo4747@gmail.com")
+    await page_infinityfree.locator('[name="password"]').fill(process.env.PASS_INFINITYFREE)
+    await page_infinityfree.locator("button", { hasText: "Sign in" }).click()
+    await page_infinityfree.waitForTimeout(5000)
+    await page_infinityfree.goto("https://filemanager.ai/new/#/c/185.27.134.11/epiz_32077013/eyJ0IjoiZnRwIiwiYyI6eyJwIjoibXJJcHA5Rk9XZmUiLCJpIjoiXC8ifX0=")
+    await page_infinityfree.locator("text=htdocs").click()
+
+    await page_infinityfree.locator("text=test-widget").click()
+
+
+    //удаление текущего файла index.html
+    await page_infinityfree.locator("text=index.html").click()
+    await page_infinityfree.locator("#files >> text=Delete…").click()
+    await page_infinityfree.waitForSelector('text=Are you sure you want to delete 1 item?')
+    await page_infinityfree.locator('text=Confirm').click();
+
+    //Загрузка файла с кодом верификации
+    await page_infinityfree.locator('[title="Upload…"]').click()
+
+    const [fileChooser] = await Promise.all([
+        page_infinityfree.waitForEvent('filechooser'),
+        page_infinityfree.locator('text="Upload File…"').click()
+    ]);
+    await fileChooser.setFiles('utils/index.html');
+    await page_infinityfree.waitForTimeout(5000) 
+
+    await page_infinityfree.goto("http://test-premium.infinityfreeapp.com/test-widget/")
+    await page_infinityfree.waitForTimeout(3000) 
+
+    await expect(await page_infinityfree.locator("#widget-bloc")).toHaveScreenshot('widget-Le-badge-view-on-site.png');
+
+
+
+})
