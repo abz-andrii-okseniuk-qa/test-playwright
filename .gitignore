@@ -8,3 +8,4 @@ tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Le-badge-ch
 tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Le-score-IA-chromium-darwin.png
 tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Les-avis-clients-chromium-darwin.png
 tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Les-avis-clients2-chromium-darwin.png
+tests/smoke_test_site/005-user-profile-shop.spec.js-snapshots/widget-Le-badge-view-on-site-chromium-darwin.png
