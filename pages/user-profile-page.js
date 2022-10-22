@@ -29,6 +29,14 @@ class UserProfilePage {
         await this.page.locator('.formButtonWrapper').click();
     }
 
+    async fillStripeForm(){
+        const card = process.env.SERVER === "prod" ? JSON.parse(process.env.CARD_PROD) : JSON.parse(process.env.CARD_TEST)
+
+        await this.page.frameLocator('iframe[title="Cadre sécurisé pour la saisie du numéro de carte"]').locator('[name="cardnumber"]').fill(card.number);
+        await this.page.frameLocator(`iframe[title="Cadre sécurisé pour la saisie de la date d'expiration"]`).locator('[name="exp-date"]').fill(card.expired);
+        await this.page.frameLocator('iframe[title="Cadre sécurisé pour la saisie du code de sécurité CVC"]').locator('[name="cvc"]').fill(card.cvv);
+    }
+
 }
 
 module.exports = UserProfilePage;

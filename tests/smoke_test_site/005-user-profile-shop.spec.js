@@ -5,6 +5,7 @@ const fs = require('fs');
 const testData = require('../../utils/test-data');
 const AuthPage = require("../../utils/auth-page")
 const UserShopPage = require('../../pages/shop-profile-page')
+const UserProfilePage = require("../../pages/user-profile-page")
 
 const domain = process.env.SERVER
 const shopDomain = testData.SHOP_CREATION_DATA.domain
@@ -69,14 +70,12 @@ test("5.3 Premium plan payment", async ({ browser, request }) => {
 
     const authPage = new AuthPage(browser, request)
     const page = await authPage.page()
-    const card = '424242 424242 424242 424242'
+    const profilePage = new UserProfilePage(page)
 
     await page.goto(`/fr/shops/offers/${shopDomain}`)
 
     await page.locator('text=Premium15,99€HT/moissoit 191,88€ HTSouscrire >> button').click();
-    await page.frameLocator('iframe[title="Cadre sécurisé pour la saisie du numéro de carte"]').locator('[name="cardnumber"]').fill(card);
-    await page.frameLocator(`iframe[title="Cadre sécurisé pour la saisie de la date d'expiration"]`).locator('[name="exp-date"]').fill('10 / 24');
-    await page.frameLocator('iframe[title="Cadre sécurisé pour la saisie du code de sécurité CVC"]').locator('[name="cvc"]').fill('1234');
+    await profilePage.fillStripeForm()
     await page.locator('button:has-text("Je m’abonne !")').click();
     await page.waitForTimeout(5000)
     await page.waitForNavigation('text=Aller sur mon profil')
@@ -150,7 +149,6 @@ test("5.4 Shop verification via meta", async ({ browser, request }) => {
     await fileChooser.setFiles('utils/index.html');
     await page_infinityfree.waitForTimeout(5000)
 
-
     await page_fv.locator("button", { hasText: "Vérifier" }).click()
 
 })
@@ -162,7 +160,7 @@ test("5.5 Edit widget", async ({ browser, request }) => {
     const authPage = new AuthPage(browser, request)
     const page = await authPage.page()
 
-    await page.goto("/fr/shops/badge/test-premium.infinityfreeapp.com")
+    await page.goto(`/fr/shops/badge/${shopDomain}`)
 
     const badge_view = await page.$(".badge-view")
     await badge_view.scrollIntoViewIfNeeded()
@@ -193,9 +191,10 @@ test("5.6 Widget - 'Le badge' view on the site", async ({ browser, request }) =>
 
     const authPage = new AuthPage(browser, request)
     const page_fv = await authPage.page()
-    const page_infinityfree = await authPage.page()
+    const context = await browser.newContext()
+    const page_infinityfree = await context.newPage()
 
-    await page_fv.goto("/fr/shops/badge/test-premium.infinityfreeapp.com")
+    await page_fv.goto(`/fr/shops/badge/test-premium.infinityfreeapp.com/`)
 
     const textareaHead = await page_fv.locator(".badge-code-textarea >> nth=0")
     const headCode = await textareaHead.textContent()
@@ -221,6 +220,7 @@ test("5.6 Widget - 'Le badge' view on the site", async ({ browser, request }) =>
         <hr>
     </body>
     </html>`
+
 
     fs.writeFile('utils/index.html', html, function (err) {
         if (err) throw err;
@@ -259,6 +259,6 @@ test("5.6 Widget - 'Le badge' view on the site", async ({ browser, request }) =>
 
     await expect(await page_infinityfree.locator("#widget-bloc")).toHaveScreenshot('widget-Le-badge-view-on-site.png');
 
-
-
 })
+
+

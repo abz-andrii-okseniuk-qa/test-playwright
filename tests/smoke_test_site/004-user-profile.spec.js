@@ -3,11 +3,8 @@ const { MailSlurp } = require("mailslurp-client")
 require('dotenv').config({ path: ".env.development" })
 
 const AuthPage = require("../../utils/auth-page")
-const testData = require('../../utils/test-data');
 const UserProfilePage = require("../../pages/user-profile-page")
 
-
-//SERVER=dev EMAIL=test.mail9565@gmail.com PASSWORD=11111111 npx playwright test 004-user-profile.spec.js --headed
 
 test("4.1 Auth and logout in the site", async ({ browser }) => {
 
@@ -231,3 +228,5 @@ test("4.4 Edit user profile data", async ({ request, browser }) => {
     await expect(page.locator('text=Profil incomplet')).toHaveText("Profil incomplet")
 
 })
+
+
