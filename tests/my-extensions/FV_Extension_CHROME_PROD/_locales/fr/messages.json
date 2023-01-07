@@ -1,0 +1,1315 @@
+{
+  "extName": {
+    "message": "FranceVerif"
+  },
+  "extShortName": {
+    "message": "FranceVerif"
+  },
+  "extDesc": {
+    "message": "FranceVerif vous permet d'acheter en ligne en toute sécurité les produits dont vous avez envie."
+  },
+  "greenText": {
+    "message": "Excellente !"
+  },
+  "orangeText": {
+    "message": "Moyen"
+  },
+  "redText": {
+    "message": "Faible"
+  },
+  "greyText": {
+    "message": "Données insuffisantes"
+  },
+  "recomendHead": {
+    "message": "Parfait ! <br/> Ce site est recommandé"
+  },
+  "greenHead": {
+    "message": "Ce site est évalué comme<br>fiable par les IA de France Verif"
+  },
+  "orangeHead": {
+    "message": "Certaines données manquent<br>ou ne sont pas satisfaisantes..."
+  },
+  "redHead": {
+    "message": "Les résultats incitent<br>à la vigilance"
+  },
+  "greyHead": {
+    "message": "Tout va bien, ce site est sécurisé."
+  },
+
+  "sortTitle": {
+    "message": "Trier par : "
+  },
+  "resultSort1": {
+    "message": "Informations sur ce site"
+  },
+  "resultSort2": {
+    "message": "Données positives"
+  },
+  "resultSort3": {
+    "message": "Données mitigées"
+  },
+  "resultSort4": {
+    "message": "Données négatives"
+  },
+
+  "logoToolTip": {
+    "message": "Analyser ce site"
+  },
+  "handleToolTip": {
+    "message": "Déplacer"
+  },
+  "siteScaneTitle": {
+    "message": "Site scanné:"
+  },
+  "scanResultTitle": {
+    "message": "Indice fiabilité"
+  },
+  "scanResultDescription": {
+    "message": "selon <span>127 critères d'évaluation</span>"
+  },
+  "specialBlockTitle": {
+    "message": "Autres informations disponibles"
+  },
+
+
+
+  "startsBlockTitle": {
+    "message": "Vous aimez FranceVerif?"
+  },
+  "startsBlockDescription": {
+    "message": "Afin de mener ce combat anti-arnaque e-commerce avec nous, soutenez FranceVerif en laissant un super avis 5 étoiles !"
+  },
+  "startsBlockCancel": {
+    "message": "Pas maintenant"
+  },
+  "headerDropDownMenuItem1": {
+    "message": "Qu’est-ce que l’IA ?"
+  },
+  "headerDropDownMenuItem2": {
+    "message": "Donner mon avis"
+  },
+  "headerDropDownMenuItem3": {
+    "message": "Réglages"
+  },
+  "headerDropDownMenuItem4": {
+    "message": "Informations légales"
+  },
+  "headerDropDownMenuItemProfile": {
+    "message": "Mon profil"
+  },
+
+  "resultFeedbackTitle": {
+    "message": "Votre opinion nous est précieuse !"
+  },
+  "resultScanFeedbackTitle": {
+    "message": "Votre expérience nous intéresse !"
+  },
+  "resultScanFeedbackDescription": {
+    "message": "Recommandez-vous ce site aux autres utilisateurs ?"
+  },
+  "resultFeedbackDescription": {
+    "message": "Recommandez-vous ce site à d’autres utilisateurs ?"
+  },
+
+  "resultFeedbackLike": {
+    "message": "Oui"
+  },
+  "resultFeedbackDislike": {
+    "message": "Non"
+  },
+  "resultScanFeedbackDislike": {
+    "message": "Non"
+  },
+  "resultScanFeedbackLike": {
+    "message": "Oui"
+  },
+
+  "resultShowMore": {
+    "message": "Voir plus"
+  },
+  "resultShowLess": {
+    "message": "Réduire"
+  },
+  "resultShowMoreButton1": {
+    "message": "Voir seulement les critères importants"
+  },
+  "resultShowMoreButton2": {
+    "message": "Voir les autres informations ($count$)",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+
+  "miniToasterAnalise": {
+    "message": "Ce site est-il fiable ?"
+  },
+  "miniToasterAnaliseDescription": {
+    "message": "Analyse selon 127 critères de fiabilité"
+  },
+  "miniToasterProductsAnalise": {
+    "message": "Trouver un meilleur prix ?"
+  },
+  "miniToasterProductsAnaliseDescription": {
+    "message": "Sélection de sites analysés et fiables"
+  },
+  "miniToasterDisable": {
+    "message": "Ne plus faire apparaitre sur ce site"
+  },
+  "miniToasterPrivacy": {
+    "message": "Les IA FranceVerif s’appliquent uniquement sur des sites de e-commerces de ventes de produits physiques à destination des particuliers."
+  },
+
+  "disableMiniToasterTitle": {
+    "message": "Êtes-vous sûr(e) de vouloir cacher<br />la pop-up sur ce site définitivement ?"
+  },
+  "disableMiniToasterDescription": {
+    "message": "Vous pouvez toujours modifier votre choix<br /> dans nos réglages en ouvrant FranceVerif<br />via votre barre de navigation"
+  },
+  "disableMiniToasterCancel": {
+    "message": "Oui je suis sûr(e)"
+  },
+  "disableMiniToasterApply": {
+    "message": "Annuler"
+  },
+
+
+
+  "analyzePageText": {
+    "message": "Les IA FranceVerif s’appliquent uniquement sur des sites de e-commerces de ventes de produits physiques à destination des particuliers."
+  },
+  "analyzePageButton": {
+    "message": "Lancer l’analyse manuellement"
+  },
+  "analyzePageFeedbackText": {
+    "message": "Votre avis nous intéresse"
+  },
+
+  "howItWorksHeaderText": {
+    "message": "L'assistant achat IA de France Verif "
+  },
+  "howItWorksPointTitle1": {
+    "message": "L'assistant achat IA<br>(Intelligence Artificielle):"
+  },
+  "howItWorksPointTitle1_1": {
+    "message": "Analyse la fiabilité des sites e-commerce"
+  },
+  "howItWorksPointTitle1_2": {
+    "message": "Cherche et vérifie le prix des produits proposés"
+  },
+  "howItWorksPointTitle1_3": {
+    "message": "Détecte et recueille les réductions disponibles"
+  },
+
+  "howItWorksPointTitle2": {
+    "message": "Évaluation de la fiabilité"
+  },
+  "howItWorksPointText2": {
+    "message": "En un clin d'œil, vous pouvez connaître l'indice fiabilité d'un site, selon trois niveaux d'évaluation France Verif :\nVert: \"Tout va bien !\" (Fiabilité excellente) Orange: \"Doute\" (Fiabilité moyenne) Rouge: \"Prudence\" (Fiabilité faible)"
+  },
+  "howItWorksPointTitle3": {
+    "message": "La recherche de meilleurs prix"
+  },
+  "howItWorksPointText3": {
+    "message": "L'assistant achat IA recherche les prix d'un article sur des sites vérifiés. Vous êtes avisé du meilleur prix fiable avant d'effectuer votre achat."
+  },
+  "howItWorksPointTitle4": {
+    "message": "Les réductions disponibles"
+  },
+  "howItWorksPointText4": {
+    "message": "L'assistant achat IA détecte, authentifie et recueille pour vous tous les coupons promotionnels et réductions disponibles en temps réel sur un site fiable. Un moyen direct et sûr pour réaliser des économies."
+  },
+
+  "howItWorksIconText1": {
+    "message": "Ce site est fiable ! Faites votre shopping en toute confiance !"
+  },
+  "howItWorksIconText2": {
+    "message": "Certaines données manquent ou ne sont pas satisfaisantes..."
+  },
+  "howItWorksIconText3": {
+    "message": "Les résultats incitent \nà la vigilance"
+  },
+
+  "settingsHeaderText": {
+    "message": "Vos réglages personalisés"
+  },
+  "settingsListTitle": {
+    "message": "Sites à exclure"
+  },
+  "settingsListTitle1": {
+    "message": "Apparence du bouton sur la page google"
+  },
+  "settingsListText": {
+    "message": "Ne pas analyser ce site"
+  },
+  "settingsPlaceholder": {
+    "message": "Ajouter un nom de domaine"
+  },
+  "settingsListDescription": {
+    "message": "Tout effacer"
+  },
+
+  "exclusionListError1": {
+    "message": "5 symboles Minimum"
+  },
+  "exclusionListError2": {
+    "message": "Domaine incorrect"
+  },
+  "exclusionListError3": {
+    "message": "Ce domaine existe déjà"
+  },
+
+  "privacyHeaderText": {
+    "message": "Informations légales"
+  },
+  "privacyPointText1": {
+    "message": "Mention légales"
+  },
+  "privacyPointText2": {
+    "message": "Conditions générales d'utilisation"
+  },
+  "privacyPointText3": {
+    "message": "Politique de confidentialité"
+  },
+  "privacyLink": {
+    "message": "Voir plus"
+  },
+
+  "feedbackHeaderText": {
+    "message": "Comment ça fonctionne ?"
+  },
+  "feedbackHeaderText2": {
+    "message": "Votre avis sur:"
+  },
+  "feedbackBodyText2": {
+    "message": "Grâce à vos avis nous vous apportons un meilleur service."
+  },
+  "feedbackBodyText3": {
+    "message": "Grâce à vos avis nous vous apportons un meilleur service.\nVotre adresse e-mail ne sera utilisée que pour répondre à votre message. <a target='_blank' href='https://$domen$/politique-confidentialite'>En savoir plus.</span>",
+    "placeholders": {
+      "domen": {
+        "content": "$1",
+        "example": "franceverif.fr"
+      }
+    }
+  },
+  "feedbackBodyText": {
+    "message": "Grâce à vos avis nous vous apportons un \nmeilleur service.</br>Votre adresse e-mail ne sera utilisé que pour répondre à votre message. <a target='_blank' href='https://$domen$/politique-confidentialite/index.html'>En savoir plus.</span>",
+    "placeholders": {
+      "domen": {
+        "content": "$1",
+        "example": "franceverif.fr"
+      }
+    }
+  },
+  "feedbackSendText": {
+    "message": "Envoyer"
+  },
+  "feedbackInValidEmail": {
+    "message": "Addresse email invalide"
+  },
+  "feedbackInValidName": {
+    "message": "Prénom invalide"
+  },
+  "feedbackInValidNameMin": {
+    "message": "Au moins 2 caractères"
+  },
+  "feedbackInValidStars": {
+    "message": "les étoiles ne doivent pas être inférieures à 1"
+  },
+  "feedbackInValidReason": {
+    "message": "Vous n'avez sélectionné aucun des éléments que vous avez choisis"
+  },
+  "feedbackInValidTextArea": {
+    "message": "Votre commentaire doit contenir au moins 30 caractère"
+  },
+  "feedbackRadioGreenAgree1": {
+    "message": "J’ai déjà acheté sur ce site\n"
+  },
+  "feedbackRadioGreenAgree2": {
+    "message": "Je suis le propriétaire de ce site"
+  },
+  "feedbackRadioGreenAgree3": {
+    "message": "Autre"
+  },
+
+  "feedbackRadioCouponsAgree1": {
+    "message": "Les coupons ont bien fonctionné"
+  },
+  "feedbackRadioCouponsAgree2": {
+    "message": "Les coupons étaient ce dont j’avais besoin"
+  },
+  "feedbackRadioCouponsAgree3": {
+    "message": "Autre"
+  },
+
+  "feedbackRadioCouponsDisagree1": {
+    "message": "Un coupon n’a pas fonctionné"
+  },
+  "feedbackRadioCouponsDisagree2": {
+    "message": "Aucun coupon n’a fonctionné"
+  },
+  "feedbackRadioCouponsDisagree3": {
+    "message": "Les remises n’étaient pas intéressantes"
+  },
+  "feedbackRadioCouponsDisagree4": {
+    "message": "Autre"
+  },
+
+  "feedbackRadioGreenDisagree1": {
+    "message": "J'ai eu un problème avec une commande sur ce site\n"
+  },
+  "feedbackRadioGreenDisagree2": {
+    "message": "Ce n’est pas un site e-commerce"
+  },
+  "feedbackRadioGreenDisagree3": {
+    "message": "Je ne comprends pas l'évaluation"
+  },
+  "feedbackRadioGreenDisagree4": {
+    "message": "Autre"
+  },
+
+  "feedbackRadioOrangeAgree1": {
+    "message": "J'ai eu un problème avec une commande sur ce site\n"
+  },
+  "feedbackRadioOrangeAgree2": {
+    "message": "Merci j'ai failli acheter sur ce site !"
+  },
+  "feedbackRadioOrangeAgree3": {
+    "message": "Autre"
+  },
+
+  "feedbackRadioOrangeDisagree1": {
+    "message": "Je suis propriétaire de ce site\n"
+  },
+  "feedbackRadioOrangeDisagree2": {
+    "message": "J’ai déjà commandé sur ce site et reçu mes produits"
+  },
+  "feedbackRadioOrangeDisagree3": {
+    "message": "Je ne comprends pas l'évaluation"
+  },
+  "feedbackRadioOrangeDisagree4": {
+    "message": "Autre"
+  },
+
+  "feedbackRadioProductsAgree1": {
+    "message": "Les produits proposés sont similaires et moins cher"
+  },
+  "feedbackRadioProductsAgree2": {
+    "message": "Les produits proposés correspondent 100% à ma recherche"
+  },
+  "feedbackRadioProductsAgree3": {
+    "message": "Je n’ai pas compris"
+  },
+  "feedbackRadioProductsAgree4": {
+    "message": "Autre"
+  },
+
+  "feedbackRadioProductsDisagree1": {
+    "message": "Les produits ne correspondent pas à ma recherche"
+  },
+  "feedbackRadioProductsDisagree2": {
+    "message": "Les produits correspondent et sont plus cher "
+  },
+  "feedbackRadioProductsDisagree3": {
+    "message": "Je n’ai pas compris"
+  },
+  "feedbackRadioProductsDisagree4": {
+    "message": "Autre"
+  },
+
+
+
+  "feedbackThanks": {
+    "message": "Merci ! Nous allons améliorer nos services grâce à vous !"
+  },
+  "feedbackThanksStore": {
+    "message": "Luttez contre les arnaques, aidez les internautes à connaître FranceVerif en laissant ce super avis sur l’app store !"
+  },
+
+  "notEcommerceBodyText": {
+    "message": "FranceVerif fonctionne uniquement sur les sites e\u2011commerce"
+  },
+  "notEcommerceFooterText": {
+    "message": "Les IA FranceVerif s’appliquent uniquement sur des sites de e-commerces de ventes de produits physiques à destination des particuliers."
+  },
+  "notEcommerceButtonText": {
+    "message": "J’ai compris"
+  },
+
+  "apiErrorBodyText": {
+    "message": "Oups une erreur s’est produite, nous n'avons pas réussi à analyser ce site."
+  },
+  "apiErrorBodyText2": {
+    "message": "Veuillez recharger la page"
+  },
+  "apiErrorBodyText3": {
+    "message": "Veuillez ré-essayer quand la page a fini de charger"
+  },
+
+  "apiErrorFooterText": {
+    "message": "Les IA FranceVerif s’appliquent uniquement sur des sites de e-commerces de ventes de produits physiques à destination des particuliers."
+  },
+
+  "apiErrorButtonText": {
+    "message": "J’ai compris"
+  },
+
+  "reviewsTitle": {
+    "message": "Opinions"
+  },
+  "reviewsState1": {
+    "message": "Suspect"
+  },
+  "reviewsState2": {
+    "message": "Normal"
+  },
+  "reviewsDescription": {
+    "message": "avis sur ce site "
+  },
+  "reviewsDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "reviewsDetailDescription": {
+    "message": "Pour une plus grande fiabilité les avis sont récoltés sur des plateformes indépendantes du site analysé.</br>L’impact des avis sur les résultats de l’algorithme, indiquant la fiabilité d’un site, varie selon la typologie de site détectée par les IA de FranceVerif.Un exemple : les sites populaires et âgés ont souvent leurs lots de détracteurs. Cela n’en fait pas pour autant des arnaques. "
+  },
+
+  "alexaRankTitle": {
+    "message": "Popularité du site"
+  },
+
+  "alexaRankDescription": {
+    "message": "au classement Alexa rank"
+  },
+  "alexaRankDescription1": {
+    "message": "-"
+  },
+  "alexaRankDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "alexaRankDetailDescription": {
+    "message": "L'indicateur de popularité d'un site est un indice calculé sur la base de plusieurs métriques proposées par différents services calculants la popularité des sites de façons différentes.<br />Nous nous basons sur les chiffres fournies par plusieurs fournisseurs de cette métrique pour calculer notre propre indice de popularité."
+  },
+  "trancoRankTitle": {
+    "message": "Popularité du site"
+  },
+  "trancoRankDescription": {
+    "message": "au classement Tranco rank"
+  },
+  "trancoRankDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "trancoRankDescription1": {
+    "message": "-"
+  },
+  "trancoRankDetailDescription": {
+    "message": "L'indicateur de popularité d'un site est un indice calculé sur la base de plusieurs métriques proposées par différents services calculants la popularité des sites de façons différentes.<br />Nous nous basons sur les chiffres fournies par plusieurs fournisseurs de cette métrique pour calculer notre propre indice de popularité."
+  },
+
+  "creationTitle": {
+    "message": "Date de création du nom de domaine"
+  },
+  "creationDescription": {
+    "message": "-"
+  },
+  "creationDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "creationDetailDescription": {
+    "message": "Cette information a été obtenue depuis les registres publics de noms de domaines : le Whois. La date de création du nom de domaine correspond à l'âge du dépôt de ce dernier. \nCertains sites peuvent indiquer la date de création de leur entreprise ou communiquer une information erronée."
+  },
+
+  "registryUpdatedDateTitle": {
+    "message": "Dernière mise à jour du nom de domaine"
+  },
+  "registryUpdatedDateDescription": {
+    "message": "-"
+  },
+  "registryUpdatedDateDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "registryUpdatedDateDetailDescription": {
+    "message": "Cette information fait état des derniers changements effectués sur le nom de domaine du site. Une modification récente peut inciter à la vigilance."
+  },
+  "expireTitle": {
+    "message": "Date d'expiration du nom de domaine"
+  },
+  "expireDescription": {
+    "message": "-"
+  },
+  "expireDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "expireDetailDescription": {
+    "message": "Une réservation longue du nom de domaine indique une volonté de pérennité des propriétaires du site."
+  },
+
+  "countryTitle": {
+    "message": "Pays détecté(s)"
+  },
+  "countryDescription": {
+    "message": ""
+  },
+  "countryDescription1": {
+    "message": "-"
+  },
+  "countryDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "countryDetailDescription": {
+    "message": "Cette information a été obtenue depuis les registres publics de noms de domaines : le Whois."
+  },
+
+
+  "technologiesStackTitle": {
+    "message": "Technologies utilisées"
+  },
+  "technologiesStackDescription": {
+    "message": "détectée"
+  },
+  "technologiesStackDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "technologiesStackDetailDescription": {
+    "message": "Cette analyse peut permettre de détecter des technologies suspectes."
+  },
+
+  "userFeedbackRatingTitle": {
+    "message": "Note des utilisateurs"
+  },
+  "userFeedbackRatingDescription": {
+    "message": "Moyenne des notes sur l'analyse de ce site"
+  },
+  "userFeedbackRatingDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "userFeedbackRatingDetailDescription": {
+    "message": "Lorsque vous votez \"oui\" ou \"non\" nos IAs en font une moyenne afin d'informer la communauté sur ce que les autres membres pensent de l'analyse du site en question. N'hésitez donc pas à voter !"
+  },
+
+  "paymentStackTitle": {
+    "message": "Mode(s) de paiement"
+  },
+  "paymentStackDescription": {
+    "message": "mode(s) de paiement "
+  },
+  "paymentStackDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "paymentStackDetailDescription1": {
+    "message": "Le(s) mode(s) de paiement détecté(s) est/sont sécurisé(s)."
+  },
+  "paymentStackDetailDescription2": {
+    "message": "Soyez vigilant, des modes de paiement non sécurisés ont été détectés."
+  },
+
+  "socialStackTitle": {
+    "message": "Réseaux sociaux"
+  },
+  "socialStackDescription": {
+    "message": "détecté(s)"
+  },
+
+  "socialStackDescription1": {
+    "message": "-"
+  },
+  "socialStackDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "socialStackDetailDescription": {
+    "message": "-"
+  },
+
+  "hasMXTitle": {
+    "message": "Email lié au serveur"
+  },
+  "hasMXDescription1": {
+    "message": "Présent"
+  },
+  "hasMXDescription2": {
+    "message": "Non détecté"
+  },
+  "hasMXDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "hasMXDetailDescription": {
+    "message": "La présence ou non de l'email lié au serveur est intéressante afin de voir si le propriétaire du site a pris le temps d'utiliser l'envoi d'email pour pouvoir recevoir et envoyer des emails via l'adresse du nom de domaine du site."
+  },
+
+  "fraudAlertsTitle": {
+    "message": "Signalements"
+  },
+  "fraudAlertsDescription": {
+    "message": "signalement(s)"
+  },
+  "fraudAlertsDescription1": {
+    "message": "-"
+  },
+  "fraudAlertsDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "fraudAlertsDetailDescription": {
+    "message": "Les IA de FranceVerif récoltent ces informations auprès de sites dédiés aux signalement d’arnaques et de nombreuses plateformes d’avis en ligne.</br>L’impact des signalements sur les résultats de l’algorithme, indiquant la fiabilité d’un site, varie selon la typologie de site détectée par les IA de FranceVerif.Un exemple : les sites populaires et âgés ont souvent leurs lots de détracteurs. Cela n’en fait pas pour autant des arnaques. "
+  },
+
+  "teamAnalysisTitle": {
+    "message": "L'analyse de notre équipe"
+  },
+  "teamAnalysisDescription": {
+    "message": "Ce site a été analysé manuellement"
+  },
+  "teamAnalysisDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "teamAnalysisDetailDescription": {
+    "message": "L'équipe d'ingénieurs et de chercheurs de FranceVerif a vérifié manuellement ce site afin de vous en livrer une analyse la plus fiable possible."
+  },
+
+  "visibilityTitle": {
+    "message": "Identification des propriétaires du site"
+  },
+  "visibilityDescription1": {
+    "message": "Publique"
+  },
+  "visibilityDescription2": {
+    "message": "Cachée"
+  },
+  "visibilityDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "visibilityDetailDescription": {
+    "message": "Une identité publique des propriétaires du site est un point positif."
+  },
+
+
+  "physicalAddressTitle": {
+    "message": "Adresse physique"
+  },
+  "physicalAddressDescription": {
+    "message": "-"
+  },
+  "physicalAddressDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "physicalAddressDetailDescription": {
+    "message": "Si le site internet est lié à un magasin physique, les recours en cas de non livraison ou de non satisfaction sont simplifiés."
+  },
+
+  "httpsTitle": {
+    "message": "Certificat de protection du site - SSL"
+  },
+  "httpsDescription1": {
+    "message": "Présent"
+  },
+  "httpsDescription2": {
+    "message": "Non détecté"
+  },
+  "httpsDescription3": {
+    "message": "Absent"
+  },
+  "httpsDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "httpsDetailDescription": {
+    "message": "Le SSL est un certificat qui protège les sites web contre les escroqueries par hameçonnage, les violations de données et de nombreuses autres menaces. Le SSL permet une connexion cryptée."
+  },
+  "httpsDetailDescription1": {
+    "message": "Visitez la version sécurisée de ce site en cliquant ici: "
+  },
+
+
+
+  "legalNoticeTitle": {
+    "message": "Mentions légales"
+  },
+  "legalNoticeDescription1": {
+    "message": "Présentes"
+  },
+  "legalNoticeDescription2": {
+    "message": "-"
+  },
+  "legalNoticeDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "legalNoticeDetailDescription1": {
+    "message": "Tous les sites internet, qu'ils soient édités à titre professionnel ou à titre non professionnel, doivent afficher des mentions obligatoires pour l'information du public. Le non-respect de ces obligations est sanctionné. </br></br>Ce site a bien des mentions légales : "
+  },
+  "legalNoticeDetailDescription2": {
+    "message": "-"
+  },
+
+
+  "sirenVatTitle": {
+    "message": "SIRET/ TVA"
+  },
+  "sirenVatDescription1": {
+    "message": "SIRET : $siret$, SIREN : $siren$, TVA : $tva$",
+    "placeholders": {
+      "siret": {
+        "content": "$1",
+        "example": "0"
+      },
+      "siren": {
+        "content": "$2",
+        "example": "0"
+      },
+      "tva": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "sirenVatDescription2": {
+    "message": "-"
+  },
+  "sirenVatDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "sirenVatDetailDescription": {
+    "message": "Cela permet de vérifer que la société est bien enregistrée au registre des entreprises françaises."
+  },
+
+  "metaTagsTitle": {
+    "message": "Optimisation du site"
+  },
+  "metaTagsDescription1": {
+    "message": "Balises meta SEO sont $status$",
+    "placeholders": {
+      "status": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "metaTagsStatus1": {
+    "message": "présentes"
+  },
+  "metaTagsStatus2": {
+    "message": "absentes"
+  },
+  "metaTagsDescription2": {
+    "message": "-"
+  },
+  "metaTagsDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "metaTagsDetailDescription": {
+    "message": "Les balises Meta fournissent des informations sur la page Web. Ces informations sont appelées “métadonnées” et bien qu’elles ne soient pas affichées sur la page elle-même, elles peuvent être lues par les moteurs de recherche et les robots d’exploration. Google utilise les métadonnées des balises Meta pour comprendre des informations supplémentaires.</br></br>Ce site a bien optimisé ses balises Méta tags."
+  },
+  "metaTagsDetailDescription1": {
+    "message": "-"
+  },
+  "metaTagsDetailDescription2": {
+    "message": "Les balises Meta fournissent des informations sur la page Web. Ces informations sont appelées “métadonnées” et bien qu’elles ne soient pas affichées sur la page elle-même, elles peuvent être lues par les moteurs de recherche et les robots d’exploration. Google utilise les métadonnées des balises Meta pour comprendre des informations supplémentaires.</br></br>Ce site n'a pas optimisé ses balises méta tags."
+  },
+
+
+  "gdprBarTitle": {
+    "message": "Bar de Cookies RGPD"
+  },
+  "gdprBarDescription": {
+    "message": "Présente"
+  },
+  "gdprBarDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "gdprBarDetailDescription": {
+    "message": "Un bandeau cookies conforme au RGPD est un module interactif qui informe les utilisateurs de tous les cookies et traceurs actifs sur votre site web, de leur finalité, de leur durée et de leur fournisseur, et permet aux utilisateurs de donner leur consentement explicite à certains, aucun ou tous les cookies en cochant des cases ou en faisant glisser et en appuyant sur des boutons. Il est essentiel pour le respect du RGPD que les bandeaux cookies ne comportent pas de cases cochées par défaut ou n'obligent pas les utilisateurs à choisir d'accepter tout ou rien en échange de services."
+  },
+
+  "backlinksTitle": {
+    "message": "Liens référents"
+  },
+  "backlinksDescription1": {
+    "message": "sites internet font référence à ce site"
+  },
+  "backlinksDescription2": {
+    "message": "-"
+  },
+  "backlinksDetailTitle": {
+    "message": "En savoir plus"
+  },
+  "backlinksDetailDescription": {
+    "message": "Un lien référent est un lien hypertexte qui permet d'envoyer un internaute d'un site web X vers un site web Y.\nPlus un site possède de liens référents (souvent nommé \"backlinks\") plus celui-ci est fiable."
+  },
+
+
+
+
+  "loaderWord1": {
+    "message": "Analyse des avis en dehors du site..."
+  },
+  "loaderWord2": {
+    "message": "Analyse des signalements..."
+  },
+  "loaderWord3": {
+    "message": "Analyse des modes de paiements..."
+  },
+  "loaderWord4": {
+    "message": "Analyse du pays où est basée la société..."
+  },
+  "loaderWord5": {
+    "message": "Analyse de la date de création du nom de domaine..."
+  },
+  "loaderWord6": {
+    "message": "Analyse de la date d’expiration du nom de domaine..."
+  },
+  "loaderWord7": {
+    "message": "Analyse de la popularité du site..."
+  },
+  "loaderWord8": {
+    "message": "Analyse de l’addresse physique..."
+  },
+  "loaderWord9": {
+    "message": "Analyse de l’identité des propriétaires du site..."
+  },
+  "loaderWord10": {
+    "message": "Analyse des technologies utilisées..."
+  },
+  "loaderWord11": {
+    "message": "Analyse du certificat SSL de protection du site..."
+  },
+  "loaderWord12": {
+    "message": "Analyse des réseaux sociaux..."
+  },
+  "loaderWord13": {
+    "message": "Analyse de l’email lié au serveur..."
+  },
+
+  "loaderProductsComparisonWord1": {
+    "message": "Analyse du produit..."
+  },
+  "loaderProductsComparisonWord2": {
+    "message": "Analyse du prix..."
+  },
+  "loaderProductsComparisonWord3": {
+    "message": "Recherche de produits similaires..."
+  },
+  "loaderProductsComparisonWord4": {
+    "message": "Recherche de meilleurs prix..."
+  },
+  "loaderProductsComparisonWord5": {
+    "message": "Recherche de promotions..."
+  },
+
+  "importantCouponTitle": {
+    "message": "Coupons disponibles mais site non vert:"
+  },
+  "importantCouponDescription": {
+    "message": "Si des coupons sont disponibles sur ce site, mais lors de la vérification de sa fiabilité nous avons détecté des informations manquantes alors, pour votre sécurité, nous ne préférons pas utiliser les coupons."
+  },
+  "importantTitle": {
+    "message": "Important:"
+  },
+  "importantText1": {
+    "message": "La fiabilité du site est calculée sur la base de plus de 120 critères différents."
+  },
+  "importantText2": {
+    "message": "Nous choisissons d'en afficher une partie seulement dans un soucis de clarté (la plupart des critères sont composés de code et formules difficiles à comprendre), et de sécurité (moins les arnaqueurs savent comment ça marche, moins ils peuvent déjouer le système)."
+  },
+
+  "settingsSelectVisible": {"message": "Visible"},
+
+  "settingsSelectMinimize": {"message":  "Minimisé"},
+  "settingsSelectOff": {"message": "Caché"},
+  "mainBlockScanButton": {
+    "message": "Afficher les coupons"
+  },
+  "mainBlockProductsScanButton": {
+    "message": "Montrez-moi les offres !"
+  },
+  "mainBlockShowCouponsButton": {
+    "message": "Afficher les coupons"
+  },
+  "mainBlockShowProductsBetaInfo": {
+    "message": "Une version beta est une version de test. Cette fonctionnalité est en constante amélioration. Aide-nous à l'améliorer en donnant ton avis."
+  },
+  "mainBlockShowCouponsTitle": {
+    "message": "Coupons disponibles !"
+  },
+  "mainBlockShowCouponsDescription": {
+    "message": "Sur des sites analysés et fiables"
+  },
+  "mainBlockShowCouponsManualTitle": {
+    "message": "Vérifier si coupon"
+  },
+  "mainBlockShowProductsManualTitle": {
+    "message": "Rechercher des prix"
+  },
+  "mainBlockShowProductsTitle": {
+    "message": "Voir les meilleures offres"
+  },
+  "couponsPageCouponsCount": {
+    "message": "Coupons disponibles pour ce site"
+  },
+  "couponsPageTitle": {
+    "message": "Coupons et bons plans"
+  },
+  "couponsOnePageTitle": {
+    "message": "Coupon de réductions"
+  },
+  "couponsPageDomain": {
+    "message": "pour le site : $domain$",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "couponsPageInfo": {
+    "message": "sites analysés et classés “fiables” par France Verif"
+  },
+  "couponAlertMessage": {
+    "message": "Ces réductions sont immédiatement applicables sur le produit que vous souhaitez acheter !"
+  },
+
+  "couponsPageFeedbackTitle": {
+    "message": "Votre opinion nous est précieuse !"
+  },
+  "couponsPageFeedbackTitle2": {
+    "message": "Ces offres vous semblent-elles pertinentes et utiles ?"
+  },
+
+  "currentProductBlockFeedbackTitle": {
+    "message": "Votre opinion nous est précieuse !"
+  },
+  "currentProductBlockFeedbackTitle2": {
+    "message": "Ces offres vous semblent-elles pertinentes et utiles ?"
+  },
+  "currentProductBlockFeedbackTitle3": {
+    "message": "Votre avis contribue à améliorer nos produits !"
+  },
+  "currentProductBlockFeedbackTitle4": {
+    "message": "Les offres proposées vous semblent-elles pertinentes ?"
+  },
+  "currentProductBlockTitle": {
+    "message": "Recherche de prix"
+  },
+  "currentProductBlockDescription": {
+    "message": "Site: <span>$domain$</span>",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "amazon.fr"
+      }
+    }
+  },
+  "currentProductBlockBasket": {
+    "message": "Basket"
+  },
+  "currentProductBlockPrice": {
+    "message": "A partir de"
+  },
+  "currentProductPriceNotFound": {
+    "message": "Price not found"
+  },
+  "simmilarProductsBlockTitle": {
+    "message": "Autres offres disponibles analysées et classées “fiables”<br> par France Verif <span>($count$)</span>",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "simmilarProductsBlockBetaDescription": {
+    "message": "Sites analysés et classés “fiables” par France Verif"
+  },
+  "simmilarProductsBlockDescription": {
+    "message": "Certains résultats peuvent être erronnés, donnez votre avis ! "
+  },
+  "simmilarProductsBlockPrice": {
+    "message": "à partir de"
+  },
+  "simmilarProductsBlockOpenButton": {
+    "message": "Voir l’offre"
+  },
+  "simmilarProductsNotFoundTitle": {
+    "message": "Aucune offre n’a été trouvée pour ce produit …"
+  },
+  "simmilarProductsNotFoundDescription": {
+    "message": "L’assistant achat n’a pas détecté d’autres offres plus avantageuses pour l’article sélectionné. Relancez une recherche ultérieurement !"
+  },
+
+  "couponCopy": {
+    "message": "Copier"
+  },
+  "couponCopied": {
+    "message": "Copied"
+  },
+  "couponAvarted": {
+    "message": "Voir le code"
+  },
+  "couponClosed": {
+    "message": "En profiter"
+  },
+  "settingsSubscriptionTitle": {
+    "message": "Paramètres d'abonnement"
+  },
+  "settingsSubscribe": {
+    "message": "S'inscrire à la newsletter"
+  },
+  "settingsUnSubscribe": {
+    "message": "Se désinscrire de la newsletter"
+  },
+  "settingsConfidentialite": {
+    "message": "Consulter la politique de confidentialité"
+  },
+  "notificationCodeCount": {
+    "message": "<span>$count$ codes promos</span> trouvés",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "notificationCodeDescription": {
+    "message": "Économise jusqu'à <span>$price$</span> sur tes achats <br /> <span>$domain$</span> grâce à France Verif",
+    "placeholders": {
+      "price": {
+        "content": "$1",
+        "example": "0"
+      },
+      "domain": {
+        "content": "$2",
+        "example": "Fnac.fr"
+      }
+    }
+  },
+  "notificationWithOutDiscount" : {
+    "message": "Économise sur tes achats <br /><span>$domain$</span> grâce à France Verif",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "Fnac.fr"
+      }
+    }
+  },
+  "notificationCodeBtn": {
+    "message": "Voir les codes promos"
+  },
+  "notificationGiftCardTitle": {
+    "message": "D’économies"
+  },
+  "notificationGiftCardDescription": {
+    "message": "Achetez une carte cadeau\n$price$ moins cher et utilisez la pour payer.",
+    "placeholders": {
+      "price": {
+        "content": "$1",
+        "example": "x.x%"
+      }
+    }
+  },
+  "notificationGiftCardBtn": {
+    "message": "J’économise"
+  },
+  "notificationPhishingTitle": {
+    "message": "Ce site ressemble à <span>$domain$</span>",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "Fnac.fr"
+      }
+    }
+  },
+  "notificationPhishingText": {
+    "message": "Vérifiez en 3 secondes que vous êtes sur le <span> site authentique</span> et non une copie"
+  },
+  "notificationPhishingHint": {
+    "message": "Les arnaques aux sites clones (technique appelée “phishing”) sont très fréquentes et ciblent les clients de sites marchands connus, il est conseillé de vérifier l’authentiticité du site marchand visité au début de chaque session."
+  },
+  "notificationPhishingBtn": {
+    "message": "Vérifier l'authenticité"
+  },
+  "authPageText": {
+    "message": "Crée ton compte ou connecte-toi pour \nprofiter de tous nos avantages"
+  },
+  "registrationBtn": {
+    "message": "Se connecter"
+  },
+  "logInBtn": {
+    "message": "S’inscrire"
+  },
+  "authFormTitle": {
+    "message": "Rejoignez-nous"
+  },
+  "authFormText": {
+    "message": "Créez votre compte et profitez de tous nos avantages"
+  },
+  "facebookTextBtn": {
+    "message": "S’inscrire via Facebook"
+  },
+  "googleTextBtn": {
+    "message": "S’inscrire via Google"
+  },
+  "emailTextBtn": {
+    "message": "S’inscrire par  email"
+  },
+  "bottomText": {
+    "message": "Vous avez déjà un compte ?"
+  },
+  "bottomTextBtn": {
+    "message": "Connectez-vous !"
+  },
+  "forgotPasswordBtnAuth": {
+    "message": "Mot de passe oublié ?"
+  },
+  "notificationCashbackTitle": {
+    "message": "<span>$cashback$</span> Cashback",
+    "placeholders": {
+      "cashback": {
+        "content": "$1",
+        "example": "4,5 %"
+      }
+    }
+  },
+  "notificationCashbackText": {
+    "message": "France Verif vous rembourse jusqu'à <span>$cashback$</span> sur vos achats <span>$domain$</span>",
+    "placeholders": {
+      "cashback": {
+        "content": "$1",
+        "example": "X.x %"
+      },
+      "domain": {
+        "content": "$2",
+        "example": "Fnac.fr"
+      }
+    }
+  },
+  "notificationCashbackButton": {
+    "message": "Activer le cashback"
+  },
+  "notificationCashbackSuccessText": {
+    "message": "Cashback activé"
+  },
+  "notificationCashbackSuccessButton": {
+    "message": "Continuer mes achats"
+  },
+  "notificationCashbackSubTextNoAuth": {
+    "message": "Inscrivez-vous pour profiter des avantages !"
+  },
+  "notificationCashbackLogInText": {
+    "message": "Déjà inscrit ?"
+  },
+  "notificationCashbackLogInBtn": {
+    "message": "Se connecter"
+  },
+  "couponPromosTitle": {
+    "message": "<span>$value$</span> coupons\ntrouvés !",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "1"
+      }
+    }
+  },
+  "couponPromosText": {
+    "message": "Testez et appliquez les codes promo en 1 clic."
+  },
+  "couponPromosButton": {
+    "message": "Tester les codes promo en 1 clic !"
+  },
+  "couponPromosModalLoadingTitle": {
+    "message": "Test code promo <span>en cours...</span>"
+  },
+  "couponPromosModalSuccessTitle": {
+    "message": "Vous économisez <span>$value$</span>",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "0 €"
+      }
+    }
+  },
+  "couponPromosModalResultBodyTitle": {
+    "message": "Estimation du panier"
+  },
+  "couponPromosModalResultBodySubTitle": {
+    "message": "(Hors taxe et livraison)"
+  },
+  "couponPromosModalSuccessBodyOldPrice": {
+    "message": "Prix original"
+  },
+  "couponPromosModalSuccessBottomTitle": {
+    "message": "Vous aimez France Verif ?"
+  },
+  "couponPromosModalSuccessBottomSubTitle": {
+    "message": "Laissez-nous un avis"
+  },
+  "couponPromosModalResultBtn": {
+    "message": "Continuer vers le paiement"
+  },
+  "couponPromosModalFailTitle": {
+    "message": "Vous bénéficiez du <span>meilleur prix</span> que nous ayons trouvé !"
+  },
+  "searchCashBackTitle": {
+    "message": "Activer $value$ de cashback",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "0 €"
+      }
+    }
+  },
+  "searchCashBackToggler": {
+    "message": "Conditions"
+  },
+  "searchCashBackAnalyze": {
+    "message": "site analysé et classé “fiable”"
+  },
+  "searchCashBackCashback": {
+    "message": "Cashback"
+  },
+  "searchCashBackSubtitle": {
+    "message": "<span>Remboursez</span> une partie de vos achats"
+  },
+  "searchCashBackLink": {
+    "message": "Activer le cashback"
+  },
+  "searchCashBackList1": {
+    "message": "$value$ de cashback",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "0 €"
+      }
+    }
+  },
+  "searchCashBackHint": {
+    "message": "IMPORTANT : Vous devez accepter tous les cookies proposés sur le site du marchand et être connecté sur Eden par FranceVerif pour pouvoir recevoir votre cashback. Le montant du cashback est calculé sur le montant toutes taxes comprises (TTC) hors frais de port."
+  },
+  "priceDropSnackbarText": {
+    "message": "Suivez ce produit et \nrecevez une <span>notification lorsqu’il baisse de prix</span>"
+  },
+  "priceDropSnackbarButton": {
+    "message": "Suivre le prix"
+  },
+  "priceDropTimeTitle": {
+    "message": "Suivre le prix pendant :"
+  },
+  "priceDropTimeButton": {
+    "message": "Suivre le prix de ce produit"
+  },
+  "priceDropApplyText": {
+    "message": "Vous recevrez une notification dans <span>$value$</span> contenant les meilleures offres trouvées &#129303;",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "7 jours"
+      }
+    }
+  },
+  "priceDropApplyButton": {
+    "message": "Notifiez moi"
+  },
+  "priceDropSignIn": {
+    "message": "Je m’inscris"
+  },
+  "priceDropLogIn": {
+    "message": "Je me connecte"
+  }
+}
