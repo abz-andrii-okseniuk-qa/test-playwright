@@ -8,7 +8,7 @@ test.describe('Checking Site and Extension with antivirus Avast', () => {
     test('001 Checking Site with Avast Online Security & Privacy', async ({},testInfo) => {
         const pathToExtensionAvast = require('path').join(__dirname, 'my-extensions/avast');
         const context = await chromium.launchPersistentContext('', {
-            headless: false,
+            headless: true,
             args: [
                 `--disable-extensions-except=${pathToExtensionAvast}`,
                 `--load-extension=${pathToExtensionAvast}`
@@ -31,7 +31,7 @@ test.describe('Checking Site and Extension with antivirus Avast', () => {
         const pathToExtensionFV = require('path').join(__dirname, 'my-extensions/FV_Extension_CHROME_PROD');
         const pathToExtensionAvast = require('path').join(__dirname, 'my-extensions/avast');
         const context = await chromium.launchPersistentContext('', {
-            headless: false,
+            headless: true,
             args: [
                 `--disable-extensions-except=${pathToExtensionFV},${pathToExtensionAvast}`,
                 `--load-extension=${pathToExtensionFV},${pathToExtensionAvast}`
