@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "18+ आइकन"
+   },
+   "18IconOFF": {
+      "message": "डोनट्स के निकट वयस्क सामग्री के आइकन न दिखाएं"
+   },
+   "18IconON": {
+      "message": "डोनट्स के निकट वयस्क सामग्री के आइकन दिखाएं"
+   },
+   "Add": {
+      "message": "जोड़ें"
+   },
+   "AdultC": {
+      "message": "वयस्क सामग्री"
+   },
+   "AllowAlways": {
+      "message": "हमेशा स्वीकार्य"
+   },
+   "AllowOnce": {
+      "message": "एक बार अनुमति दें"
+   },
+   "AlternativeMedicine": {
+      "message": "वैकल्पिक दवाई"
+   },
+   "BadReviewWarningText": {
+      "message": "अतीत में आपने इस साइट को निम्न रेटिंग दी थी। सावधानी से आगे बढ़ें।"
+   },
+   "BlocksPopup": {
+      "message": "पॉपअप्स ब्लॉक करता है"
+   },
+   "BlocksPopupText": {
+      "message": "किसी भी पॉप-अप और संभावित अवांछित कार्यक्रमों को ब्लॉक करता है"
+   },
+   "Carefulx": {
+      "message": "सावधान!"
+   },
+   "DoNotShowAgain": {
+      "message": "इस साइट के लिए इसे फिर न दिखाएं"
+   },
+   "Error0": {
+      "message": "अज्ञात त्रुटी"
+   },
+   "Error400": {
+      "message": "ईमेल मान्य नहीं है"
+   },
+   "Error4001": {
+      "message": "प्राधिकरण की आवश्यकता है"
+   },
+   "Error4002": {
+      "message": "अमान्य उपयोगकर्ता या पासवर्ड"
+   },
+   "Error4003": {
+      "message": "अनुपलब्ध क्रेडेंशियल्स"
+   },
+   "Error4004": {
+      "message": "उपयोगकर्ता ब्लॉक है"
+   },
+   "Error4005": {
+      "message": "आपको लॉग आउट कर दिया गया है। कृपया दोबारा लॉग इन करें।"
+   },
+   "Error4006": {
+      "message": "आपको लॉग आउट कर दिया गया है। कृपया दोबारा लॉग इन करें।"
+   },
+   "Error4007": {
+      "message": "लॉग इन विफल, दोबारा प्रयास करें"
+   },
+   "Error4008": {
+      "message": "लॉग इन विफल, दोबारा प्रयास करें"
+   },
+   "Error4009": {
+      "message": "उपयोगकर्ता पहले से ही पंजीकृत है"
+   },
+   "Error401": {
+      "message": "अनधिकृत"
+   },
+   "Error4010": {
+      "message": "उपयोगकर्ता पहले से ही मौजूद है"
+   },
+   "Error4101": {
+      "message": "रीसेट पासवर्ड लिंक मान्य नहीं है"
+   },
+   "Error4102": {
+      "message": "रीसेट पासवर्ड लिंक समाप्त हो गया है"
+   },
+   "ExperienceFullPower": {
+      "message": "WOT की सम्पूर्ण शक्ति का अनुभव करें"
+   },
+   "FAQ": {
+      "message": "सामान्य प्रश्न"
+   },
+   "Forgot": {
+      "message": "भूल गए?"
+   },
+   "ForgotBelow": {
+      "message": "एक नए पासवर्ड के लिए अनुरोध करें"
+   },
+   "Gambling": {
+      "message": "गैम्बलिंग (जुआ)"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "हमें कुछ फीडबैक दें..."
+   },
+   "GoBack": {
+      "message": "← पीछे जाएं"
+   },
+   "GoToSetting": {
+      "message": "सेटिंग्स में जाएं"
+   },
+   "GoodSite": {
+      "message": "अच्छी साइट"
+   },
+   "GruesomeShocking": {
+      "message": "डरावना या चौंकाने वाला"
+   },
+   "HateDiscrimination": {
+      "message": "घृणा, भेदभाव"
+   },
+   "HowCanWeImprove": {
+      "message": "हम कैसे सुधार कर सकते हैं?"
+   },
+   "IHaveAccount": {
+      "message": "मेरे पास एक अकाउंट है। "
+   },
+   "IHaveNotAccount": {
+      "message": "मेरे पास अकाउंट नहीं है। "
+   },
+   "Illegal": {
+      "message": "संभावित रूप से अवैध"
+   },
+   "IncidentalNudity": {
+      "message": "आकस्मिक नग्नता"
+   },
+   "LogInBelow": {
+      "message": "नीचे लॉग इन करें"
+   },
+   "LogInFacebook": {
+      "message": "Facebook से लॉग इन करें"
+   },
+   "LogInGoogle": {
+      "message": "Google+ से लॉग इन करें"
+   },
+   "LogInPasswordInput": {
+      "message": "पासवर्ड"
+   },
+   "LogInTwitter": {
+      "message": "Twitter से लॉग इन करें"
+   },
+   "LogInUsernameInput": {
+      "message": "प्रयोक्ता नाम या ईमेल"
+   },
+   "MalwareViruses": {
+      "message": "मैलवेयर या वायरस"
+   },
+   "MisleadingUnethical": {
+      "message": "भ्रामक या अनैतिक"
+   },
+   "NOT_SAFE": {
+      "message": "सुरक्षित नहीं!"
+   },
+   "NewPassword": {
+      "message": "एक नया पासवर्ड मुझे ईमेल करें"
+   },
+   "NotAppropriate": {
+      "message": "बच्चों के लिए उपयुक्त नहीं"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "राय, धर्म, राजनीति"
+   },
+   "Phishing": {
+      "message": "फिशिंग"
+   },
+   "PoorExperience": {
+      "message": "दयनीय ग्राहक अनुभव"
+   },
+   "PopupNotification": {
+      "message": "ध्वनि अधिसूचना"
+   },
+   "PopupNotificationText": {
+      "message": "कोई\nपॉपअप ब्लॉक होने पर पेज पर एक अधिसूचना दिखाएं"
+   },
+   "PrivacyRisks": {
+      "message": "गोपनीयता संबंधी जोखिम"
+   },
+   "ProtectionsFeatures": {
+      "message": "WOT सहायक के साथ सुरक्षित रहें"
+   },
+   "ProtectionsFeatures2": {
+      "message": "ब्राउज़ करने से पहले लिंक की जांच करें"
+   },
+   "Pts": {
+      "message": "(%POINTS% अंक)"
+   },
+   "RateThisWebsite": {
+      "message": "इस वेबसाइट को रेट करें"
+   },
+   "RememberMe": {
+      "message": "मुझे याद रखएं"
+   },
+   "SAFE": {
+      "message": "सुरक्षित!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "लिंक्स के आगे सभी प्रकार के आइकॉन दिखाता है (लाल, पीले, हरे)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "दयनीय रेटिंग वाली वेबसाइटों के आगे केवल लाल आइकॉन दिखाएं"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "कोई प्रतिष्ठा वाले आइकॉन नहीं दिखाए जाएंगे"
+   },
+   "Scam": {
+      "message": "घोटाला"
+   },
+   "Send": {
+      "message": "भेजें"
+   },
+   "ShowLess": {
+      "message": "कम दिखाएं"
+   },
+   "ShowMore": {
+      "message": "और अधिक दिखाएं"
+   },
+   "SignUp": {
+      "message": "साइन अप करें"
+   },
+   "SignUpBelow": {
+      "message": "नीचे साइन अप करें"
+   },
+   "SignUpFacebook": {
+      "message": "Facebook से साइन अप करें"
+   },
+   "SignUpGoogle": {
+      "message": "Google+ से साइन अप करें"
+   },
+   "SignUpPasswordInput": {
+      "message": "एक पासवर्ड चुनें"
+   },
+   "SignUpTwitter": {
+      "message": "Twitter से साइन अप करें"
+   },
+   "SignUpUsernameInput": {
+      "message": "आपका ईमेल"
+   },
+   "SiteKids": {
+      "message": "बच्चों के लिए साइट"
+   },
+   "Spam": {
+      "message": "स्पैम"
+   },
+   "Submit": {
+      "message": "सबमिट करें"
+   },
+   "Suspicious": {
+      "message": "संदिग्ध"
+   },
+   "TakeMoment": {
+      "message": "हमें अपना फीडबैक देने के लिए कुछ समय निकालें।"
+   },
+   "UNKNOWN": {
+      "message": "अज्ञात"
+   },
+   "UnwantedPrograms": {
+      "message": "संभावित रूप से अवांछित प्रोग्राम"
+   },
+   "ViewMyAccount": {
+      "message": "मेरा अकाउंट देखें"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "दयनीय रेटिंग वाली सभी वेबसाइट के लिए चेतावनी दिखाता है"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "केवल दुर्भावनापूर्ण वेबसाइटों पर चेतावनियों को दिखाता है"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "कोई चेतावनी नहीं दिखाई जाएगी"
+   },
+   "WantMore": {
+      "message": "हमें और बताना चाहते हैं?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "इस उल्लंघन के लिए क्या करें"
+   },
+   "WhitelistPlaceholder": {
+      "message": "एक वेबसाइट जोड़ें जहां आप चेतावनियों को नहीं देखना चाहते हैं। (जैसे: Google.com)"
+   },
+   "WriteYourReview": {
+      "message": "अपनी समीक्षा लिखें..."
+   },
+   "accurace": {
+      "message": "सटीकता"
+   },
+   "activate": {
+      "message": "सक्रिय"
+   },
+   "activateProtection": {
+      "message": "सुरक्षा सक्रिय करें"
+   },
+   "addAReview": {
+      "message": "समीक्षा जोड़ें"
+   },
+   "adsOrPopups": {
+      "message": "विज्ञापन / पॉप-अप"
+   },
+   "adult": {
+      "message": "वयस्क"
+   },
+   "adultContent": {
+      "message": "वयस्क सामग्री"
+   },
+   "adultContentProtection": {
+      "message": "वयस्क सामग्री संरक्षण"
+   },
+   "adultProtection": {
+      "message": "वयस्क सुरक्षा"
+   },
+   "adultProtectionText": {
+      "message": "ये वयस्क सुरक्षा सेटिंग्स प्रत्येक श्रेणी की सभी वेबसाइटों पर लागू होती हैं"
+   },
+   "adultProtectionTooltip": {
+      "message": "अनुपयुक्त सामग्री, अश्लील और साटेबाज़ी को रोकता है"
+   },
+   "adultSettingMoreOptions": {
+      "message": "अधिक विकल्प"
+   },
+   "adultSettingSubtitle": {
+      "message": "अश्लील और जुए की साइटों को ब्लॉक करें"
+   },
+   "adultSettingTitle": {
+      "message": "वयस्क सुरक्षा"
+   },
+   "ago": {
+      "message": "पहले"
+   },
+   "agreeContinue": {
+      "message": "सहमत हूँ और जारी रखें"
+   },
+   "all": {
+      "message": "सभी"
+   },
+   "allTrackersBlocked": {
+      "message": "%1% ट्रैकर्स ब्‍लॉक हुए"
+   },
+   "allWebsites": {
+      "message": "सभी वेबसाइट"
+   },
+   "allow": {
+      "message": "अनुमति"
+   },
+   "almostDone": {
+      "message": "आपका काम लगभग पूरा हो गया है"
+   },
+   "always": {
+      "message": "सदैव"
+   },
+   "analytics": {
+      "message": "एनालिटिक्स"
+   },
+   "antiPhishingAndScams": {
+      "message": "एंटी-फ़िशिंग और घोटाले"
+   },
+   "appDescription": {
+      "message": "प्रयोक्ताओं के अनुभव के आधार पर किसी भी वेबसाइट की प्रतिष्ठा और सुरक्षा संबंधी जानकारी को जांचें। आधिकारिक Web of Trust क्रोम एक्सटेंशन।"
+   },
+   "appName": {
+      "message": "WOT वेबसाइट सुरक्षा और सुरक्षित ब्राउज़िंग सुरक्षा"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "क्या आप सुनिश्चित हैं?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "कृपया इस वेबसाइट के लिए नए रिव्यू लिखें"
+   },
+   "assistantSettingSubtitle": {
+      "message": "सुरक्षित रूप से खरीदारी करें और ऑनलाइन खोजें"
+   },
+   "assistantSettingTitle": {
+      "message": "WOT असिस्टेंट शील्ड"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "WOT स्लाइडर खोलें"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "इस पेज पर पाए गए ट्रैकर्स की संख्या"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOT आपके द्वारा ब्राउज की गई किसी भी वेबसाइट पर ट्रैकर्स को देखने और ब्लॉक करने की अनुमति देता है, जोकि आपका डेटा एकत्रित करती हैं।"
+   },
+   "autoScanDevice": {
+      "message": "डिवाइस को ऑटो स्कैन करें"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "सुनिश्चित करें कि आप किसी भी सुरक्षा खतरों और/या लीक के लिए अपने डिवाइस को नियमित रूप से स्कैन करते हैं।"
+   },
+   "autoScanDeviceText": {
+      "message": "सुनिश्चित करें कि आप किसी भी सुरक्षा खतरों और/या उल्लंघनों के लिए अपने डिवाइस को नियमित रूप से स्कैन करते हैं।"
+   },
+   "avoidHarmfulSites": {
+      "message": "नकली और हानिकारक साइट्स से बचें"
+   },
+   "back": {
+      "message": "पीछे"
+   },
+   "beTheFirstToReview": {
+      "message": "इस वेबसाइट को रेट करने वाले पहले व्यक्ति बनें"
+   },
+   "blacklistsPreCheck": {
+      "message": "अप-टू-डेट ब्लैकलिस्ट"
+   },
+   "block": {
+      "message": "ब्लॉक करें"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "आपके द्वारा देखी जाने वाली प्रत्येक वेबसाइट पर सभी ट्रैकर्स को स्वचालित रूप से ब्लॉक करें"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "केवल प्रीमियम उपयोगकर्ताओं के लिए उपलब्ध सभी ट्रैकर्स को स्वचालित रूप से ब्लॉक करें"
+   },
+   "blockTrackers": {
+      "message": "ब्लॉक ट्रैकर्स"
+   },
+   "blockUnsafeWebsites": {
+      "message": "असुरक्षित वेबसाइटों और लिंक को ब्लॉक करें"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT असुरक्षित लिंक पर आकस्मिक क्लिक करने या असुरक्षित या दुर्भावनापूर्ण वेबसाइटों में जाने के बारे में आपको पहले से चेतावनी देना सुनिश्चित करेगा"
+   },
+   "blocked": {
+      "message": "ब्लॉक किया गया!"
+   },
+   "blocksHackingAttacks": {
+      "message": "हर 39 सेकंड में हैकिंग को ब्लॉक करता है"
+   },
+   "breachedDate": {
+      "message": "उल्लंघन की तिथि"
+   },
+   "breachesAlert": {
+      "message": "आपकी व्यक्तिगत जानकारी और/या पासवर्ड के साथ छेड़छाड़ की गई है और यह निम्न संपर्क में आए हैं"
+   },
+   "browse": {
+      "message": "ब्राउज करें"
+   },
+   "browserNotProtected": {
+      "message": "आपका ब्राउज़र सुरक्षित नहीं है"
+   },
+   "browserProtected": {
+      "message": "आपका ब्राउज़र सुरक्षित है"
+   },
+   "browserSecured": {
+      "message": "यह ब्राउज़र सुरक्षित है!"
+   },
+   "bugs": {
+      "message": "कीड़े"
+   },
+   "canHelp": {
+      "message": "हम कैसे मदद कर सकते हैं?"
+   },
+   "cancel": {
+      "message": "रद्द करें"
+   },
+   "careful": {
+      "message": "सावधान!"
+   },
+   "categoriesExplained": {
+      "message": "ये श्रेणियां इस वेबसाइट पर लागू हो सकती हैं"
+   },
+   "changePassword": {
+      "message": "पासवर्ड बदलें"
+   },
+   "changePasswordSubtitle": {
+      "message": "सुनिश्चित करें कि प्रत्येक पासवर्ड अनोखा, अलग और अनुमान लगाने में कठिन हो। कभी भी एक ही पासवर्ड को दो बार इस्तेमाल ना करें।"
+   },
+   "changePasswordText": {
+      "message": "सुनिश्चित करें कि प्रत्येक पासवर्ड अनोखा, अलग और अनुमान लगाने में कठिन हो। कभी भी एक ही पासवर्ड को दो बार इस्तेमाल ना करें।"
+   },
+   "checkLeaks": {
+      "message": "लीक की जाँच करें"
+   },
+   "checkUrl": {
+      "message": "URL की जांच करें"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "किसी भी वेबसाइट सुरक्षा स्तर की जाँच करें"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT आपको किसी भी वेबसाइट सुरक्षा स्तर की जांच करने के तीन तरीके प्रदान करता है: Google खोज इंजन परिणाम पृष्ठ, ब्राउज़र टूलबार आइकन और विस्तृत स्कोरकार्ड और समीक्षाएं"
+   },
+   "chooseTags": {
+      "message": "उन टैग को चुनें जो %DOMAIN% का वर्णन करते हैं"
+   },
+   "chooseTagsForSite": {
+      "message": "ऐसे टैग चुनें जो इस साइट का सबसे अच्छा वर्णन करते हों:"
+   },
+   "chooseTagsThatDescribes": {
+      "message": "साइट का वर्णन करने वाले टैग चुनें"
+   },
+   "clearPolicy": {
+      "message": "स्पष्ट नीति"
+   },
+   "clickAllTags": {
+      "message": "लागू सभी टैग क्लिक करें"
+   },
+   "clickOnTheGearIcon": {
+      "message": "इस पॉपअप को चालू/बंद करने के लिए %GEARICON% पर क्लिक करें"
+   },
+   "close": {
+      "message": "बंद करें"
+   },
+   "contactUs": {
+      "message": "हमसे संपर्क करें"
+   },
+   "containAdultContent": {
+      "message": "इस वेबसाइट में वयस्क सामग्री हो सकती है"
+   },
+   "contentWarning": {
+      "message": "वयस्क सामग्री ब्लॉक की गई"
+   },
+   "coolGotIt": {
+      "message": "कूल, समझ गया"
+   },
+   "dataBreachHookText": {
+      "message": "कभी-कभी यह जोखिम भरा हो सकता है"
+   },
+   "dataBreachHookTitle": {
+      "message": "क्या आप अपने लॉगिन विवरण दर्ज करने वाले हैं?"
+   },
+   "dataLeakMonitoring": {
+      "message": "डेटा उल्लंघन की निगरानी"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "इस ईमेल खाते से जुड़े डेटा लीक पाए गए"
+   },
+   "dayAgo": {
+      "message": "एक दिन पहले"
+   },
+   "daysAgo": {
+      "message": "%1% दिन पहले"
+   },
+   "default": {
+      "message": "डीफॉल्ट"
+   },
+   "defaultManualModeButton": {
+      "message": "जारी रखें और चालू करें"
+   },
+   "defaultManualModeHeader": {
+      "message": "रियल-टाइम परिणाम और इनसाइट्स प्राप्त करें"
+   },
+   "defaultManualModeText": {
+      "message": "WOT की सक्रिय सुरक्षा अक्षम है. हम आपको वेबसाइट रेटिंग और अलर्ट नहीं दिखा पाएंगे."
+   },
+   "defaultText": {
+      "message": "कम प्रतिष्ठा वाली वेबसाइटों को ब्लॉक करें और उन से बचें। (अनुशंसित)"
+   },
+   "del": {
+      "message": "हटाएँ"
+   },
+   "delete": {
+      "message": "हां, मिटाएं"
+   },
+   "deleteThisReview": {
+      "message": "क्या यह समीक्षा हटाएं?"
+   },
+   "digitalTrackingProtection": {
+      "message": "डिजिटल ट्रैकिंग सुरक्षा"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "आपकी ऑनलाइन ब्राउज़िंग आदतों को ट्रैक करने से सभी सेवाओं को स्वचालित रूप से ब्लॉक करें।"
+   },
+   "disableOnAllWebsites": {
+      "message": "हां, सभी वेबसाइट पर अक्षम करें"
+   },
+   "disableOnThusWebsites": {
+      "message": "हां, इसे केवल इस वेबसाइट पर अक्षम करें"
+   },
+   "disableWOTHelper": {
+      "message": "WOT हेल्पर अक्षम करें?"
+   },
+   "disableWOTHelperText": {
+      "message": "WOT हेल्पर आपको जिस पृष्ठ पर आप जा रहे हैं उसके स्कोर और टिप्पणियों की एक झलक प्रदान करता है। आप इसे कभी भी WOT सेटिंग द्वारा अक्षम कर सकते हैं।"
+   },
+   "disagree": {
+      "message": "असहमत हूँ"
+   },
+   "dismissWarning": {
+      "message": "चेतावनी खारिज करें"
+   },
+   "done": {
+      "message": "किया हुआ"
+   },
+   "dontShowAgain": {
+      "message": "मुझे फिर से मत दिखाना"
+   },
+   "dontShowOnThisSite": {
+      "message": "इस वेबसाइट के बारे में मुझे फिर चेतावनी न दें"
+   },
+   "dontShowThis": {
+      "message": "के लिए इसे दोबारा न दिखाएं "
+   },
+   "donuts": {
+      "message": "लिंक्स के आगे प्रतिष्ठा आइकॉन"
+   },
+   "downloadClassicWot": {
+      "message": "Classic WOT डाउनलोड करें"
+   },
+   "downloadMobileWot": {
+      "message": "मोबाइल के लिए WOT डाउनलोड करें"
+   },
+   "edit": {
+      "message": "संपादित करें"
+   },
+   "editYourReview": {
+      "message": "अपनी समीक्षा संपादित करें"
+   },
+   "empty": {
+      "message": "खाली सूची"
+   },
+   "enable": {
+      "message": "सक्षम करें"
+   },
+   "enableEnhancedProtection": {
+      "message": "बढ़ाई गई सुरक्षा सक्षम करें"
+   },
+   "enjoyingWot": {
+      "message": "WOT का आनंद ले रहे हैं?"
+   },
+   "errorAction": {
+      "message": "ठीक है"
+   },
+   "errorContent": {
+      "message": "हमें खेद है। कृपया वर्तमान पेज को रिफ्रेश करें और दोबारा प्रयास करें।"
+   },
+   "errorTitle": {
+      "message": "कुछ गड़बड़ी हुई है"
+   },
+   "extraFeaturesTitle": {
+      "message": "देखें कि WOT के पास और क्या पेशकश है"
+   },
+   "faqSupport": {
+      "message": "अक्सर पूछे जाने वाले प्रश्न और समर्थन"
+   },
+   "findHelp": {
+      "message": "मदद पाएं या हमसे संपर्क करें"
+   },
+   "firstRate": {
+      "message": "इस वेबसाइट को रेट करने वाले पहले व्यक्ति बनें"
+   },
+   "followUs": {
+      "message": "हमें फॉलो करें"
+   },
+   "forAllPremiumPlans": {
+      "message": "सभी प्रीमियम प्‍लान के लिए"
+   },
+   "forum": {
+      "message": "फोरम"
+   },
+   "freeTrialEndend": {
+      "message": "आपके नि:शुल्क परीक्षण के %2% दिन शेष हैं"
+   },
+   "freeUserBlockTitle": {
+      "message": "अन्य हानिकारक वेबसाइटों से सुरक्षित रहना चाहते हैं?"
+   },
+   "gamblingSites": {
+      "message": "गैम्बलिंग (जुआ) साइटें"
+   },
+   "gamblingSitesText": {
+      "message": "गैम्बलिंग खेल और सामग्री वाली वेबसाइटों को ब्लॉक कर दिया जाएगा"
+   },
+   "generalSettings": {
+      "message": "सामान्य सेटिंग्‍स"
+   },
+   "generalSettingsDescription": {
+      "message": "अपनी आवश्यकताओं के अनुरूप अपनी सेटिंग्स को अनुकूलित करें और सुरक्षित रहें"
+   },
+   "getFullCoverage": {
+      "message": "पूर्ण ब्राउज़िंग सुरक्षा"
+   },
+   "getFullProtection": {
+      "message": "WOT संपूर्ण सुरक्षा पाएं"
+   },
+   "getMorePremium": {
+      "message": "प्रीमियम से ज्यादा पाएं"
+   },
+   "getPhishingAlert": {
+      "message": "फ़िशिंग अलर्ट पाएं"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "आपकी नवीनतम फ़िशिंग साइटों और सोशल इंजीनियरिंग हमलों से सुरक्षा करता है।"
+   },
+   "getWOTPremium": {
+      "message": "हैकर्स, वायरस और दुर्भावनापूर्ण वेबसाइटों से विस्तृत सुरक्षा के लिए WOT प्रीमियम आज़माएँ।"
+   },
+   "gmailProtectionDescription": {
+      "message": "अपने इनबॉक्स में संदिग्ध ईमेल के बारे में चेतावनी पाएं"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "फ़िशिंग ईमेल का तेज़ी से पता लगाने के लिए डिज़ाइन किया गया है"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "स्मार्ट ईमेल पहचान"
+   },
+   "gmailProtectionTitle": {
+      "message": "ईमेल सुरक्षा"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "अपनी ईमेल सुरक्षा को अनुकूलित करें और उन URL पतों को दर्ज करें, जिन पर आपको भरोसा है"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "अपने विश्वसनीय URL पते जोड़ें (जैसे: sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "अनुमति सूची"
+   },
+   "goPremium": {
+      "message": "प्रीमियम के लिए जाएँ"
+   },
+   "goToLeakReport": {
+      "message": "उल्लंघनों की रिपोर्ट देखें"
+   },
+   "goToSite": {
+      "message": "किसी भी तरह से साइट पर जाएं"
+   },
+   "goodService": {
+      "message": "अच्छी सेवा"
+   },
+   "gotIt": {
+      "message": "समझ गया"
+   },
+   "greatSupport": {
+      "message": "शानदार समर्थन"
+   },
+   "hide": {
+      "message": "छिपाएं"
+   },
+   "hideWotAssistant": {
+      "message": "WOT सहायक छिपाएं"
+   },
+   "hideWotAssistantText": {
+      "message": "'छिपाएं' क्लिक करने पर आपको लोड होता हुआ WOT सहायक पेज नहीं दिखेगा। सेटिंग में जाकर आप बाद में इसे कभी भी बदल सकते हैं।"
+   },
+   "high": {
+      "message": "उच्च"
+   },
+   "highText": {
+      "message": "किसी भी संदिग्ध वेबसाइट को ब्लॉक करें। बच्चों के लिए अनुपयुक्त सामग्री वाली वेबसाइटें डिफ़ॉल्ट रूप से अवरुद्ध हो जाएंगी"
+   },
+   "holdOn": {
+      "message": "रूको!"
+   },
+   "hour": {
+      "message": "घंटा"
+   },
+   "hourAgo": {
+      "message": "एक घंटा पहले"
+   },
+   "hourMinutesAgo": {
+      "message": "एक घंटा %2% मिनट पहले"
+   },
+   "hours": {
+      "message": "घंटे"
+   },
+   "hoursAgo": {
+      "message": "%1% घंटे पहले"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% घंटे %2% मिनट पहले"
+   },
+   "hoverOverTheWOT": {
+      "message": "इस साइट की प्रसिद्धि देखने के लिए WOT %DONUTICON% आइकॉन पर होवर करें"
+   },
+   "howWouldYouRate": {
+      "message": "आप इस वेबसाइट को 1 से 5 के बीच कैसे रेट करेंगे?"
+   },
+   "identityProtection": {
+      "message": "पहचान संरक्षण"
+   },
+   "identityProtectionModalMessage": {
+      "message": "पहचान सुरक्षा सुविधा को सक्षम करके, आप सहमति देते हैं कि हम आपका ईमेल पता किसी तीसरे पक्ष के साथ साझा कर सकते हैं जो पासवर्ड सुरक्षा और निगरानी सेवा प्रदान करता है"
+   },
+   "identityProtectionSubtitle": {
+      "message": "जब आपका व्यक्तिगत डेटा लीक हो जाता है तो WOT आपको अलर्ट करता है ताकि आप पहचान की चोरी और भविष्य के लीक को रोकने के लिए जल्दी से आगे बढ़ सकें।"
+   },
+   "increaseOnlineSecurity": {
+      "message": "ऑनलाइन सुरक्षा बढ़ाएँ"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "संवेदनशील जानकारी वाले अपने व्यक्तिगत खातों तक पहुंचने के लिए दो कारक प्रमाणीकरण सक्षम करें"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "संवेदनशील जानकारी वाले अपने व्यक्तिगत अकाउंट को एक्सेस करने के लिए दो फैक्टर वाले ऑथेंटिकेशन को सक्षम करें।"
+   },
+   "installed": {
+      "message": "इनस्टॉल कर दिया गया है"
+   },
+   "isSafe": {
+      "message": "क्या आपको लगता है कि यह साइट सुरक्षित है?"
+   },
+   "issuesFound": {
+      "message": "%ISSUES% समस्याएं मिलीं"
+   },
+   "justNow": {
+      "message": "बस अभी"
+   },
+   "lang": {
+      "message": "en-US"
+   },
+   "lastScanned": {
+      "message": "अंतिम स्कैन"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT आपकी व्यक्तिगत जानकारी वाले डेटा उल्लंघनों के बारे में आपको रीयल-टाइम में सचेत करेगा ताकि आप ऑनलाइन अपनी सुरक्षा कर सकें।"
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "डेटा उल्लंघन निगरानी सुविधा को सक्षम करके, आप सहमति देते हैं कि हम आपका ईमेल पता किसी तीसरे पक्ष के साथ शेयर कर सकते हैं जो पासवर्ड सुरक्षा और निगरानी सेवा उपलब्ध करता है"
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "हम अनुशंसा करते हैं कि आप अपनी व्यक्तिगत जानकारी को सुरक्षित रखने और अपनी डिजिटल पहचान को सुरक्षित रखने के लिए ये कदम उठाएं:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "अगर मेरी व्यक्तिगत जानकारी लीक हो गई तो क्या करें?"
+   },
+   "leakedInformation": {
+      "message": "लीक हुई जानकारी"
+   },
+   "legalAnd": {
+      "message": "और"
+   },
+   "legalPrivacyPolicy": {
+      "message": "गोपनीयता नीति"
+   },
+   "legalStatement": {
+      "message": "आपको रीयल-टाइम सुरक्षा, रखरखाव देने और अपनी सेवा को बेहतर बनाने के लिए, हमें उन वेबसाइट के बारे में जानकारी वापस अपने सर्वरों पर भेजनी होगी जिन पर आप जाते हैं. ’सहमत हूँ’ पर क्लिक करके आप हमारी निम्न से सहमत होते हैं"
+   },
+   "letCommunityKnow": {
+      "message": "चाहे आपके पास इस साइट का उपयोग करने का अच्छा अनुभव हो या चिंताएं हों, हमारे समुदाय को बताएं।"
+   },
+   "letOthersKnowYourExperience": {
+      "message": "इस साइट पर अपने अनुभव के बारे में दूसरों को बताएं"
+   },
+   "limitedTimeOffer": {
+      "message": "लिमिटेड टाइम ऑफ़र"
+   },
+   "lite": {
+      "message": "लाइट"
+   },
+   "liteText": {
+      "message": "हम आपको परेशान नहीं करेंगे - केवल तभी जब ज़रूरी हो"
+   },
+   "liveBlocking": {
+      "message": "लाइव ब्लॉकिंग"
+   },
+   "loading": {
+      "message": "लोड हो रहा है..."
+   },
+   "logOut": {
+      "message": "लॉग आउट करें"
+   },
+   "login": {
+      "message": "लॉग इन करें"
+   },
+   "looksSafe": {
+      "message": "सुरक्षित लगता है"
+   },
+   "manage": {
+      "message": "प्रबंधित करना"
+   },
+   "manageProtection": {
+      "message": "सुरक्षा प्रबंधित करें"
+   },
+   "manageSubscriptions": {
+      "message": "सदस्यताएं प्रबंधित करें"
+   },
+   "manageTrackers": {
+      "message": "ट्रैकर्स को मैनेज करें"
+   },
+   "manualModeAgree": {
+      "message": "उपर 'चालू करें' क्लिक करके, आप हमारी इन बातों से सहमत होते हैं"
+   },
+   "manualModeWarning": {
+      "message": "अब आप मैन्युअल मोड में ब्राउज़ कर रहे हैं - WOT की सक्रिय सुरक्षाबंद है और हम खतरनाक साइटों से आपकी सुरक्षा नहीं कर पाएँगे"
+   },
+   "manualModeWarningStrip": {
+      "message": "ध्यान दें कि आप मैन्युअल मोड में ब्राउज़ कर रहे हैं और कई विशेषताएं उपलब्ध नहीं होंगी"
+   },
+   "marketing": {
+      "message": "मार्केटिंग"
+   },
+   "maybeNextTime": {
+      "message": "शायद अगली बार"
+   },
+   "messageSubmitted": {
+      "message": "संदेश सफलतापूर्वक सबमिट किया गया।"
+   },
+   "minute": {
+      "message": "मिनट"
+   },
+   "minuteAgo": {
+      "message": "एक मिनट पहले"
+   },
+   "minutes": {
+      "message": "मिनट"
+   },
+   "minutesAgo": {
+      "message": "%1% मिनट पहले"
+   },
+   "missingReviews": {
+      "message": "अनुपलब्ध समीक्षा"
+   },
+   "month": {
+      "message": "महीना"
+   },
+   "monthAgo": {
+      "message": "एक महीना पहले"
+   },
+   "monthsAgo": {
+      "message": "%1% महीने पहले"
+   },
+   "moreInfo": {
+      "message": "अधिक जानकारी"
+   },
+   "myDashboardNav": {
+      "message": "मेरे यंत्र रखने की जगह"
+   },
+   "myProfile": {
+      "message": "मेरी प्रोफाइल"
+   },
+   "newDataLeaksFound": {
+      "message": "%1% का नया डेटा लीक पाया गया"
+   },
+   "next": {
+      "message": "आगामी"
+   },
+   "no": {
+      "message": "नहीं"
+   },
+   "noBreaches": {
+      "message": "अच्छी खबर! कोई डेटा लीक नहीं मिला"
+   },
+   "noComments": {
+      "message": "कोई समीक्षा नहीं"
+   },
+   "noKeepIt": {
+      "message": "नहीं, कृपया इसे रखें"
+   },
+   "noReviewsYet": {
+      "message": "अभी तक कोई समीक्षा नहीं है"
+   },
+   "noSkip": {
+      "message": "नहीं, छोड़ें"
+   },
+   "noThanks": {
+      "message": "नहीं धन्यवाद"
+   },
+   "noTrackersBlocked": {
+      "message": "%1% ट्रैकर्स का पता लगा"
+   },
+   "noTrackersDetected": {
+      "message": "कोई ट्रैकर नहीं मिला"
+   },
+   "none": {
+      "message": "कोई नहीं"
+   },
+   "notSecurity": {
+      "message": "क्या कोई सुरक्षा चिंताएं हैं?"
+   },
+   "notSuitableForChildren": {
+      "message": "क्या ऐसी कोई सामग्री है जो बच्चों के लिए अनुपयुक्त है?"
+   },
+   "notSure": {
+      "message": "निश्चित नहीं "
+   },
+   "off": {
+      "message": "बंद करें"
+   },
+   "okGotIt": {
+      "message": "ठीक है, समझ गया"
+   },
+   "on": {
+      "message": "चालू"
+   },
+   "onBoarding4States": {
+      "message": "यहाँ 4 स्थितियाँ हैं:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "किसी भी वेबसाइट की प्रसिद्धि की जाँच करने के लिए शील्ड आइकन पर होवर करें।"
+   },
+   "onBoardingHoverTheShield": {
+      "message": "इस पर क्लिक करने से पहले"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "प्रसिद्धि डैशबोर्ड"
+   },
+   "onBoardingReputationScore": {
+      "message": "प्रसिद्धि स्कोर"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "अब आप बिना किसी चिंता के सुरक्षित रूप से वेब ब्राउज़ कर सकते हैं। किसी भी अनजान वेबसाइट पर क्लिक करने से पहले शील्ड आइकन को चेक करें!"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "यह पॉपअप आपको किसी भी दी गई वेबसाइट का प्रसिद्धि स्कोर दिखाता है। "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "यह वेबसाइट WOT द्वारा %SAFETY% है!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "अधिक उपयोगकर्ता समीक्षाएं पढ़ने के लिए आप 'समीक्षा पढ़ें' पर क्लिक कर सकते हैं।"
+   },
+   "onBoardingYoureAllSet": {
+      "message": "आप तैयार हैं!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1 ट्रैकर ब्‍लॉक किया"
+   },
+   "oneTrackerDetected": {
+      "message": "1 ट्रैकर्स का पता लगा"
+   },
+   "optinAreYouSureMessage": {
+      "message": "आपको लाइव 360-डिग्री वेब सुरक्षा प्रदान करने के लिए, WOT की कुछ विशेषताओं के लिए आपके द्वारा देखी जाने वाली वेबसाइटों से एकत्र की गई अनाम जानकारी तक पहुंच की आवश्यकता होती है। यह जानकारी तीसरे पक्ष के साथ साझा नहीं की जाएगी या विपणन उद्देश्यों के लिए उपयोग नहीं की जाएगी। आप सेटिंग पेज पर जाकर किसी भी समय अपनी प्राथमिकताएं बदल सकते हैं।"
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT आपको घोटाला, फ़िशिंग, संदिग्ध, मैलवेयर और स्पैम ईमेल प्राप्त होने पर चेतावनी देता है"
+   },
+   "optinGoBack": {
+      "message": "पीछे जाएं"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "लाइव सुरक्षा चालू करें"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "बढ़ी हुई सुरक्षा"
+   },
+   "optinHeaderInstallation": {
+      "message": "सफलतापूर्वक स्थापित"
+   },
+   "optinHeaderScanDevice": {
+      "message": "स्कैन डिवाइस"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "अपना ब्राउज़र सेट करें"
+   },
+   "optinMaybeLater": {
+      "message": "शायद बाद में"
+   },
+   "optinProtectYourEmail": {
+      "message": "अपने ईमेल को सुरक्षित रखें"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "ब्राउज़र टूलबार में मिला लोगो साइट की प्रतिष्ठा के अनुसार बदल जाएगा"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "WOT लोगों ढूंढें"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "यदि आप किसी खराब प्रतिष्ठा वाली साइट पर जाते हैं तो WOT आपको चेतावनी देगा"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "समय पर चेतावनियां प्राप्त करें"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "यह देखने के लिए कि कौनसी साइट्स क्लिक करने के लिए सुरक्षित हैं, सर्च इंजन परिणाम पृष्ठों में WOT लोगो का रंग देखें"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "किसी खोज परिणाम को चिह्नित करें"
+   },
+   "optinReputationIconsText": {
+      "message": "वेबसाइट लिंक के पास दिए WOT सुरक्षा डोनट्स के ज़रिए ऑनलाइन सूचित निर्णय लें।"
+   },
+   "optinSafetyScoreText": {
+      "message": "साइट की प्रतिष्ठा और समीक्षाओं की जांच के लिए स्कोरकार्ड का इस्तेमाल करें।"
+   },
+   "optinSubtitle": {
+      "message": "वास्तविक समय में आपकी सुरक्षा के लिए, हमें आपके द्वारा ब्राउज़ किए जाने वाले URL तक पहुंच की आवश्यकता है"
+   },
+   "optinTitle": {
+      "message": "ब्राउज़र सुरक्षा की अनुमति दें"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "हानिकारक वेबसाइटों से या जो बदनाम हैं, उनसे बचने के लिए उन्हें ब्लॉक करें।"
+   },
+   "optinWelcomeSubtitle": {
+      "message": "आप अभी-अभी {millionMembers} में शामिल हुए हैं, WOT . का उपयोग करके एक दूसरे की सुरक्षा करते हुए"
+   },
+   "or": {
+      "message": " या "
+   },
+   "other": {
+      "message": "अन्य"
+   },
+   "outOfHere": {
+      "message": "मुझे यहां से बाहर ले जाएं"
+   },
+   "ownThisSite": {
+      "message": "क्या आप इस साइट के मालिक हैं?"
+   },
+   "parentalControl": {
+      "message": "अभिभावक नियंत्रण"
+   },
+   "parentalControlOFF": {
+      "message": "बच्चों के लिए अनुपयुक्त सामग्री वाली वेबसाइटों को अवरुद्ध नहीं किया जाएगा"
+   },
+   "parentalControlON": {
+      "message": "बच्चों के लिए अनुपयुक्त सामग्री वाली वेबसाइटों को अवरुद्ध कर दिया जाएगा"
+   },
+   "performance": {
+      "message": "प्रदर्शन"
+   },
+   "pinWot": {
+      "message": "WOT पिन करें!"
+   },
+   "pinWotPopup": {
+      "message": "अपनी वेबसाइट की वर्तमान सुरक्षा स्थिति देखने के लिए $WOT$ पिन करें",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "हमें रेट करने के लिए कुछ समय निकालें"
+   },
+   "policy": {
+      "message": "गोपनीयता नीति देखें"
+   },
+   "poorCustomerService": {
+      "message": "खराब ग्राहक सेवा"
+   },
+   "poorOnly": {
+      "message": "केवल दयनीय"
+   },
+   "poorRating": {
+      "message": "यह साइट संदिग्ध है।"
+   },
+   "popupAdultStrip": {
+      "message": "केवल वयस्क सामग्री हो सकती है"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "इस सेक्शन में आप जांच सकते हैं कि आप जिस साइट पर जा रहे हैं वह सुरक्षित है या नहीं।"
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "समीक्षा पढ़ने के लिए लिंक पर क्लिक करें।"
+   },
+   "popupOnboardingStep1Title": {
+      "message": "आपके नए WOT में आपका स्वागत है!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "यह खंड दिखाता है कि कितनी सेवाएं आपकी ऑनलाइन आदतों पर नज़र रख रही हैं।"
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "ट्रैकर्स ब्लॉकिंग को एडजस्ट करने के लिए लिंक पर क्लिक करें।"
+   },
+   "popupOnboardingStep2Title": {
+      "message": "डिजिटल ट्रैकर्स"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "खाता सेटिंग खोलने और अपनी सुरक्षा प्रबंधित करने के लिए यहां क्लिक करें।"
+   },
+   "popupOnboardingStep3Title": {
+      "message": "मेरी सुरक्षा प्रबंधित करें"
+   },
+   "postReview": {
+      "message": "समीक्षा पोस्‍ट करें"
+   },
+   "potentiallyMalicious": {
+      "message": "यह साइट संभावित रूप से दुर्भावनापूर्ण है।"
+   },
+   "preCheck": {
+      "message": "पुर्व जांच"
+   },
+   "premium": {
+      "message": "प्रीमियम"
+   },
+   "premiumFeature": {
+      "message": "प्रीमियम फ़ीचर"
+   },
+   "premiumSecurity": {
+      "message": "प्रीमियम सुरक्षा"
+   },
+   "premiumText": {
+      "message": "आपको सबसे अधिक नुकसानदेह वेबसाइटों और लिंक्स से बचाने के लिए आवश्यक संपूर्ण ऑनलाइन सुरक्षा"
+   },
+   "presettings": {
+      "message": "पूर्व-सेटिंग"
+   },
+   "protectPrivacy": {
+      "message": "पहचान और गोपनीयता को सुरक्षित करें "
+   },
+   "protectYourPrivacy": {
+      "message": "पॉपअप अवरोधक"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "सुरक्षित ब्राउज़िंग अनुभव के लिए सफाई और तेजी से पॉपअप ब्लॉक करता है।"
+   },
+   "protectYourself": {
+      "message": "डेटा लीक अलर्ट्स अभी प्राप्त करें"
+   },
+   "protectedForXDays": {
+      "message": "%1% दिनों के लिए संरक्षित"
+   },
+   "protection": {
+      "message": "सुरक्षा"
+   },
+   "rateOnStore": {
+      "message": "%BROWSER% स्टोर . में रेट करें"
+   },
+   "rateOverall": {
+      "message": "%DOMAIN% पर अपने समग्र *अनुभव * का रेट करें"
+   },
+   "rateThisSite": {
+      "message": "इस साइट का रेट करें"
+   },
+   "rateUs": {
+      "message": "WOT का रेट करें"
+   },
+   "rateYourExperience": {
+      "message": "अपने पूरे अनुभव को _____ पर रेट करें"
+   },
+   "readMoreReviews": {
+      "message": "और समीक्षाएं पढ़ें (%1%)"
+   },
+   "readReviews": {
+      "message": "समीक्षाएं पढ़ें"
+   },
+   "realTimeCheckups": {
+      "message": "वास्‍तविक समय पर चेकअप्स"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "वास्तविक समय में फ़िशिंग, मैलवेयर और अन्य खतरों से सुरक्षित रहें।"
+   },
+   "realtimePhishingAlerts": {
+      "message": "रियल-टाइम फ़िशिंग अलर्ट"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "हमें उन अविश्वसनीय या जाली साइटों के बारे में रिपोर्ट करें जो दूसरों को जोखिम में डाल सकती हैं"
+   },
+   "reputation": {
+      "message": "प्रतिष्ठा"
+   },
+   "reputationIcons": {
+      "message": "प्रतिष्ठा आइकन"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT उस वेबसाइट के सुरक्षा स्तर को प्रदर्शित करेगा जिस पर आप वर्तमान में जा रहे हैं"
+   },
+   "restorePurchases": {
+      "message": "खरीदियां रीस्टोर करें"
+   },
+   "resultFor": {
+      "message": "के परिणाम"
+   },
+   "reviewAddedErrorText": {
+      "message": "कोई त्रुटि हुई है, कृपया फिर से कोशिश करें।"
+   },
+   "reviewAddedErrorTitle": {
+      "message": "समीक्षा पोस्‍ट नहीं हुई है"
+   },
+   "reviewAddedOKText": {
+      "message": "इंटरनेट को सुरक्षित जगह बनाने के लिए धन्यवाद!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "समीक्षा सफलतापूर्वक पोस्ट की गई"
+   },
+   "reviews": {
+      "message": "समीक्षाएं"
+   },
+   "rtOFF": {
+      "message": "अब आप मैनुअल मोड में प्रचालन में हैं - WOT की अग्रसक्रिय सुरक्षा अक्षम है"
+   },
+   "rtON": {
+      "message": "अब आप WOT के पूर्ण कवरेज द्वारा पूरी सक्रियता से सुरक्षित हैं।"
+   },
+   "rtProtection": {
+      "message": "वास्तविक समय में सुरक्षा"
+   },
+   "rtProtectionRecommended": {
+      "message": "वास्तविक समय में सुरक्षा (संस्तुत)"
+   },
+   "safeBrowsing": {
+      "message": "सुरक्षित ब्राउज़िंग"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT आपको हर उस साइट, पेज और सेवा को स्कैन करके ऑनलाइन सतर्क रखता है, जिस पर आप रीयल टाइम अलर्ट के साथ जाते हैं।"
+   },
+   "safeSearch": {
+      "message": "सुरक्षित खोज"
+   },
+   "safeSearchSubtitle": {
+      "message": "आपके द्वारा क्लिक करने से पहले यह जानने के लिए कि कोई वेबसाइट सुरक्षित है या नहीं, आपके खोज परिणामों के बगल में चिह्न प्रदर्शित किए जाएंगे।"
+   },
+   "safeShopping": {
+      "message": "सुरक्षित खरीदारी"
+   },
+   "safeShoppingSite": {
+      "message": "यह वेबसाइट खरीदारी के लिए सुरक्षित है"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "यह वेबसाइट WOT एल्गोरिथ्म, मशीन लर्निंग और उपयोगकर्ताओं की समीक्षा के आधार पर खरीदारी के लिए सुरक्षित है"
+   },
+   "safetyScore": {
+      "message": "सुरक्षा स्कोर"
+   },
+   "safetyScoreSubtitle": {
+      "message": "वेबसाइट की प्रतिष्ठा और समीक्षाओं की जांच करने और अपना अनुभव साझा करने के लिए स्कोरकार्ड का उपयोग करें"
+   },
+   "scannedOn": {
+      "message": "पर पता चला"
+   },
+   "scoreCard": {
+      "message": "स्‍कोर कार्ड"
+   },
+   "searchEnginePageResults": {
+      "message": "खोज इंजन परिणाम पृष्ठ"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "वेबसाइट लिंक के बगल में WOT के सुरक्षा संकेतक के साथ ऑनलाइन सूचित निर्णय लें"
+   },
+   "searchIndicator": {
+      "message": "खोज सूचक"
+   },
+   "searchManualModeButton": {
+      "message": "खोज इंजन गाइडेंस चालू करें"
+   },
+   "searchManualModeHeader": {
+      "message": "आप WOT के गाइडेंस से चूक रहे हैं"
+   },
+   "searchManualModeText": {
+      "message": "खोज इंजन के लिए WOT की सुरक्षा अक्षम है. हम आपको लिंक के आगे की वेबसाइट रेटिंग नहीं दिखा पाएंगे."
+   },
+   "security": {
+      "message": "सुरक्षा"
+   },
+   "securityBreaches": {
+      "message": "सुरक्षा खतरे!"
+   },
+   "securityRiskDetected": {
+      "message": "सुरक्षा जोखिम का पता लगा"
+   },
+   "securityScore": {
+      "message": "सुरक्षा स्कोर"
+   },
+   "securitySystem": {
+      "message": "सुरक्षा सिस्टम"
+   },
+   "securityWarning": {
+      "message": "सुरक्षा चेतावनी"
+   },
+   "seeLess": {
+      "message": "कम देखें"
+   },
+   "seeMore": {
+      "message": "और देखें"
+   },
+   "seeReviews": {
+      "message": "समीक्षाएं देखें"
+   },
+   "sendFeedback": {
+      "message": "प्रतिक्रिया भेजें"
+   },
+   "serpMailWarning": {
+      "message": "WOT को यह ईमेल संदिग्ध लगता है, क्योंकि इसमें खतरनाक लिंक या ट्रैकिंग URL हो सकते हैं"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "मेरे ईमेल को अपग्रेड और सुरक्षित रखें"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "मुझे बाद में याद दिलाएं"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "96% ऑनलाइन स्कैम ईमेल के जरिए होते हैं। हिचकिचाइए मत, अभी अपनी रक्षा करें।"
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "आपका ईमेल जोखिम में है!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT पहचान लेता है और ये ऑनलाइन खतरों और ट्रैकिंग को रोकता है, जिससे आप आश्वस्त हो सकते हैं कि आपकी व्यक्तिगत जानकारी सुरक्षित है।"
+   },
+   "servicesTrackingYou": {
+      "message": "सेवाएं आपकी गतिविधि पर नज़र रख रही हैं"
+   },
+   "settings": {
+      "message": "सेटिंग्स"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "प्रीमियम सुविधाओं को अनलॉक करें"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "अपनी सुरक्षा को बढ़ाएँ"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "कहीं भी, किसी भी समय।"
+   },
+   "settingsBannerTitle": {
+      "message": "एक सुरक्षित ब्राउज़िंग अनुभव।"
+   },
+   "setup": {
+      "message": "सेट-अप करें"
+   },
+   "severeOnly": {
+      "message": "केवल गंभीर"
+   },
+   "share": {
+      "message": "साझा करें"
+   },
+   "shareExperience": {
+      "message": "%1% पर अपना खुद का अनुभव साझा करें और दूसरों की मदद करें"
+   },
+   "shareFeedback": {
+      "message": "अपना फीडबैक साझा करें"
+   },
+   "shareOnFacebook": {
+      "message": "फेसबुक पर साझा करें"
+   },
+   "shareOnGoogle": {
+      "message": "Google + पर साझा करें"
+   },
+   "shareOnTwitter": {
+      "message": "ट्विटर पर साझा करें"
+   },
+   "shareText1": {
+      "message": "मैंने Web of Trust पर %WEBSITE% की रेटिंग करके वेब को एक बेहतर स्थान बनाने में बस मदद की है! असहमत हैं? इसका यहां स्वयं रेट करें %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "मुझे सुरक्षित रूप से ब्राउज करने तथा असुरक्षित वेबसाइट से बचने का तरीका मिल गया है! Web of Trust एक्सटेंशन को जांचें %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "मैंने Web of Trust पर %WEBSITE% की 5 स्टार में से %STARS% रेटिंग करके वेब को एक बेहतर स्थान बनाने में बस मदद की है! असहमत हैं? इसका यहां स्वयं रेट करें %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": " मैं सुरक्षित रूप से ब्राउज करने तथा असुरक्षित वेबसाइटों से बचने के लिए @Web_of_Trust का प्रयोग कर रहा हूं। इसे स्वयं यहां आजमाएं: %LINK% #WOT #MyWOT #सुरक्षा"
+   },
+   "shareTextGoogleRate": {
+      "message": "मैंने Web of Trust पर %WEBSITE% की 5 स्टार में से %STARS% रेटिंग करके वेब को एक बेहतर स्थान बनाने में बस मदद की है! असहमत हैं? इसका यहां स्वयं रेट करें %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": " मैं सुरक्षित रूप से ब्राउज करने तथा असुरक्षित वेबसाइटों से बचने के लिए @Web_of_Trust का प्रयोग कर रहा हूं। इसे स्वयं यहां आजमाएं: %LINK% #WOT #MyWOT #सुरक्षा"
+   },
+   "shareTextTwitterRate": {
+      "message": "मैंने WOT पर %WEBSITE% को 5 स्टार में से %STARS% की रेटिंग दी है! असहमत हैं? इसका यहां स्वयं रेट करें %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "मुझे सुरक्षित रूप से ब्राउज करने तथा असुरक्षित वेबसाइट से बचने का तरीका मिल गया है! Web of Trust एक्सटेंशन को जांचें %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "मैंने Web of Trust पर %WEBSITE% की 5 स्टार में से %STARS% रेटिंग करके वेब को एक बेहतर स्थान बनाने में बस मदद की है! असहमत हैं? इसका यहां स्वयं रेट करें %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "मित्रों के साथ WOT साझा करें!"
+   },
+   "shareWotRating": {
+      "message": "मित्रों के साथ %DOMAIN% की अपनी रेटिंग साझा करें!"
+   },
+   "shareYouRating": {
+      "message": "अपनी रेटिंग दोस्तों के साथ साझा करें"
+   },
+   "shopWithConfidence": {
+      "message": "विश्वास के साथ ख़रीदारी करें"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "किसी भी ऑनलाइन स्टोर पर खरीदार की समीक्षा देखें और फ़िशिंग और नकली ई-कॉमर्स घोटालों से अपनी सुरक्षा करें"
+   },
+   "signIn": {
+      "message": "लॉग इन करें"
+   },
+   "signInNow": {
+      "message": "अभी साइन-इन करें"
+   },
+   "signInToRate": {
+      "message": "कृपया इस वेबसाइट को रेटिंग देने और रिव्यू लिखने के लिए साइन-इन करें"
+   },
+   "siteIsSafe": {
+      "message": "क्या आपको लगता है कि यह साइट *सुरक्षित है?*"
+   },
+   "siteIsSafeChildren": {
+      "message": "क्या यह साइट *बच्चों के लिए सुरक्षित है?*"
+   },
+   "skip": {
+      "message": "छोड़ें"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "खतरों का पता लगाने और आपको घोटालों से दूर रखने के लिए बनाई गई उन्नत फ़िशिंग सुरक्षा।"
+   },
+   "social": {
+      "message": "सोशल नेटवर्क"
+   },
+   "someTrackersBlocked": {
+      "message": "%2% ट्रैकर्स में से %1% ब्‍लॉक हुए"
+   },
+   "specialOfferBillingDetails": {
+      "message": "के भुगतान के तौर पर बिल किया गया"
+   },
+   "specialOfferFeatures": {
+      "message": "ईमेल सुरक्षा, एडल्ट सामग्री को ब्लॉक करें, असीमित ट्रैकर्स को ब्लॉक करें और बहुत कुछ करें!"
+   },
+   "startFreeTrial": {
+      "message": "मेरा फ्री ट्रायल शुरू करो"
+   },
+   "startProtection": {
+      "message": "सुरक्षा की शुरूआत करें!"
+   },
+   "startYourFreeTrial": {
+      "message": "अपना फ्री ट्रायल शुरू करें"
+   },
+   "successRecPass": {
+      "message": "निदेश आपके ई-मेल पते पर भेज दिए गए हैं"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT ने इस वेबसाइट को संदिग्ध माना"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "WOT द्वारा संदिग्ध वेबसाइट"
+   },
+   "suspiciousSite": {
+      "message": "संदिग्ध साइट"
+   },
+   "switchToClassic": {
+      "message": "Classic WOT के लिए बदलें"
+   },
+   "systemPageAction": {
+      "message": "समझ गया"
+   },
+   "systemPageContent": {
+      "message": "आप असमर्थित पेज जैसे ब्राउज़र सिस्टम पेज, लोकलहोस्ट या एक्सटेंशन पेज में WOT का उपयोग करने का प्रयास कर रहे हैं।"
+   },
+   "systemPageTitle": {
+      "message": "सिस्टम पेज"
+   },
+   "takeAction": {
+      "message": "कार्रवाई करें"
+   },
+   "tellUsMore": {
+      "message": "हमें और अधिक बताएँ..."
+   },
+   "tellYourFriends": {
+      "message": "अपने दोस्तों को WOT के बारे में बताकर समुदाय को फैलाएं!"
+   },
+   "termsOfUse": {
+      "message": "उपयोग की शर्तें"
+   },
+   "thankYou": {
+      "message": "धन्यवाद!"
+   },
+   "thankYouForFeedback": {
+      "message": "आपके फीडबैक के लिए धन्यवाद"
+   },
+   "thankYouForInstalling": {
+      "message": "WOT को इनस्टॉल करने के लिए धन्यवाद। इसके बाद, अपनी सुरक्षा शील्ड चुन कर स्वयं को निश्चित ही पूर्ण रूप से सुरक्षित बनाएं"
+   },
+   "thanksGotIt": {
+      "message": "धन्यवाद, समझ गया!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "यह मेल %1% ज्ञात डेटा उल्लंघनों में दिखाई दिया"
+   },
+   "thisPopupShows": {
+      "message": "यह पॉपअप आपको किसी भी दी गई वेबसाइट का प्रसिद्धि स्कोर दिखाता है। "
+   },
+   "thisSiteOnly": {
+      "message": "केवल यह साइट"
+   },
+   "threatsFound": {
+      "message": "थ्रेट मिले"
+   },
+   "timerManualModeButton": {
+      "message": "रियल-टाइम सुरक्षा चालू करें"
+   },
+   "timerManualModeHeader": {
+      "message": "आप मैन्युअल मोड में ब्राउज़ कर रहे हैं!"
+   },
+   "timerManualModeText": {
+      "message": "WOT की सक्रिय सुरक्षा अक्षम है और हम आपकी खतरनाक वेबसाइटों से सुरक्षा नहीं कर पाएंगे."
+   },
+   "toWriteReview": {
+      "message": " समीक्षा लिखने के लिए"
+   },
+   "toggleTooltipMessage": {
+      "message": "इस सुविधा को सक्षम करने के लिए"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "अभी अपग्रेड करें"
+   },
+   "tooComplicated": {
+      "message": "बहुत जटिल"
+   },
+   "tooltipChildSafe": {
+      "message": "क्या यह साइट सामग्री जैसे: नग्नता, चौंकाने वाली, डरावनी, इत्यादि से रहित है।"
+   },
+   "tooltipSafe": {
+      "message": "क्या यह साइट खतरों जैसे: मैलवेयर,वायरस, फिशिंग इत्यादि से मुक्त है।"
+   },
+   "tour": {
+      "message": "यात्रा"
+   },
+   "trackerBlocked": {
+      "message": "ब्लॉक किया"
+   },
+   "trackerBlocker": {
+      "message": "एंटी-ट्रैकर सुरक्षा"
+   },
+   "trackerBlockerDescription": {
+      "message": "आपके द्वारा देखी जाने वाली प्रत्येक वेबसाइट पर सभी ट्रैकर्स को स्वचालित रूप से ब्लॉक करें।"
+   },
+   "trackerCounterAction": {
+      "message": "अधिक ट्रैकर्स अनलॉक करें"
+   },
+   "trackerCounterText": {
+      "message": "%1%/ 3 बुनियादी सुरक्षा के लिए उपलब्ध ट्रैकर्स"
+   },
+   "trackerSomeBlocked": {
+      "message": "%2% में से %1% ब्‍लॉक किया"
+   },
+   "trackerUnblocked": {
+      "message": "ब्लॉक हटाया"
+   },
+   "trackersBlockAll": {
+      "message": "सभी ट्रैकर्स को स्वचालित रूप से ब्लॉक करें"
+   },
+   "trackersBlocked": {
+      "message": "ट्रैकर्स अवरोधित"
+   },
+   "trackersDetected": {
+      "message": "ट्रैकर्स पाए गए"
+   },
+   "trackingProtection": {
+      "message": "ट्रैकिंग सुरक्षा"
+   },
+   "trustIssues": {
+      "message": "इस साइट के कुछ विश्वास संबंधी मुद्दे हैं। सावधानी से कदम बढाएं।"
+   },
+   "trusted": {
+      "message": "विश्वसनीय"
+   },
+   "trustedByWOT": {
+      "message": "WOT द्वारा विश्वसनीय वेबसाइट"
+   },
+   "trustedByWOTPopup": {
+      "message": "WOT द्वारा विश्वसनीय वेबसाइट"
+   },
+   "trustedSite": {
+      "message": "विश्वसनीय साइट"
+   },
+   "trustedSource": {
+      "message": "विश्वसनीय स्रोत"
+   },
+   "tryAgain": {
+      "message": "पुनः प्रयास करें"
+   },
+   "turnOffProtection": {
+      "message": "सुरक्षा बंद करें"
+   },
+   "twoMillionMembers": {
+      "message": "2+ मिलियन सदस्य"
+   },
+   "unknownByWOT": {
+      "message": "पर्याप्त जानकारी का अभाव"
+   },
+   "unknownByWOTPopup": {
+      "message": "WOT द्वारा अज्ञात वेबसाइट"
+   },
+   "unknownSite": {
+      "message": "अज्ञात साइट"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "असीमित ट्रैकर ब्लॉक केवल प्रीमियम उपयोगकर्ताओं के लिए उपलब्ध है"
+   },
+   "unlock": {
+      "message": "अनलॉक करें"
+   },
+   "unlockPremium": {
+      "message": "प्रीमियम अनलॉक करें"
+   },
+   "untrusted": {
+      "message": "अविश्वसनीय"
+   },
+   "untrustedByWOT": {
+      "message": "WOT को यह साइट अविश्वसनीय लगी"
+   },
+   "untrustedByWOTPopup": {
+      "message": "WOT द्वारा अविश्वसनीय वेबसाइट"
+   },
+   "untrustedSite": {
+      "message": "अविश्वसनीय साइट"
+   },
+   "upgrade": {
+      "message": "अपग्रेड"
+   },
+   "upgradeNow": {
+      "message": "अभी अपग्रेड करें"
+   },
+   "viewAll": {
+      "message": "सभी देखें"
+   },
+   "viewFullReport": {
+      "message": "पूर्ण रिपोर्ट देखें"
+   },
+   "viewFullScorecard": {
+      "message": "पूर्ण स्कोरकार्ड देखें"
+   },
+   "wantToDelete": {
+      "message": "क्या आप वाकई अपनी रेटिंग मिटाना चाहते हैं?"
+   },
+   "wantToRateWOT": {
+      "message": "%BROWSER% स्टोर में हमारा रेट करने के लिए कुछ क्षण लें"
+   },
+   "wantToRateWOTBtn": {
+      "message": "WOT का रेट करें"
+   },
+   "wantToRateWOTHeader": {
+      "message": "WOT का आनंद ले रहे?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "सभी WOT प्रीमियम सुविधाएं पाना चाहते हैं?"
+   },
+   "warning": {
+      "message": "चेतावनी!"
+   },
+   "warningAlerts": {
+      "message": "चेतावनी अलर्ट"
+   },
+   "warningAlertsSubtitle": {
+      "message": "विज़िट की गई संदिग्ध वेबसाइटों के लिए चेतावनियां दिखाएं"
+   },
+   "warnings": {
+      "message": "चेतावनी अधिसूचनाएं"
+   },
+   "weAppreciate": {
+      "message": "हम आपके समय की सराहना करते हैं और WOT को बेहतर बनाने में हमारी मदद करने के लिए धन्यवाद"
+   },
+   "websiteBlocking": {
+      "message": "वेबसाइट ब्लॉक करना"
+   },
+   "weekAgo": {
+      "message": "एक सप्ताह पहले"
+   },
+   "weeksAgo": {
+      "message": "%1% सप्ताह पहले"
+   },
+   "welcome": {
+      "message": "स्वागत है"
+   },
+   "welcomeToWot": {
+      "message": "WOT में स्वागत है"
+   },
+   "whatCanIDo": {
+      "message": "मैं इसमें क्या कर सकता हूँ?"
+   },
+   "whatCouldWeDo": {
+      "message": "हम और बेहतर क्या कर सकते हैं?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "अविश्वसनीय गतिविधि में उन व्यवहारों को शामिल किया जाता है जिन्हें सामान्यतः स्कैम, फ़िशिंग, मेलवेयर, पीयूपी और अन्य प्रकार की हानिकारक, जोखिम भरी और खतरनाक वेबसाइटों के लिए जिम्मेदार ठहराया जाता है."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "अविश्वसनीय साइट क्या होती है?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "संभावित संदिग्ध गतिविधि उन व्यवहारों को शामिल करती है जो आमतौर पर घोटाले, क्रिप्टो-जैकिंग, ब्राउज़र अपहरण, और अन्य प्रकार की हानिकारक, जोखिम भरी और खतरनाक वेबसाइटों के लिए जिम्मेदार होते हैं."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "*संदिग्ध* साइट क्या होती है?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "इस समय इस वेबसाइट को रेट करने के लिए हमारे पास पर्याप्त जानकारी नहीं है. हमारा सुझाव है कि आप अपनी व्यक्तिगत जानकारी देने से बचें, जैसे कि आपका सोशल सिक्योरिटी नंबर, बैंक खाता या क्रेडिट कार्ड की जानकारी."
+   },
+   "whatIsUnknownTitle": {
+      "message": "अज्ञात साइट क्या होती है?"
+   },
+   "whatsNewWOT": {
+      "message": "नई डेटा उल्लंघन की निगरानी"
+   },
+   "whatsNewWOTContent": {
+      "message": "इस शक्तिशाली नई सुविधा के साथ अब आप यह सुनिश्चित कर सकते हैं कि आपकी व्यक्तिगत जानकारी और पासवर्ड से समझौता नहीं किया गया है या सुरक्षा के लिए खतरा नहीं है।"
+   },
+   "whatsNewWOTGotIt": {
+      "message": "चलो देखते हैं"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "और जानें"
+   },
+   "whitelist": {
+      "message": "ह्वाइट लिस्ट"
+   },
+   "whitelistTitle": {
+      "message": "इन साइटों पर चेतावनियों को न दिखाएं"
+   },
+   "whyIsntSafe": {
+      "message": "क्यों %DOMAIN% *सुरक्षित नहीं है?*"
+   },
+   "whyIsntSafeChildren": {
+      "message": "क्यों %DOMAIN% *बच्चों के लिए सुरक्षित नहीं है?*"
+   },
+   "wotAssistant": {
+      "message": "WOT सहयोगी"
+   },
+   "wotAssistantOFF": {
+      "message": "मेरे ब्राउज़र के कोने में अच्छी वेबसाइट की प्रतिष्ठा न दिखाएं"
+   },
+   "wotAssistantON": {
+      "message": "मेरे ब्राउज़र के कोने में अच्छी वेबसाइट की प्रतिष्ठा दिखाएं"
+   },
+   "wotCommunity": {
+      "message": "WOT का समुदाय"
+   },
+   "wotDetected": {
+      "message": "WoT ने संभावित जोखिम का पता लगाया और $DOMAIN$ को ब्लॉक कर दिया, यह साइट संभावित रूप से जोखिमपूर्ण है और इसमें धोखाधड़ी हो सकती है।",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "संभावित वयस्क सामग्री दिखाए जाने के कारण $DOMAIN$ को WOT द्वारा ब्लॉक कर दिया गया।",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "WOT हेल्पर"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "WOT हेल्पर विजेट दिखाया नहीं जाएगा।"
+   },
+   "wotHelperSettingsOnState": {
+      "message": "इस वेबसाइट के स्कोर, टिप्पणी एवं सुरक्षा तक त्वरित पहुंच के लिए WOT हेल्पर विजेट दिखाएं।"
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT सफलतापूर्वक इंस्टॉल किया गया"
+   },
+   "writeAtLeast15": {
+      "message": "दूसरों की मदद करने के लिए कम से कम 15 अक्षर लिखें"
+   },
+   "writeFirstReview": {
+      "message": "समीक्षा लिखने वाले पहले व्यक्ति बनें"
+   },
+   "writeReview": {
+      "message": "एक समीक्षा लिखें"
+   },
+   "yearAgo": {
+      "message": "%1% साल पहले"
+   },
+   "yearsAgo": {
+      "message": "%1% साल पहले"
+   },
+   "yes": {
+      "message": "हां"
+   },
+   "youCanAlsoEdit": {
+      "message": "आप अपनी वर्तमान समीक्षा और रेटिंग भी संपादित कर सकते हैं"
+   },
+   "youCanAlwaysChange": {
+      "message": "(आप बाद में कभी भी अपनी प्राथमिकताएं बदल सकते हैं)"
+   },
+   "youCanCheckAnyLink": {
+      "message": "WOT की पूर्ण सुरक्षा के साथ आप विजिट करने से पहले किसी भी लिंक की जांच एवं और भी बहुत कुछ कर सकते हैं!"
+   },
+   "youRatingThisSite": {
+      "message": "आपने इस वेबसाइट को रेटिंग देकर बहुत अच्छा काम किया है!"
+   },
+   "yourRating": {
+      "message": "आपकी रेटिंग"
+   },
+   "yourSubscription": {
+      "message": "आपकी सदस्यता"
+   }
+}

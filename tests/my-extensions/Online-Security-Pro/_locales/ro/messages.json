@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "Rău"
+   },
+   "Malware": {
+      "message": "Malware"
+   },
+   "Phishing": {
+      "message": "Phishingul"
+   },
+   "Suspicious": {
+      "message": "Suspicios"
+   },
+   "alert_back": {
+      "message": "Reveniți la navigarea web sigură"
+   },
+   "alert_continue": {
+      "message": "Continua oricum"
+   },
+   "alert_description": {
+      "message": "Acest site a fost temporar blocat din următoarele motive:"
+   },
+   "alert_false": {
+      "message": "Raport despre pozitiv fals"
+   },
+   "alert_notrecommended": {
+      "message": "(Nu se recomandă)"
+   },
+   "alert_recommended": {
+      "message": "(Recomandată)"
+   },
+   "alert_safe": {
+      "message": "(Dacă credeți că site-ul este sigur)"
+   },
+   "alert_text": {
+      "message": "Acest site conține link-uri către viruși sau alte programe software care pot dezvălui informațiile personale pe care le stocați sau le tipați pe computerul dvs. unor persoane rău intenționate."
+   },
+   "alert_warning": {
+      "message": "Atenție: Site-ul nesigur este blocat!"
+   },
+   "ext_description": {
+      "message": "Securitate online împotriva programelor malware, phishing și site-urilor rău intenționate."
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "Nou! Protejați-vă telefonul cu Comodo. Este gratuit pentru \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> și \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>. Ia-l acum!"
+   },
+   "lang_id": {
+      "message": "1048"
+   },
+   "lang_name": {
+      "message": "Română"
+   },
+   "options_blocked": {
+      "message": "Blocat"
+   },
+   "options_close": {
+      "message": "Închide"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Introduceți text"
+   },
+   "options_exclusions_removeall": {
+      "message": "Inlătură tot"
+   },
+   "options_exclusions_removeselected": {
+      "message": "Sterge selectia"
+   },
+   "options_exclusions_search": {
+      "message": "Căutare"
+   },
+   "options_exclusions_showingpage": {
+      "message": "afișarea paginii"
+   },
+   "options_exclusions_time": {
+      "message": "Data și ora de detectare"
+   },
+   "options_exclusions_type": {
+      "message": "Tip de amenințare"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro Opțiuni"
+   },
+   "options_ignored": {
+      "message": "Ignorat"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Excluderi"
+   },
+   "options_tab_title_url": {
+      "message": "Filtrarea site-ului web"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Excluderi"
+   },
+   "options_title_url": {
+      "message": "Filtrarea site-ului web"
+   },
+   "options_url_action": {
+      "message": "Acțiunile întreprinse"
+   },
+   "options_url_placeholder": {
+      "message": "Introduceți text"
+   },
+   "options_url_removeall": {
+      "message": "Inlătură tot"
+   },
+   "options_url_removeselected": {
+      "message": "Sterge selectia"
+   },
+   "options_url_search": {
+      "message": "Căutare"
+   },
+   "options_url_showingpage": {
+      "message": "afișarea paginii"
+   },
+   "options_url_time": {
+      "message": "Data și ora de detectare"
+   },
+   "options_url_type": {
+      "message": "Tip de amenințare"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "DESPRE"
+   },
+   "popup_click": {
+      "message": "Click aici"
+   },
+   "popup_exclusions": {
+      "message": "Editați lista de excluderi"
+   },
+   "popup_feedback": {
+      "message": "Parere"
+   },
+   "popup_help": {
+      "message": "Ajutor"
+   },
+   "popup_history": {
+      "message": "Verificați istoricul"
+   },
+   "popup_license": {
+      "message": "Licență"
+   },
+   "popup_notes": {
+      "message": "Note de lansare"
+   },
+   "popup_notifications": {
+      "message": "NOTIFICĂRI"
+   },
+   "popup_page": {
+      "message": "Pagina Produsului"
+   },
+   "popup_policy": {
+      "message": "Politica de confidentialitate"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Evaluați Această Extensie"
+   },
+   "popup_report": {
+      "message": "Raportați această pagină"
+   },
+   "popup_settings": {
+      "message": "SETĂRI"
+   },
+   "popup_version": {
+      "message": "Versiune"
+   },
+   "popup_warn": {
+      "message": "Am capturat %d link-uri rău intenționate de când ați dezactivat Online Security Pro"
+   }
+}

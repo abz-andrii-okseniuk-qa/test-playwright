@@ -1,0 +1,1 @@
+const store=new Store({portName:"4873"});store.ready().then(()=>{ReactDOM.render(React.createElement(ReactRedux.Provider,{store:store},React.createElement(OptoutComponent,{store:store})),document.getElementById("appcontainer"))});

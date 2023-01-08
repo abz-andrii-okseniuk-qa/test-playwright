@@ -1,0 +1,1 @@
+class ActionButton extends React.Component{render(){var e=this.props;const t=e.className,a=e.text,s=e.callback;return React.createElement("div",{className:t,onClick:s},webextApi.i18n.getMessage(a))}}

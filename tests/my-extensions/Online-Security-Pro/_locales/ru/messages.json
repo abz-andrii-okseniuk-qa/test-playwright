@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "злонамеренный"
+   },
+   "Malware": {
+      "message": "Вредоносное"
+   },
+   "Phishing": {
+      "message": "Фишинг"
+   },
+   "Suspicious": {
+      "message": "подозрительный"
+   },
+   "alert_back": {
+      "message": "Перейти к безопасному веб-серфингу"
+   },
+   "alert_continue": {
+      "message": "Всё равно продолжить"
+   },
+   "alert_description": {
+      "message": "Сайт временно заблокирован по указанной ниже причине:"
+   },
+   "alert_false": {
+      "message": "Сообщить о ложном срабатывании"
+   },
+   "alert_notrecommended": {
+      "message": "(Не рекомендуется)"
+   },
+   "alert_recommended": {
+      "message": "(рекомендуется)"
+   },
+   "alert_safe": {
+      "message": "(Если вы считаете, что сайт безопасный)"
+   },
+   "alert_text": {
+      "message": "Этот сайт содержит ссылки на вирусы или другие программы, с помощью которых злоумышленники могут получить доступ к информации, которую вы сохраняете или вводите на вашем компьютере."
+   },
+   "alert_warning": {
+      "message": "Внимание: Заблокирован небезопасный сайт!"
+   },
+   "ext_description": {
+      "message": "Онлайн-защита от вредоносных программ, фишинговых и вредоносных веб-сайтов."
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "Новый! Защитите свой телефон с помощью Comodo. Это бесплатно для \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> и \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>. Получи это сейчас!"
+   },
+   "lang_id": {
+      "message": "1049"
+   },
+   "lang_name": {
+      "message": "Русский"
+   },
+   "options_blocked": {
+      "message": "блокированный"
+   },
+   "options_close": {
+      "message": "близко"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Введите текст"
+   },
+   "options_exclusions_removeall": {
+      "message": "Удалить все"
+   },
+   "options_exclusions_removeselected": {
+      "message": "Убрать выбранное"
+   },
+   "options_exclusions_search": {
+      "message": "Поиск"
+   },
+   "options_exclusions_showingpage": {
+      "message": "показ страницы"
+   },
+   "options_exclusions_time": {
+      "message": "Дата и время обнаружения"
+   },
+   "options_exclusions_type": {
+      "message": "Тип угрозы"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro Опции"
+   },
+   "options_ignored": {
+      "message": "Игнорируется"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Исключения"
+   },
+   "options_tab_title_url": {
+      "message": "Журнал фильтрации веб-сайтов"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Исключения"
+   },
+   "options_title_url": {
+      "message": "Журнал фильтрации веб-сайтов"
+   },
+   "options_url_action": {
+      "message": "Действие предпринято"
+   },
+   "options_url_placeholder": {
+      "message": "Введите текст"
+   },
+   "options_url_removeall": {
+      "message": "Удалить все"
+   },
+   "options_url_removeselected": {
+      "message": "Убрать выбранное"
+   },
+   "options_url_search": {
+      "message": "Поиск"
+   },
+   "options_url_showingpage": {
+      "message": "показ страницы"
+   },
+   "options_url_time": {
+      "message": "Дата и время обнаружения"
+   },
+   "options_url_type": {
+      "message": "Тип угрозы"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "ОКОЛО"
+   },
+   "popup_click": {
+      "message": "кликните сюда"
+   },
+   "popup_exclusions": {
+      "message": "Изменить список исключений"
+   },
+   "popup_feedback": {
+      "message": "Обратная связь"
+   },
+   "popup_help": {
+      "message": "Помогите"
+   },
+   "popup_history": {
+      "message": "Проверить историю"
+   },
+   "popup_license": {
+      "message": "Лицензия"
+   },
+   "popup_notes": {
+      "message": "Примечания к выпуску"
+   },
+   "popup_notifications": {
+      "message": "УВЕДОМЛЕНИЯ"
+   },
+   "popup_page": {
+      "message": "Страница продукта"
+   },
+   "popup_policy": {
+      "message": "политика конфиденциальности"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Оцените это расширение"
+   },
+   "popup_report": {
+      "message": "Сообщить об этой странице"
+   },
+   "popup_settings": {
+      "message": "НАСТРОЙКИ"
+   },
+   "popup_version": {
+      "message": "Версия"
+   },
+   "popup_warn": {
+      "message": "Мы поймали %d вредоносных ссылок, так как вы отключили Online Security Pro"
+   }
+}

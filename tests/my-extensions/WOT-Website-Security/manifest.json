@@ -1,0 +1,58 @@
+{
+   "action": {
+      "default_icon": {
+         "20": "images/20x20.png",
+         "40": "images/40x40.png",
+         "48": "images/48x48.png"
+      },
+      "default_popup": "",
+      "default_title": "__MSG_appTooltip__"
+   },
+   "author": "MyWOT",
+   "background": {
+      "service_worker": "./background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "styles/content.css" ],
+      "js": [ "scripts/crossbrowser.js", "libs/lodash.min.js", "libs/react.min.js", "libs/react-dom.min.js", "libs/react-redux.min.js", "libs/webext-redux.js", "libs/react-custom-scrollbar.js", "libs/bodymovin-lottie-engine.js", "scripts/shared/constants.js", "scripts/shared/fonts.js", "scripts/shared/utils.js", "scripts/shared/wotCrypto.js", "scripts/shared/wotApi.js", "scripts/shared/lottieAnimation.js", "scripts/shared/titleWithTooltip.js", "scripts/background/app/actions.js", "scripts/content/components/common/warningReportsContainer.js", "scripts/content/components/common/ratingStars.js", "scripts/content/components/common/buttonAction.js", "scripts/content/components/common/reputationBubble.js", "scripts/content/components/assistant/preCheckAssistant.js", "scripts/content/components/assistant/popup.js", "scripts/content/components/assistant/assistantPopup.js", "scripts/content/components/shield/shield.js", "scripts/content/components/shield/shieldOnBoarding.js", "scripts/content/components/serpPopup/ScorecardData.js", "scripts/content/components/serpPopup/scorecardLink.js", "scripts/content/components/serpPopup/SerpPopupFooter.js", "scripts/content/components/serpWarning/serpWarning.js", "scripts/content/components/serpWarning/mailOffering.js", "scripts/shared/scheduler.js", "scripts/content/components/leakHook/leakHook.js", "scripts/content/components/warning/warningAttributes.js", "scripts/content/components/warning/warningActionsContainer.js", "scripts/content/components/warning/warningMessageContainer.js", "scripts/content/components/warning/warningStrip.js", "scripts/content/components/warning/optoutStrip.js", "scripts/content/components/warning/badRatingNotification.js", "scripts/content/components/warning/warning.js", "scripts/content/addReviewHandler.js", "scripts/content/components/common/extendHandler.js", "scripts/content/components/common/previewHandler.js", "scripts/content/preCheckAssistantHandler.js", "scripts/content/serpHandler.js", "scripts/content/redirectHandler.js", "scripts/content/sharingHandler.js", "scripts/content/warningHandler.js", "scripts/content/leakHookHandler.js", "scripts/content/socialAuthHandler.js", "scripts/shared/getPremium.js", "scripts/shared/statelessFunctions.js", "scripts/shared/statelessFunctionsComponents.js", "scripts/content/popup/sliderManager.js", "scripts/content/popup/serpPopupManager.js", "scripts/content/index.js", "scripts/shared/pinWotPopup/pinPopupHandler.js", "scripts/shared/pinWotPopup/pinPopupContainer.js", "scripts/content/popupV2/popupOnboardingHandler.js", "scripts/content/popupV2/popupOnboarding.js", "scripts/content/popupV2/popupContentArea.js", "scripts/content/popupV2/popupMainContainer.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "js": [ "scripts/content/extInfo.js" ],
+      "matches": [ "*://*.mywot.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "style-src 'self' 'unsafe-inline' http://fonts.googleapis.com; script-src 'self' ; object-src 'self'; img-src * data:;"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "host_permissions": [ "http://www.mywot.com/*", "http://api.mywot.com/*", "https://api.mywot.com/*", "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "images/128x128.png",
+      "16": "images/16x16.png",
+      "18": "images/18x18.png",
+      "20": "images/20x20.png",
+      "24": "images/24x24.png",
+      "32": "images/32x32.png",
+      "40": "images/40x40.png",
+      "48": "images/48x48.png",
+      "96": "images/96x96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+5gqgUc6+WAXv9isVvOB2+4QJN0yG+hT5PVVqmA+rMdbj6/849Rbj7BilvSKC1w8S8rKMP0O+xp5g+qrmegkobz7HXvZUM2zYADWwQZOmPzh8I/wjeSHQHgBpq9DXCXdtkiq5bMuQqZH+g2+xP5dtBt8jvanbdXoFrvtYm2dOoQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "contextMenus", "webNavigation", "webRequest", "declarativeNetRequest", "declarativeNetRequestFeedback", "storage", "scripting", "alarms" ],
+   "short_name": "Web of Trust",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "5.0.1",
+   "web_accessible_resources": [ {
+      "extension_ids": [  ],
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "images/*.svg", "images/*.png", "images/*.gif", "styles/*.css", "images/animations/*.json", "resources/*.json", "popupV2.html", "addReview.html", "loggedOut.html", "breachInfo.html" ]
+   } ]
+}

@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "Rosszindulatú"
+   },
+   "Malware": {
+      "message": "Rosszindulatú"
+   },
+   "Phishing": {
+      "message": "Adathalászat"
+   },
+   "Suspicious": {
+      "message": "Gyanús"
+   },
+   "alert_back": {
+      "message": "Visszalépés a biztonság miatt"
+   },
+   "alert_continue": {
+      "message": "Folytatás mindenképp"
+   },
+   "alert_description": {
+      "message": "Ez a weboldal átmenetileg blokkolásra került a következő ok(ok)ból:"
+   },
+   "alert_false": {
+      "message": "Téves riasztás jelentése"
+   },
+   "alert_notrecommended": {
+      "message": "(Nem ajánlott)"
+   },
+   "alert_recommended": {
+      "message": "(Ajánlott)"
+   },
+   "alert_safe": {
+      "message": "(Ha Ön úgy gondolja, hogy az oldal biztonságos)"
+   },
+   "alert_text": {
+      "message": "Ez a weboldal vírusok vagy más olyan szoftverek linkjeit tartalmazza, amelyek képesek felfedni rosszindulatú személyeknek a számítógépen tárolt vagy gépelt személyes adatokat."
+   },
+   "alert_warning": {
+      "message": "Figyelem: Nem biztonságos weboldal került blokkolásra!"
+   },
+   "ext_description": {
+      "message": "Online biztonság a kártékony programok, az adathalászat és a rosszindulatú webhelyek ellen."
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "Új! Védje telefonját Comodo-val. Ingyenes az \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> és az \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a> számára. Szerezd meg most!"
+   },
+   "lang_id": {
+      "message": "1038"
+   },
+   "lang_name": {
+      "message": "Magyar"
+   },
+   "options_blocked": {
+      "message": "Zárolt"
+   },
+   "options_close": {
+      "message": "Bezárás"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Írja be a szöveget"
+   },
+   "options_exclusions_removeall": {
+      "message": "Összes eltávolítása"
+   },
+   "options_exclusions_removeselected": {
+      "message": "A kiválasztott eltávolítása"
+   },
+   "options_exclusions_search": {
+      "message": "Keresés"
+   },
+   "options_exclusions_showingpage": {
+      "message": "az oldal megjelenítése"
+   },
+   "options_exclusions_time": {
+      "message": "Dátum és idő észlelése"
+   },
+   "options_exclusions_type": {
+      "message": "Veszély típusa"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro Opciók"
+   },
+   "options_ignored": {
+      "message": "Figyelmen kívül hagyva"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Kivételek"
+   },
+   "options_tab_title_url": {
+      "message": "Weboldalszűrési napló"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Kivételek"
+   },
+   "options_title_url": {
+      "message": "Weboldalszűrési napló"
+   },
+   "options_url_action": {
+      "message": "Intézkedés"
+   },
+   "options_url_placeholder": {
+      "message": "Írja be a szöveget"
+   },
+   "options_url_removeall": {
+      "message": "Összes eltávolítása"
+   },
+   "options_url_removeselected": {
+      "message": "A kiválasztott eltávolítása"
+   },
+   "options_url_search": {
+      "message": "Keresés"
+   },
+   "options_url_showingpage": {
+      "message": "az oldal megjelenítése"
+   },
+   "options_url_time": {
+      "message": "Dátum és idő észlelése"
+   },
+   "options_url_type": {
+      "message": "Veszély típusa"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "RÓL RŐL"
+   },
+   "popup_click": {
+      "message": "Kattints ide"
+   },
+   "popup_exclusions": {
+      "message": "Kizárási lista szerkesztése"
+   },
+   "popup_feedback": {
+      "message": "Visszacsatolás"
+   },
+   "popup_help": {
+      "message": "Segítség"
+   },
+   "popup_history": {
+      "message": "Ellenőrizze az előzményeket"
+   },
+   "popup_license": {
+      "message": "Engedély"
+   },
+   "popup_notes": {
+      "message": "Kiadási megjegyzések"
+   },
+   "popup_notifications": {
+      "message": "ÉRTESÍTÉSEKRE"
+   },
+   "popup_page": {
+      "message": "Termékoldal"
+   },
+   "popup_policy": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Értékelje ezt a kiterjesztést"
+   },
+   "popup_report": {
+      "message": "Jelentse ezt az oldalt"
+   },
+   "popup_settings": {
+      "message": "BEÁLLÍTÁSOK"
+   },
+   "popup_version": {
+      "message": "Változat"
+   },
+   "popup_warn": {
+      "message": "Miután letiltottuk az Online Security Pro programot, %d rosszindulatú linket vettünk fel"
+   }
+}

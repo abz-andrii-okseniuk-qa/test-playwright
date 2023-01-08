@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "refreshIntervalHours": 0.5
+  },
+  "features": {
+    "optinScreen": {
+      "name": "optinScreen",
+      "description": "Optin screen use the new or the old optin design",
+      "enable": true,
+      "forceReselect": false,
+      "version": 4,
+      "options": [
+        {
+          "id": 1,
+          "animation": true,
+          "newOptin": false,
+          "newFlow": false,
+          "weightPercentage": 50
+        },
+        {
+          "id": 2,
+          "animation": true,
+          "newOptin": false,
+          "newFlow": true,
+          "weightPercentage": 50
+        }
+      ]
+    }
+  }
+}

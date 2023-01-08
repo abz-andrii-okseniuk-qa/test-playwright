@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "خبيث"
+   },
+   "Malware": {
+      "message": "البرمجيات الخبيثة"
+   },
+   "Phishing": {
+      "message": "الخداع"
+   },
+   "Suspicious": {
+      "message": "مشبوه"
+   },
+   "alert_back": {
+      "message": "العودة إلى الأمان"
+   },
+   "alert_continue": {
+      "message": "الإستمرار على أية حال"
+   },
+   "alert_description": {
+      "message": "تم حظر موقع الويب هذا بشكل مؤقت نتيجة السبب (الأسباب) التالية:"
+   },
+   "alert_false": {
+      "message": "تقرير إيجابية كاذبة"
+   },
+   "alert_notrecommended": {
+      "message": "(غير مستحسن)"
+   },
+   "alert_recommended": {
+      "message": "(مستحسن)"
+   },
+   "alert_safe": {
+      "message": "(إذا كنت تعتقد أن الموقع آمن)"
+   },
+   "alert_text": {
+      "message": "يحتوي هذا الموقع على روابط إلى فيروسات أو برامج أخرى يمكن أن تكشف عن معلومات شخصية مخزنة أو مطبوعة على حاسوبك إلى أشخاص خبثاء."
+   },
+   "alert_warning": {
+      "message": "تحذير: تم حظر موقع الويب غير الآمن!"
+   },
+   "ext_description": {
+      "message": "الأمان عبر الإنترنت ضد البرامج الضارة والتصيد الاحتيالي ومواقع الويب الضارة."
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "الجديد! حماية هاتفك مع كومودو. إنه مجاني لنظام التشغيل \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> و \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>. احصل عليها الآن!"
+   },
+   "lang_id": {
+      "message": "1025"
+   },
+   "lang_name": {
+      "message": "العربية"
+   },
+   "options_blocked": {
+      "message": "مسدود"
+   },
+   "options_close": {
+      "message": "قريب"
+   },
+   "options_exclusions_placeholder": {
+      "message": "أدخل النص"
+   },
+   "options_exclusions_removeall": {
+      "message": "حذف الكل"
+   },
+   "options_exclusions_removeselected": {
+      "message": "ازل المحدد"
+   },
+   "options_exclusions_search": {
+      "message": "بحث"
+   },
+   "options_exclusions_showingpage": {
+      "message": "عرض الصفحة"
+   },
+   "options_exclusions_time": {
+      "message": "تاريخ الكشف والوقت"
+   },
+   "options_exclusions_type": {
+      "message": "نوع التهديد"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro خيارات"
+   },
+   "options_ignored": {
+      "message": "تجاهل"
+   },
+   "options_tab_title_exclusions": {
+      "message": "الاستثناءات"
+   },
+   "options_tab_title_url": {
+      "message": "موقع تصفية الموقع"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "الاستثناءات"
+   },
+   "options_title_url": {
+      "message": "موقع تصفية الموقع"
+   },
+   "options_url_action": {
+      "message": "تم اتخاذ فعل"
+   },
+   "options_url_placeholder": {
+      "message": "أدخل النص"
+   },
+   "options_url_removeall": {
+      "message": "حذف الكل"
+   },
+   "options_url_removeselected": {
+      "message": "ازل المحدد"
+   },
+   "options_url_search": {
+      "message": "بحث"
+   },
+   "options_url_showingpage": {
+      "message": "عرض الصفحة"
+   },
+   "options_url_time": {
+      "message": "تاريخ الكشف والوقت"
+   },
+   "options_url_type": {
+      "message": "نوع التهديد"
+   },
+   "options_url_url": {
+      "message": "رابط"
+   },
+   "popup_about": {
+      "message": "حول"
+   },
+   "popup_click": {
+      "message": "انقر هنا"
+   },
+   "popup_exclusions": {
+      "message": "تحرير قائمة الاستبعاد"
+   },
+   "popup_feedback": {
+      "message": "ردود الفعل"
+   },
+   "popup_help": {
+      "message": "مساعدة"
+   },
+   "popup_history": {
+      "message": "تحقق من التاريخ"
+   },
+   "popup_license": {
+      "message": "رخصة"
+   },
+   "popup_notes": {
+      "message": "ملاحظات الإصدار"
+   },
+   "popup_notifications": {
+      "message": "إخطارات"
+   },
+   "popup_page": {
+      "message": "صفحة المنتج"
+   },
+   "popup_policy": {
+      "message": "سياسة خاصة"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "معدل هذا التمديد"
+   },
+   "popup_report": {
+      "message": "تقرير هذه الصفحة"
+   },
+   "popup_settings": {
+      "message": "الإعدادات"
+   },
+   "popup_version": {
+      "message": "الإصدار"
+   },
+   "popup_warn": {
+      "message": "لقد تلقينا %d روابط ضارة منذ أن عطلت Online Security Pro"
+   }
+}

@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "Tehlikeli"
+   },
+   "Malware": {
+      "message": "Kötü Amaçlı Yazılım"
+   },
+   "Phishing": {
+      "message": "Kimlik Hırsızlığı"
+   },
+   "Suspicious": {
+      "message": "Şüpheli"
+   },
+   "alert_back": {
+      "message": "Güvenli Alana Dön"
+   },
+   "alert_continue": {
+      "message": "Yine de devam et"
+   },
+   "alert_description": {
+      "message": "Bu site aşağıdaki sebeplerden dolayı geçici bir süre engellendi:"
+   },
+   "alert_false": {
+      "message": "Yanlış tespit rapor et"
+   },
+   "alert_notrecommended": {
+      "message": "(Tavsiye edilmez)"
+   },
+   "alert_recommended": {
+      "message": "(Tavsiye edilir)"
+   },
+   "alert_safe": {
+      "message": "(Eğer bu sitenin güvenli olduğunu düşünüyorsanız)"
+   },
+   "alert_text": {
+      "message": "Bu site, bilgisayarınızda gizlenen veya yazdığınız kişisel bilgileri kötü niyetli kişilere gönderebilecek virüslerin veya diğer programların bağlantılarını içeriyor."
+   },
+   "alert_warning": {
+      "message": "Uyarı: Tehlikeli Site Engellendi!"
+   },
+   "ext_description": {
+      "message": "Malware, virüs ve tehlikeli web sitelerine karşı gerçek zamanlı koruma"
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "Duyuru! Mobil cihazınızı Comodo ile koruyun. \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> ve \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a> platformları için hemen edinin."
+   },
+   "lang_id": {
+      "message": "1055"
+   },
+   "lang_name": {
+      "message": "Türkçe"
+   },
+   "options_blocked": {
+      "message": "Bloke Edilen"
+   },
+   "options_close": {
+      "message": "Kapat"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Metin Giriniz"
+   },
+   "options_exclusions_removeall": {
+      "message": "Tümünü Sil"
+   },
+   "options_exclusions_removeselected": {
+      "message": "Seçilenleri Sil"
+   },
+   "options_exclusions_search": {
+      "message": "Ara"
+   },
+   "options_exclusions_showingpage": {
+      "message": "gösterilen sayfa"
+   },
+   "options_exclusions_time": {
+      "message": "Tespit Tarihi ve Zamanı"
+   },
+   "options_exclusions_type": {
+      "message": "Tehdit Türü"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro Ayarlar"
+   },
+   "options_ignored": {
+      "message": "Yok Sayılan"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Hariç tutulanlar"
+   },
+   "options_tab_title_url": {
+      "message": "Hariç Tutulanlar"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Hariç tutulanlar"
+   },
+   "options_title_url": {
+      "message": "Website Filtreleme Kayıtları"
+   },
+   "options_url_action": {
+      "message": "Koruma Sağlandı"
+   },
+   "options_url_placeholder": {
+      "message": "Metin giriniz"
+   },
+   "options_url_removeall": {
+      "message": "Tümünü Sil"
+   },
+   "options_url_removeselected": {
+      "message": "Seçilenleri Sil"
+   },
+   "options_url_search": {
+      "message": "Ara"
+   },
+   "options_url_showingpage": {
+      "message": "gösterilen sayfa"
+   },
+   "options_url_time": {
+      "message": "Tespit Tarihi ve Zamanı"
+   },
+   "options_url_type": {
+      "message": "Tehdit Türü"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "HAKKINDA"
+   },
+   "popup_click": {
+      "message": "Lütfen buraya tıklayınız"
+   },
+   "popup_exclusions": {
+      "message": "Ayrıcalık Listesini Düzenle"
+   },
+   "popup_feedback": {
+      "message": "Geri Bildirim"
+   },
+   "popup_help": {
+      "message": "Yardım"
+   },
+   "popup_history": {
+      "message": "Olay Geçmişi"
+   },
+   "popup_license": {
+      "message": "Lisans"
+   },
+   "popup_notes": {
+      "message": "Yayım Notları"
+   },
+   "popup_notifications": {
+      "message": "BİLDİRİMLER"
+   },
+   "popup_page": {
+      "message": "Ürün Sayfası"
+   },
+   "popup_policy": {
+      "message": "Gizlilik Politikası"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Bu Eklentiyi Puanlayın"
+   },
+   "popup_report": {
+      "message": "Bu Sayfayı Bildir"
+   },
+   "popup_settings": {
+      "message": "AYARLAR"
+   },
+   "popup_version": {
+      "message": "Versiyon"
+   },
+   "popup_warn": {
+      "message": "Online Security Pro'yu kapattığınızdan bu yana %d zararlı link teşhis ettik."
+   }
+}

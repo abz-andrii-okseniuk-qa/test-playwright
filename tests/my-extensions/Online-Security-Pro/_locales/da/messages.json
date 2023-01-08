@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "Ondsindet"
+   },
+   "Malware": {
+      "message": "Malware"
+   },
+   "Phishing": {
+      "message": "Phishing"
+   },
+   "Suspicious": {
+      "message": "Mistænksom"
+   },
+   "alert_back": {
+      "message": "Gå tilbage til sikkerhed"
+   },
+   "alert_continue": {
+      "message": "Fortsæt alligevel"
+   },
+   "alert_description": {
+      "message": "Denne hjemmeside er midlertidigt blokeret på grund af følgende årsager:"
+   },
+   "alert_false": {
+      "message": "Rapporter Falsk Positiv"
+   },
+   "alert_notrecommended": {
+      "message": "(Ikke anbefalet)"
+   },
+   "alert_recommended": {
+      "message": "(anbefales)"
+   },
+   "alert_safe": {
+      "message": "(Hvis du mener, at webstedet er sikkert)"
+   },
+   "alert_text": {
+      "message": "Dette websted indeholder links til virus eller andre softwareprogrammer, der kan afsløre personlige oplysninger, der er gemt eller skrevet på din computer, til ondsindede personer."
+   },
+   "alert_warning": {
+      "message": "Advarsel: Usikker hjemmeside blokeret!"
+   },
+   "ext_description": {
+      "message": "Online sikkerhed mod skadelig software, phishing og ondsindede websteder."
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "Ny! Beskyt din telefon med Comodo. Det er gratis til \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> og \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>. Hent den nu!"
+   },
+   "lang_id": {
+      "message": "1030"
+   },
+   "lang_name": {
+      "message": "Dansk"
+   },
+   "options_blocked": {
+      "message": "Blokeret"
+   },
+   "options_close": {
+      "message": "Tæt"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Indtast tekst"
+   },
+   "options_exclusions_removeall": {
+      "message": "Fjern alt"
+   },
+   "options_exclusions_removeselected": {
+      "message": "Fjern valgte"
+   },
+   "options_exclusions_search": {
+      "message": "Søg"
+   },
+   "options_exclusions_showingpage": {
+      "message": "viser side"
+   },
+   "options_exclusions_time": {
+      "message": "Opdagelsesdato og tid"
+   },
+   "options_exclusions_type": {
+      "message": "Trussel Type"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro muligheder"
+   },
+   "options_ignored": {
+      "message": "Ignoreret"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Udelukkelser"
+   },
+   "options_tab_title_url": {
+      "message": "Website Filtering Log"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Udelukkelser"
+   },
+   "options_title_url": {
+      "message": "Website Filtering Log"
+   },
+   "options_url_action": {
+      "message": "Handling taget"
+   },
+   "options_url_placeholder": {
+      "message": "Indtast tekst"
+   },
+   "options_url_removeall": {
+      "message": "Fjern alt"
+   },
+   "options_url_removeselected": {
+      "message": "Fjern valgte"
+   },
+   "options_url_search": {
+      "message": "Søg"
+   },
+   "options_url_showingpage": {
+      "message": "viser side"
+   },
+   "options_url_time": {
+      "message": "Opdagelsesdato og tid"
+   },
+   "options_url_type": {
+      "message": "Trussel Type"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "OM"
+   },
+   "popup_click": {
+      "message": "Klik her"
+   },
+   "popup_exclusions": {
+      "message": "Rediger ekskluderingsliste"
+   },
+   "popup_feedback": {
+      "message": "Feedback"
+   },
+   "popup_help": {
+      "message": "Hjælp"
+   },
+   "popup_history": {
+      "message": "Check Historie"
+   },
+   "popup_license": {
+      "message": "Licens"
+   },
+   "popup_notes": {
+      "message": "Udgivelses Noter"
+   },
+   "popup_notifications": {
+      "message": "MEDDELELSER"
+   },
+   "popup_page": {
+      "message": "Produktside"
+   },
+   "popup_policy": {
+      "message": "Fortrolighedspolitik"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Vurder Denne Udvidelse"
+   },
+   "popup_report": {
+      "message": "Rapportér denne side"
+   },
+   "popup_settings": {
+      "message": "INDSTILLINGER"
+   },
+   "popup_version": {
+      "message": "Version"
+   },
+   "popup_warn": {
+      "message": "Vi fangede %d ondsindede links, da du deaktiverede Online Security Pro"
+   }
+}

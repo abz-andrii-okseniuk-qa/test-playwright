@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "Malicious"
+   },
+   "Malware": {
+      "message": "Malware"
+   },
+   "Phishing": {
+      "message": "Phishing"
+   },
+   "Suspicious": {
+      "message": "Suspicious"
+   },
+   "alert_back": {
+      "message": "Go back to safety"
+   },
+   "alert_continue": {
+      "message": "Continue Anyway"
+   },
+   "alert_description": {
+      "message": "This website has been blocked temporarily because of the following reason(s):"
+   },
+   "alert_notrecommended": {
+      "message": "(Not Recommended)"
+   },
+   "alert_recommended": {
+      "message": "(Recommended)"
+   },
+   "alert_report": {
+      "message": "Report False Positive"
+   },
+   "alert_safe": {
+      "message": "(If you think site is safe)"
+   },
+   "alert_text": {
+      "message": "This site contains links to viruses or other software programs that can reveal personal information stored or typed on your computer to malicious persons."
+   },
+   "alert_warning": {
+      "message": "Warning : Unsafe website blocked!"
+   },
+   "ext_description": {
+      "message": "Online security against malware, phishing and malicious websites."
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "New! Protect your phone with Comodo. It is free for \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> and \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>. Get it now!"
+   },
+   "lang_id": {
+      "message": "1033"
+   },
+   "lang_name": {
+      "message": "English"
+   },
+   "options_blocked": {
+      "message": "Blocked"
+   },
+   "options_close": {
+      "message": "Close"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Enter Text"
+   },
+   "options_exclusions_removeall": {
+      "message": "Remove All"
+   },
+   "options_exclusions_removeselected": {
+      "message": "Remove Selected"
+   },
+   "options_exclusions_search": {
+      "message": "Search"
+   },
+   "options_exclusions_showingpage": {
+      "message": "showing page"
+   },
+   "options_exclusions_time": {
+      "message": "Detection Date and Time"
+   },
+   "options_exclusions_type": {
+      "message": "Threat Type"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro Options"
+   },
+   "options_ignored": {
+      "message": "Ignored"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Exclusions"
+   },
+   "options_tab_title_url": {
+      "message": "Website Filtering Log"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Exclusions"
+   },
+   "options_title_url": {
+      "message": "Website Filtering Log"
+   },
+   "options_url_action": {
+      "message": "Action Taken"
+   },
+   "options_url_placeholder": {
+      "message": "Enter Text"
+   },
+   "options_url_removeall": {
+      "message": "Remove All"
+   },
+   "options_url_removeselected": {
+      "message": "Remove Selected"
+   },
+   "options_url_search": {
+      "message": "Search"
+   },
+   "options_url_showingpage": {
+      "message": "showing page"
+   },
+   "options_url_time": {
+      "message": "Detection Date and Time"
+   },
+   "options_url_type": {
+      "message": "Threat Type"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "ABOUT"
+   },
+   "popup_click": {
+      "message": "Click here"
+   },
+   "popup_exclusions": {
+      "message": "Edit Exclusion List"
+   },
+   "popup_feedback": {
+      "message": "Feedback"
+   },
+   "popup_help": {
+      "message": "Help"
+   },
+   "popup_history": {
+      "message": "Check History"
+   },
+   "popup_license": {
+      "message": "License"
+   },
+   "popup_notes": {
+      "message": "Release Notes"
+   },
+   "popup_notifications": {
+      "message": "NOTIFICATIONS"
+   },
+   "popup_page": {
+      "message": "Product Page"
+   },
+   "popup_policy": {
+      "message": "Privacy Policy"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Rate This Extension"
+   },
+   "popup_report": {
+      "message": "Report this page"
+   },
+   "popup_settings": {
+      "message": "SETTINGS"
+   },
+   "popup_version": {
+      "message": "Version"
+   },
+   "popup_warn": {
+      "message": "We catched %d malicious links since you disabled Online Security Pro"
+   }
+}

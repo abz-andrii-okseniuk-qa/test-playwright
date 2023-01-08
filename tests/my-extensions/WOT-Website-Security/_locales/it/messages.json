@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "Icona +18"
+   },
+   "18IconOFF": {
+      "message": "Non mostrare le icone dei contenuti per adulti accanto alle ciambelle"
+   },
+   "18IconON": {
+      "message": "Mostra le icone dei contenuti per adulti accanto alle ciambelle"
+   },
+   "Add": {
+      "message": "Aggiungi"
+   },
+   "AdultC": {
+      "message": "Contenuto per adulti"
+   },
+   "AllowAlways": {
+      "message": "Consenti sempre"
+   },
+   "AllowOnce": {
+      "message": "Consenti popup una volta"
+   },
+   "AlternativeMedicine": {
+      "message": "Medicina alternativa"
+   },
+   "BadReviewWarningText": {
+      "message": "In passato hai assegnato una valutazione bassa a questo sito. Procedi con cautela."
+   },
+   "BlocksPopup": {
+      "message": "Blocca popup"
+   },
+   "BlocksPopupText": {
+      "message": "Blocca tutti i popup e i programmi potenzialmente indesiderati"
+   },
+   "Carefulx": {
+      "message": "Attenzione!"
+   },
+   "DoNotShowAgain": {
+      "message": "Non mostrare più per questo sito"
+   },
+   "Error0": {
+      "message": "Errore sconosciuto"
+   },
+   "Error400": {
+      "message": "Indirizzo e-mail non valido"
+   },
+   "Error4001": {
+      "message": "Autorizzazione richiesta"
+   },
+   "Error4002": {
+      "message": "Nome utente o password non corretti"
+   },
+   "Error4003": {
+      "message": "Credenziali mancanti"
+   },
+   "Error4004": {
+      "message": "Utente bloccato"
+   },
+   "Error4005": {
+      "message": "Ti sei disconnesso. Accedi di nuovo."
+   },
+   "Error4006": {
+      "message": "Ti sei disconnesso. Accedi di nuovo."
+   },
+   "Error4007": {
+      "message": "Accesso non riuscito, riprova più tardi"
+   },
+   "Error4008": {
+      "message": "Accesso non riuscito, riprova più tardi"
+   },
+   "Error4009": {
+      "message": "Utente già registrato"
+   },
+   "Error401": {
+      "message": "Non autorizzato"
+   },
+   "Error4010": {
+      "message": "Utente già registrato"
+   },
+   "Error4101": {
+      "message": "Link reimpostazione password non valido"
+   },
+   "Error4102": {
+      "message": "Link reimpostazione password scaduto"
+   },
+   "ExperienceFullPower": {
+      "message": "Prova tutta la potenza di WOT"
+   },
+   "FAQ": {
+      "message": "FAQ"
+   },
+   "Forgot": {
+      "message": "Dimenticata?"
+   },
+   "ForgotBelow": {
+      "message": "Richiedi una nuova password"
+   },
+   "Gambling": {
+      "message": "Gioco d'azzardo"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "Dicci cosa ne pensi..."
+   },
+   "GoBack": {
+      "message": "← Torna indietro"
+   },
+   "GoToSetting": {
+      "message": "Vai alle impostazioni"
+   },
+   "GoodSite": {
+      "message": "Ottimo sito"
+   },
+   "GruesomeShocking": {
+      "message": "Terribile o scioccante"
+   },
+   "HateDiscrimination": {
+      "message": "Odio, discriminazione"
+   },
+   "HowCanWeImprove": {
+      "message": "Come possiamo migliorare?"
+   },
+   "IHaveAccount": {
+      "message": "Ho già un account. "
+   },
+   "IHaveNotAccount": {
+      "message": "Non ho un account. "
+   },
+   "Illegal": {
+      "message": "Potenzialmente illegale"
+   },
+   "IncidentalNudity": {
+      "message": "Nudità in secondo piano"
+   },
+   "LogInBelow": {
+      "message": "Accedi in basso"
+   },
+   "LogInFacebook": {
+      "message": "Accedi con Facebook"
+   },
+   "LogInGoogle": {
+      "message": "Accedi con Google+"
+   },
+   "LogInPasswordInput": {
+      "message": "password"
+   },
+   "LogInTwitter": {
+      "message": "Accedi con Twitter"
+   },
+   "LogInUsernameInput": {
+      "message": "nome utente o indirizzo e-mail"
+   },
+   "MalwareViruses": {
+      "message": "Malware o virus"
+   },
+   "MisleadingUnethical": {
+      "message": "Fuorviante o non etico"
+   },
+   "NOT_SAFE": {
+      "message": "NON SICURO!"
+   },
+   "NewPassword": {
+      "message": "Inviami una nuova password tramite e-mail"
+   },
+   "NotAppropriate": {
+      "message": "Non adatto ai bambini"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "Opinioni, religione, politica"
+   },
+   "Phishing": {
+      "message": "Phishing"
+   },
+   "PoorExperience": {
+      "message": "Scarsa esperienza dei clienti"
+   },
+   "PopupNotification": {
+      "message": "Mostra una notifica"
+   },
+   "PopupNotificationText": {
+      "message": "Mostra una notifica nella pagina quando viene bloccato un popup"
+   },
+   "PrivacyRisks": {
+      "message": "Rischi per la privacy"
+   },
+   "ProtectionsFeatures": {
+      "message": "Rimani al sicuro con l'Assistente WOT"
+   },
+   "ProtectionsFeatures2": {
+      "message": "Controlla i collegamenti prima di navigare"
+   },
+   "Pts": {
+      "message": "(%POINTS% pt.)"
+   },
+   "RateThisWebsite": {
+      "message": "Valuta questo sito"
+   },
+   "RememberMe": {
+      "message": "Ricordami"
+   },
+   "SAFE": {
+      "message": "SICURO!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "Mostra sempre i tipi di icone accanto ai collegamenti (rosso, giallo, verde)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "Mostra solo l'icona rossa accanto ai siti con una scarsa valutazione"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "Non mostrare alcuna reputazione"
+   },
+   "Scam": {
+      "message": "Scam"
+   },
+   "Send": {
+      "message": "Invia"
+   },
+   "ShowLess": {
+      "message": "Riduci"
+   },
+   "ShowMore": {
+      "message": "Espandi"
+   },
+   "SignUp": {
+      "message": "Registrati"
+   },
+   "SignUpBelow": {
+      "message": "Registrati in basso"
+   },
+   "SignUpFacebook": {
+      "message": "Registrati con Facebook"
+   },
+   "SignUpGoogle": {
+      "message": "Registrati con Google+"
+   },
+   "SignUpPasswordInput": {
+      "message": "scegli una password"
+   },
+   "SignUpTwitter": {
+      "message": "Registrati con Twitter"
+   },
+   "SignUpUsernameInput": {
+      "message": "indirizzo e-mail"
+   },
+   "SiteKids": {
+      "message": "Sito per bambini"
+   },
+   "Spam": {
+      "message": "Spam"
+   },
+   "Submit": {
+      "message": "Invia"
+   },
+   "Suspicious": {
+      "message": "Sospetto"
+   },
+   "TakeMoment": {
+      "message": "Vorremmo conoscere la tua opinione."
+   },
+   "UNKNOWN": {
+      "message": "SCONOSCIUTO"
+   },
+   "UnwantedPrograms": {
+      "message": "Programmi potenzialmente indesiderati"
+   },
+   "ViewMyAccount": {
+      "message": "Visualizza il mio account"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "Mostra gli avvisi per tutti i siti che hanno una scarsa valutazione"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "Mostra solo avvisi su siti dannosi"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "Non mostrare alcun avviso"
+   },
+   "WantMore": {
+      "message": "Vuoi dirci di più?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "Cosa fare con queste violazioni"
+   },
+   "WhitelistPlaceholder": {
+      "message": "Aggiungere un sito in cui non si desidera visualizzare gli avvisi (per es. Google.com)."
+   },
+   "WriteYourReview": {
+      "message": "Scrivi una recensione…"
+   },
+   "accurace": {
+      "message": "Precisione"
+   },
+   "activate": {
+      "message": "Attiva"
+   },
+   "activateProtection": {
+      "message": "Attiva la protezione"
+   },
+   "addAReview": {
+      "message": "Aggiungi recensione"
+   },
+   "adsOrPopups": {
+      "message": "Annunci / Popup"
+   },
+   "adult": {
+      "message": "Adulti"
+   },
+   "adultContent": {
+      "message": "Contenuto per adulti"
+   },
+   "adultContentProtection": {
+      "message": "Protezione dei contenuti per adulti"
+   },
+   "adultProtection": {
+      "message": "Protezione siti per adulti"
+   },
+   "adultProtectionText": {
+      "message": "Queste impostazioni di protezione siti per adulti si applicano a tutti i siti Web di ogni categoria"
+   },
+   "adultProtectionTooltip": {
+      "message": "Contenuti inappropriati, porno e giochi d'azzardo saranno bloccati"
+   },
+   "adultSettingMoreOptions": {
+      "message": "Altre opzioni"
+   },
+   "adultSettingSubtitle": {
+      "message": "Blocca siti porno e di giochi d'azzardo"
+   },
+   "adultSettingTitle": {
+      "message": "Protezione siti per adulti"
+   },
+   "ago": {
+      "message": "fa"
+   },
+   "agreeContinue": {
+      "message": "Accetto e continua"
+   },
+   "all": {
+      "message": "Tutti"
+   },
+   "allTrackersBlocked": {
+      "message": "%1% tracker bloccati"
+   },
+   "allWebsites": {
+      "message": "per tutti i siti"
+   },
+   "allow": {
+      "message": "Consenti"
+   },
+   "almostDone": {
+      "message": "Hai quasi finito"
+   },
+   "always": {
+      "message": "Sempre"
+   },
+   "analytics": {
+      "message": "Analytics (Analisi)"
+   },
+   "antiPhishingAndScams": {
+      "message": "Anti-phishing e truffe"
+   },
+   "appDescription": {
+      "message": "Scopri la reputazione e le informazioni di sicurezza di qualsiasi sito web sulla base dell'esperienza degli utenti. L'estensione Chrome ufficiale di Web of Trust."
+   },
+   "appName": {
+      "message": "Sicurezza Web WOT e protezione sicura della navigazione"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "Confermare?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "Scrivere una nuova recensione per questo sito Web"
+   },
+   "assistantSettingSubtitle": {
+      "message": "Acquista e cerca online in tutta sicurezza"
+   },
+   "assistantSettingTitle": {
+      "message": "Scudo dell'Assistente WOT"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "Aprire lo scorrimento WOT"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "Numero di tracker rilevati in questa pagina"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOT consente di visualizzare e bloccare i tracker su tutti i siti Web visitati per controllare chi raccoglie i dati."
+   },
+   "autoScanDevice": {
+      "message": "Scansione automatica dispositivo"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "Assicurati di eseguire regolarmente la scansione del dispositivo per rilevare eventuali minacce alla sicurezza e/o violazioni."
+   },
+   "autoScanDeviceText": {
+      "message": "Assicurati di eseguire regolarmente la scansione del dispositivo per rilevare eventuali minacce alla sicurezza e/o violazioni."
+   },
+   "avoidHarmfulSites": {
+      "message": "Evita siti falsi e dannosi"
+   },
+   "back": {
+      "message": "Indietro"
+   },
+   "beTheFirstToReview": {
+      "message": "Puoi essere il primo a votare questo sito"
+   },
+   "blacklistsPreCheck": {
+      "message": "Blacklist aggiornate"
+   },
+   "block": {
+      "message": "Blocca"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "Blocca automaticamente tutti i tracker su ogni sito web visitato"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "Blocca automaticamente tutti i tracker disponibili solo per utenti Premium"
+   },
+   "blockTrackers": {
+      "message": "Blocco dei tracker"
+   },
+   "blockUnsafeWebsites": {
+      "message": "Blocca siti Web e link non sicuri"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT si assicurerà di avvisarti in anticipo del clic accidentale su link non sicuri o dell'accesso a siti Web non sicuri o dannosi."
+   },
+   "blocked": {
+      "message": "Bloccato!"
+   },
+   "blocksHackingAttacks": {
+      "message": "Blocca gli attacchi hacking ogni 39 secondi"
+   },
+   "breachedDate": {
+      "message": "Data della violazione"
+   },
+   "breachesAlert": {
+      "message": "Le tue informazioni personali e/o password sono state compromesse ed esposte"
+   },
+   "browse": {
+      "message": "Naviga"
+   },
+   "browserNotProtected": {
+      "message": "Il browser non è protetto"
+   },
+   "browserProtected": {
+      "message": "Il tuo browser è protetto"
+   },
+   "browserSecured": {
+      "message": "Questo browser è protetto."
+   },
+   "bugs": {
+      "message": "bug"
+   },
+   "canHelp": {
+      "message": "Come possiamo aiutarti?"
+   },
+   "cancel": {
+      "message": "Annulla"
+   },
+   "careful": {
+      "message": "Attenzione!"
+   },
+   "categoriesExplained": {
+      "message": "Queste categorie potrebbero applicarsi a questo sito web"
+   },
+   "changePassword": {
+      "message": "Cambia password"
+   },
+   "changePasswordSubtitle": {
+      "message": "Assicurati che ogni password sia univoca, diversa e difficile da indovinare. Non utilizzare mai la stessa password due volte."
+   },
+   "changePasswordText": {
+      "message": "Assicurati che ogni password sia univoca, diversa e difficile da indovinare. Non utilizzare mai la stessa password due volte."
+   },
+   "checkLeaks": {
+      "message": "Controlla le fughe di dati"
+   },
+   "checkUrl": {
+      "message": "Controlla l'URL"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Controlla qualsiasi livello di sicurezza del sito"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT ti offre tre modi per controllare qualsiasi livello di sicurezza dei siti web: pagina dei risultati del motore di ricerca di Google, icona della barra degli strumenti del browser e scorecard dettagliato e recensioni"
+   },
+   "chooseTags": {
+      "message": "Scegli i tag che descrivono %DOMAIN%"
+   },
+   "chooseTagsForSite": {
+      "message": "Scegli i tag che meglio descrivono questo sito:"
+   },
+   "chooseTagsThatDescribes": {
+      "message": "Scegli i tag che descrivono il sito"
+   },
+   "clearPolicy": {
+      "message": "Cancella policy"
+   },
+   "clickAllTags": {
+      "message": "Fai clic sui tag appropriati"
+   },
+   "clickOnTheGearIcon": {
+      "message": "Fai clic su %GEARICON% per attivare/disattivare il popup"
+   },
+   "close": {
+      "message": "Chiudi"
+   },
+   "contactUs": {
+      "message": "Contattaci"
+   },
+   "containAdultContent": {
+      "message": "Questo sito potrebbe presentare contenuti per adulti"
+   },
+   "contentWarning": {
+      "message": "Contenuto per adulti bloccato"
+   },
+   "coolGotIt": {
+      "message": "Bene, ho capito"
+   },
+   "dataBreachHookText": {
+      "message": "A volte può essere rischioso"
+   },
+   "dataBreachHookTitle": {
+      "message": "Stai per inserire i tuoi dati di accesso?"
+   },
+   "dataLeakMonitoring": {
+      "message": "Monitoraggio delle violazioni di dati"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "sono state rilevate fughe di dati associate a questo account di posta elettronica"
+   },
+   "dayAgo": {
+      "message": "un giorno fa"
+   },
+   "daysAgo": {
+      "message": "%1% giorni fa"
+   },
+   "default": {
+      "message": "Predefinita"
+   },
+   "defaultManualModeButton": {
+      "message": "Continua e attiva"
+   },
+   "defaultManualModeHeader": {
+      "message": "Ricevi risultati e info dettagliate in tempo reale"
+   },
+   "defaultManualModeText": {
+      "message": "La protezione proattiva di WOT è disabilitata. Non saremo in grado di mostrarti valutazioni e avvisi sul tuo sito Web."
+   },
+   "defaultText": {
+      "message": "Blocca ed evita i siti Web con una bassa reputazione. (Consigliato)"
+   },
+   "del": {
+      "message": "Elimina"
+   },
+   "delete": {
+      "message": "Sì, elimina"
+   },
+   "deleteThisReview": {
+      "message": "Eliminare questa recensione?"
+   },
+   "digitalTrackingProtection": {
+      "message": "Protezione dal tracciamento digitale"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "Impedisci automaticamente a tutti i servizi di monitorare le tue abitudini di navigazione online."
+   },
+   "disableOnAllWebsites": {
+      "message": "Sì, disattiva in tutti i siti"
+   },
+   "disableOnThusWebsites": {
+      "message": "Sì, disattiva solo in questo sito"
+   },
+   "disableWOTHelper": {
+      "message": "Disattivare l'Assistente WOT?"
+   },
+   "disableWOTHelperText": {
+      "message": "L'Assistente WOT ti fornisce una rapida indicazione del punteggio e i commenti della pagina che stai visitando. Puoi disattivarlo dalle impostazioni di WOT."
+   },
+   "disagree": {
+      "message": "Non accetto"
+   },
+   "dismissWarning": {
+      "message": "Ignora avviso"
+   },
+   "done": {
+      "message": "FATTO"
+   },
+   "dontShowAgain": {
+      "message": "Non mostrarmi più."
+   },
+   "dontShowOnThisSite": {
+      "message": "Non mi avvisare di nuovo su questo sito"
+   },
+   "dontShowThis": {
+      "message": "Non mostrare più"
+   },
+   "donuts": {
+      "message": "Icone di reputazione accanto ai collegamenti"
+   },
+   "downloadClassicWot": {
+      "message": "Scarica WOT Classic"
+   },
+   "downloadMobileWot": {
+      "message": "Scarica WOT Mobile"
+   },
+   "edit": {
+      "message": "Modifica"
+   },
+   "editYourReview": {
+      "message": "Modifica la tua recensione"
+   },
+   "empty": {
+      "message": "Lista vuota"
+   },
+   "enable": {
+      "message": "ABILITA"
+   },
+   "enableEnhancedProtection": {
+      "message": "Abilita la protezione avanzata"
+   },
+   "enjoyingWot": {
+      "message": "Ti piace WOT?"
+   },
+   "errorAction": {
+      "message": "OK"
+   },
+   "errorContent": {
+      "message": "Spiacenti. Aggiorna la pagina corrente e riprova."
+   },
+   "errorTitle": {
+      "message": "Si è verificato un errore"
+   },
+   "extraFeaturesTitle": {
+      "message": "Scopri cos'altro ha da offrire WOT"
+   },
+   "faqSupport": {
+      "message": "FAQ e assistenza"
+   },
+   "findHelp": {
+      "message": "Trova aiuto o mettiti in contatto con noi"
+   },
+   "firstRate": {
+      "message": "Valuta per primo questo sito"
+   },
+   "followUs": {
+      "message": "Seguici"
+   },
+   "forAllPremiumPlans": {
+      "message": "Per tutti i piani premium"
+   },
+   "forum": {
+      "message": "Forum"
+   },
+   "freeTrialEndend": {
+      "message": "%2% giorni di prova gratuita rimasti"
+   },
+   "freeUserBlockTitle": {
+      "message": "Vuoi una protezione da altri siti web dannosi?"
+   },
+   "gamblingSites": {
+      "message": "Siti di giochi d'azzardo"
+   },
+   "gamblingSitesText": {
+      "message": "I siti Web con giochi e contenuti di azzardo saranno bloccati"
+   },
+   "generalSettings": {
+      "message": "Impostazioni generali"
+   },
+   "generalSettingsDescription": {
+      "message": "Personalizza le impostazioni in base alle tue esigenze e rimani protetto"
+   },
+   "getFullCoverage": {
+      "message": "Protezione completa della navigazione"
+   },
+   "getFullProtection": {
+      "message": "Ottieni la protezione totale WOT"
+   },
+   "getMorePremium": {
+      "message": "Ottieni di più con Premium"
+   },
+   "getPhishingAlert": {
+      "message": "Ottieni avvisi di phishing"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "Ti protegge dai più recenti siti di phishing e attacchi di Social Engineering."
+   },
+   "getWOTPremium": {
+      "message": "Ottieni WOT Premium per una protezione completa contro hacker, virus e siti web dannosi."
+   },
+   "gmailProtectionDescription": {
+      "message": "Ricevi avvisi relativi a email sospette nella casella di posta in arrivo"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "Progettato per rilevare rapidamente le email di phishing"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "Rilevamento intelligente email"
+   },
+   "gmailProtectionTitle": {
+      "message": "Protezione email"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "Personalizza la protezione email e inserisci gli indirizzi URL attendibili"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "Aggiungi gli indirizzi URL attendibili (ad esempio: sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "Elenco consentiti"
+   },
+   "goPremium": {
+      "message": "Passa a Premium"
+   },
+   "goToLeakReport": {
+      "message": "Vedi il report sulle violazioni"
+   },
+   "goToSite": {
+      "message": "Apri comunque il sito"
+   },
+   "goodService": {
+      "message": "Buon servizio"
+   },
+   "gotIt": {
+      "message": "Ho capito"
+   },
+   "greatSupport": {
+      "message": "Ottimo supporto"
+   },
+   "hide": {
+      "message": "Nascondi"
+   },
+   "hideWotAssistant": {
+      "message": "Nascondi l'Assistente WOT"
+   },
+   "hideWotAssistantText": {
+      "message": "Una volta fatto clic su \"Nascondi\", il caricamento della pagina Assistente WOT non verrà più visualizzato. È sempre possibile modificare tale impostazione in un secondo momento."
+   },
+   "high": {
+      "message": "Alta"
+   },
+   "highText": {
+      "message": "Blocca qualsiasi sito Web sospetto. I siti Web con contenuti non adatti ai bambini saranno bloccati automaticamente"
+   },
+   "holdOn": {
+      "message": "Aspetta!"
+   },
+   "hour": {
+      "message": "ora"
+   },
+   "hourAgo": {
+      "message": "un'ora fa"
+   },
+   "hourMinutesAgo": {
+      "message": "un'ora%2% minuti fa"
+   },
+   "hours": {
+      "message": "ore"
+   },
+   "hoursAgo": {
+      "message": "%1% ore fa"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1%ore%2% minuti fa"
+   },
+   "hoverOverTheWOT": {
+      "message": "Passa con il mouse sull'icona di WOT %DONUTICON% per visualizzare la reputazione del sito"
+   },
+   "howWouldYouRate": {
+      "message": "Esprimi un giudizio da 1 a 5 in merito a questo sito web"
+   },
+   "identityProtection": {
+      "message": "Protezione dell'identità"
+   },
+   "identityProtectionModalMessage": {
+      "message": "Abilitando la funzione di protezione dell'identità, accetti di condividere il tuo indirizzo email con una terza parte che fornisce un servizio di protezione e monitoraggio con password"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT avvisa quando si verificano perdite di dati personali, in modo da poter agire rapidamente per prevenire furti di identità e future violazioni."
+   },
+   "increaseOnlineSecurity": {
+      "message": "Aumenta la sicurezza online"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "Abilita l'autenticazione a due fattori per accedere ai tuoi account personali che contengono informazioni sensibili"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "Abilita l'autenticazione a due fattori per accedere ai tuoi account personali che contengono informazioni sensibili."
+   },
+   "installed": {
+      "message": "Installato"
+   },
+   "isSafe": {
+      "message": "Secondo te questo sito è sicuro?"
+   },
+   "issuesFound": {
+      "message": "%ISSUES% problemi trovati"
+   },
+   "justNow": {
+      "message": "proprio adesso"
+   },
+   "lang": {
+      "message": "it-IT"
+   },
+   "lastScanned": {
+      "message": "Ultima scansione"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT ti avviserà in tempo reale sulle violazioni dei dati contenenti le tue informazioni personali in modo che tu possa proteggerti online."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "Abilitando la funzione di monitoraggio alla violazione di dati, accetti di condividere il tuo indirizzo email con una terza parte che fornisce un servizio di protezione e monitoraggio con password"
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "Per proteggere le tue informazioni personali e la tua identità digitale, segui questi passaggi:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "Cosa fare se si verificano perdite di dati personali?"
+   },
+   "leakedInformation": {
+      "message": "Informazioni trapelate"
+   },
+   "legalAnd": {
+      "message": "e"
+   },
+   "legalPrivacyPolicy": {
+      "message": "Informativa sulla privacy"
+   },
+   "legalStatement": {
+      "message": "Per offrire protezione in tempo reale, manutenzione e per migliorare il nostro servizio, dobbiamo inviare ai nostri server informazioni sui siti Web visitati. Facendo clic su \"Accetto\", si accettano le nostre"
+   },
+   "letCommunityKnow": {
+      "message": "Che tu abbia avuto una buona esperienza o dubbi sull'utilizzo di questo sito, informa la nostra community."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "Fai conoscere ad altri la tua esperienza su questo sito"
+   },
+   "limitedTimeOffer": {
+      "message": "Offerta a tempo limitato"
+   },
+   "lite": {
+      "message": "Lite"
+   },
+   "liteText": {
+      "message": "Ti disturberemo solo se sarà necessario"
+   },
+   "liveBlocking": {
+      "message": "Blocco dal vivo"
+   },
+   "loading": {
+      "message": "Caricamento…"
+   },
+   "logOut": {
+      "message": "Disconnetti"
+   },
+   "login": {
+      "message": "Accedi"
+   },
+   "looksSafe": {
+      "message": "Sembra sicuro"
+   },
+   "manage": {
+      "message": "Gestisci"
+   },
+   "manageProtection": {
+      "message": "Gestisci la protezione"
+   },
+   "manageSubscriptions": {
+      "message": "Gestisci gli abbonamenti"
+   },
+   "manageTrackers": {
+      "message": "gestire tracker"
+   },
+   "manualModeAgree": {
+      "message": "Facendo clic su \"Attiva\", si accettano le nostre"
+   },
+   "manualModeWarning": {
+      "message": "Ora stai navigando in modalità manuale: la protezione proattiva di WOT è disabilitata e non saremo in grado di proteggerti da siti pericolosi"
+   },
+   "manualModeWarningStrip": {
+      "message": "Stai navigando in modalità manuale e molte funzioni non saranno disponibili"
+   },
+   "marketing": {
+      "message": "Marketing"
+   },
+   "maybeNextTime": {
+      "message": "Forse la prossima volta"
+   },
+   "messageSubmitted": {
+      "message": "Messaggio inviato correttamente."
+   },
+   "minute": {
+      "message": "minuto"
+   },
+   "minuteAgo": {
+      "message": "un minuto fa"
+   },
+   "minutes": {
+      "message": "minuti"
+   },
+   "minutesAgo": {
+      "message": "%1% minuti fa"
+   },
+   "missingReviews": {
+      "message": "Recensioni mancanti"
+   },
+   "month": {
+      "message": "mese"
+   },
+   "monthAgo": {
+      "message": "un mese fa"
+   },
+   "monthsAgo": {
+      "message": "%1% mesi fa"
+   },
+   "moreInfo": {
+      "message": "Maggiori informazioni"
+   },
+   "myDashboardNav": {
+      "message": "La mia dashboard"
+   },
+   "myProfile": {
+      "message": "Il mio profilo"
+   },
+   "newDataLeaksFound": {
+      "message": "%1% nuove fughe di dati trovate"
+   },
+   "next": {
+      "message": "Avanti"
+   },
+   "no": {
+      "message": "No"
+   },
+   "noBreaches": {
+      "message": "Buone notizie! Non è stata rilevata alcuna perdita di dati"
+   },
+   "noComments": {
+      "message": "Nessuna recensione"
+   },
+   "noKeepIt": {
+      "message": "No, mantienilo"
+   },
+   "noReviewsYet": {
+      "message": "Nessuna recensione"
+   },
+   "noSkip": {
+      "message": "No, ignora"
+   },
+   "noThanks": {
+      "message": "No, grazie"
+   },
+   "noTrackersBlocked": {
+      "message": "%1% tracker rilevati"
+   },
+   "noTrackersDetected": {
+      "message": "Nessun tracker rilevato"
+   },
+   "none": {
+      "message": "Nessuno"
+   },
+   "notSecurity": {
+      "message": "Problemi di sicurezza?"
+   },
+   "notSuitableForChildren": {
+      "message": "Ci sono contenuti non adatti ai bambini?"
+   },
+   "notSure": {
+      "message": "Non sono sicuro"
+   },
+   "off": {
+      "message": "Disattiva"
+   },
+   "okGotIt": {
+      "message": "OK, ho capito"
+   },
+   "on": {
+      "message": "su"
+   },
+   "onBoarding4States": {
+      "message": "Ci sono 4 stati:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "per verificare la reputazione di qualsiasi sito web prima di accedervi."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "Passa il mouse sull'icona dello scudo"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "Dashboard reputazione"
+   },
+   "onBoardingReputationScore": {
+      "message": "Punteggio di reputazione"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "Ora puoi navigare in modo sicuro sul web senza preoccupazioni. Assicurati di controllare l'icona dello scudo prima di fare clic su qualsiasi sito web sconosciuto!"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "Il popup indica il punteggio assegnato a qualsiasi sito. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "Questo sito web è %SAFETY% per WOT!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "Puoi fare clic su \"Leggi recensioni\" per leggere altre recensioni degli utenti."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "Tutto pronto!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1 tracker bloccato"
+   },
+   "oneTrackerDetected": {
+      "message": "1 tracker rilevato"
+   },
+   "optinAreYouSureMessage": {
+      "message": "Per fornirti una protezione web in tempo reale a 360 gradi, alcune delle funzionalità di WOT richiedono l'accesso a informazioni anonime raccolte dai siti web che visiti. Queste informazioni non saranno condivise con terzi né utilizzate per scopi di marketing. Puoi modificare le tue preferenze in qualsiasi momento visitando la pagina delle impostazioni."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT ti avvisa quando ricevi email di truffa, phishing, sospette, malware e spam"
+   },
+   "optinGoBack": {
+      "message": "INDIETRO"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "Attiva la protezione live"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "Protezione migliorata"
+   },
+   "optinHeaderInstallation": {
+      "message": "Installato correttamente"
+   },
+   "optinHeaderScanDevice": {
+      "message": "Dispositivo di scansione"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "Configura il tuo browser"
+   },
+   "optinMaybeLater": {
+      "message": "Forse più tardi."
+   },
+   "optinProtectYourEmail": {
+      "message": "Proteggi la tua email"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "Il logo trovato nella barra degli strumenti del browser cambierà a seconda della reputazione del sito"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "Cerca il logo WOT"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "WOT ti avviserà se accedi a un sito con scarsa reputazione"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "Ricevi avvisi in tempo reale"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "Controlla il colore del logo WOT nelle pagine dei risultati dei motori di ricerca per vedere quali siti sono sicuri da navigare"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "Segna i risultati della ricerca"
+   },
+   "optinReputationIconsText": {
+      "message": "Prendi decisioni informate online grazie alle ciambelle di sicurezza WOT accanto ai link web."
+   },
+   "optinSafetyScoreText": {
+      "message": "Utilizza le valutazioni per controllare la reputazione e le recensioni del sito."
+   },
+   "optinSubtitle": {
+      "message": "Per proteggerti in tempo reale, abbiamo bisogno di accedere agli URL che navighi"
+   },
+   "optinTitle": {
+      "message": "Consenti protezione del browser"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "Evita siti web che potrebbero essere dannosi o avere una cattiva reputazione bloccandoli."
+   },
+   "optinWelcomeSubtitle": {
+      "message": "Ti sei appena unito{millionMembers}, proteggendoti a vicenda usando WOT"
+   },
+   "or": {
+      "message": " o "
+   },
+   "other": {
+      "message": "Altri"
+   },
+   "outOfHere": {
+      "message": "Abbandona"
+   },
+   "ownThisSite": {
+      "message": "Sei il proprietario di questo sito?"
+   },
+   "parentalControl": {
+      "message": "Controllo dei genitori"
+   },
+   "parentalControlOFF": {
+      "message": "I siti con contenuto inappropriato per i bambini non saranno bloccati"
+   },
+   "parentalControlON": {
+      "message": "I siti con contenuto inappropriato per i bambini saranno bloccati"
+   },
+   "performance": {
+      "message": "Prestazioni"
+   },
+   "pinWot": {
+      "message": "Aggiungi WOT!"
+   },
+   "pinWotPopup": {
+      "message": "Aggiungi $WOT$ per vedere lo stato attuale di sicurezza del tuo sito web",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WoT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "Prendetevi un momento per valutarci"
+   },
+   "policy": {
+      "message": "Visualizza Informativa sulla privacy"
+   },
+   "poorCustomerService": {
+      "message": "Servizio clienti scadente"
+   },
+   "poorOnly": {
+      "message": "Solo scarsi"
+   },
+   "poorRating": {
+      "message": "Questo sito è sospetto."
+   },
+   "popupAdultStrip": {
+      "message": "Può contenere contenuti per adulti"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "In questa sezione puoi verificare se il sito che stai visitando è sicuro o meno."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "Fai clic sul link per leggere le recensioni."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "Ti diamo il benvenuto sul tuo nuovo WOT!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "Questa sezione mostra quanti servizi stanno monitorando le tue abitudini online."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "Fai clic sul link per regolare il blocco dei tracker."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "Tracker digitali"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "Fai clic qui per aprire le impostazioni dell'account e gestire la tua protezione."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "Gestire la protezione"
+   },
+   "postReview": {
+      "message": "Pubblica la recensione"
+   },
+   "potentiallyMalicious": {
+      "message": "Questo sito è potenzialmente dannoso."
+   },
+   "preCheck": {
+      "message": "VERIFICA PRELIMINARE"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "premiumFeature": {
+      "message": "Funzione Premium"
+   },
+   "premiumSecurity": {
+      "message": "Sicurezza Premium"
+   },
+   "premiumText": {
+      "message": "Tutta la sicurezza online di cui hai bisogno per proteggerti dai siti Web e dai link più dannosi"
+   },
+   "presettings": {
+      "message": "Impostazioni iniziali"
+   },
+   "protectPrivacy": {
+      "message": "Protezione dell'identità e della privacy "
+   },
+   "protectYourPrivacy": {
+      "message": "Blocco popup"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "Blocca i popup per una navigazione più pulita, veloce e sicura."
+   },
+   "protectYourself": {
+      "message": "Ricevi subito avvisi di perdita di dati"
+   },
+   "protectedForXDays": {
+      "message": "Protetto per %1% giorni"
+   },
+   "protection": {
+      "message": "protezione"
+   },
+   "rateOnStore": {
+      "message": "Valuta noi nello%BROWSER% Store"
+   },
+   "rateOverall": {
+      "message": "Valuta la tua *esperienza* complessiva su %DOMAIN%"
+   },
+   "rateThisSite": {
+      "message": "Valuta questo sito"
+   },
+   "rateUs": {
+      "message": "Valuta WOT"
+   },
+   "rateYourExperience": {
+      "message": "Valuta la tua esperienza complessiva su"
+   },
+   "readMoreReviews": {
+      "message": "Leggere altre recensioni (%1%)"
+   },
+   "readReviews": {
+      "message": "Leggi recensioni"
+   },
+   "realTimeCheckups": {
+      "message": "Controlli in tempo reale"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "Rimani al sicuro da phishing, malware e altre minacce in tempo reale."
+   },
+   "realtimePhishingAlerts": {
+      "message": "Avvisi di phishing in tempo reale"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "Segnalaci siti non affidabili o falsi che potrebbero mettere a rischio altri utenti"
+   },
+   "reputation": {
+      "message": "Reputazione"
+   },
+   "reputationIcons": {
+      "message": "Icone di reputazione"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT mostrerà il livello di sicurezza del sito web che stai visitando"
+   },
+   "restorePurchases": {
+      "message": "Ripristina gli acquisti"
+   },
+   "resultFor": {
+      "message": "Risultati per"
+   },
+   "reviewAddedErrorText": {
+      "message": "Si è verificato un errore. Riprova."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "Impossibile pubblicare la recensione"
+   },
+   "reviewAddedOKText": {
+      "message": "Grazie per aver reso Internet un posto più sicuro!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "Recensione pubblicata"
+   },
+   "reviews": {
+      "message": "Recensioni"
+   },
+   "rtOFF": {
+      "message": "Si sta utilizzando la modalità manuale, la protezione proattiva di WOT è disattivata"
+   },
+   "rtON": {
+      "message": "Si sta utilizzando la protezione proattiva con copertura completa di WOT."
+   },
+   "rtProtection": {
+      "message": "Protezione in tempo reale"
+   },
+   "rtProtectionRecommended": {
+      "message": "Protezione in tempo reale (consigliata)"
+   },
+   "safeBrowsing": {
+      "message": "Navigazione sicura"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT ti tiene sempre allerta online scansionando ogni sito, pagina e servizio che visiti con avvisi in tempo reale."
+   },
+   "safeSearch": {
+      "message": "Ricerca sicura"
+   },
+   "safeSearchSubtitle": {
+      "message": "Le icone verranno visualizzate accanto ai risultati di ricerca, per sapere se un sito web è sicuro o meno prima di fare clic."
+   },
+   "safeShopping": {
+      "message": "Acquisti sicuri"
+   },
+   "safeShoppingSite": {
+      "message": "Questo sito web è sicuro per lo shopping"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "In base all'algoritmo WOT, il machine learning e la recensione da parte degli utenti, questo sito web è sicuro per lo shopping"
+   },
+   "safetyScore": {
+      "message": "Punteggio di sicurezza"
+   },
+   "safetyScoreSubtitle": {
+      "message": "Usa le scorecard per controllare la reputazione e le recensioni del sito web e condividere la tua esperienza"
+   },
+   "scannedOn": {
+      "message": "rilevato il"
+   },
+   "scoreCard": {
+      "message": "Punteggio"
+   },
+   "searchEnginePageResults": {
+      "message": "Pagina Risultati motore di ricerca"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "Prendi decisioni informate online con l'indicatore di sicurezza di WOT accanto ai link del sito web"
+   },
+   "searchIndicator": {
+      "message": "Indicatore di ricerca"
+   },
+   "searchManualModeButton": {
+      "message": "Attiva la guida ai motori di ricerca"
+   },
+   "searchManualModeHeader": {
+      "message": "La guida di WOT risulta mancante"
+   },
+   "searchManualModeText": {
+      "message": "La protezione di WOT per i motori di ricerca è disabilitata. Non saremo in grado di mostrarti la valutazione di un sito Web accanto al link."
+   },
+   "security": {
+      "message": "Sicurezza"
+   },
+   "securityBreaches": {
+      "message": "minacce alla sicurezza!"
+   },
+   "securityRiskDetected": {
+      "message": "Rischi per la sicurezza rilevati"
+   },
+   "securityScore": {
+      "message": "Punteggio di sicurezza"
+   },
+   "securitySystem": {
+      "message": "Sistema di sicurezza"
+   },
+   "securityWarning": {
+      "message": "Avviso di sicurezza"
+   },
+   "seeLess": {
+      "message": "Mostra meno"
+   },
+   "seeMore": {
+      "message": "Maggiori informazioni"
+   },
+   "seeReviews": {
+      "message": "Vedi le recensioni"
+   },
+   "sendFeedback": {
+      "message": "Invia feedback"
+   },
+   "serpMailWarning": {
+      "message": "WOT trova questa email sospetta perché potrebbe contenere link pericolosi o URL di monitoraggio"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "Aggiorna e proteggi la mia email"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "Ricordamelo più tardi"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "Il 96% delle truffe online arriva via email. Non esitare, proteggiti ORA."
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "La tua email è a rischio!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT rileva e previene minacce online e monitoraggio per garantire la sicurezza delle informazioni personali."
+   },
+   "servicesTrackingYou": {
+      "message": "I servizi stanno monitorando la tua attività"
+   },
+   "settings": {
+      "message": "Impostazioni"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "SBLOCCA FUNZIONALITÀ PREMIUM"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "Migliora la tua protezione"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "Ovunque, in ogni momento."
+   },
+   "settingsBannerTitle": {
+      "message": "Un'esperienza di navigazione più sicura."
+   },
+   "setup": {
+      "message": "Configura"
+   },
+   "severeOnly": {
+      "message": "Solo gravi"
+   },
+   "share": {
+      "message": "Condividi"
+   },
+   "shareExperience": {
+      "message": "Condividi la tua esperienza su %1% e aiuta gli altri utenti"
+   },
+   "shareFeedback": {
+      "message": "Condividi il tuo commento"
+   },
+   "shareOnFacebook": {
+      "message": "Condividi su Facebook"
+   },
+   "shareOnGoogle": {
+      "message": "Condividi su Google +"
+   },
+   "shareOnTwitter": {
+      "message": "Condividi su Twitter"
+   },
+   "shareText1": {
+      "message": "Ho appena contribuito a rendere il web un posto migliore valutando %WEBSITE% su Web of Trust! Sei d'accordo? Esprimi la tua valutazione qui 👉 %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "Ho trovato il modo di navigare in modo sicuro ed evitare i siti non sicuri! Dai un'occhiata all'estensione Web of Trust: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Ho appena contribuito a rendere il web un posto migliore valutando %WEBSITE% con %STARS% stelle su 5 su Web of Trust! Sei d'accordo? Esprimi la tua valutazione qui 👉 %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": " Sto usando @Web_of_Trust per navigare in modo sicuro ed evitare i siti non sicuri. Provalo qui: %LINK% #WOT #MyWOT #Sicurezza"
+   },
+   "shareTextGoogleRate": {
+      "message": "Ho appena contribuito a rendere il web un posto migliore valutando %WEBSITE% con %STARS% stelle su 5 su Web of Trust! Sei d'accordo? Esprimi la tua valutazione qui 👉 %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": " Sto usando @Web_of_Trust per navigare in modo sicuro ed evitare i siti non sicuri. Provalo qui: %LINK% #WOT #MyWOT #Sicurezza"
+   },
+   "shareTextTwitterRate": {
+      "message": "Ho appena valutato %WEBSITE% con %STARS% stelle su 5 su WOT! Sei d'accordo? Esprimi la tua valutazione qui👉 %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "Ho trovato il modo di navigare in modo sicuro ed evitare i siti non sicuri! Dai un'occhiata all'estensione Web of Trust: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Ho appena contribuito a rendere il web un posto migliore valutando %WEBSITE% con %STARS% stelle su 5 su Web of Trust! Sei d'accordo? Esprimi la tua valutazione qui 👉 %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "Condividi WOT con gli amici!"
+   },
+   "shareWotRating": {
+      "message": "Condividi la tua valutazione di %DOMAIN% con gli amici!"
+   },
+   "shareYouRating": {
+      "message": "Condividi la valutazione con i tuoi amici"
+   },
+   "shopWithConfidence": {
+      "message": "Acquista con fiducia"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "Visualizza le recensioni degli acquirenti su qualsiasi negozio online e proteggiti dal phishing e dalle false truffe di e-commerce"
+   },
+   "signIn": {
+      "message": "Accedi"
+   },
+   "signInNow": {
+      "message": "Accedi ora"
+   },
+   "signInToRate": {
+      "message": "Effettua l'accesso per dare un voto e scrivere una recensione per questo sito web"
+   },
+   "siteIsSafe": {
+      "message": "Secondo te questo sito è *sicuro?*"
+   },
+   "siteIsSafeChildren": {
+      "message": "Questo sito è *sicuro per i bambini?*"
+   },
+   "skip": {
+      "message": "Ignora"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "Protezione avanzata contro il phishing per rilevare le minacce e proteggerti dalle truffe."
+   },
+   "social": {
+      "message": "Social network"
+   },
+   "someTrackersBlocked": {
+      "message": "%1% di %2% tracker bloccati"
+   },
+   "specialOfferBillingDetails": {
+      "message": "Fatturato come unico pagamento di"
+   },
+   "specialOfferFeatures": {
+      "message": "Protezione email, blocco dei contenuti per adulti, blocco illimitato dei tracker e molto altro!"
+   },
+   "startFreeTrial": {
+      "message": "Inizia la versione di prova gratuita"
+   },
+   "startProtection": {
+      "message": "Avvia la protezione!"
+   },
+   "startYourFreeTrial": {
+      "message": "Inizia la tua prova gratuita"
+   },
+   "successRecPass": {
+      "message": "Le istruzioni sono state inviate al tuo indirizzo e-mail"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT ha contrassegnato questo sito come sospetto"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "Sito web sospetto per WOT"
+   },
+   "suspiciousSite": {
+      "message": "Sito sospetto"
+   },
+   "switchToClassic": {
+      "message": "Passa a WOT Classic"
+   },
+   "systemPageAction": {
+      "message": "Ricevuto"
+   },
+   "systemPageContent": {
+      "message": "Si sta tentando di utilizzare WOT in una pagina non supportata, ad esempio una pagina di sistema del browser, localhost o la pagina di un'estensione."
+   },
+   "systemPageTitle": {
+      "message": "Pagina di sistema"
+   },
+   "takeAction": {
+      "message": "Passa all'azione"
+   },
+   "tellUsMore": {
+      "message": "Dicci di più..."
+   },
+   "tellYourFriends": {
+      "message": "Diffondi la community raccontando ai tuoi amici di WOT!"
+   },
+   "termsOfUse": {
+      "message": "Condizioni di utilizzo"
+   },
+   "thankYou": {
+      "message": "Grazie!"
+   },
+   "thankYouForFeedback": {
+      "message": "Grazie per i tuoi commenti"
+   },
+   "thankYouForInstalling": {
+      "message": "Assicurati ora di avere il massimo della protezione scegliendo lo scudo protettivo"
+   },
+   "thanksGotIt": {
+      "message": "Grazie, ho capito!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "Questa email è apparsa in %1% violazioni di dati"
+   },
+   "thisPopupShows": {
+      "message": "Il popup indica il punteggio assegnato a qualsiasi sito. "
+   },
+   "thisSiteOnly": {
+      "message": "solo per questo sito"
+   },
+   "threatsFound": {
+      "message": "Minacce trovate"
+   },
+   "timerManualModeButton": {
+      "message": "Attiva la protezione in tempo reale"
+   },
+   "timerManualModeHeader": {
+      "message": "Stai navigando in modalità manuale!"
+   },
+   "timerManualModeText": {
+      "message": "La protezione proattiva di WOT è disabilitata e non saremo in grado di proteggerti da siti Web pericolosi."
+   },
+   "toWriteReview": {
+      "message": " per scrivere una recensione"
+   },
+   "toggleTooltipMessage": {
+      "message": "per abilitare questa funzione"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "AGGIORNA ORA"
+   },
+   "tooComplicated": {
+      "message": "Troppo complicato"
+   },
+   "tooltipChildSafe": {
+      "message": "Questo sito è privo di contenuti, come nudità, contenuti scioccanti, raccapriccianti ecc."
+   },
+   "tooltipSafe": {
+      "message": "Questo sito è privo di minacce, come malware, virus, phishing ecc."
+   },
+   "tour": {
+      "message": "Presentazione"
+   },
+   "trackerBlocked": {
+      "message": "Bloccato"
+   },
+   "trackerBlocker": {
+      "message": "Protezione anti-tracker"
+   },
+   "trackerBlockerDescription": {
+      "message": "Blocca automaticamente tutti i tracker su ogni sito web visitato."
+   },
+   "trackerCounterAction": {
+      "message": "Sblocca altri tracker"
+   },
+   "trackerCounterText": {
+      "message": "%1%/3 tracker disponibili per la protezione di base"
+   },
+   "trackerSomeBlocked": {
+      "message": "%1% di %2% bloccati"
+   },
+   "trackerUnblocked": {
+      "message": "Sbloccato"
+   },
+   "trackersBlockAll": {
+      "message": "Blocca automaticamente tutti i tracker"
+   },
+   "trackersBlocked": {
+      "message": "Tracker bloccati"
+   },
+   "trackersDetected": {
+      "message": "tracker rilevati"
+   },
+   "trackingProtection": {
+      "message": "Protezione da tracker"
+   },
+   "trustIssues": {
+      "message": "Questo sito ha alcuni problemi di fiducia. Procedere con cautela."
+   },
+   "trusted": {
+      "message": "affidabile"
+   },
+   "trustedByWOT": {
+      "message": "Sito affidabile per WOT"
+   },
+   "trustedByWOTPopup": {
+      "message": "Sito web affidabile per WOT"
+   },
+   "trustedSite": {
+      "message": "Sito attendibile"
+   },
+   "trustedSource": {
+      "message": "Fonte attendibile"
+   },
+   "tryAgain": {
+      "message": "RIPROVA"
+   },
+   "turnOffProtection": {
+      "message": "Disattiva la protezione"
+   },
+   "twoMillionMembers": {
+      "message": "2+ milioni di membri"
+   },
+   "unknownByWOT": {
+      "message": "Mancanza di informazioni sufficienti"
+   },
+   "unknownByWOTPopup": {
+      "message": "Sito web sconosciuto per WOT"
+   },
+   "unknownSite": {
+      "message": "Sito sconosciuto"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "Il blocco illimitato dei tracker è disponibile solo per utenti Premium"
+   },
+   "unlock": {
+      "message": "SBLOCCO"
+   },
+   "unlockPremium": {
+      "message": "Sblocca Premium"
+   },
+   "untrusted": {
+      "message": "Non attendibile"
+   },
+   "untrustedByWOT": {
+      "message": "WOT ritiene questo sito non attendibile"
+   },
+   "untrustedByWOTPopup": {
+      "message": "Sito web non affidabile per WOT"
+   },
+   "untrustedSite": {
+      "message": "Sito non affidabile"
+   },
+   "upgrade": {
+      "message": "AGGIORNAMENTO"
+   },
+   "upgradeNow": {
+      "message": "AGGIORNA ORA"
+   },
+   "viewAll": {
+      "message": "Mostra tutto"
+   },
+   "viewFullReport": {
+      "message": "Visualizza recensione completa"
+   },
+   "viewFullScorecard": {
+      "message": "Visualizza scheda di valutazione completa"
+   },
+   "wantToDelete": {
+      "message": "Sei sicuro di voler eliminare la tua valutazione?"
+   },
+   "wantToRateWOT": {
+      "message": "Dedicaci qualche istante per valutarci su %BROWSER% Store"
+   },
+   "wantToRateWOTBtn": {
+      "message": "Valuta WOT"
+   },
+   "wantToRateWOTHeader": {
+      "message": "Ti piace WOT?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "Vuoi sbloccare tutte le funzioni WOT Premium?"
+   },
+   "warning": {
+      "message": "Avviso!"
+   },
+   "warningAlerts": {
+      "message": "Avvisi di avvertimento"
+   },
+   "warningAlertsSubtitle": {
+      "message": "Mostra gli avvertimenti per i siti web sospetti visitati"
+   },
+   "warnings": {
+      "message": "Notifiche di avviso"
+   },
+   "weAppreciate": {
+      "message": "Apprezziamo il tuo tempo e ti ringraziamo per averci aiutato a migliorare WOT"
+   },
+   "websiteBlocking": {
+      "message": "Blocco sito web"
+   },
+   "weekAgo": {
+      "message": "una settimana fa"
+   },
+   "weeksAgo": {
+      "message": "%1% settimane fa"
+   },
+   "welcome": {
+      "message": "Ti diamo il benvenuto"
+   },
+   "welcomeToWot": {
+      "message": "Benvenuto in WOT"
+   },
+   "whatCanIDo": {
+      "message": "Cosa posso fare?"
+   },
+   "whatCouldWeDo": {
+      "message": "Cosa potremmo fare di meglio?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "L'attività non attendibile comprende comportamenti generalmente attribuiti a truffe, phishing, malware, PUP e altri tipi di siti dannosi, rischiosi e pericolosi."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "Che cos'è un sito *non affidabile*?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "Una possibile attività sospetta comprende comportamenti che sono comunemente attribuiti a truffe, cripto-jacking, dirottamento del browser e altri tipi di siti dannosi, rischiosi e pericolosi."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "Che cos'è un sito *sospetto*?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "Al momento non abbiamo abbastanza informazioni per valutare questo sito web. Ti consigliamo di evitare di fornire dati personali, come il numero di codice fiscale, il numero di conto bancario o i dati della carta di credito."
+   },
+   "whatIsUnknownTitle": {
+      "message": "Che cos'è un sito *sconosciuto*?"
+   },
+   "whatsNewWOT": {
+      "message": "Nuovo monitoraggio delle violazioni di dati"
+   },
+   "whatsNewWOTContent": {
+      "message": "Con questa nuova potente funzionalità ora puoi assicurarti che le tue informazioni personali e le tue password non siano compromesse o esposte a minacce alla sicurezza."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "Diamo un'occhiata"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "Per saperne di più"
+   },
+   "whitelist": {
+      "message": "Whitelist"
+   },
+   "whitelistTitle": {
+      "message": "Non mostrare avvisi su questi siti"
+   },
+   "whyIsntSafe": {
+      "message": "Perché %DOMAIN% non è *sicuro?*"
+   },
+   "whyIsntSafeChildren": {
+      "message": "Perché %DOMAIN% non è *sicuro per i bambini?*"
+   },
+   "wotAssistant": {
+      "message": "Assistente WOT"
+   },
+   "wotAssistantOFF": {
+      "message": "Non mostrare la buona reputazione del sito web nell'angolo del browser"
+   },
+   "wotAssistantON": {
+      "message": "Mostra la buona reputazione del sito web nell'angolo del browser"
+   },
+   "wotCommunity": {
+      "message": "La Community di WOT"
+   },
+   "wotDetected": {
+      "message": "WOT ha rilevato una potenziale minaccia per la sicurezza e ha bloccato $DOMAIN$. Questo sito è potenzialmente dannoso e potrebbe contenere attività fraudolente.",
+      "placeholders": {
+         "domain": {
+            "content": "1 $",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "$DOMAIN$ è stato bloccato da WOT a causa della possibile presenza di contenuti per adulti.",
+      "placeholders": {
+         "domain": {
+            "content": "1 $",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "Assistente WOT"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "Il widget Assistente WOT non sarà visibile."
+   },
+   "wotHelperSettingsOnState": {
+      "message": "Mostra il widget Assistente WOT per visualizzare rapidamente punteggio, commenti e sicurezza del sito."
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT è stato installato correttamente"
+   },
+   "writeAtLeast15": {
+      "message": "Per aiutare altre persone, digita almeno 15 caratteri"
+   },
+   "writeFirstReview": {
+      "message": "Scrivi la prima recensione"
+   },
+   "writeReview": {
+      "message": "Scrivi una recensione"
+   },
+   "yearAgo": {
+      "message": "%1% anno fa"
+   },
+   "yearsAgo": {
+      "message": "%1% anni fa"
+   },
+   "yes": {
+      "message": "Sì"
+   },
+   "youCanAlsoEdit": {
+      "message": "È inoltre possibile modificare l'attuale recensione e punteggio"
+   },
+   "youCanAlwaysChange": {
+      "message": "Puoi sempre modificare le preferenze in un secondo momento"
+   },
+   "youCanCheckAnyLink": {
+      "message": "Con la protezione completa di WOT, puoi controllare tutti i link prima di aprirli e molto altro ancora!"
+   },
+   "youRatingThisSite": {
+      "message": "Grazie per aver valutato questo sito!"
+   },
+   "yourRating": {
+      "message": "La tua valutazione"
+   },
+   "yourSubscription": {
+      "message": "Il tuo abbonamento"
+   }
+}

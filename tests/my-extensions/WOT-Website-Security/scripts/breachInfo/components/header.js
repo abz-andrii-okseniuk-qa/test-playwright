@@ -1,0 +1,1 @@
+const Header=()=>React.createElement("div",{className:"header"},React.createElement("div",{className:"logo"}),React.createElement("div",{className:"title"},translate("dataLeakMonitoring")));

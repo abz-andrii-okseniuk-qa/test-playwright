@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "Malicieux"
+   },
+   "Malware": {
+      "message": "Malware"
+   },
+   "Phishing": {
+      "message": "Phishing"
+   },
+   "Suspicious": {
+      "message": "Méfiant"
+   },
+   "alert_back": {
+      "message": "Revenir en arrière"
+   },
+   "alert_continue": {
+      "message": "Poursuivre malgré tout"
+   },
+   "alert_description": {
+      "message": "Ce site a été bloqué provisoirement à cause d'une des raisons suivante:"
+   },
+   "alert_false": {
+      "message": "Signaler un faux positif"
+   },
+   "alert_notrecommended": {
+      "message": "(Non recommandé)"
+   },
+   "alert_recommended": {
+      "message": "(recommandé)"
+   },
+   "alert_safe": {
+      "message": "(Si vous pensez que ce site est sain)"
+   },
+   "alert_text": {
+      "message": "Ce site contient des liens vers des virus ou autres programmes qui peuvent récupérer vos informations personnelles stockées ou saisies sur votre ordinateur"
+   },
+   "alert_warning": {
+      "message": "Attention: Site web bloqué!"
+   },
+   "ext_description": {
+      "message": "Sécurité en ligne contre les logiciels malveillants, le phishing et les sites web malveillants."
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "Nouveau ! Protégez votre mobile avec Comodo. Gratuit pour \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> et \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>. Installez l’appli !"
+   },
+   "lang_id": {
+      "message": "1036"
+   },
+   "lang_name": {
+      "message": "Français"
+   },
+   "options_blocked": {
+      "message": "Bloqué"
+   },
+   "options_close": {
+      "message": "Fermer"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Entrez du texte"
+   },
+   "options_exclusions_removeall": {
+      "message": "Enlever tout"
+   },
+   "options_exclusions_removeselected": {
+      "message": "Enlever la sélection"
+   },
+   "options_exclusions_search": {
+      "message": "Chercher"
+   },
+   "options_exclusions_showingpage": {
+      "message": "montrer la page"
+   },
+   "options_exclusions_time": {
+      "message": "Date et heure de détection"
+   },
+   "options_exclusions_type": {
+      "message": "Type de menace"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro Les options"
+   },
+   "options_ignored": {
+      "message": "Ignoré"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Les exclusions"
+   },
+   "options_tab_title_url": {
+      "message": "Journal de filtrage de sites Web"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Les exclusions"
+   },
+   "options_title_url": {
+      "message": "Journal de filtrage de sites Web"
+   },
+   "options_url_action": {
+      "message": "Action prise"
+   },
+   "options_url_placeholder": {
+      "message": "Entrez du texte"
+   },
+   "options_url_removeall": {
+      "message": "Enlever tout"
+   },
+   "options_url_removeselected": {
+      "message": "Enlever la sélection"
+   },
+   "options_url_search": {
+      "message": "Chercher"
+   },
+   "options_url_showingpage": {
+      "message": "montrer la page"
+   },
+   "options_url_time": {
+      "message": "Date et heure de détection"
+   },
+   "options_url_type": {
+      "message": "Type de menace"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "SUR"
+   },
+   "popup_click": {
+      "message": "Cliquez ici"
+   },
+   "popup_exclusions": {
+      "message": "Modifier la liste d'exclusion"
+   },
+   "popup_feedback": {
+      "message": "Retour d'information"
+   },
+   "popup_help": {
+      "message": "Aidez-moi"
+   },
+   "popup_history": {
+      "message": "Vérifier l'historique"
+   },
+   "popup_license": {
+      "message": "Licence"
+   },
+   "popup_notes": {
+      "message": "Notes de version"
+   },
+   "popup_notifications": {
+      "message": "NOTIFICATIONS"
+   },
+   "popup_page": {
+      "message": "Page produit"
+   },
+   "popup_policy": {
+      "message": "Politique de confidentialité"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Noter Cette Extension"
+   },
+   "popup_report": {
+      "message": "Signaler cette page"
+   },
+   "popup_settings": {
+      "message": "RÉGLAGES"
+   },
+   "popup_version": {
+      "message": "Version"
+   },
+   "popup_warn": {
+      "message": "Nous avons intercepté %d liens malveillants depuis que vous avez désactivé Online Security Pro "
+   }
+}

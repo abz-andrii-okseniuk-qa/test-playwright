@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "18+アイコン"
+   },
+   "18IconOFF": {
+      "message": "アダルトコンテンツのアイコンをドーナツの横に表示しない"
+   },
+   "18IconON": {
+      "message": "アダルトコンテンツのアイコンをドーナツの横に表示する"
+   },
+   "Add": {
+      "message": "追加"
+   },
+   "AdultC": {
+      "message": "アダルトコンテンツ"
+   },
+   "AllowAlways": {
+      "message": "常に許可する"
+   },
+   "AllowOnce": {
+      "message": "ポップアップを一時的に許可する"
+   },
+   "AlternativeMedicine": {
+      "message": "代替医療"
+   },
+   "BadReviewWarningText": {
+      "message": "過去にこのサイトを低く評価しています。注意して続行してください。"
+   },
+   "BlocksPopup": {
+      "message": "ポップアップをブロックする"
+   },
+   "BlocksPopupText": {
+      "message": "ポップアップや不要なプログラムをブロックする"
+   },
+   "Carefulx": {
+      "message": "注意!"
+   },
+   "DoNotShowAgain": {
+      "message": "今後このサイトでは表示しない"
+   },
+   "Error0": {
+      "message": "不明なエラー"
+   },
+   "Error400": {
+      "message": "無効なメールアドレスです"
+   },
+   "Error4001": {
+      "message": "許可が必要です"
+   },
+   "Error4002": {
+      "message": "ユーザー名またはパスワードが正しくありません"
+   },
+   "Error4003": {
+      "message": "ログイン情報を入力してください"
+   },
+   "Error4004": {
+      "message": "ユ－ザーはブロックされています"
+   },
+   "Error4005": {
+      "message": "ログアウトしました。再度ログインしてください。"
+   },
+   "Error4006": {
+      "message": "ログアウトしました。再度ログインしてください。"
+   },
+   "Error4007": {
+      "message": "ログインできませんでした。再度お試しください"
+   },
+   "Error4008": {
+      "message": "ログインできませんでした。再度お試しください"
+   },
+   "Error4009": {
+      "message": "登録済みのユーザーです"
+   },
+   "Error401": {
+      "message": "権限がありません"
+   },
+   "Error4010": {
+      "message": "存在するユーザーです"
+   },
+   "Error4101": {
+      "message": "パスワードの再設定リンクが無効です"
+   },
+   "Error4102": {
+      "message": "パスワードの再設定リンクの有効期限が切れました"
+   },
+   "ExperienceFullPower": {
+      "message": "WOTのフルパワーを体験してください"
+   },
+   "FAQ": {
+      "message": "よくある質問"
+   },
+   "Forgot": {
+      "message": "忘れた?"
+   },
+   "ForgotBelow": {
+      "message": "新しいパスワードをリクエスト"
+   },
+   "Gambling": {
+      "message": "ギャンブル"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "フィードバックをお待ちしています..."
+   },
+   "GoBack": {
+      "message": "← 戻る"
+   },
+   "GoToSetting": {
+      "message": "設定に移動する"
+   },
+   "GoodSite": {
+      "message": "優良サイト"
+   },
+   "GruesomeShocking": {
+      "message": "残酷あるいは刺激的"
+   },
+   "HateDiscrimination": {
+      "message": "憎悪、差別的"
+   },
+   "HowCanWeImprove": {
+      "message": "どうすればサービスが向上しますか?"
+   },
+   "IHaveAccount": {
+      "message": "すでにアカウントを開設されている方は "
+   },
+   "IHaveNotAccount": {
+      "message": "アカウントをまだ開設されていない方は"
+   },
+   "Illegal": {
+      "message": "違法の可能性がある"
+   },
+   "IncidentalNudity": {
+      "message": "卑猥な可能性がある"
+   },
+   "LogInBelow": {
+      "message": "こちらでログイン"
+   },
+   "LogInFacebook": {
+      "message": "Facebookでログイン"
+   },
+   "LogInGoogle": {
+      "message": "Google+でログイン"
+   },
+   "LogInPasswordInput": {
+      "message": "パスワード"
+   },
+   "LogInTwitter": {
+      "message": "Twitterでログイン"
+   },
+   "LogInUsernameInput": {
+      "message": "ユーザ名またはメールアドレス"
+   },
+   "MalwareViruses": {
+      "message": "マルウェアあるいはウイルス"
+   },
+   "MisleadingUnethical": {
+      "message": "誤解を招くあるいは倫理に反している"
+   },
+   "NOT_SAFE": {
+      "message": "危険!"
+   },
+   "NewPassword": {
+      "message": "新しいパスワードをメール宛に送信"
+   },
+   "NotAppropriate": {
+      "message": "子供にふさわしくない"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "意見、宗教、政治"
+   },
+   "Phishing": {
+      "message": "フィッシング"
+   },
+   "PoorExperience": {
+      "message": "利用満足度が低い"
+   },
+   "PopupNotification": {
+      "message": "通知を表示する"
+   },
+   "PopupNotificationText": {
+      "message": "ポップアップがブロックされた際に、ページ上で通知を表示する"
+   },
+   "PrivacyRisks": {
+      "message": "プライバシー侵害の危険がある"
+   },
+   "ProtectionsFeatures": {
+      "message": "WOTアシスタントで安全を確保"
+   },
+   "ProtectionsFeatures2": {
+      "message": "閲覧前にリンクを確認"
+   },
+   "Pts": {
+      "message": "(%POINTS% ポイント)"
+   },
+   "RateThisWebsite": {
+      "message": "このウェブサイトを評価"
+   },
+   "RememberMe": {
+      "message": "次回から入力を省略"
+   },
+   "SAFE": {
+      "message": "安全!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "リンクの横にすべての種類 (赤、黄、緑) のアイコンを常に表示する"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "悪い評価のウェブサイトの横にのみ赤いアイコンを表示する"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "評価アイコンを表示しない"
+   },
+   "Scam": {
+      "message": "詐欺"
+   },
+   "Send": {
+      "message": "送信"
+   },
+   "ShowLess": {
+      "message": "折りたたんで表示"
+   },
+   "ShowMore": {
+      "message": "展開して表示"
+   },
+   "SignUp": {
+      "message": "サインアップ"
+   },
+   "SignUpBelow": {
+      "message": "こちらでサインアップ"
+   },
+   "SignUpFacebook": {
+      "message": "Facebookでサインアップ"
+   },
+   "SignUpGoogle": {
+      "message": "Google+でサインアップ"
+   },
+   "SignUpPasswordInput": {
+      "message": "パスワードを入力"
+   },
+   "SignUpTwitter": {
+      "message": "Twitterでサインアップ"
+   },
+   "SignUpUsernameInput": {
+      "message": "メールアドレス"
+   },
+   "SiteKids": {
+      "message": "子供向けのサイト"
+   },
+   "Spam": {
+      "message": "スパム"
+   },
+   "Submit": {
+      "message": "送信"
+   },
+   "Suspicious": {
+      "message": "不審"
+   },
+   "TakeMoment": {
+      "message": "ご意見をお聞かせください。"
+   },
+   "UNKNOWN": {
+      "message": "不明"
+   },
+   "UnwantedPrograms": {
+      "message": "好ましくないプログラムの可能性がある"
+   },
+   "ViewMyAccount": {
+      "message": "アカウントを表示"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "ウェブサイトの評価が悪い場合は常に警告を表示する"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "悪質なウェブサイトのみ警告を表示する"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "警告を表示しない"
+   },
+   "WantMore": {
+      "message": "もっと教えてみませんか？"
+   },
+   "WhatToDoForBreaches": {
+      "message": "今回の侵害への対処法"
+   },
+   "WhitelistPlaceholder": {
+      "message": "警告を表示したくないウェブサイトを追加してください (例: Google.com)"
+   },
+   "WriteYourReview": {
+      "message": "レビューを入力…"
+   },
+   "accurace": {
+      "message": "正確さ"
+   },
+   "activate": {
+      "message": "有効化する"
+   },
+   "activateProtection": {
+      "message": "保護を有効にする"
+   },
+   "addAReview": {
+      "message": "レビューを追加"
+   },
+   "adsOrPopups": {
+      "message": "広告/ポップアップ"
+   },
+   "adult": {
+      "message": "アダルト"
+   },
+   "adultContent": {
+      "message": "アダルトコンテンツ"
+   },
+   "adultContentProtection": {
+      "message": "アダルトコンテンツ保護"
+   },
+   "adultProtection": {
+      "message": "アダルトコンテンツからの保護"
+   },
+   "adultProtectionText": {
+      "message": "これらのアダルトコンテンツからの保護設定は、各カテゴリーのすべてのウェブサイトに適用されます"
+   },
+   "adultProtectionTooltip": {
+      "message": "不適切なコンテンツ、ポルノやギャンブルはブロックされます"
+   },
+   "adultSettingMoreOptions": {
+      "message": "その他のオプション"
+   },
+   "adultSettingSubtitle": {
+      "message": "ポルノやギャンブルサイトをブロック"
+   },
+   "adultSettingTitle": {
+      "message": "アダルトコンテンツからの保護"
+   },
+   "ago": {
+      "message": "前に"
+   },
+   "agreeContinue": {
+      "message": "同意して続行"
+   },
+   "all": {
+      "message": "すべて"
+   },
+   "allTrackersBlocked": {
+      "message": "%1%個のトラッカーをブロックしました"
+   },
+   "allWebsites": {
+      "message": "すべてのサイト"
+   },
+   "allow": {
+      "message": "許可する"
+   },
+   "almostDone": {
+      "message": "もうすぐ完了です"
+   },
+   "always": {
+      "message": "いつも"
+   },
+   "analytics": {
+      "message": "分析"
+   },
+   "antiPhishingAndScams": {
+      "message": "フィッシング対策と詐欺"
+   },
+   "appDescription": {
+      "message": "ウェブサイトの評価や安全性をユーザーの体験に基づいて確認しましょう。Web of TrustはGoogle Chrome公式の拡張機能です。"
+   },
+   "appName": {
+      "message": "WOT ウェブサイトのセキュリティと安全なブラウジングのための保護"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "本当によろしいですか？"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "このウェブサイトの新しいレビューを書く"
+   },
+   "assistantSettingSubtitle": {
+      "message": "安全なオンラインショッピングと検索"
+   },
+   "assistantSettingTitle": {
+      "message": "WOTアシスタントシールド"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "WOTスライダーを開く"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "このページで検出されたトラッカーの数"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOTを使用すると、閲覧するウェブサイトのトラッカーを表示およびブロックして、データを収集するユーザーを制御できます。"
+   },
+   "autoScanDevice": {
+      "message": "デバイスの自動スキャン"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "セキュリティの脅威やリークがないか、デバイスを定期的にスキャンしてください。"
+   },
+   "autoScanDeviceText": {
+      "message": "デバイスを定期的にスキャンして、セキュリティ上の脅威や侵害がないか確認してください。"
+   },
+   "avoidHarmfulSites": {
+      "message": "偽のサイトや有害なサイトを回避"
+   },
+   "back": {
+      "message": "戻る"
+   },
+   "beTheFirstToReview": {
+      "message": "このウェブサイトを最初に評価する"
+   },
+   "blacklistsPreCheck": {
+      "message": "最新のブラックリスト"
+   },
+   "block": {
+      "message": "ブロック"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "訪問するすべてのウェブサイトのすべてのトラッカーを自動的にブロックします"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "すべてのトラッカーを自動的にブロックする機能は、プレミアムユーザーのみご利用いただけます"
+   },
+   "blockTrackers": {
+      "message": "ブロックトラッカー"
+   },
+   "blockUnsafeWebsites": {
+      "message": "安全でないWebサイトとリンクをブロックする"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOTは、安全でないリンクを誤ってクリックしたり、安全でないまたは悪意のあるWebサイトにアクセスしたりすることについて事前に警告します。"
+   },
+   "blocked": {
+      "message": "ブロックされました!"
+   },
+   "blocksHackingAttacks": {
+      "message": "39秒ごとにハッキング攻撃をブロック"
+   },
+   "breachedDate": {
+      "message": "侵害された日付"
+   },
+   "breachesAlert": {
+      "message": "お客様の個人情報やパスワードが侵害され、以下にさらされています："
+   },
+   "browse": {
+      "message": "ブラウズ"
+   },
+   "browserNotProtected": {
+      "message": "お使いのブラウザは保護されていません"
+   },
+   "browserProtected": {
+      "message": "お使いのブラウザは安全です"
+   },
+   "browserSecured": {
+      "message": "このブラウザは安全です!"
+   },
+   "bugs": {
+      "message": "バグ"
+   },
+   "canHelp": {
+      "message": "お問い合わせ内容を選択して下さい"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "careful": {
+      "message": "注意!"
+   },
+   "categoriesExplained": {
+      "message": "これらのカテゴリーは、このウェブサイトに適用される可能性があります"
+   },
+   "changePassword": {
+      "message": "パスワードの変更"
+   },
+   "changePasswordSubtitle": {
+      "message": "すべてのパスワードが一意で、異なり、推測しにくいことを確認してください。同じパスワードを2回使用しないでください。"
+   },
+   "changePasswordText": {
+      "message": "すべてのパスワードが一意で、異なり、推測しにくいことを確認してください。同じパスワードを2回使用しないでください。"
+   },
+   "checkLeaks": {
+      "message": "漏れをチェック"
+   },
+   "checkUrl": {
+      "message": "URLをチェックする"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Webサイトのセキュリティレベルを確認します"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOTは、ウェブサイトのセキュリティレベルを確認する3つの方法を提供します。Google検索エンジンの結果ページ、ブラウザのツールバーアイコン、詳細なスコアカードとレビューです。"
+   },
+   "chooseTags": {
+      "message": "%DOMAIN%が*子供にふさわしくない*理由は?"
+   },
+   "chooseTagsForSite": {
+      "message": "このサイトを最もよく説明するタグを選択してください："
+   },
+   "chooseTagsThatDescribes": {
+      "message": "このサイトを説明するタグを選択"
+   },
+   "clearPolicy": {
+      "message": "ポリシーが明確"
+   },
+   "clickAllTags": {
+      "message": "追加するタグをすべてクリックしてください"
+   },
+   "clickOnTheGearIcon": {
+      "message": "このポップアップのオン/オフを切り替えるには%GEARICON%をクリックしてください"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "contactUs": {
+      "message": "お問い合わせ"
+   },
+   "containAdultContent": {
+      "message": "このウェブサイトには成人向けコンテンツが含まれている可能性があります"
+   },
+   "contentWarning": {
+      "message": "アダルトコンテンツをブロックしました"
+   },
+   "coolGotIt": {
+      "message": "はい、了解です"
+   },
+   "dataBreachHookText": {
+      "message": "時にはそれは危険かもしれません"
+   },
+   "dataBreachHookTitle": {
+      "message": "ログイン情報を入力しようとしていますか？"
+   },
+   "dataLeakMonitoring": {
+      "message": "データ侵害の監視"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "このメール アカウントに関連するデータ リークが見つかりました"
+   },
+   "dayAgo": {
+      "message": "1日前"
+   },
+   "daysAgo": {
+      "message": "%1%日前"
+   },
+   "default": {
+      "message": "デフォルト"
+   },
+   "defaultManualModeButton": {
+      "message": "続行してオンにする"
+   },
+   "defaultManualModeHeader": {
+      "message": "リアルタイムの結果とインサイトを取得する"
+   },
+   "defaultManualModeText": {
+      "message": "WoTの保護機能が無効になっています。ウェブサイトの評価とアラートを表示することができません。"
+   },
+   "defaultText": {
+      "message": "評判の低いウェブサイトをブロックして回避します。（推奨）"
+   },
+   "del": {
+      "message": "削除する"
+   },
+   "delete": {
+      "message": "はい、削除します"
+   },
+   "deleteThisReview": {
+      "message": "このレビューを削除しますか？"
+   },
+   "digitalTrackingProtection": {
+      "message": "デジタル追跡保護"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "オンライン ブラウジングの習慣を追跡するすべてのサービスを自動的にブロックします。"
+   },
+   "disableOnAllWebsites": {
+      "message": "はい、すべてのサイトで無効にします"
+   },
+   "disableOnThusWebsites": {
+      "message": "はい、このサイトでのみ無効にします"
+   },
+   "disableWOTHelper": {
+      "message": "WOTヘルパーを無効にしますか?"
+   },
+   "disableWOTHelperText": {
+      "message": "WOTヘルパーで訪問中のページのスコアとコメントを素早く表示できます。この機能はWOT設定からいつでも無効にできます。"
+   },
+   "disagree": {
+      "message": "同意しない"
+   },
+   "dismissWarning": {
+      "message": "警告を閉じる"
+   },
+   "done": {
+      "message": "完了"
+   },
+   "dontShowAgain": {
+      "message": "二度と見せないで"
+   },
+   "dontShowOnThisSite": {
+      "message": "今後このサイトを警告をしない"
+   },
+   "dontShowThis": {
+      "message": "今後これを表示しない:"
+   },
+   "donuts": {
+      "message": "リンクの横の評判アイコン"
+   },
+   "downloadClassicWot": {
+      "message": "Classic WOTをダウンロード"
+   },
+   "downloadMobileWot": {
+      "message": "モバイル用にWOTをダウンロード"
+   },
+   "edit": {
+      "message": "編集する"
+   },
+   "editYourReview": {
+      "message": "レビューを編集する"
+   },
+   "empty": {
+      "message": "リストはありません"
+   },
+   "enable": {
+      "message": "有効にする"
+   },
+   "enableEnhancedProtection": {
+      "message": "強化された保護を有効にする"
+   },
+   "enjoyingWot": {
+      "message": "WOTはいかがですか?"
+   },
+   "errorAction": {
+      "message": "OK"
+   },
+   "errorContent": {
+      "message": "申し訳ございません。現在のページを更新して、もう一度お試しください。"
+   },
+   "errorTitle": {
+      "message": "問題が発生しました。"
+   },
+   "extraFeaturesTitle": {
+      "message": "WOTが提供する他の機能を見る"
+   },
+   "faqSupport": {
+      "message": "よくある質問とサポート"
+   },
+   "findHelp": {
+      "message": "ヘルプを検索するか、お問い合わせください"
+   },
+   "firstRate": {
+      "message": "今すぐこのウェブサイトを評価しましょう"
+   },
+   "followUs": {
+      "message": "フォローする"
+   },
+   "forAllPremiumPlans": {
+      "message": "すべてのプレミアムプラン"
+   },
+   "forum": {
+      "message": "フォーラム"
+   },
+   "freeTrialEndend": {
+      "message": "無料トライアルの残り%2%日"
+   },
+   "freeUserBlockTitle": {
+      "message": "他の有害なウェブサイトから保護したいですか？"
+   },
+   "gamblingSites": {
+      "message": "ギャンブルサイト"
+   },
+   "gamblingSitesText": {
+      "message": "ギャンブル関連のゲームやコンテンツを含むウェブサイトはブロックされます"
+   },
+   "generalSettings": {
+      "message": "基本設定"
+   },
+   "generalSettingsDescription": {
+      "message": "ニーズに合わせて設定をカスタマイズし、保護を維持します"
+   },
+   "getFullCoverage": {
+      "message": "完全なブラウジング保護"
+   },
+   "getFullProtection": {
+      "message": "WOTのトータルプロテクションを利用する"
+   },
+   "getMorePremium": {
+      "message": "プレミアムでさらに多くの機能を使用しましょう"
+   },
+   "getPhishingAlert": {
+      "message": "フィッシング警告を受信する"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "最新のフィッシングサイトやソーシャルエンジニアリング攻撃から保護します。"
+   },
+   "getWOTPremium": {
+      "message": "ハッカー、ウイルス、悪質なウェブサイトから総合的にあなたを守るWOTプレミアムを、是非ご利用ください。"
+   },
+   "gmailProtectionDescription": {
+      "message": "受信トレイで不審なメールに関する警告を受け取る"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "フィッシングメールをすばやく検出できるように設計されています"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "スマートメール検出"
+   },
+   "gmailProtectionTitle": {
+      "message": "メール保護"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "メール保護をカスタマイズし、信頼できるURLアドレスを入力してください"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "信頼できるURLアドレスを追加してください（例：sendgrid.com）"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "許可リスト"
+   },
+   "goPremium": {
+      "message": "プレミアムに行く"
+   },
+   "goToLeakReport": {
+      "message": "違反レポートを参照してください"
+   },
+   "goToSite": {
+      "message": "サイトに移動する"
+   },
+   "goodService": {
+      "message": "サービスが良い"
+   },
+   "gotIt": {
+      "message": "了解です"
+   },
+   "greatSupport": {
+      "message": "サポートが素晴らしい"
+   },
+   "hide": {
+      "message": "非表示にする"
+   },
+   "hideWotAssistant": {
+      "message": "WOTアシスタントを非表示にする"
+   },
+   "hideWotAssistantText": {
+      "message": "「非表示」をクリックすると、WOTアシスタントページが読み込まれなくなります。この設定は、後でいつでも変更できます。"
+   },
+   "high": {
+      "message": "高"
+   },
+   "highText": {
+      "message": "疑わしいウェブサイトをブロックします。お子様にふさわしくないコンテンツを含むウェブサイトは、デフォルトでブロックされます"
+   },
+   "holdOn": {
+      "message": "お待ちください！"
+   },
+   "hour": {
+      "message": "時間"
+   },
+   "hourAgo": {
+      "message": "1時間前"
+   },
+   "hourMinutesAgo": {
+      "message": "1 時間%2%分前"
+   },
+   "hours": {
+      "message": "時間"
+   },
+   "hoursAgo": {
+      "message": "%1%時間前"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1%時間%2%分前"
+   },
+   "hoverOverTheWOT": {
+      "message": "WOT %DONUTICON%アイコンにカーソルを移動してサイトの評価を表示"
+   },
+   "howWouldYouRate": {
+      "message": "このウェブサイトを1から5の間で、どのように評価しますか？"
+   },
+   "identityProtection": {
+      "message": "個人情報保護"
+   },
+   "identityProtectionModalMessage": {
+      "message": "個人情報保護機能を有効にすることにより、パスワード保護および監視サービスを提供する第三者とお客様の電子メール アドレスを共有することに同意するものとします。"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT は、個人データが漏洩したときに警告を発するため、ID の盗難や将来の漏洩を防ぐために迅速に行動できます。"
+   },
+   "increaseOnlineSecurity": {
+      "message": "オンラインセキュリティの向上"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "機密情報を含む個人アカウントにアクセスするには、2 要素認証を有効にします"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "2要素認証を有効にして機密情報を含む個人アカウントにアクセスするようにします。"
+   },
+   "installed": {
+      "message": "インストール済み"
+   },
+   "isSafe": {
+      "message": "このサイトは安全だと思いますか?"
+   },
+   "issuesFound": {
+      "message": "%ISSUES%件の問題が見つかりました"
+   },
+   "justNow": {
+      "message": "今すぐ"
+   },
+   "lang": {
+      "message": "ja-JP"
+   },
+   "lastScanned": {
+      "message": "最終スキャン"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOTは、個人情報を含むデータ侵害についてリアルタイムで警告するため、オンラインで身を守ることができます。"
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "データ侵害監視機能を有効にすることで、お客様は、当社がお客様のメールアドレスをパスワード保護および監視サービスを提供する第三者と共有することに同意するものとします。"
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "個人情報を安全に保ち、デジタル ID を保護するために、次の手順を実行することをお勧めします。"
+   },
+   "leakSuggestionsTitle": {
+      "message": "個人情報が漏洩した場合はどうすればよいですか？"
+   },
+   "leakedInformation": {
+      "message": "漏洩した情報"
+   },
+   "legalAnd": {
+      "message": "及び"
+   },
+   "legalPrivacyPolicy": {
+      "message": "個人情報保護方針"
+   },
+   "legalStatement": {
+      "message": "リアルタイムの保護、メンテナンスを提供し、サービスを改善するために、ユーザーが訪問したウェブサイトに関する情報をサーバーに送り返す必要があります。上記の [同意する] をクリックすることにより、以下に同意したことになります。"
+   },
+   "letCommunityKnow": {
+      "message": "このサイトを使用して良い体験をしたかどうか、またはこのサイトを使用して懸念があるかどうか、当社のコミュニティにお知らせください。"
+   },
+   "letOthersKnowYourExperience": {
+      "message": "このサイトでの体験を他の人にシェアしてください"
+   },
+   "limitedTimeOffer": {
+      "message": "期間限定オファー"
+   },
+   "lite": {
+      "message": "Lite"
+   },
+   "liteText": {
+      "message": "重要な場合以外はお邪魔しません。"
+   },
+   "liveBlocking": {
+      "message": "ライブブロッキング"
+   },
+   "loading": {
+      "message": "読み込み中…"
+   },
+   "logOut": {
+      "message": "ログアウト"
+   },
+   "login": {
+      "message": "ログイン"
+   },
+   "looksSafe": {
+      "message": "安全なようです"
+   },
+   "manage": {
+      "message": "管理"
+   },
+   "manageProtection": {
+      "message": "保護の管理"
+   },
+   "manageSubscriptions": {
+      "message": "サブスクリプションの管理"
+   },
+   "manageTrackers": {
+      "message": "トラッカーを管理する"
+   },
+   "manualModeAgree": {
+      "message": "上記の [オンにする] をクリックすることにより、以下に同意したことになります。"
+   },
+   "manualModeWarning": {
+      "message": "現在、手動モードで閲覧しています- WOTのプロアクティブな保護は無効になっており、危険なサイトから保護することができません"
+   },
+   "manualModeWarningStrip": {
+      "message": "マニュアルモードで閲覧しているため、多くの機能が利用できなくなっています。"
+   },
+   "marketing": {
+      "message": "マーケティング"
+   },
+   "maybeNextTime": {
+      "message": "次回以降"
+   },
+   "messageSubmitted": {
+      "message": "メッセージは正常に送信されました。"
+   },
+   "minute": {
+      "message": "分"
+   },
+   "minuteAgo": {
+      "message": "1分前"
+   },
+   "minutes": {
+      "message": "議事録"
+   },
+   "minutesAgo": {
+      "message": "%1%分前"
+   },
+   "missingReviews": {
+      "message": "不足しているレビュー"
+   },
+   "month": {
+      "message": "月"
+   },
+   "monthAgo": {
+      "message": "1ヶ月前"
+   },
+   "monthsAgo": {
+      "message": "%1%ヶ月前"
+   },
+   "moreInfo": {
+      "message": "詳細情報"
+   },
+   "myDashboardNav": {
+      "message": "マイ ダッシュボード"
+   },
+   "myProfile": {
+      "message": "プロフィール"
+   },
+   "newDataLeaksFound": {
+      "message": "%1% の新しいデータ漏洩が見つかりました"
+   },
+   "next": {
+      "message": "次へ"
+   },
+   "no": {
+      "message": "いいえ"
+   },
+   "noBreaches": {
+      "message": "良いお知らせです。データ漏洩はありません"
+   },
+   "noComments": {
+      "message": "レビューがありません"
+   },
+   "noKeepIt": {
+      "message": "いいえ、このままにします"
+   },
+   "noReviewsYet": {
+      "message": "レビューはまだありません"
+   },
+   "noSkip": {
+      "message": "いいえ、スキップする"
+   },
+   "noThanks": {
+      "message": "いいえ"
+   },
+   "noTrackersBlocked": {
+      "message": "%1%個のトラッカーが検出されました"
+   },
+   "noTrackersDetected": {
+      "message": "トラッカーは検出されませんでした"
+   },
+   "none": {
+      "message": "なし"
+   },
+   "notSecurity": {
+      "message": "セキュリティ上の問題がありますか?"
+   },
+   "notSuitableForChildren": {
+      "message": "子供にふさわしくないコンテンツが含まれていますか?"
+   },
+   "notSure": {
+      "message": "分からない"
+   },
+   "off": {
+      "message": "オフ"
+   },
+   "okGotIt": {
+      "message": "OK、了解です"
+   },
+   "on": {
+      "message": "オン"
+   },
+   "onBoarding4States": {
+      "message": "4つの状態があります。"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "クリックする前にウェブサイトの評価を確認することができます。"
+   },
+   "onBoardingHoverTheShield": {
+      "message": "盾のアイコンにカーソルを合わせると、"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "評価ダッシュボード"
+   },
+   "onBoardingReputationScore": {
+      "message": "評価スコア"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "これで安心してウェブを閲覧できます。知らないウェブサイトをクリックする前に、必ず盾アイコンを確認してください。"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "このポップアップには任意のサイトの評価スコアが表示されます。 "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "このウェブサイトは、WOTによって%SAFETY%と評価されています"
+   },
+   "onBoardingYouCanClick": {
+      "message": "[レビューを読む] をクリックすると、ユーザー レビューをさらに読むことができます。"
+   },
+   "onBoardingYoureAllSet": {
+      "message": "これで準備完了です。"
+   },
+   "oneTrackerBlocked": {
+      "message": "ブロックされた1個のトラッカー"
+   },
+   "oneTrackerDetected": {
+      "message": "1個のトラッカーが検出されました"
+   },
+   "optinAreYouSureMessage": {
+      "message": "360度のライブWeb保護を提供するために、WOTの一部の機能では、アクセスしたWebサイトから収集された匿名情報にアクセスする必要があります。この情報は、第三者と共有されたり、マーケティング目的で使用されたりすることはありません。設定ページにアクセスして、いつでも設定を変更できます。"
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOTは、詐欺、フィッシング、疑わしい、マルウェア、スパムの電子メールを受信すると警告します"
+   },
+   "optinGoBack": {
+      "message": "戻る"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "ライブ保護をオンにする"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "強化された保護"
+   },
+   "optinHeaderInstallation": {
+      "message": "正常にインストールされました"
+   },
+   "optinHeaderScanDevice": {
+      "message": "スキャンデバイス"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "ブラウザを設定する"
+   },
+   "optinMaybeLater": {
+      "message": "後で"
+   },
+   "optinProtectYourEmail": {
+      "message": "メールを保護する"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "ブラウザのツールバーに表示されるロゴは、サイトの評判に応じて変わります"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "WOTロゴを探す"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "評判の悪いのウェブサイトにアクセスした場合に、WOTが警告します"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "リアルタイムのアラートを取得する"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "[検索エンジンの結果ページ] でWOTロゴの色をチェックして、クリックしても安全なサイトを確認してください"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "検索結果にマークを付ける"
+   },
+   "optinReputationIconsText": {
+      "message": "ウェブサイトのリンクの横にあるWOT安全性ドーナツを使用して、情報に基づいた意思決定をオンラインで行います。"
+   },
+   "optinSafetyScoreText": {
+      "message": "スコアカードを利用して、サイトの評判や口コミを確認しましょう。"
+   },
+   "optinSubtitle": {
+      "message": "リアルタイムであなたを保護するために、私たちはあなたが閲覧するURLにアクセスする必要があります"
+   },
+   "optinTitle": {
+      "message": "ブラウザの保護を許可する"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "有害な可能性のあるウェブサイトや評判の悪いウェブサイトをブロックして回避します。"
+   },
+   "optinWelcomeSubtitle": {
+      "message": "{millionMembers}に参加し、WOTを使用してお互いを保護しました"
+   },
+   "or": {
+      "message": " または "
+   },
+   "other": {
+      "message": "その他"
+   },
+   "outOfHere": {
+      "message": "ここから離れる"
+   },
+   "ownThisSite": {
+      "message": "このサイトのオーナーの方へ"
+   },
+   "parentalControl": {
+      "message": "ペアレンタルコントロール"
+   },
+   "parentalControlOFF": {
+      "message": "子供にふさわしくないコンテンツを含むウェブサイトをブロックしない"
+   },
+   "parentalControlON": {
+      "message": "子供にふさわしくないコンテンツを含むウェブサイトをブロックする"
+   },
+   "performance": {
+      "message": "パフォーマンス"
+   },
+   "pinWot": {
+      "message": "WOTをピン留めしましょう！"
+   },
+   "pinWotPopup": {
+      "message": "$WOT$ をピン留めして、現在のウェブサイトのセキュリティステータスを確認する",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WoT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "私たちを評価するために少し時間を取ってください"
+   },
+   "policy": {
+      "message": "個人情報保護方針を読む"
+   },
+   "poorCustomerService": {
+      "message": "顧客サービスが悪い"
+   },
+   "poorOnly": {
+      "message": "悪い評価のみ"
+   },
+   "poorRating": {
+      "message": "これは不審なサイトです。"
+   },
+   "popupAdultStrip": {
+      "message": "アダルトコンテンツが含まれている可能性があります"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "このセクションでは、現在アクセスしているサイトが安全かどうかを確認できます。"
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "リンクをクリックしてレビューを読んでください。"
+   },
+   "popupOnboardingStep1Title": {
+      "message": "あなたの新しいWOTへようこそ！"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "このセクションには、あなたのオンライン習慣を追跡しているサービスの数が表示されます。"
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "リンクをクリックして、トラッカーのブロックを調整します。"
+   },
+   "popupOnboardingStep2Title": {
+      "message": "デジタルトラッカー"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "ここをクリックしてアカウント設定を開き、保護を管理します。"
+   },
+   "popupOnboardingStep3Title": {
+      "message": "保護を管理する"
+   },
+   "postReview": {
+      "message": "レビューの投稿"
+   },
+   "potentiallyMalicious": {
+      "message": "このサイトは有害な可能性があります。"
+   },
+   "preCheck": {
+      "message": "事前チェック"
+   },
+   "premium": {
+      "message": "プレミアム"
+   },
+   "premiumFeature": {
+      "message": "プレミアム機能"
+   },
+   "premiumSecurity": {
+      "message": "プレミアムセキュリティ"
+   },
+   "premiumText": {
+      "message": "最も有害なウェブサイトやリンクからあなたを守るために必要な、すべてのオンラインセキュリティ"
+   },
+   "presettings": {
+      "message": "事前設定"
+   },
+   "protectPrivacy": {
+      "message": "個人情報とプライバシーを保護 "
+   },
+   "protectYourPrivacy": {
+      "message": "ポップアップブロッカー"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "ポップアップをブロックして、よりクリーンで、速く、安全なブラウジング体験を実現します。"
+   },
+   "protectYourself": {
+      "message": "データ漏洩アラートを今すぐ使い始める"
+   },
+   "protectedForXDays": {
+      "message": "%1%日間保護"
+   },
+   "protection": {
+      "message": "保護"
+   },
+   "rateOnStore": {
+      "message": "%BROWSER%ストアで評価してください"
+   },
+   "rateOverall": {
+      "message": "%DOMAIN%の総合的な*満足度*を評価してください"
+   },
+   "rateThisSite": {
+      "message": "サイトを評価する"
+   },
+   "rateUs": {
+      "message": "WOTを評価する"
+   },
+   "rateYourExperience": {
+      "message": "総合的な満足度を評価："
+   },
+   "readMoreReviews": {
+      "message": "レビューをもっと読む (%1%)"
+   },
+   "readReviews": {
+      "message": "レビューを読む"
+   },
+   "realTimeCheckups": {
+      "message": "リアルタイムチェック"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "フィッシング、マルウェア、その他の脅威からリアルタイムで安全を確保します。"
+   },
+   "realtimePhishingAlerts": {
+      "message": "リアルタイムのフィッシング警告"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "他人を危険にさらす可能性のある、信頼できないサイトや偽のサイトにお気づきの場合はご報告ください"
+   },
+   "reputation": {
+      "message": "評価"
+   },
+   "reputationIcons": {
+      "message": "評価アイコン"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOTは、現在アクセスしているWebサイトの安全レベルを表示します"
+   },
+   "restorePurchases": {
+      "message": "購入記録を復元する"
+   },
+   "resultFor": {
+      "message": "次の結果："
+   },
+   "reviewAddedErrorText": {
+      "message": "エラーが発生しました。もう一度お試しください。"
+   },
+   "reviewAddedErrorTitle": {
+      "message": "レビューを投稿できませんでした"
+   },
+   "reviewAddedOKText": {
+      "message": "インターネットをより安全な場所にしていただき、ありがとうございます。"
+   },
+   "reviewAddedOKTitle": {
+      "message": "レビューは正常に投稿されました"
+   },
+   "reviews": {
+      "message": "レビュー"
+   },
+   "rtOFF": {
+      "message": "マニュアルモードを実行中 - WOTの保護機能が無効です"
+   },
+   "rtON": {
+      "message": "WOTの保護機能が有効です。"
+   },
+   "rtProtection": {
+      "message": "リアルタイム保護"
+   },
+   "rtProtectionRecommended": {
+      "message": "リアルタイム保護 (推奨)"
+   },
+   "safeBrowsing": {
+      "message": "安全なブラウジング"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT は、アクセスするすべてのサイト、ページ、およびサービスをリアルタイムのアラートでスキャンすることにより、オンラインで警戒を続けます。"
+   },
+   "safeSearch": {
+      "message": "安全な検索"
+   },
+   "safeSearchSubtitle": {
+      "message": "検索結果の横にアイコンが表示され、クリックする前に Web サイトが安全かどうかを確認できます。"
+   },
+   "safeShopping": {
+      "message": "安全な買い物"
+   },
+   "safeShoppingSite": {
+      "message": "このサイトでは安全にショッピングができます"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "WOTアルゴリズム、機械学習、ユーザーレビューによると、このウェブサイトでは安全にショッピングができます"
+   },
+   "safetyScore": {
+      "message": "安全性スコア"
+   },
+   "safetyScoreSubtitle": {
+      "message": "スコアカードを使用して、Webサイトの評判とレビューを確認し、自分の経験を共有します"
+   },
+   "scannedOn": {
+      "message": "以下で検出されました："
+   },
+   "scoreCard": {
+      "message": "スコアカード"
+   },
+   "searchEnginePageResults": {
+      "message": "検索エンジンの結果ページ"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "ウェブサイトのリンクの横にあるWOTの安全インジケーターを使用して、情報に基づいた意思決定をオンラインで行います"
+   },
+   "searchIndicator": {
+      "message": "検索インジケーター"
+   },
+   "searchManualModeButton": {
+      "message": "検索エンジンのガイダンスをオンにする"
+   },
+   "searchManualModeHeader": {
+      "message": "WoTのガイダンスがありません"
+   },
+   "searchManualModeText": {
+      "message": "検索エンジンに対するWoTの保護機能が無効になっています。リンクの横にウェブサイトの評価を表示することができません。"
+   },
+   "security": {
+      "message": "安全性"
+   },
+   "securityBreaches": {
+      "message": "セキュリティの脅威"
+   },
+   "securityRiskDetected": {
+      "message": "セキュリティリスクが検出されました"
+   },
+   "securityScore": {
+      "message": "セキュリティスコア"
+   },
+   "securitySystem": {
+      "message": "セキュリティシステム"
+   },
+   "securityWarning": {
+      "message": "セキュリティの警告"
+   },
+   "seeLess": {
+      "message": "表示数を減らす"
+   },
+   "seeMore": {
+      "message": "さらに見る"
+   },
+   "seeReviews": {
+      "message": "レビューを見る"
+   },
+   "sendFeedback": {
+      "message": "フィードバックを送信"
+   },
+   "serpMailWarning": {
+      "message": "危険なリンクや追跡URLが含まれている可能性があるため、WOTはこれを不審なメールと判断しました"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "メールをアップグレードして保護する"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "後でリマインド"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "オンライン詐欺の96％はメールで届きます。躊躇せず、今すぐ自分の身を守りましょう。"
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "お客様のメールアドレスが危険にさらされています！"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOTはオンラインの脅威とトラッキングを検出して防止するため、個人情報の安全性が保証されます。"
+   },
+   "servicesTrackingYou": {
+      "message": "サービスがあなたのアクティビティを追跡しています"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "プレミアム機能のロックを解除して"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "保護を強化する"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "いつでも、どこでも。"
+   },
+   "settingsBannerTitle": {
+      "message": "より安全なブラウジング体験。"
+   },
+   "setup": {
+      "message": "設定"
+   },
+   "severeOnly": {
+      "message": "悪質サイトのみ"
+   },
+   "share": {
+      "message": "シェア"
+   },
+   "shareExperience": {
+      "message": "あなた自身の経験を%1%で共有し、他の人の役に立ちましょう"
+   },
+   "shareFeedback": {
+      "message": "フィードバックをシェアする"
+   },
+   "shareOnFacebook": {
+      "message": "Facebookでシェア"
+   },
+   "shareOnGoogle": {
+      "message": "Google+でシェア"
+   },
+   "shareOnTwitter": {
+      "message": "Twitterでシェア"
+   },
+   "shareText1": {
+      "message": "Web of Trustで%WEBSITE%を評価してより快適なウェブ作りを手伝いました! 評価が違う? あなたの評価を教えてください 👉 %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "ウェブサイトを安全に閲覧して危険なサイトを避ける方法を発見しました! 拡張機能でWeb of Trustをチェックしてください: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Web of Trustで%WEBSITE%に%STARS%/5の評価を付けて快適なウェブ作りを手伝いました! 評価が違う? あなたの評価を教えてください 👉 %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": "ウェブサイトを安全に閲覧して危険なサイトを避けるのに@Web_of_Trust を使っています。さっそく使ってみてください: %LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextGoogleRate": {
+      "message": "Web of Trustで%WEBSITE%に%STARS%/5の評価をつけて快適なウェブ作りを手伝いました! 評価が違う? あなたの評価を教えてください 👉 %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": "ウェブサイトを安全に閲覧して危険なサイトを避けるのに@Web_of_Trust を使っています。さっそく使ってみてください: %LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextTwitterRate": {
+      "message": "WOTで%WEBSITE%に%STARS%/5の評価をつけました! 評価が違う? あなたの評価を教えてください 👉 %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "ウェブサイトを安全に閲覧して危険なサイトを避ける方法を発見しました! 拡張機能でWeb of Trustをチェックしてください: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Web of Trustで%WEBSITE%に%STARS%/5の評価を付けて快適なウェブ作りを手伝いました! 評価が違う? あなたの評価を教えてください 👉 %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "WOTを友達とシェア!"
+   },
+   "shareWotRating": {
+      "message": "%DOMAIN%の評価を友達とシェアしよう!"
+   },
+   "shareYouRating": {
+      "message": "あなたの評価を友達と共有しましょう"
+   },
+   "shopWithConfidence": {
+      "message": "自信を持って買い物"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "オンラインストアで購入者のレビューを確認し、フィッシングや偽のeコマース詐欺から身を守りましょう"
+   },
+   "signIn": {
+      "message": "ログイン"
+   },
+   "signInNow": {
+      "message": "今すぐサインイン"
+   },
+   "signInToRate": {
+      "message": "サインインして、このウェブサイトを評価してレビューを書いてください"
+   },
+   "siteIsSafe": {
+      "message": "このサイトは*安全*だと思いますか?"
+   },
+   "siteIsSafeChildren": {
+      "message": "このサイトは*子供にふさわしい*ですか?"
+   },
+   "skip": {
+      "message": "スキップ"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "脅威を検出し、詐欺から身を守るために構築された高度なフィッシング保護。"
+   },
+   "social": {
+      "message": "ソーシャルネットワーク"
+   },
+   "someTrackersBlocked": {
+      "message": "%1%/%2%個のトラッカーをブロックしました"
+   },
+   "specialOfferBillingDetails": {
+      "message": "次の1回の支払いとして請求されます："
+   },
+   "specialOfferFeatures": {
+      "message": "メール保護、アダルトコンテンツのブロック、無制限のトラッカーブロックなど、他にもさまざまな機能があります！"
+   },
+   "startFreeTrial": {
+      "message": "無料トライアルを開始する"
+   },
+   "startProtection": {
+      "message": "保護を開始"
+   },
+   "startYourFreeTrial": {
+      "message": "無料トライアルを始める"
+   },
+   "successRecPass": {
+      "message": "手順をメールアドレスに送信しました。"
+   },
+   "suspiciousByWOT": {
+      "message": "WOTはこのウェブサイトを不審なものとしてマークしました"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "WOTが疑わしいと判断したウェブサイト"
+   },
+   "suspiciousSite": {
+      "message": "不審なサイト"
+   },
+   "switchToClassic": {
+      "message": "Classic WOTに切り替え"
+   },
+   "systemPageAction": {
+      "message": "OK"
+   },
+   "systemPageContent": {
+      "message": "ブラウザのシステムページ、ローカルホスト、拡張ページなど、サポートされていないページでWOTを使用しようとしています。"
+   },
+   "systemPageTitle": {
+      "message": "システムページ"
+   },
+   "takeAction": {
+      "message": "対応する"
+   },
+   "tellUsMore": {
+      "message": "もっとお聞かせください..."
+   },
+   "tellYourFriends": {
+      "message": "友達にWOTについて話して、コミュニティを広めましょう！"
+   },
+   "termsOfUse": {
+      "message": "利用規約"
+   },
+   "thankYou": {
+      "message": "よろしくお願いします。"
+   },
+   "thankYouForFeedback": {
+      "message": "ご意見ありがとうございます。"
+   },
+   "thankYouForInstalling": {
+      "message": "WOT をインストールいただきありがとうございます。次に、保護シールドを選択して完全に保護されるようにしてください"
+   },
+   "thanksGotIt": {
+      "message": "了解しました。"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "このメールは、%1%件の既知のデータ侵害に含まれていました"
+   },
+   "thisPopupShows": {
+      "message": "このポップアップには任意のサイトの評価スコアが表示されます。 "
+   },
+   "thisSiteOnly": {
+      "message": "このサイトのみ"
+   },
+   "threatsFound": {
+      "message": "脅威が見つかりました"
+   },
+   "timerManualModeButton": {
+      "message": "リアルタイム保護をオンにする"
+   },
+   "timerManualModeHeader": {
+      "message": "マニュアルモードで閲覧しています！"
+   },
+   "timerManualModeText": {
+      "message": "WOTのプロアクティブな保護は無効になっており、危険なウェブサイトから保護することができません"
+   },
+   "toWriteReview": {
+      "message": " してレビューを書く"
+   },
+   "toggleTooltipMessage": {
+      "message": "この機能を有効にしましょう"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "今すぐアップグレード"
+   },
+   "tooComplicated": {
+      "message": "複雑すぎる"
+   },
+   "tooltipChildSafe": {
+      "message": "このサイトには卑猥、刺激的、残酷なコンテンツはありませんか?"
+   },
+   "tooltipSafe": {
+      "message": "このサイトにはマルウェア、ウイルス、フィッシングなどの脅威はありませんか?"
+   },
+   "tour": {
+      "message": "ツアー"
+   },
+   "trackerBlocked": {
+      "message": "ブロックされています"
+   },
+   "trackerBlocker": {
+      "message": "アンチトラッカー保護"
+   },
+   "trackerBlockerDescription": {
+      "message": "訪問するすべてのウェブサイトのすべてのトラッカーを自動的にブロックします。"
+   },
+   "trackerCounterAction": {
+      "message": "さらにトラッカーをロック解除する"
+   },
+   "trackerCounterText": {
+      "message": "ベーシック保護では、%1%/3個のトラッカーブロックがご利用いただけます"
+   },
+   "trackerSomeBlocked": {
+      "message": "%1%/%2%個をブロックしました"
+   },
+   "trackerUnblocked": {
+      "message": "ブロックを解除しました"
+   },
+   "trackersBlockAll": {
+      "message": "すべてのトラッカーを自動的にブロックする"
+   },
+   "trackersBlocked": {
+      "message": "トラッカーがブロックされました"
+   },
+   "trackersDetected": {
+      "message": "トラッカーが検出されました"
+   },
+   "trackingProtection": {
+      "message": "トラッキング保護"
+   },
+   "trustIssues": {
+      "message": "信頼性に問題があるサイトです。注意して閲覧してください。"
+   },
+   "trusted": {
+      "message": "信頼されています"
+   },
+   "trustedByWOT": {
+      "message": "WOTが信頼するウェブサイト"
+   },
+   "trustedByWOTPopup": {
+      "message": "WOTが信頼するウェブサイト"
+   },
+   "trustedSite": {
+      "message": "信頼できるサイト"
+   },
+   "trustedSource": {
+      "message": "信頼できるソース"
+   },
+   "tryAgain": {
+      "message": "再試行する"
+   },
+   "turnOffProtection": {
+      "message": "保護をオフにする"
+   },
+   "twoMillionMembers": {
+      "message": "2+百万人のメンバー"
+   },
+   "unknownByWOT": {
+      "message": "十分な情報がありません"
+   },
+   "unknownByWOTPopup": {
+      "message": "WOTが不明だと判断したウェブサイト"
+   },
+   "unknownSite": {
+      "message": "不明なサイト"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "無制限のトラッカーブロックは、プレミアムユーザーのみご利用いただけます"
+   },
+   "unlock": {
+      "message": "ロックを解除する"
+   },
+   "unlockPremium": {
+      "message": "プレミアムを使用する"
+   },
+   "untrusted": {
+      "message": "信頼できない"
+   },
+   "untrustedByWOT": {
+      "message": "WOTはこのサイトが信頼できないと判断しました"
+   },
+   "untrustedByWOTPopup": {
+      "message": "WOTが信頼できないと判断したウェブサイト"
+   },
+   "untrustedSite": {
+      "message": "信頼できないサイト"
+   },
+   "upgrade": {
+      "message": "アップグレード"
+   },
+   "upgradeNow": {
+      "message": "今すぐアップグレード"
+   },
+   "viewAll": {
+      "message": "すべて表示"
+   },
+   "viewFullReport": {
+      "message": "レポートをすべて表示"
+   },
+   "viewFullScorecard": {
+      "message": "スコアカードをすべて表示"
+   },
+   "wantToDelete": {
+      "message": "あなたの評価を削除しますか?"
+   },
+   "wantToRateWOT": {
+      "message": "%BROWSER% StoreでWOTを評価してください"
+   },
+   "wantToRateWOTBtn": {
+      "message": "WOTを評価する"
+   },
+   "wantToRateWOTHeader": {
+      "message": "WOTはいかがですか?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "すべてのWOTプレミアム機能のご利用をご希望ですか？"
+   },
+   "warning": {
+      "message": "警告!"
+   },
+   "warningAlerts": {
+      "message": "警告アラート"
+   },
+   "warningAlertsSubtitle": {
+      "message": "不審な Web サイトにアクセスした場合に警告を表示する"
+   },
+   "warnings": {
+      "message": "警告通知"
+   },
+   "weAppreciate": {
+      "message": "私たちはあなたの時間を感謝し、私たちがWOTを改善するのを手伝ってくれてありがとう"
+   },
+   "websiteBlocking": {
+      "message": "ウェブサイトのブロック"
+   },
+   "weekAgo": {
+      "message": "1週間前"
+   },
+   "weeksAgo": {
+      "message": "%1%週間前"
+   },
+   "welcome": {
+      "message": "ようこそ"
+   },
+   "welcomeToWot": {
+      "message": "WOTへようこそ"
+   },
+   "whatCanIDo": {
+      "message": "私はそれについて何ができますか？"
+   },
+   "whatCouldWeDo": {
+      "message": "何がもっとうまくできるでしょうか？"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "信頼できない行為とは、一般的に、詐欺、フィッシング、マルウェア、PUP、その他の有害なサイト、危険なサイトに起因する動作を指します。"
+   },
+   "whatIsNotSafeTitle": {
+      "message": "信頼できないサイトとは何ですか？"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "不審な行為とは、一般的に、詐欺、クリプトジャッキング、ブラウザのハイジャック、その他の有害なサイト、リスクのあるサイトおよび危険なウェブサイトに起因する動作を指します。"
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "不審なサイトとは何ですか？"
+   },
+   "whatIsUnknownDescription": {
+      "message": "現在、このウェブサイトを評価するのに十分な情報がありません。社会保障番号、銀行口座、クレジットカード情報などの個人情報は提供しないことをお勧めします。"
+   },
+   "whatIsUnknownTitle": {
+      "message": "不明なサイトとは何ですか？"
+   },
+   "whatsNewWOT": {
+      "message": "新しいデータ侵害の監視"
+   },
+   "whatsNewWOTContent": {
+      "message": "この強力な新機能を使用すると、個人情報とパスワードが危険にさらされたり、セキュリティの脅威にさらされたりしないようにすることができます。"
+   },
+   "whatsNewWOTGotIt": {
+      "message": "みてみましょう"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "さらに詳しく"
+   },
+   "whitelist": {
+      "message": "Whitelist"
+   },
+   "whitelistTitle": {
+      "message": "警告を表示しないサイト"
+   },
+   "whyIsntSafe": {
+      "message": "%DOMAIN%が*安全*ではない理由は?"
+   },
+   "whyIsntSafeChildren": {
+      "message": "%DOMAIN%が*子供にふさわしくない*理由は?"
+   },
+   "wotAssistant": {
+      "message": "WOTアシスタント"
+   },
+   "wotAssistantOFF": {
+      "message": "ブラウザの隅に良いウェブサイトの評判を表示しない"
+   },
+   "wotAssistantON": {
+      "message": "ブラウザの隅に良いウェブサイトの評判を表示する"
+   },
+   "wotCommunity": {
+      "message": "WOTのコミュニティ"
+   },
+   "wotDetected": {
+      "message": "WOTは潜在的なセキュリティ脅威を検出し、$DOMAIN$をブロックしました。このサイトは潜在的に有害であり、詐欺行為が含まれている可能性があります。",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "アダルトコンテンツが表示されている可能性があるため、WOTが$DOMAIN$をブロックしました。",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "WOTヘルパー"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "WOTヘルパー ウィジェットは非表示です。"
+   },
+   "wotHelperSettingsOnState": {
+      "message": "このサイトのスコア、コメント、安全性を確認するにはWOTヘルパー ウィジェットを表示してください。"
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOTは正常にインストールされました"
+   },
+   "writeAtLeast15": {
+      "message": "他の人に役立つ内容にするために、15文字以上入力してください"
+   },
+   "writeFirstReview": {
+      "message": "一番乗りでレビューを書きましょう"
+   },
+   "writeReview": {
+      "message": "レビューを書く"
+   },
+   "yearAgo": {
+      "message": "%1%年前"
+   },
+   "yearsAgo": {
+      "message": "%1%年前"
+   },
+   "yes": {
+      "message": "はい"
+   },
+   "youCanAlsoEdit": {
+      "message": "現在のレビューと評価を編集することもできます"
+   },
+   "youCanAlwaysChange": {
+      "message": "（後でいつでも設定を変更できます）"
+   },
+   "youCanCheckAnyLink": {
+      "message": "WOTフルプロテクションでは、訪問する前のリンクのチェックなど、さまざまなことが可能です。"
+   },
+   "youRatingThisSite": {
+      "message": "サイトの評価ありがとうございます!"
+   },
+   "yourRating": {
+      "message": "あなたの評価"
+   },
+   "yourSubscription": {
+      "message": "サブスクリプション"
+   }
+}

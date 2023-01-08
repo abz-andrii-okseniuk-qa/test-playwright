@@ -1,0 +1,39 @@
+{
+   "author": "AVG",
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "common/ui/icons/icon-unknown.png",
+      "default_title": "AVG Online Security"
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/contentAvast.js" ],
+      "matches": [ "*://*.avast.com/*" ]
+   }, {
+      "js": [ "scripts/contentInject.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "scripts/contentAdvertisers.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "common/ui/icons/icon128.png",
+      "16": "common/ui/icons/icon16.png",
+      "256": "common/ui/icons/icon256.png",
+      "32": "common/ui/icons/icon32.png",
+      "48": "common/ui/icons/icon48.png",
+      "64": "common/ui/icons/icon64.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyLoIILqUzox8JTxLkbItLb7l1WNGDjC703nMFb1kzQMJoEckGrFCodsYw2nV+K8nAIN4//tgJp7Ptu2AhhQXJ+oCnUaESVPkXv1zwVDtp3B/DoAK23ZNzEpTG/Jo+JqclOyRBMMqzg8OQcQFOyaflBEC2tMtQV9p8M6CrFM2NtKQBr2uGv7S/fEkrcOxQ4cePSyGQHAr1vk4kLhKoJZqIyxAj5ryTCSXWhCf9yXits2rBm7GyaAogrIeQQPpm8nFkMT9/Hsp17sQlNBo0rz4nEjhxISqmIRxJfq/0PHMvDWDpqrvPs9v8ObVDT2BUWy6+0KzYoDlKaA6DGbIZKwtnQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "https://*/*", "http://*/*", "storage", "tabs", "webNavigation", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "20.3.10",
+   "web_accessible_resources": [ "common/mocks/*", "common/ui/*", "common/ui/icons/*", "common/ui/fonts/*", "common/ui/css/*" ]
+}

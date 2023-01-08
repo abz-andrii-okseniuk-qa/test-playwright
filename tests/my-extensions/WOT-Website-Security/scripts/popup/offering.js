@@ -1,0 +1,1 @@
+const store=new Store({portName:"4873"});store.ready().then(()=>{window[WOT_TRACE_ID.name]=store.getState().wotTraceId,ReactDOM.render(React.createElement(ReactRedux.Provider,{store:store},React.createElement(SpecialOffer,{store:store})),document.getElementById("appcontainer"))});

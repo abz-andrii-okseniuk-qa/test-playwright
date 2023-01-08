@@ -1,0 +1,1847 @@
+{
+   "18Icon": {
+      "message": "Over-18-ikon"
+   },
+   "18IconOFF": {
+      "message": "Ikke vis ikoner for vokseninnhold ved siden av ringer"
+   },
+   "18IconON": {
+      "message": "Vis ikoner for vokseninnhold ved siden av ringer"
+   },
+   "Add": {
+      "message": "Legg til"
+   },
+   "AdultC": {
+      "message": "Innhold for voknsne"
+   },
+   "AllowAlways": {
+      "message": "Alltid tillat"
+   },
+   "AllowOnce": {
+      "message": "Tillat popup en gang"
+   },
+   "AlternativeMedicine": {
+      "message": "Alternativ medisin"
+   },
+   "BadReviewWarningText": {
+      "message": "Du ga dette nettstedet lav klassifisering tidligere. Vær forsiktig."
+   },
+   "BlocksPopup": {
+      "message": "Blokkerer popups"
+   },
+   "BlocksPopupText": {
+      "message": "Blokkerer popups og potensielt uønsket programvare"
+   },
+   "Carefulx": {
+      "message": "Forsiktig!"
+   },
+   "DoNotShowAgain": {
+      "message": "Ikke vis dette igjen for dette nettstedet"
+   },
+   "Error0": {
+      "message": "Ukjent feil"
+   },
+   "Error400": {
+      "message": "E-posten er ikke gyldig"
+   },
+   "Error4001": {
+      "message": "Godkjenning kreves"
+   },
+   "Error4002": {
+      "message": "Brukernavnet eller passordet er feil"
+   },
+   "Error4003": {
+      "message": "Manglende innloggingsinformasjon"
+   },
+   "Error4004": {
+      "message": "Brukeren er blokkert"
+   },
+   "Error4005": {
+      "message": "Du er logget ut. Logg inn på nytt."
+   },
+   "Error4006": {
+      "message": "Du er logget ut. Logg inn på nytt."
+   },
+   "Error4007": {
+      "message": "Innlogging mislyktes. Prøv på nytt senere."
+   },
+   "Error4008": {
+      "message": "Innlogging mislyktes. Prøv på nytt senere."
+   },
+   "Error4009": {
+      "message": "Brukeren er allerede registrert"
+   },
+   "Error401": {
+      "message": "Ikke autorisert"
+   },
+   "Error4010": {
+      "message": "Brukeren eksisterer allerede"
+   },
+   "Error4101": {
+      "message": "Lenken for å tilbakestille passordet er ikke gyldig"
+   },
+   "Error4102": {
+      "message": "Lenken for å tilbakestille passordet er utløpt"
+   },
+   "ExperienceFullPower": {
+      "message": "Opplev WOT på full styrke"
+   },
+   "FAQ": {
+      "message": "Ofte stilte spørsmål"
+   },
+   "Forgot": {
+      "message": "Glemt passordet?"
+   },
+   "ForgotBelow": {
+      "message": "Be om nytt passord"
+   },
+   "Gambling": {
+      "message": "Pengespill"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "Gi oss noen tilbakemeldinger …"
+   },
+   "GoBack": {
+      "message": "← Gå tilbake"
+   },
+   "GoToSetting": {
+      "message": "GÅ TIL INNSTILLINGER"
+   },
+   "GoodSite": {
+      "message": "Godt nettsted"
+   },
+   "GruesomeShocking": {
+      "message": "Grusomt eller sjokkerende"
+   },
+   "HateDiscrimination": {
+      "message": "Hat, diskriminering"
+   },
+   "HowCanWeImprove": {
+      "message": "Hvordan kan vi bli bedre?"
+   },
+   "IHaveAccount": {
+      "message": "Jeg har en konto. "
+   },
+   "IHaveNotAccount": {
+      "message": "Jeg har ikke konto. "
+   },
+   "Illegal": {
+      "message": "Potensielt ulovlig"
+   },
+   "IncidentalNudity": {
+      "message": "Tilfeldig nakenhet"
+   },
+   "LogInBelow": {
+      "message": "Logg på nedenfor"
+   },
+   "LogInFacebook": {
+      "message": "Logg på med Facebook"
+   },
+   "LogInGoogle": {
+      "message": "Logg på med Google+"
+   },
+   "LogInPasswordInput": {
+      "message": "passord"
+   },
+   "LogInTwitter": {
+      "message": "Logg på med Twitter"
+   },
+   "LogInUsernameInput": {
+      "message": "brukernavn eller e-post"
+   },
+   "MalwareViruses": {
+      "message": "Ondsinnet programvare eller virus"
+   },
+   "MisleadingUnethical": {
+      "message": "Villedende eller uetisk"
+   },
+   "NOT_SAFE": {
+      "message": "UTRYGT!"
+   },
+   "NewPassword": {
+      "message": "Send et nytt passord på e-post"
+   },
+   "NotAppropriate": {
+      "message": "Ikke egnet for barn"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "Meninger, religion, politikk"
+   },
+   "Phishing": {
+      "message": "Phishing"
+   },
+   "PoorExperience": {
+      "message": "Dårlig brukeropplevelse"
+   },
+   "PopupNotification": {
+      "message": "Vis varsel"
+   },
+   "PopupNotificationText": {
+      "message": "Vis et varsel på siden når en popup blokkeres"
+   },
+   "PrivacyRisks": {
+      "message": "Fare for personvern"
+   },
+   "ProtectionsFeatures": {
+      "message": "Vær trygg med WOT-assistent"
+   },
+   "ProtectionsFeatures2": {
+      "message": "Sjekk lenker før du åpner dem"
+   },
+   "Pts": {
+      "message": "(%POINTS% poeng)"
+   },
+   "RateThisWebsite": {
+      "message": "Vurder dette nettstedet"
+   },
+   "RememberMe": {
+      "message": "Husk meg"
+   },
+   "SAFE": {
+      "message": "TRYGT!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "Vis alltid alle typer ikoner ved siden av lenker (rød, gul, grønn)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "Vis bare det røde ikonet ved siden av nettsteder med lav klassifisering"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "Ingen omdømmeikoner vil vises"
+   },
+   "Scam": {
+      "message": "Svindel"
+   },
+   "Send": {
+      "message": "Send"
+   },
+   "ShowLess": {
+      "message": "Vis mindre"
+   },
+   "ShowMore": {
+      "message": "Vis mer"
+   },
+   "SignUp": {
+      "message": "Registrer deg"
+   },
+   "SignUpBelow": {
+      "message": "Registrer deg nedenfor"
+   },
+   "SignUpFacebook": {
+      "message": "Registrer deg med Facebook"
+   },
+   "SignUpGoogle": {
+      "message": "Registrer deg med Google+"
+   },
+   "SignUpPasswordInput": {
+      "message": "velg et passord"
+   },
+   "SignUpTwitter": {
+      "message": "Registrer deg med Twitter"
+   },
+   "SignUpUsernameInput": {
+      "message": "din e-post"
+   },
+   "SiteKids": {
+      "message": "Nettsted for barn"
+   },
+   "Spam": {
+      "message": "Spam"
+   },
+   "Submit": {
+      "message": "Send inn"
+   },
+   "Suspicious": {
+      "message": "Mistenkelig"
+   },
+   "TakeMoment": {
+      "message": "Bruk et øyeblikk på å gi oss en klassifisering."
+   },
+   "UNKNOWN": {
+      "message": "UKJENT"
+   },
+   "UnwantedPrograms": {
+      "message": "Potensielt uønskede programmer"
+   },
+   "ViewMyAccount": {
+      "message": "Vis min konto"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "Viser varsler for alle nettsteder som har dårlig klassifisering"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "Viser advarsler bare for ondsinnede nettsteder"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "Ingen advarsler vil vises"
+   },
+   "WantMore": {
+      "message": "Vil du fortelle oss mer?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "Hva du skal gjøre med disse bruddene"
+   },
+   "WhitelistPlaceholder": {
+      "message": "Legg til et nettsted der du ikke vil se advarsler (f.eks: Google.com)."
+   },
+   "WriteYourReview": {
+      "message": "Skriv en klassifisering …"
+   },
+   "accurace": {
+      "message": "Nøyaktighet"
+   },
+   "activate": {
+      "message": "Aktiver"
+   },
+   "activateProtection": {
+      "message": "Aktiver beskyttelse"
+   },
+   "addAReview": {
+      "message": "Legg til anmeldelse"
+   },
+   "adsOrPopups": {
+      "message": "Annonser/popups"
+   },
+   "adult": {
+      "message": "Voksen"
+   },
+   "adultContent": {
+      "message": "Innhold for voksne"
+   },
+   "adultContentProtection": {
+      "message": "Beskyttelse av voksent innhold"
+   },
+   "adultProtection": {
+      "message": "Voksensikring"
+   },
+   "adultProtectionText": {
+      "message": "Disse innstillingene gjelder for alle nettsteder i hver kategori"
+   },
+   "adultProtectionTooltip": {
+      "message": "Upassende innhold, pornografi og pengespill vil blokkeres"
+   },
+   "adultSettingMoreOptions": {
+      "message": "Flere alternativer"
+   },
+   "adultSettingSubtitle": {
+      "message": "Blokker pornografi og pengespill"
+   },
+   "adultSettingTitle": {
+      "message": "Voksensikring"
+   },
+   "ago": {
+      "message": "siden"
+   },
+   "agreeContinue": {
+      "message": "Godta og fortsett"
+   },
+   "all": {
+      "message": "Alt"
+   },
+   "allTrackersBlocked": {
+      "message": "%1% sporere blokkert"
+   },
+   "allWebsites": {
+      "message": "alle nettsteder"
+   },
+   "allow": {
+      "message": "Tillat"
+   },
+   "almostDone": {
+      "message": "Du er nesten ferdig"
+   },
+   "always": {
+      "message": "Alltid"
+   },
+   "analytics": {
+      "message": "Analyse"
+   },
+   "antiPhishingAndScams": {
+      "message": "Anti-phishing og svindel"
+   },
+   "appDescription": {
+      "message": "Sjekk informasjon om nettsteders sikkerhet og omdømme basert på brukernes opplevelse. Den offisielle Web of Trust-utvidelsen for Chrome."
+   },
+   "appName": {
+      "message": "WOT nettstedsikkerhet og beskyttelse for trygg surfing"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "Er du sikker?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "Skriv en ny anmeldelse av dette nettstedet"
+   },
+   "assistantSettingSubtitle": {
+      "message": "Handle trygt og søk på nettet"
+   },
+   "assistantSettingTitle": {
+      "message": "WOT-assistentskjold"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "Åpne WOT-appen"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "Antall sporere på denne siden"
+   },
+   "assistantTrackersTooltip": {
+      "message": "Med WOT kan du se og blokkere sporere på alle nettsteder du besøker, og kontrollere hvem som samler inn data om deg."
+   },
+   "autoScanDevice": {
+      "message": "Automatisk skanning av enhet"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "Sørg for at du skanner enheten regelmessig for sikkerhetstrusler og/eller lekkasjer."
+   },
+   "autoScanDeviceText": {
+      "message": "Sørg for å skanne enheten jevnlig for eventuelle sikkerhetstrusler og/eller brudd."
+   },
+   "avoidHarmfulSites": {
+      "message": "Unngå falske og skadelige nettsteder"
+   },
+   "back": {
+      "message": "Tilbake"
+   },
+   "beTheFirstToReview": {
+      "message": "Vær den første til å vurdere denne nettsiden"
+   },
+   "blacklistsPreCheck": {
+      "message": "Oppdaterte svartelister"
+   },
+   "block": {
+      "message": "Blokker"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "Blokker all sporing automatisk på nettsteder du besøker"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "Automatisk blokkering av alle sporere er kun tilgjengelig for Premium-brukere"
+   },
+   "blockTrackers": {
+      "message": "Blokker trackere"
+   },
+   "blockUnsafeWebsites": {
+      "message": "Blokker usikre nettsteder og lenker"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT vil sørge for å advare deg på forhånd om utilsiktet klikking på usikre lenker eller gå inn på usikre eller ondsinnede nettsteder"
+   },
+   "blocked": {
+      "message": "Blokkert!"
+   },
+   "blocksHackingAttacks": {
+      "message": "Blokkerer hackingangrep hvert 39. sekund"
+   },
+   "breachedDate": {
+      "message": "Brudd på dato"
+   },
+   "breachesAlert": {
+      "message": "Personopplysningene og/eller passordene dine er kompromitterte og utsatt for"
+   },
+   "browse": {
+      "message": "Bla gjennom"
+   },
+   "browserNotProtected": {
+      "message": "Nettleseren din er ikke beskyttet"
+   },
+   "browserProtected": {
+      "message": "Nettleseren din er sikker"
+   },
+   "browserSecured": {
+      "message": "Denne nettleseren er sikret!"
+   },
+   "bugs": {
+      "message": "Feil"
+   },
+   "canHelp": {
+      "message": "Hvordan kan vi hjelpe?"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "careful": {
+      "message": "Forsiktig!"
+   },
+   "categoriesExplained": {
+      "message": "Dette nettstedet kan falle under disse kategoriene"
+   },
+   "changePassword": {
+      "message": "Endre passord"
+   },
+   "changePasswordSubtitle": {
+      "message": "Sørg for at hvert passord er unikt, annerledes og vanskelig å gjette. Bruk aldri det samme passordet to ganger."
+   },
+   "changePasswordText": {
+      "message": "Sørg for at hvert passord er unikt, annerledes og vanskelig å gjette. Bruk aldri det samme passordet to ganger."
+   },
+   "checkLeaks": {
+      "message": "Sjekk lekkasjer"
+   },
+   "checkUrl": {
+      "message": "Sjekk URL"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Sjekk eventuelle sikkerhetsnivåer på nettstedet"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT gir deg tre måter å sjekke ethvert nettsteds sikkerhetsnivå: Googles søkemotorresultatside, nettleserverktøylinjeikon og detaljert resultatkort og anmeldelser"
+   },
+   "chooseTags": {
+      "message": "Velg etikettene som beskriver %DOMAIN%"
+   },
+   "chooseTagsForSite": {
+      "message": "Velg etikettene som best beskriver dette nettstedet:"
+   },
+   "chooseTagsThatDescribes": {
+      "message": "Velg etikettene som beskriver dette nettstedet"
+   },
+   "clearPolicy": {
+      "message": "Tydelig policy"
+   },
+   "clickAllTags": {
+      "message": "Klikk på alle etikettene dette gjelder"
+   },
+   "clickOnTheGearIcon": {
+      "message": "Klikk på %GEARICON% for å skru av/på denne hurtigmenyen"
+   },
+   "close": {
+      "message": "Lukk"
+   },
+   "contactUs": {
+      "message": "Kontakt oss"
+   },
+   "containAdultContent": {
+      "message": "Dette nettstedet kan ha vokseninnhold"
+   },
+   "contentWarning": {
+      "message": "Voksent innhold blokkert"
+   },
+   "coolGotIt": {
+      "message": "Kult, jeg forstår"
+   },
+   "dataBreachHookText": {
+      "message": "Noen ganger kan det være risikabelt"
+   },
+   "dataBreachHookTitle": {
+      "message": "Er du i ferd med å skrive inn påloggingsopplysningene dine?"
+   },
+   "dataLeakMonitoring": {
+      "message": "Overvåkning av datainnbrudd"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "Det ble funnet datalekkasjer knyttet til denne e-postkontoen"
+   },
+   "dayAgo": {
+      "message": "en dag siden"
+   },
+   "daysAgo": {
+      "message": "%1% dager siden"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "defaultManualModeButton": {
+      "message": "Fortsett og slå på"
+   },
+   "defaultManualModeHeader": {
+      "message": "Få resultater og innsikt i sanntid"
+   },
+   "defaultManualModeText": {
+      "message": "WOTs proaktive beskyttelse er deaktivert. Vi kan ikke vise deg vurderinger og varsler for nettsteder."
+   },
+   "defaultText": {
+      "message": "Blokker og unngå nettsteder med dårlig omdømme. (anbefalt)"
+   },
+   "del": {
+      "message": "Slett"
+   },
+   "delete": {
+      "message": "Ja, slett"
+   },
+   "deleteThisReview": {
+      "message": "Slett anmeldelsen?"
+   },
+   "digitalTrackingProtection": {
+      "message": "Digital sporingsbeskyttelse"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "Blokker automatisk alle tjenester fra å spore nettlesevanene dine."
+   },
+   "disableOnAllWebsites": {
+      "message": "Ja, deaktiver på alle nettsteder"
+   },
+   "disableOnThusWebsites": {
+      "message": "Ja, deaktiver kun på dette nettstedet"
+   },
+   "disableWOTHelper": {
+      "message": "Deaktiver WOT-hjelperen?"
+   },
+   "disableWOTHelperText": {
+      "message": "WOT-hjelperen gir deg en rask kikk på  omdømmet og kommentarene til nettstedet du besøker. Du kan når som helst deaktivere dette via WOT-innstillingene."
+   },
+   "disagree": {
+      "message": "Uenig"
+   },
+   "dismissWarning": {
+      "message": "Avvis advarsel"
+   },
+   "done": {
+      "message": "FERDIG"
+   },
+   "dontShowAgain": {
+      "message": "Ikke vis meg igjen"
+   },
+   "dontShowOnThisSite": {
+      "message": "Ikke advar meg mot dette nettstedet igjen"
+   },
+   "dontShowThis": {
+      "message": "Ikke vis dette igjen, for"
+   },
+   "donuts": {
+      "message": "Omdømmeikoner ved siden av lenker"
+   },
+   "downloadClassicWot": {
+      "message": "Last ned Classic WOT"
+   },
+   "downloadMobileWot": {
+      "message": "Last ned WOT for mobil"
+   },
+   "edit": {
+      "message": "Rediger"
+   },
+   "editYourReview": {
+      "message": "Rediger anmeldelsen"
+   },
+   "empty": {
+      "message": "Tøm liste"
+   },
+   "enable": {
+      "message": "aktiver"
+   },
+   "enableEnhancedProtection": {
+      "message": "Aktiver utvidet beskyttelse"
+   },
+   "enjoyingWot": {
+      "message": "Liker du WOT?"
+   },
+   "errorAction": {
+      "message": "OK"
+   },
+   "errorContent": {
+      "message": "Vi beklager. Last inn siden på nytt og prøv igjen."
+   },
+   "errorTitle": {
+      "message": "Noe gikk galt"
+   },
+   "extraFeaturesTitle": {
+      "message": "Se hva annet WOT har å tilby"
+   },
+   "faqSupport": {
+      "message": "FAQ og støtte"
+   },
+   "findHelp": {
+      "message": "Få hjelp eller ta kontakt med oss"
+   },
+   "firstRate": {
+      "message": "Bli den første til å vurdere dette nettstedet"
+   },
+   "followUs": {
+      "message": "Følg oss"
+   },
+   "forAllPremiumPlans": {
+      "message": "For alle premium-abonnementer"
+   },
+   "forum": {
+      "message": "Forum"
+   },
+   "freeTrialEndend": {
+      "message": "%2% dager igjen av din gratis prøveperiode"
+   },
+   "freeUserBlockTitle": {
+      "message": "Vil du ha beskyttelse mot andre skadelige nettsteder?"
+   },
+   "gamblingSites": {
+      "message": "Pengespill"
+   },
+   "gamblingSitesText": {
+      "message": "Nettsteder med pengespill og lignende innhold blokkeres"
+   },
+   "generalSettings": {
+      "message": "Generelle innstillinger"
+   },
+   "generalSettingsDescription": {
+      "message": "Tilpass innstillingene dine for å passe dine behov og hold deg beskyttet"
+   },
+   "getFullCoverage": {
+      "message": "Full nettleserbeskyttelse"
+   },
+   "getFullProtection": {
+      "message": "Få total WOT-beskyttelse"
+   },
+   "getMorePremium": {
+      "message": "Få mer med Premium"
+   },
+   "getPhishingAlert": {
+      "message": "Få phishing-varsel"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "Beskytter deg mot de nyeste phishing-nettstedene og sosial manipulering."
+   },
+   "getWOTPremium": {
+      "message": "Skaff WOT Premium for full beskyttelse mot hackere, virus og skadelige nettsteder."
+   },
+   "gmailProtectionDescription": {
+      "message": "Motta advarsler om mistenkelig e-post i innboksen din"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "Laget for å raskt oppdage phishing i e-post"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "Smart e-postovervåkning"
+   },
+   "gmailProtectionTitle": {
+      "message": "E-postbeskyttelse"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "Tilpass e-postbeskyttelsen og skriv inn klarerte URL-er"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "Legg til klarerte URL-er (f.eks sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "Tillat-liste"
+   },
+   "goPremium": {
+      "message": "GO PREMIUM"
+   },
+   "goToLeakReport": {
+      "message": "Se Bruddrapport"
+   },
+   "goToSite": {
+      "message": "Gå til nettstedet likevel"
+   },
+   "goodService": {
+      "message": "God service"
+   },
+   "gotIt": {
+      "message": "Jeg forstår"
+   },
+   "greatSupport": {
+      "message": "Flott støtte"
+   },
+   "hide": {
+      "message": "Skjul"
+   },
+   "hideWotAssistant": {
+      "message": "Skjul WOT-assistent"
+   },
+   "hideWotAssistantText": {
+      "message": "Hvis du klikker på «skjul», vil lasting av WOT-assistentsiden ikke være synlig lenger. Du kan endre dette senere under innstillinger."
+   },
+   "high": {
+      "message": "Høy"
+   },
+   "highText": {
+      "message": "Blokker alle mistenkelige nettsteder. Nettsteder med innhold som er upassende for barn blokkeres som standardvalg"
+   },
+   "holdOn": {
+      "message": "Vent litt!"
+   },
+   "hour": {
+      "message": "time"
+   },
+   "hourAgo": {
+      "message": "en time siden"
+   },
+   "hourMinutesAgo": {
+      "message": "for en time %2% minutter siden"
+   },
+   "hours": {
+      "message": "timer"
+   },
+   "hoursAgo": {
+      "message": "%1% timer siden"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% timer %2% minutter siden"
+   },
+   "hoverOverTheWOT": {
+      "message": "Hold musepekeren over WOT %DONUTICON%-ikonet for å se omdømmet til dette nettstedet"
+   },
+   "howWouldYouRate": {
+      "message": "Hva er din vurdering av dette nettstedet, fra 1 til 5?"
+   },
+   "identityProtection": {
+      "message": "Identitetsbeskyttelse"
+   },
+   "identityProtectionModalMessage": {
+      "message": "Ved å aktivere funksjonen for identitetsbeskyttelse godtar du at vi kan dele e-postadressen din med en tredjepart som tilbyr passordbeskyttelse og overvåkingstjeneste"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT varsler deg når dine personlige data har blitt lekket slik at du kan bevege deg raskt for å forhindre identitetstyveri og fremtidige lekkasjer."
+   },
+   "increaseOnlineSecurity": {
+      "message": "Øk nettsikkerheten"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "Aktiver tofaktorautentisering for å få tilgang til dine personlige kontoer som inneholder sensitiv informasjon"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "Aktiver tofaktorautentisering for å få tilgang til dine personlige kontoer som inneholder sensitiv informasjon."
+   },
+   "installed": {
+      "message": "Installert"
+   },
+   "isSafe": {
+      "message": "Mener du at dette nettstedet er trygt?"
+   },
+   "issuesFound": {
+      "message": "%ISSUES% problemer funnet"
+   },
+   "justNow": {
+      "message": "akkurat nå"
+   },
+   "lang": {
+      "message": "en-US"
+   },
+   "lastScanned": {
+      "message": "Sist skannet"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT vil varsle deg i sanntid om datainnbrudd som inneholder din personlige informasjon, slik at du kan beskytte deg selv på nettet."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "Ved å aktivere overvåking for datainnbrudd godtar du at vi kan dele e-postadressen din med en tredjepart som tilbyr en passordbeskyttelse- og overvåkingstjeneste."
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "Vi anbefaler at du tar disse trinnene for å holde personopplysningene dine trygge og beskytte din digitale identitet:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "Hva skal jeg gjøre hvis min personlige informasjon ble lekket?"
+   },
+   "leakedInformation": {
+      "message": "Lekket informasjon"
+   },
+   "legalAnd": {
+      "message": "og"
+   },
+   "legalPrivacyPolicy": {
+      "message": "Personvern"
+   },
+   "legalStatement": {
+      "message": "Vi trenger å sende informasjon til våre servere om websidene du besøker, for å kunne tilby sanntidsbeskyttelse og vedlikehold, og for å forbedre tjenestene våre. Ved å klikke på «Godta» ovenfor godtar du våre"
+   },
+   "letCommunityKnow": {
+      "message": "La nettsamfunnet vårt få vite om det, enten du hadde en positiv opplevelse eller det er noe som vekker bekymring."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "Fortell andre om opplevelsen din av dette nettstedet"
+   },
+   "limitedTimeOffer": {
+      "message": "Tidsbegrenset tilbud"
+   },
+   "lite": {
+      "message": "Enkel"
+   },
+   "liteText": {
+      "message": "Vi forstyrrer deg ikke – unntatt i kritiske tilfeller"
+   },
+   "liveBlocking": {
+      "message": "Live blokkering"
+   },
+   "loading": {
+      "message": "Laster … "
+   },
+   "logOut": {
+      "message": "Logg ut"
+   },
+   "login": {
+      "message": "Logg inn"
+   },
+   "looksSafe": {
+      "message": "Ser trygt ut"
+   },
+   "manage": {
+      "message": "Få til"
+   },
+   "manageProtection": {
+      "message": "Administrer beskyttelse"
+   },
+   "manageSubscriptions": {
+      "message": "Administrer abonnementer"
+   },
+   "manageTrackers": {
+      "message": "administrer sporere"
+   },
+   "manualModeAgree": {
+      "message": "Ved å klikke på «slå på» ovenfor, godtar du våre"
+   },
+   "manualModeWarning": {
+      "message": "Du er i manuell modus – WOTs proaktive beskyttelse er deaktivert og vi kan ikke beskytte deg mot skadelige nettsteder"
+   },
+   "manualModeWarningStrip": {
+      "message": "Merk at du navigerer i manuell modus, og mange funksjoner vil ikke være tilgjengelige"
+   },
+   "marketing": {
+      "message": "Markedsføring"
+   },
+   "maybeNextTime": {
+      "message": "Kanskje neste gang"
+   },
+   "messageSubmitted": {
+      "message": "Meldingen ble sendt."
+   },
+   "minute": {
+      "message": "minutt"
+   },
+   "minuteAgo": {
+      "message": "et minutt siden"
+   },
+   "minutes": {
+      "message": "Minutter"
+   },
+   "minutesAgo": {
+      "message": "%1% minutter siden"
+   },
+   "missingReviews": {
+      "message": "Manglende anmeldelser"
+   },
+   "month": {
+      "message": "måned"
+   },
+   "monthAgo": {
+      "message": "en måned siden"
+   },
+   "monthsAgo": {
+      "message": "%1% måneder siden"
+   },
+   "moreInfo": {
+      "message": "Mer informasjon"
+   },
+   "myDashboardNav": {
+      "message": "mitt skrivebord"
+   },
+   "myProfile": {
+      "message": "Min profil"
+   },
+   "newDataLeaksFound": {
+      "message": "%1% nye datalekkasjer funnet"
+   },
+   "next": {
+      "message": "Neste"
+   },
+   "no": {
+      "message": "Nei"
+   },
+   "noBreaches": {
+      "message": "Gode nyheter! Ingen datalekkasje funnet"
+   },
+   "noComments": {
+      "message": "Ingen klassifiseringer"
+   },
+   "noKeepIt": {
+      "message": "Nei, behold den på"
+   },
+   "noReviewsYet": {
+      "message": "Ingen anmeldelser ennå"
+   },
+   "noSkip": {
+      "message": "Nei, hopp over"
+   },
+   "noThanks": {
+      "message": "Nei takk"
+   },
+   "noTrackersBlocked": {
+      "message": "%1% sporere funnet"
+   },
+   "noTrackersDetected": {
+      "message": "Ingen sporere funnet"
+   },
+   "none": {
+      "message": "Ingen"
+   },
+   "notSecurity": {
+      "message": "Finnes det noen sikkerhetsproblemer?"
+   },
+   "notSuitableForChildren": {
+      "message": "Finnes det innhold som er upassende for barn?"
+   },
+   "notSure": {
+      "message": "Usikker"
+   },
+   "off": {
+      "message": "Av"
+   },
+   "okGotIt": {
+      "message": "Okei, jeg forstår"
+   },
+   "on": {
+      "message": "på"
+   },
+   "onBoarding4States": {
+      "message": "Det finnes fire statuser:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "for å sjekke omdømmet til et nettsted før du klikker på det."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "Hold markøren over skjoldikonet"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "Dashbord for omdømme"
+   },
+   "onBoardingReputationScore": {
+      "message": "Omdømmepoeng"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "Nå kan du surfe på internett uten bekymringer. Pass på å sjekke skjoldikonet før du klikker på ukjente nettsteder!"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "Denne hurtigmenyen viser omdømmet et nettsted. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "Dette nettstedet er %SAFETY% av WOT!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "Du kan klikke \"Les anmeldelser\" for å lese flere brukeranmeldelser."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "Alt er klart!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1 blokkert sporer"
+   },
+   "oneTrackerDetected": {
+      "message": "1 sporer funnet"
+   },
+   "optinAreYouSureMessage": {
+      "message": "For å gi deg live 360-graders nettbeskyttelse krever noen av WOTs funksjoner tilgang til anonym informasjon samlet inn fra nettsidene du besøker. Denne informasjonen vil ikke bli delt med tredjeparter eller brukt til markedsføringsformål. Du kan endre innstillingene dine når som helst ved å gå til innstillingssiden."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT advarer deg når du mottar svindel, phishing, mistenkelig, skadelig programvare og spam e-poster"
+   },
+   "optinGoBack": {
+      "message": "Gå tilbake"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "Slå på Live Protection"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "Forbedret beskyttelse"
+   },
+   "optinHeaderInstallation": {
+      "message": "Installert vellykket"
+   },
+   "optinHeaderScanDevice": {
+      "message": "Skann enhet"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "Sett opp nettleseren din"
+   },
+   "optinMaybeLater": {
+      "message": "Kanskje senere"
+   },
+   "optinProtectYourEmail": {
+      "message": "Beskytt e-posten din"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "Logoen på nettleserens verktøylinje endrer seg avhengig av nettstedets omdømme"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "Se etter WOT-logoen"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "WOT advarer deg hvis du havner på et nettsted med dårlig omdømme"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "Få sanntidsvarsler"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "Sjekk fargen på WOT-logoen i søkeresultatene for å se hvilke nettsteder det er trygt å klikke på"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "Merk et hvilket som helst søkeresultat"
+   },
+   "optinSubtitle": {
+      "message": "For å beskytte deg i sanntid trenger vi tilgang til nettadresser du blar gjennom"
+   },
+   "optinTitle": {
+      "message": "Tillat nettleserbeskyttelse"
+   },
+   "optinWelcomeSubtitle": {
+      "message": "Dere ble nettopp med i {millionMembers} og beskyttet hverandre ved hjelp av WOT"
+   },
+   "or": {
+      "message": " eller "
+   },
+   "other": {
+      "message": "Andre"
+   },
+   "outOfHere": {
+      "message": "Få meg vekk herfra"
+   },
+   "ownThisSite": {
+      "message": "Eier du dette nettstedet?"
+   },
+   "parentalControl": {
+      "message": "Foreldresperre"
+   },
+   "parentalControlOFF": {
+      "message": "Nettsider med upassende innhold for barn vil ikke blokkeres"
+   },
+   "parentalControlON": {
+      "message": "Nettsteder med upassende innhold for barn vil blokkeres"
+   },
+   "performance": {
+      "message": "Opptreden"
+   },
+   "pinWot": {
+      "message": "Fest WOT!"
+   },
+   "pinWotPopup": {
+      "message": "Fest $WOT$ for å se gjeldende sikkerhetsstatus for nettstedet",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "Bruk et øyeblikk på å rangere oss"
+   },
+   "policy": {
+      "message": "Vis personvernpolitikk"
+   },
+   "poorCustomerService": {
+      "message": "Dårlig kundeservice"
+   },
+   "poorOnly": {
+      "message": "Bare dårlige"
+   },
+   "poorRating": {
+      "message": "Dette nettstedet er mistenkelig."
+   },
+   "popupAdultStrip": {
+      "message": "Kan inneholde vokseninnhold"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "I denne delen kan du sjekke om nettstedet du besøker for øyeblikket er trygt eller ikke."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "Klikk på lenken for å lese anmeldelser."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "Velkommen til din nye WOT!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "Denne delen viser hvor mange tjenester som sporer dine nettvaner."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "Klikk på lenken for å justere sporingsblokkering."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "Digitale sporere"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "Klikk her for å åpne kontoinnstillinger og administrere beskyttelsen din."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "Administrer beskyttelsen min"
+   },
+   "postReview": {
+      "message": "Publiser anmeldelse"
+   },
+   "potentiallyMalicious": {
+      "message": "Dette nettstedet kan være skadelig."
+   },
+   "preCheck": {
+      "message": "FORHÅNDSSJEKK"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "premiumFeature": {
+      "message": "Premium-funksjon"
+   },
+   "premiumSecurity": {
+      "message": "Premium sikkerhet"
+   },
+   "premiumText": {
+      "message": "Alt du trenger av nettsikkerhet for å beskytte deg mot de mest skadelige nettstedene og koblingene"
+   },
+   "presettings": {
+      "message": "Forhåndsinnstillinger"
+   },
+   "protectPrivacy": {
+      "message": "Beskytt identitet og personvern "
+   },
+   "protectYourPrivacy": {
+      "message": "Popup-blokkering"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "Blokker popups for en renere, raskere og tryggere nettopplevelse."
+   },
+   "protectYourself": {
+      "message": "Få varsler om datalekkasjer nå"
+   },
+   "protectedForXDays": {
+      "message": "Beskyttet i %1% dager"
+   },
+   "protection": {
+      "message": "beskyttelse"
+   },
+   "rateOnStore": {
+      "message": "Ranger oss i %BROWSER% butikken"
+   },
+   "rateOverall": {
+      "message": "Klassifiser din totale *opplevelse* på %DOMAIN%"
+   },
+   "rateThisSite": {
+      "message": "Gi dette nettstedet en anmeldelse"
+   },
+   "rateUs": {
+      "message": "Klassifiser WOT"
+   },
+   "rateYourExperience": {
+      "message": "Vurder helhetlig opplevelsen din på"
+   },
+   "readMoreReviews": {
+      "message": "Les flere anmeldelser (%1%)"
+   },
+   "readReviews": {
+      "message": "Les anmeldelser"
+   },
+   "realTimeCheckups": {
+      "message": "Kontroll i sanntid"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "Hold deg trygg mot phishing, ondsinnet programvare og andre trusler i sanntid."
+   },
+   "realtimePhishingAlerts": {
+      "message": "Phishing-varsler i sanntid"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "Rapporter til oss om uredelige eller falske nettsteder som kan utgjøre en risiko for andre"
+   },
+   "reputation": {
+      "message": "Omdømme"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT vil vise sikkerhetsnivået til nettstedet du besøker for øyeblikket"
+   },
+   "restorePurchases": {
+      "message": "Gjenopprett kjøp"
+   },
+   "resultFor": {
+      "message": "Resultater for"
+   },
+   "reviewAddedErrorText": {
+      "message": "Det oppstod en feil. Prøv igjen."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "Anmeldelse feilet"
+   },
+   "reviewAddedOKText": {
+      "message": "Takk for at du gjør internett til et tryggere sted!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "Anmeldelsen ble publisert"
+   },
+   "reviews": {
+      "message": "Klassifiseringer"
+   },
+   "rtOFF": {
+      "message": "Du kjører nå i manuell modus - WOTs proaktive beskyttelse er deaktivert"
+   },
+   "rtON": {
+      "message": "Du er nå proaktivt beskyttet med full dekning fra WOT."
+   },
+   "rtProtection": {
+      "message": "Beskyttelse i sanntid"
+   },
+   "rtProtectionRecommended": {
+      "message": "Beskyttelse i sanntid (anbefales)"
+   },
+   "safeBrowsing": {
+      "message": "Trygg surfing"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT holder deg våken på nettet ved å skanne hver side, side og tjeneste du besøker med sanntidsvarsler."
+   },
+   "safeSearch": {
+      "message": "Sikkert søk"
+   },
+   "safeSearchSubtitle": {
+      "message": "Ikoner vil vises ved siden av søkeresultatene dine for å vite om et nettsted er trygt eller ikke før du klikker."
+   },
+   "safeShopping": {
+      "message": "Trygg shopping"
+   },
+   "safeShoppingSite": {
+      "message": "Dette nettstedet er trygt for netthandel"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "Basert på WOT-algoritmen, maskinlæring og brukeranmeldelser, ansees dette stedet som trygt for netthandel"
+   },
+   "safetyScoreSubtitle": {
+      "message": "Bruk målkortene til å sjekke nettstedets rykte og anmeldelser og dele din egen opplevelse"
+   },
+   "scannedOn": {
+      "message": "funnet den"
+   },
+   "scoreCard": {
+      "message": "Poengkort"
+   },
+   "searchEnginePageResults": {
+      "message": "Søkemotorresultatside"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "Ta informerte avgjørelser online med WOTs sikkerhetsindikator ved siden av nettsidelenker"
+   },
+   "searchIndicator": {
+      "message": "Søkindikator"
+   },
+   "searchManualModeButton": {
+      "message": "Slå på veiledning for søkemotorer"
+   },
+   "searchManualModeHeader": {
+      "message": "Du får ikke veiledning fra WOT"
+   },
+   "searchManualModeText": {
+      "message": "WOTs beskyttelse for søkemotorer er deaktivert. Vi kan ikke vise deg vurderinger ved siden av koblinger til nettsteder."
+   },
+   "security": {
+      "message": "Sikkerhet"
+   },
+   "securityBreaches": {
+      "message": "sikkerhetstrusler!"
+   },
+   "securityRiskDetected": {
+      "message": "Sikkerhetsrisikoer ble oppdaget"
+   },
+   "securityScore": {
+      "message": "Sikkerhetspoeng"
+   },
+   "securitySystem": {
+      "message": "Sikkerhetssystem"
+   },
+   "securityWarning": {
+      "message": "Sikkerhetsadvarsel"
+   },
+   "seeLess": {
+      "message": "Vis mindre"
+   },
+   "seeMore": {
+      "message": "Vis mer"
+   },
+   "seeReviews": {
+      "message": "Se klassifiseringer"
+   },
+   "sendFeedback": {
+      "message": "Send tilbakemelding"
+   },
+   "serpMailWarning": {
+      "message": "WOT finner denne e-postmeldingen mistenkelig siden den kan inneholde farlige lenker eller sporings-URL-er"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "Oppgrader og beskytt e-posten din"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "Minn meg på det senere"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "96% av svindel på nettet kommer via e-post. Ikke nøl, beskytt deg selv NÅ."
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "E-posten din er i fare!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT oppdager og stopper trusler og sporing på nettet, slik at du kan være trygg på at din personlige informasjon er sikret."
+   },
+   "servicesTrackingYou": {
+      "message": "Tjenester sporer aktiviteten din"
+   },
+   "settings": {
+      "message": "Innstillinger"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "LÅS OPP PREMIUMFUNKSJONER"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "Få bedre sikkerhet"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "Hvor som helst, når som helst."
+   },
+   "settingsBannerTitle": {
+      "message": "Tryggere surfing."
+   },
+   "setup": {
+      "message": "Konfigurert"
+   },
+   "severeOnly": {
+      "message": "Bare alvorlige"
+   },
+   "share": {
+      "message": "Del"
+   },
+   "shareExperience": {
+      "message": "Del opplevelsen din av %1% og hjelp andre"
+   },
+   "shareFeedback": {
+      "message": "Del din tilbakemelding om"
+   },
+   "shareOnFacebook": {
+      "message": "Del på Facebook"
+   },
+   "shareOnGoogle": {
+      "message": "Del på Google +"
+   },
+   "shareOnTwitter": {
+      "message": "Del på Twitter"
+   },
+   "shareText1": {
+      "message": "Jeg har nettopp bidratt til å gjøre nettet til et bedre sted, ved å klassifisere %WEBSITE% på Web of Trust! Er du uenig? Klassifiser det du også: %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "Jeg har funnet en måte å bruke nettet trygt på og unngå usikre nettsider! Sjekk tilleggsprogrammet Web of Trust: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Jeg har nettopp bidratt til å gjøre nettet tryggere ved å gi %WEBSITE% %STARS% av 5 stjerner på Web of Trust! Uenig? Klassifiser det selv her: %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": " Jeg bruker @Web_of_Trust til bruke nettet trygt og unngå usikre nettsider. Prøv det selv her: %LINK% #WOT #MyWOT #sikkerhet"
+   },
+   "shareTextGoogleRate": {
+      "message": "Jeg har nettopp bidratt til å gjøre nettet tryggere ved å gi %WEBSITE% %STARS% av 5 stjerner på Web of Trust! Uenig? Klassifiser det selv her: %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": " Jeg bruker @Web_of_Trust til å bruke nettet trygt og unngå usikre nettsider. Prøv det selv her: %LINK% #WOT #MyWOT #sikkerhet"
+   },
+   "shareTextTwitterRate": {
+      "message": "Jeg har nettopp gitt %WEBSITE% %STARS% av 5 stjerner på WOT! Uenig? Klassifiser det selv her: %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "Jeg har funnet en måte å bruke nettet trygt på og unngå usikre nettsider! Sjekk tilleggsprogrammet Web of Trust: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Jeg har nettopp bidratt til å gjøre nettet tryggere ved å gi %WEBSITE% %STARS% av 5 stjerner på Web of Trust! Uenig? Klassifiser det selv her: %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "Del WOT med venner!"
+   },
+   "shareWotRating": {
+      "message": "Del din klassifisering av %DOMAIN% ned venner!"
+   },
+   "shareYouRating": {
+      "message": "Del klassifiseringen med vennene dine"
+   },
+   "shopWithConfidence": {
+      "message": "Handle med selvtillit"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "Se kjøperanmeldelser i hvilken som helst nettbutikk og beskytt deg mot phishing og falsk e-handelssvindel"
+   },
+   "signIn": {
+      "message": "Logg inn"
+   },
+   "signInNow": {
+      "message": "Logg inn nå"
+   },
+   "signInToRate": {
+      "message": "Logg deg inn for å vurdere og skrive en anmeldelse av dette nettstedet"
+   },
+   "siteIsSafe": {
+      "message": "Mener du at dette nettstedet er *trygt?*"
+   },
+   "siteIsSafeChildren": {
+      "message": "Er dette nettstedet *trygt for barn?*"
+   },
+   "skip": {
+      "message": "Hopp over"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "Avansert phishing-beskyttelse bygget for å oppdage trusler og holde deg unna svindel."
+   },
+   "social": {
+      "message": "Sosiale nettverk"
+   },
+   "someTrackersBlocked": {
+      "message": "%1% av %2% sporere blokkert"
+   },
+   "specialOfferBillingDetails": {
+      "message": "Faktureres som én betaling på"
+   },
+   "specialOfferFeatures": {
+      "message": "E-postbeskyttelse, blokkering av vokseninnhold, ubegrenset blokkering av sporere og mer!"
+   },
+   "startFreeTrial": {
+      "message": "Start min gratis prøveperiode"
+   },
+   "startProtection": {
+      "message": "Beskytt meg!"
+   },
+   "startYourFreeTrial": {
+      "message": "Start en gratis prøveperiode"
+   },
+   "successRecPass": {
+      "message": "Instruksjoner har blitt sendt til e-postadressen din"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT har merket dette nettstedet som mistenkelig"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "Merket som mistenkelig av WOT"
+   },
+   "suspiciousSite": {
+      "message": "Mistenkelig nettsted"
+   },
+   "switchToClassic": {
+      "message": "Bytt til Classic WOT"
+   },
+   "systemPageAction": {
+      "message": "GREIT"
+   },
+   "systemPageContent": {
+      "message": "Du prøver å bruke WOT på en side som ikke søttes, som for eksempel en systemside i nettleseren, localhost eller en utvidelsesside."
+   },
+   "systemPageTitle": {
+      "message": "Systemside"
+   },
+   "takeAction": {
+      "message": "Gjør noe med det"
+   },
+   "tellUsMore": {
+      "message": "Fortell oss mer..."
+   },
+   "tellYourFriends": {
+      "message": "Spre samfunnet ved å fortelle vennene dine om WOT!"
+   },
+   "termsOfUse": {
+      "message": "Bruksvilkår"
+   },
+   "thankYou": {
+      "message": "Takk!"
+   },
+   "thankYouForFeedback": {
+      "message": "Takk for tilbakemeldingene dine"
+   },
+   "thankYouForInstalling": {
+      "message": "Sørg for at du er fullstendig beskyttet ved å velge beskyttelsesnivå"
+   },
+   "thanksGotIt": {
+      "message": "Jeg forstår, takk!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "Denne e-posten ble vist i %1% kjente databrudd"
+   },
+   "thisPopupShows": {
+      "message": "Denne hurtigmenyen viser omdømmet et nettsted. "
+   },
+   "thisSiteOnly": {
+      "message": "kun dette nettstedet"
+   },
+   "threatsFound": {
+      "message": "Trusler funnet"
+   },
+   "timerManualModeButton": {
+      "message": "Slå på sanntidsbeskyttelse"
+   },
+   "timerManualModeHeader": {
+      "message": "Du navigerer i manuell modus!"
+   },
+   "timerManualModeText": {
+      "message": "WOTs proaktive beskyttelse er deaktivert og vi kan ikke beskytte deg mot skadelige nettsteder."
+   },
+   "toWriteReview": {
+      "message": " for å skrive en klassifisering"
+   },
+   "toggleTooltipMessage": {
+      "message": "for å aktivere denne funksjonen"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "OPPGRADER NÅ"
+   },
+   "tooComplicated": {
+      "message": "For komplisert"
+   },
+   "tooltipChildSafe": {
+      "message": "Er dette nettstedet fritt for innhold som f.eks. nakenhet, sjokkerende, grusomt innhold osv.?"
+   },
+   "tooltipSafe": {
+      "message": "Er dette nettstedet fritt for trusler som f.eks. ondsinnet programvare, viruser, phishing osv.?"
+   },
+   "tour": {
+      "message": "Omvisning"
+   },
+   "trackerBlocked": {
+      "message": "Blokkert"
+   },
+   "trackerBlocker": {
+      "message": "Sporingsbeskyttelse"
+   },
+   "trackerBlockerDescription": {
+      "message": "Blokker sporing på alle nettsteder du besøker."
+   },
+   "trackerCounterAction": {
+      "message": "Lås opp flere sporere"
+   },
+   "trackerCounterText": {
+      "message": "%1%/3 sporere tilgjengelig for grunnleggende beskyttelse"
+   },
+   "trackerSomeBlocked": {
+      "message": "%1% av %2% blokkert"
+   },
+   "trackerUnblocked": {
+      "message": "Blokkering opphevet"
+   },
+   "trackersBlockAll": {
+      "message": "Blokker all sporing"
+   },
+   "trackersBlocked": {
+      "message": "Trackers blokkert"
+   },
+   "trackersDetected": {
+      "message": "sporere funnet"
+   },
+   "trackingProtection": {
+      "message": "Sporingsbeskyttelse"
+   },
+   "trustIssues": {
+      "message": "Det finnes noen klareringsproblemer for dette nettstedet. Vær forsiktig."
+   },
+   "trusted": {
+      "message": "klarert"
+   },
+   "trustedByWOT": {
+      "message": "Nettsted klarert av WOT"
+   },
+   "trustedByWOTPopup": {
+      "message": "Merket som klarert av WOT"
+   },
+   "trustedSite": {
+      "message": "Klarert nettsted"
+   },
+   "trustedSource": {
+      "message": "Pålitelig kilde"
+   },
+   "tryAgain": {
+      "message": "PRØV IGJEN"
+   },
+   "turnOffProtection": {
+      "message": "Slå av beskyttelse"
+   },
+   "twoMillionMembers": {
+      "message": "2+ millioner medlemmer"
+   },
+   "unknownByWOT": {
+      "message": "Mangler tilstrekkelig informasjon"
+   },
+   "unknownByWOTPopup": {
+      "message": "Merket som ukjent av WOT"
+   },
+   "unknownSite": {
+      "message": "Ukjent nettsted"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "Ubegrenset blokkering av sporing er kun tilgjengelig for Premium-brukere"
+   },
+   "unlock": {
+      "message": "Lås opp"
+   },
+   "unlockPremium": {
+      "message": "Lås opp Premium"
+   },
+   "untrusted": {
+      "message": "ikke klarert"
+   },
+   "untrustedByWOT": {
+      "message": "WOT klarerte ikke dette nettstedet"
+   },
+   "untrustedByWOTPopup": {
+      "message": "Merket som ikke klarert av WOT"
+   },
+   "untrustedSite": {
+      "message": "Ikke-klarert nettsted"
+   },
+   "upgrade": {
+      "message": "OPPGRADERING"
+   },
+   "upgradeNow": {
+      "message": "OPPGRADER NÅ"
+   },
+   "viewAll": {
+      "message": "ViewAll"
+   },
+   "viewFullReport": {
+      "message": "Vis full rapport"
+   },
+   "viewFullScorecard": {
+      "message": "Vis fullt scorecard"
+   },
+   "wantToDelete": {
+      "message": "Er du sikker på at du vil slette klassifiseringen?"
+   },
+   "wantToRateWOT": {
+      "message": "Sett av et øyeblikk og klassifiser oss i %BROWSER% Store"
+   },
+   "wantToRateWOTBtn": {
+      "message": "Klassifiser WOT"
+   },
+   "wantToRateWOTHeader": {
+      "message": "Liker du WOT?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "Vil du låse opp alle premiumfunksjoner i WOT?"
+   },
+   "warning": {
+      "message": "Advarsel!"
+   },
+   "warningAlerts": {
+      "message": "Advarselsvarsler"
+   },
+   "warningAlertsSubtitle": {
+      "message": "Vis advarsler for mistenkelige nettsteder som er besøkt"
+   },
+   "warnings": {
+      "message": "Varselmeldinger"
+   },
+   "weAppreciate": {
+      "message": "Vi setter pris på tiden din og takker for at du hjelper oss med å forbedre WOT"
+   },
+   "weekAgo": {
+      "message": "en uke siden"
+   },
+   "weeksAgo": {
+      "message": "%1% uker siden"
+   },
+   "welcomeToWot": {
+      "message": "Velkommen til WOT"
+   },
+   "whatCanIDo": {
+      "message": "Hva kan jeg gjøre med det?"
+   },
+   "whatCouldWeDo": {
+      "message": "Hva kan vi gjøre bedre?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "Ikke-klarerte nettsteder utviser atferd som vanligvis forbindes med svindel, nettfisking, skadelig programvare, PUP og andre typer skadelige, risikable og farlige nettsteder."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "Hva er et *ikke-klarert* nettsted?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "Mistenkelig aktivitet omfatter atferd som vanligvis forbindes med svindel, krypto-jacking, nettleserkapring og andre typer skadelige, risikable og farlige nettsteder."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "Hva er et *mistenkelig* nettsted?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "Vi har foreløpig ikke nok informasjon til å vurdere dette nettstedet. Vi anbefaler at du unngår å oppgi personlig informasjon som personnummer, bankkonto eller kredittkortinformasjon."
+   },
+   "whatIsUnknownTitle": {
+      "message": "Hva er et *ukjent* nettsted?"
+   },
+   "whatsNewWOT": {
+      "message": "Ny overvåkning av datainnbrudd"
+   },
+   "whatsNewWOTContent": {
+      "message": "Med denne kraftige nye funksjonen kan du nå sørge for at din personlige informasjon og passord ikke blir kompromittert eller utsatt for sikkerhetstrusler."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "La oss se"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "MER INFORMASJON"
+   },
+   "whitelist": {
+      "message": "Whitelist"
+   },
+   "whitelistTitle": {
+      "message": "Ikke vis advarsler for disse nettsidene"
+   },
+   "whyIsntSafe": {
+      "message": "Hvorfor er ikke %DOMAIN% *trygt?*"
+   },
+   "whyIsntSafeChildren": {
+      "message": "Hvorfor er ikke %DOMAIN% *trygt for barn?*"
+   },
+   "wotAssistant": {
+      "message": "WOT-assistent"
+   },
+   "wotAssistantOFF": {
+      "message": "Ikke vis positivt omdømme for nettsteder i hjørnet av nettleseren"
+   },
+   "wotAssistantON": {
+      "message": "Vis positivt omdømme for nettsteder i hjørnet av nettleseren"
+   },
+   "wotCommunity": {
+      "message": "WOTs fellesskap"
+   },
+   "wotDetected": {
+      "message": "WOT har påvist en potensiell sikkerhetstrussel og blokkerer $DOMAIN$. Dette nettstedet er potensielt skadelig og kan inneholde aktivitet relatert til svindel.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "$DOMAIN$ ble blokkert av WOT på grunn av potensielt voksent innhold som ble vist.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "WOT-hjelper "
+   },
+   "wotHelperSettingsOffState": {
+      "message": "WOT-hjelperen vil ikke vises."
+   },
+   "wotHelperSettingsOnState": {
+      "message": "Vis WOT-hjelperen for rask tilgang til omdømmet, kommentarene og sikkerheten til dette nettstedet."
+   },
+   "writeAtLeast15": {
+      "message": "Skriv minst 15 tegn for å hjelpe andre"
+   },
+   "writeFirstReview": {
+      "message": "Vær den første som skriver en anmeldelse"
+   },
+   "writeReview": {
+      "message": "Skriv en anmeldelse"
+   },
+   "yearAgo": {
+      "message": "%1% år siden"
+   },
+   "yearsAgo": {
+      "message": "%1% år siden"
+   },
+   "yes": {
+      "message": "Ja"
+   },
+   "youCanAlsoEdit": {
+      "message": "Du kan også redigere anmeldelsen og vurderingen"
+   },
+   "youCanAlwaysChange": {
+      "message": "(du kan endre dette senere)"
+   },
+   "youCanCheckAnyLink": {
+      "message": "Med full WOT-beskyttelse kan du sjekke alle lenker før du besøker dem, og mye mer!"
+   },
+   "youRatingThisSite": {
+      "message": "Du gjorde en kjempegod jobb med å klassifisere dette nettstedet!"
+   },
+   "yourRating": {
+      "message": "Din klassifisering"
+   },
+   "yourSubscription": {
+      "message": "Abonnementet ditt"
+   }
+}

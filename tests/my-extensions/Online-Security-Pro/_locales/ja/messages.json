@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "悪意のある"
+   },
+   "Malware": {
+      "message": "マルウェア"
+   },
+   "Phishing": {
+      "message": "フィッシング"
+   },
+   "Suspicious": {
+      "message": "疑わしい"
+   },
+   "alert_back": {
+      "message": "安全な状態に戻る"
+   },
+   "alert_continue": {
+      "message": "無視して続行"
+   },
+   "alert_description": {
+      "message": "この Webサイトは、以下の理由で一時的にブロックされました:"
+   },
+   "alert_false": {
+      "message": "誤検出をレポート"
+   },
+   "alert_notrecommended": {
+      "message": "(非推奨)"
+   },
+   "alert_recommended": {
+      "message": "(推奨)"
+   },
+   "alert_safe": {
+      "message": "(サイトが安全と考えられる場合)"
+   },
+   "alert_text": {
+      "message": "このサイトには、ウイルスまたはコンピューター上で保管または入力された個人情報を悪意ある人物に漏洩するソフトウェア プログラムへのリンクが含まれています。"
+   },
+   "alert_warning": {
+      "message": "警告: 安全でない Webサイトをブロックしました!"
+   },
+   "ext_description": {
+      "message": "マルウェア、フィッシング、悪意のあるWebサイトに対するオンラインセキュリティ。"
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "新しい！ Comodoであなたの携帯電話を守りましょう。 \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a>と\u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>は無料です。 今それを入手！"
+   },
+   "lang_id": {
+      "message": "1041"
+   },
+   "lang_name": {
+      "message": "日本語"
+   },
+   "options_blocked": {
+      "message": "ブロックされました"
+   },
+   "options_close": {
+      "message": "閉じる"
+   },
+   "options_exclusions_placeholder": {
+      "message": "テキストを入力"
+   },
+   "options_exclusions_removeall": {
+      "message": "すべて削除する"
+   },
+   "options_exclusions_removeselected": {
+      "message": "削除選択"
+   },
+   "options_exclusions_search": {
+      "message": "サーチ"
+   },
+   "options_exclusions_showingpage": {
+      "message": "表示ページ"
+   },
+   "options_exclusions_time": {
+      "message": "検出日時"
+   },
+   "options_exclusions_type": {
+      "message": "脅威の種類"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro のオプション"
+   },
+   "options_ignored": {
+      "message": "無視した"
+   },
+   "options_tab_title_exclusions": {
+      "message": "除外"
+   },
+   "options_tab_title_url": {
+      "message": "Webサイトフィルタリングログ"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "除外"
+   },
+   "options_title_url": {
+      "message": "Webサイトフィルタリングログ"
+   },
+   "options_url_action": {
+      "message": "取られた行動"
+   },
+   "options_url_placeholder": {
+      "message": "テキストを入力"
+   },
+   "options_url_removeall": {
+      "message": "すべて削除する"
+   },
+   "options_url_removeselected": {
+      "message": "削除選択"
+   },
+   "options_url_search": {
+      "message": "サーチ"
+   },
+   "options_url_showingpage": {
+      "message": "表示ページ"
+   },
+   "options_url_time": {
+      "message": "検出日時"
+   },
+   "options_url_type": {
+      "message": "脅威の種類"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "約"
+   },
+   "popup_click": {
+      "message": "ここをクリック"
+   },
+   "popup_exclusions": {
+      "message": "除外リストを編集"
+   },
+   "popup_feedback": {
+      "message": "フィードバック"
+   },
+   "popup_help": {
+      "message": "助けて"
+   },
+   "popup_history": {
+      "message": "履歴を確認する"
+   },
+   "popup_license": {
+      "message": "ライセンス"
+   },
+   "popup_notes": {
+      "message": "リリースノート"
+   },
+   "popup_notifications": {
+      "message": "お知らせ"
+   },
+   "popup_page": {
+      "message": "商品ページ"
+   },
+   "popup_policy": {
+      "message": "個人情報保護方針"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "この拡張子を評価する"
+   },
+   "popup_report": {
+      "message": "このページを報告"
+   },
+   "popup_settings": {
+      "message": "設定"
+   },
+   "popup_version": {
+      "message": "バージョン"
+   },
+   "popup_warn": {
+      "message": "Online Security Proを無効にしたため、悪質なリンクが %d 個見つかりました"
+   }
+}

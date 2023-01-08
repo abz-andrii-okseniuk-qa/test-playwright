@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "18+ Pictogram"
+   },
+   "18IconOFF": {
+      "message": "Geen pictogrammen van volwassen content naast donuts laten zien"
+   },
+   "18IconON": {
+      "message": "Laat pictogrammen van volwassen content naast donuts zien"
+   },
+   "Add": {
+      "message": "Voeg toe"
+   },
+   "AdultC": {
+      "message": "Inhoud voor volwassenen"
+   },
+   "AllowAlways": {
+      "message": "Altijd toestaan"
+   },
+   "AllowOnce": {
+      "message": "Pop-up eenmalig toestaan"
+   },
+   "AlternativeMedicine": {
+      "message": "Alternatief geneesmiddel"
+   },
+   "BadReviewWarningText": {
+      "message": "U gaf deze website in het verleden een lage score. Ga voorzichtig verder."
+   },
+   "BlocksPopup": {
+      "message": "Blokkeert pop-ups"
+   },
+   "BlocksPopupText": {
+      "message": "Blokkeert alle pop-ups en mogelijk ongewenste programma's"
+   },
+   "Carefulx": {
+      "message": "Voorzichtig!"
+   },
+   "DoNotShowAgain": {
+      "message": "Toon dit niet meer voor deze website"
+   },
+   "Error0": {
+      "message": "Onbekende fout"
+   },
+   "Error400": {
+      "message": "E-mail is ongeldig"
+   },
+   "Error4001": {
+      "message": "Autorisatie vereist"
+   },
+   "Error4002": {
+      "message": "Onjuiste gebruikersnaam of wachtwoord"
+   },
+   "Error4003": {
+      "message": "Ontbrekende aanmeldgegevens"
+   },
+   "Error4004": {
+      "message": "Gebruiker is geblokkeerd"
+   },
+   "Error4005": {
+      "message": "U bent uitgelogd. Log opnieuw in."
+   },
+   "Error4006": {
+      "message": "U bent uitgelogd. Log opnieuw in."
+   },
+   "Error4007": {
+      "message": "Inloggen is mislukt, probeer het later opnieuw"
+   },
+   "Error4008": {
+      "message": "Inloggen is mislukt, probeer het later opnieuw"
+   },
+   "Error4009": {
+      "message": "Gebruiker is al aangemeld"
+   },
+   "Error401": {
+      "message": "Ongeautoriseerd"
+   },
+   "Error4010": {
+      "message": "Gebruiker bestaat al"
+   },
+   "Error4101": {
+      "message": "De link voor het opnieuw instellen van het wachtwoord in ongeldig"
+   },
+   "Error4102": {
+      "message": "De link voor het opnieuw instellen van het wachtwoord is verlopen"
+   },
+   "ExperienceFullPower": {
+      "message": "Ervaar de volledige kracht van WOT"
+   },
+   "FAQ": {
+      "message": "FAQ"
+   },
+   "Forgot": {
+      "message": "vergeten?"
+   },
+   "ForgotBelow": {
+      "message": "Vraag een nieuw wachtwoord aan"
+   },
+   "Gambling": {
+      "message": "Kansspelen"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "Geef ons wat feedback …"
+   },
+   "GoBack": {
+      "message": "← Ga Terug"
+   },
+   "GoToSetting": {
+      "message": "GA NAAR INSTELLINGEN"
+   },
+   "GoodSite": {
+      "message": "Goede website"
+   },
+   "GruesomeShocking": {
+      "message": "Gruwelijk of schokkend"
+   },
+   "HateDiscrimination": {
+      "message": "Haat, discriminatie"
+   },
+   "HowCanWeImprove": {
+      "message": "Hoe kunnen wij verbeteren?"
+   },
+   "IHaveAccount": {
+      "message": "Ik heb een account. "
+   },
+   "IHaveNotAccount": {
+      "message": "Ik heb geen account. "
+   },
+   "Illegal": {
+      "message": "Mogelijk onwettig"
+   },
+   "IncidentalNudity": {
+      "message": "Incidentele naaktheid"
+   },
+   "LogInBelow": {
+      "message": "Log hieronder in"
+   },
+   "LogInFacebook": {
+      "message": "Meld aan met Facebook"
+   },
+   "LogInGoogle": {
+      "message": "Log in met Google+"
+   },
+   "LogInPasswordInput": {
+      "message": "wachtwoord"
+   },
+   "LogInTwitter": {
+      "message": "Log in met Twitter"
+   },
+   "LogInUsernameInput": {
+      "message": "gebruikersnaam of e-mail"
+   },
+   "MalwareViruses": {
+      "message": "Malware of virusses"
+   },
+   "MisleadingUnethical": {
+      "message": "Misleidend of onethisch"
+   },
+   "NOT_SAFE": {
+      "message": "NIET VEILIG!"
+   },
+   "NewPassword": {
+      "message": "E-mail mij een nieuw wachtwoord"
+   },
+   "NotAppropriate": {
+      "message": "Niet Geschikt voor Kinderen"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "Opinies, religie, politiek"
+   },
+   "Phishing": {
+      "message": "Phishing"
+   },
+   "PoorExperience": {
+      "message": "Slechte klantervaring"
+   },
+   "PopupNotification": {
+      "message": "Melding tonen"
+   },
+   "PopupNotificationText": {
+      "message": "Toont een melding op de pagina als een pop-up wordt geblokkeerd"
+   },
+   "PrivacyRisks": {
+      "message": "Privacy risico's"
+   },
+   "ProtectionsFeatures": {
+      "message": "Blijf veilig met de WOT Assistant"
+   },
+   "ProtectionsFeatures2": {
+      "message": "Controleer links voordat je gaat browsen"
+   },
+   "Pts": {
+      "message": "(%POINTS% pnt)"
+   },
+   "RateThisWebsite": {
+      "message": "Beoordeel deze website"
+   },
+   "RememberMe": {
+      "message": "Herinner mij"
+   },
+   "SAFE": {
+      "message": "VEILIG!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "Toon altijd alle soorten icoontjes naast de links (rood, geel, groen)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "Toon alleen het rode icoontje naast slecht beoordeelde websites"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "Er worden geen reputatie icoontjes getoond"
+   },
+   "Scam": {
+      "message": "Zwendel"
+   },
+   "Send": {
+      "message": "Verzend"
+   },
+   "ShowLess": {
+      "message": "Toon Minder"
+   },
+   "ShowMore": {
+      "message": "Toon Meer"
+   },
+   "SignUp": {
+      "message": "Meld aan"
+   },
+   "SignUpBelow": {
+      "message": "Meld hieronder aan"
+   },
+   "SignUpFacebook": {
+      "message": "Meld aan met Facebook"
+   },
+   "SignUpGoogle": {
+      "message": "Meld aan met Google+"
+   },
+   "SignUpPasswordInput": {
+      "message": "kies een wachtwoord"
+   },
+   "SignUpTwitter": {
+      "message": "Meld aan met Twitter"
+   },
+   "SignUpUsernameInput": {
+      "message": "uw e-mail"
+   },
+   "SiteKids": {
+      "message": "Website voor kinderen"
+   },
+   "Spam": {
+      "message": "Spam"
+   },
+   "Submit": {
+      "message": "Verstuur"
+   },
+   "Suspicious": {
+      "message": "Verdacht"
+   },
+   "TakeMoment": {
+      "message": "Neem een moment om ons uw feedback te geven."
+   },
+   "UNKNOWN": {
+      "message": "ONBEKEND"
+   },
+   "UnwantedPrograms": {
+      "message": "Mogelijk ongewenste programma's"
+   },
+   "ViewMyAccount": {
+      "message": "Bekijk Mijn Account"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "Toont waarschuwingen voor alle websites die slechte beoordelingen hebben"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "Toont alleen waarschuwingen voor kwaadaardige websites"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "Er worden geen waarschuwingen getoond"
+   },
+   "WantMore": {
+      "message": "Wil je ons meer vertellen?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "Wat te doen voor deze lekken"
+   },
+   "WhitelistPlaceholder": {
+      "message": "Voeg een website toe waar u geen waarschuwingen wilt zien. (Bijv.: Google.com)"
+   },
+   "WriteYourReview": {
+      "message": "Schrijf uw beoordeling…"
+   },
+   "accurace": {
+      "message": "Nauwkeurigheid"
+   },
+   "activate": {
+      "message": "Activeren"
+   },
+   "activateProtection": {
+      "message": "Activeer bescherming"
+   },
+   "addAReview": {
+      "message": "Voeg recensie toe"
+   },
+   "adsOrPopups": {
+      "message": "Advertenties / pop-ups"
+   },
+   "adult": {
+      "message": "Volwassen"
+   },
+   "adultContent": {
+      "message": "Content voor volwassenen"
+   },
+   "adultContentProtection": {
+      "message": "Inhoudsbescherming voor volwassenen"
+   },
+   "adultProtection": {
+      "message": "Bescherming voor volwassenen"
+   },
+   "adultProtectionText": {
+      "message": "Deze beschermingsinstellingen voor volwassenen zijn van toepassing op alle websites in elke categorie"
+   },
+   "adultProtectionTooltip": {
+      "message": "Ongepaste content, porno en kansspelen worden geblokkeerd"
+   },
+   "adultSettingMoreOptions": {
+      "message": "Meer opties"
+   },
+   "adultSettingSubtitle": {
+      "message": "Blokkeer porno en kansspelsites"
+   },
+   "adultSettingTitle": {
+      "message": "Bescherming voor volwassenen"
+   },
+   "ago": {
+      "message": "geleden"
+   },
+   "agreeContinue": {
+      "message": "Akkoord & Doorgaan"
+   },
+   "all": {
+      "message": "Alle"
+   },
+   "allTrackersBlocked": {
+      "message": "%1% Trackers geblokkeerd"
+   },
+   "allWebsites": {
+      "message": "alle websites"
+   },
+   "allow": {
+      "message": "Toestaan"
+   },
+   "almostDone": {
+      "message": "Je bent bijna klaar"
+   },
+   "always": {
+      "message": "Altijd"
+   },
+   "analytics": {
+      "message": "Analyse"
+   },
+   "antiPhishingAndScams": {
+      "message": "Antiphishing en oplichting"
+   },
+   "appDescription": {
+      "message": "Bekijk elke website voor reputatie- en veiligheidsinformatie op basis van gebruikerservaring. De officiële Web of Trust Chrome extensie."
+   },
+   "appName": {
+      "message": "WOT websitebeveiliging & bescherming veilig browsen"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "Weet u het zeker?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "Schrijf een nieuwe recensie van deze website"
+   },
+   "assistantSettingSubtitle": {
+      "message": "Winkel en zoek veilig online"
+   },
+   "assistantSettingTitle": {
+      "message": "WOT Assistant Shield"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "Open de WOT-schuifbalk"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "Aantal trackers gedetecteerd op deze pagina"
+   },
+   "assistantTrackersTooltip": {
+      "message": "Met WOT kunt u trackers bekijken en blokkeren op alle websites die u bezoekt om te controleren wie uw gegevens verzamelt."
+   },
+   "autoScanDevice": {
+      "message": "Apparaat automatisch scannen"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "Zorg ervoor dat u uw apparaat regelmatig scant op beveiligingsrisico's en/of lekken."
+   },
+   "autoScanDeviceText": {
+      "message": "Scan uw apparaat regelmatig op beveiligingsdreigingen en/of datalekken."
+   },
+   "avoidHarmfulSites": {
+      "message": "Vermijd valse & schadelijke websites"
+   },
+   "back": {
+      "message": "Terug"
+   },
+   "beTheFirstToReview": {
+      "message": "Beoordeel als eerste deze website"
+   },
+   "blacklistsPreCheck": {
+      "message": "Bijgewerkte zwarte lijsten"
+   },
+   "block": {
+      "message": "Blokkeer"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "Blokkeer automatisch alle trackers op elke website die je bezoekt"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "Het automatisch blokkeren van alle trackers is alleen beschikbaar voor premium-gebruikers"
+   },
+   "blockTrackers": {
+      "message": "Blokkeervolgers"
+   },
+   "blockUnsafeWebsites": {
+      "message": "Blokkeer onveilige websites en links"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT zal ervoor zorgen dat u van tevoren wordt gewaarschuwd voor het per ongeluk klikken op onveilige links of het bezoeken van onveilige of kwaadaardige websites"
+   },
+   "blocked": {
+      "message": "Geblokkeerd!"
+   },
+   "blocksHackingAttacks": {
+      "message": "Blokkeert hackaanvallen elke 39 seconden"
+   },
+   "breachedDate": {
+      "message": "Datum lek"
+   },
+   "breachesAlert": {
+      "message": "Je persoonsgegevens en/of wachtwoorden zijn gecompromitteerd en blootgesteld aan"
+   },
+   "browse": {
+      "message": "Bladeren"
+   },
+   "browserNotProtected": {
+      "message": "Uw browser is niet beveiligd"
+   },
+   "browserProtected": {
+      "message": "Uw browser is veilig"
+   },
+   "browserSecured": {
+      "message": "Deze browser is beveiligd!"
+   },
+   "bugs": {
+      "message": "Bugs"
+   },
+   "canHelp": {
+      "message": "Hoe kunnen we je helpen?"
+   },
+   "cancel": {
+      "message": "Annuleer"
+   },
+   "careful": {
+      "message": "Voorzichtig!"
+   },
+   "categoriesExplained": {
+      "message": "Deze categorieën zijn mogelijk van toepassing op deze website"
+   },
+   "changePassword": {
+      "message": "Wachtwoord veranderen"
+   },
+   "changePasswordSubtitle": {
+      "message": "Controleer of elk wachtwoord uniek, anders en lastig te raden is. Gebruik nooit twee keer hetzelfde wachtwoord."
+   },
+   "changePasswordText": {
+      "message": "Controleer of elk wachtwoord uniek, anders en lastig te raden is. Gebruik nooit twee keer hetzelfde wachtwoord."
+   },
+   "checkLeaks": {
+      "message": "Controleer lekken"
+   },
+   "checkUrl": {
+      "message": "URL controleren"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Controleer elk beveiligingsniveau van een website"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT biedt u drie manieren om het beveiligingsniveau van een website te controleren: de resultatenpagina van de Google-zoekmachine, het pictogram van de browserwerkbalk en een gedetailleerde scorekaart en beoordelingen"
+   },
+   "chooseTags": {
+      "message": "Kies de labels die %DOMAIN% beschrijven"
+   },
+   "chooseTagsForSite": {
+      "message": "Kies de tags die de website het beste beschrijven:"
+   },
+   "chooseTagsThatDescribes": {
+      "message": "Kies de labels die deze website beschrijven"
+   },
+   "clearPolicy": {
+      "message": "Duidelijk beleid"
+   },
+   "clickAllTags": {
+      "message": "Klik op alle labels die van toepassing zijn"
+   },
+   "clickOnTheGearIcon": {
+      "message": "Klik op %GEARICON% om deze pop-up aan/uit te schakelen"
+   },
+   "close": {
+      "message": "Sluiten"
+   },
+   "contactUs": {
+      "message": "Neem contact met ons op"
+   },
+   "containAdultContent": {
+      "message": "Deze website kan content voor volwassenen bevatten"
+   },
+   "contentWarning": {
+      "message": "Inhoud voor volwassenen geblokkeerd"
+   },
+   "coolGotIt": {
+      "message": "Geweldig, begrepen"
+   },
+   "dataBreachHookText": {
+      "message": "Soms kan het riskant zijn"
+   },
+   "dataBreachHookTitle": {
+      "message": "Sta je op het punt je inloggegevens in te voeren?"
+   },
+   "dataLeakMonitoring": {
+      "message": "Controle gegevensinbreuk"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "er zijn datalekken gevonden in verband met dit e-mailaccount"
+   },
+   "dayAgo": {
+      "message": "één dag geleden"
+   },
+   "daysAgo": {
+      "message": "%1% dagen geleden"
+   },
+   "default": {
+      "message": "Standaard"
+   },
+   "defaultManualModeButton": {
+      "message": "Doorgaan & inschakelen"
+   },
+   "defaultManualModeHeader": {
+      "message": "Ontvang real-time resultaten en inzichten"
+   },
+   "defaultManualModeText": {
+      "message": "Proactieve bescherming van WOT is uitgeschakeld. We kunnen je geen websitebeoordelingen en meldingen laten zien."
+   },
+   "defaultText": {
+      "message": "Blokkeer en vermijd websites met een slechte reputatie. (Aanbevolen)"
+   },
+   "del": {
+      "message": "Verwijderen"
+   },
+   "delete": {
+      "message": "Ja, verwijder"
+   },
+   "deleteThisReview": {
+      "message": "Deze beoordeling verwijderen?"
+   },
+   "digitalTrackingProtection": {
+      "message": "Digitale trackingbeveiliging"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "Blokkeer automatisch dat alle services uw online surfgedrag volgen."
+   },
+   "disableOnAllWebsites": {
+      "message": "Ja, schakel uit op all websites"
+   },
+   "disableOnThusWebsites": {
+      "message": "Ja, schakel uit op alleen deze websites"
+   },
+   "disableWOTHelper": {
+      "message": "WOT Helper uitschakelen?"
+   },
+   "disableWOTHelperText": {
+      "message": "WOT Helper geeft u snel overzicht van de score en opmerkingen van de pagina die u bezoekt. U kunt dit altijd uitschakelen via de WOT-instellingen."
+   },
+   "disagree": {
+      "message": "Niet akkoord"
+   },
+   "dismissWarning": {
+      "message": "Waarschuwing negeren"
+   },
+   "done": {
+      "message": "GEDAAN"
+   },
+   "dontShowAgain": {
+      "message": "Laat het me niet meer zien"
+   },
+   "dontShowOnThisSite": {
+      "message": "Waarschuw mij niet meer betreffende deze website"
+   },
+   "dontShowThis": {
+      "message": "Toon dit niet meer voor "
+   },
+   "donuts": {
+      "message": "Reputatie icoontjes naast de links"
+   },
+   "downloadClassicWot": {
+      "message": "Download Classic WOT"
+   },
+   "downloadMobileWot": {
+      "message": "Download WOT voor Mobiel"
+   },
+   "edit": {
+      "message": "Bewerken"
+   },
+   "editYourReview": {
+      "message": "Bewerk uw recensie"
+   },
+   "empty": {
+      "message": "Lege Lijst"
+   },
+   "enable": {
+      "message": "INSCHAKELEN"
+   },
+   "enableEnhancedProtection": {
+      "message": "Betere bescherming inschakelen"
+   },
+   "enjoyingWot": {
+      "message": "Geniet u van WOT?"
+   },
+   "errorAction": {
+      "message": "OK"
+   },
+   "errorContent": {
+      "message": "Het spijt me. Vernieuw de huidige pagina en probeer het opnieuw."
+   },
+   "errorTitle": {
+      "message": "Er is iets misgegaan"
+   },
+   "extraFeaturesTitle": {
+      "message": "Bekijk wat WOT nog meer te bieden heeft"
+   },
+   "faqSupport": {
+      "message": "Veelgestelde vragen en ondersteuning"
+   },
+   "findHelp": {
+      "message": "Vind hulp of neem contact met ons op"
+   },
+   "firstRate": {
+      "message": "Wees de eerste die deze website beoordeelt"
+   },
+   "followUs": {
+      "message": "Volg Ons"
+   },
+   "forAllPremiumPlans": {
+      "message": "Voor alle premium-abonnementen"
+   },
+   "forum": {
+      "message": "Forum"
+   },
+   "freeTrialEndend": {
+      "message": "%2% dagen resterend van uw gratis proefperiode"
+   },
+   "freeUserBlockTitle": {
+      "message": "Wil je beschermd worden tegen andere schadelijke websites?"
+   },
+   "gamblingSites": {
+      "message": "Kansspelwebsites"
+   },
+   "gamblingSitesText": {
+      "message": "Websites met kansspelen en content worden geblokkeerd"
+   },
+   "generalSettings": {
+      "message": "Algemene instellingen"
+   },
+   "generalSettingsDescription": {
+      "message": "Pas uw instellingen aan uw behoeften aan en blijf beschermd"
+   },
+   "getFullCoverage": {
+      "message": "Volledige browserbescherming"
+   },
+   "getFullProtection": {
+      "message": "Krijg WOT totale bescherming"
+   },
+   "getMorePremium": {
+      "message": "Krijg meer met Premium"
+   },
+   "getPhishingAlert": {
+      "message": "Ontvang phishingalarm"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "Beschermt je tegen de nieuwste phishingsites en social engineering aanvallen."
+   },
+   "getWOTPremium": {
+      "message": "Neem WOT Premium voor een totale bescherming tegen hackers, virussen en kwaadwillende websites."
+   },
+   "gmailProtectionDescription": {
+      "message": "Ontvang waarschuwingen voor verdachte e-mails in jouw inbox"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "Ontworpen om snel phishinge-mails te detecteren"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "Slimme e-maildetectie"
+   },
+   "gmailProtectionTitle": {
+      "message": "E-mailbescherming"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "Personaliseer jouw e-mailbescherming en voer url-adressen in die je vertrouwt"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "Voeg de door jou vertrouwde URL-adressen in: bijv. sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "Toegestane lijst"
+   },
+   "goPremium": {
+      "message": "GA PREMIUM"
+   },
+   "goToLeakReport": {
+      "message": "Zie Inbreukrapport"
+   },
+   "goToSite": {
+      "message": "Ga door naar de website"
+   },
+   "goodService": {
+      "message": "Goede service"
+   },
+   "gotIt": {
+      "message": "Begrepen"
+   },
+   "greatSupport": {
+      "message": "Goede ondersteuning"
+   },
+   "hide": {
+      "message": "Verbergen"
+   },
+   "hideWotAssistant": {
+      "message": "WOT Assistant verbergen"
+   },
+   "hideWotAssistantText": {
+      "message": "Zodra je op 'Verbergen' klikt, kun je de pagina van de WOT Assistant niet langer zien laden. Dit kun je later altijd wijzigen in je instellingen."
+   },
+   "high": {
+      "message": "Hoog"
+   },
+   "highText": {
+      "message": "Blokkeer verdachte websites Websites met ongepaste inhoud voor kinderen worden standaard geblokkeerd"
+   },
+   "holdOn": {
+      "message": "Vasthouden!"
+   },
+   "hour": {
+      "message": "uur"
+   },
+   "hourAgo": {
+      "message": "één uur geleden"
+   },
+   "hourMinutesAgo": {
+      "message": "een uur %2% minuten geleden"
+   },
+   "hours": {
+      "message": "uur"
+   },
+   "hoursAgo": {
+      "message": "%1% uur geleden"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% uur %2% minuten geleden"
+   },
+   "hoverOverTheWOT": {
+      "message": "Beweeg de muis over het WOT %DONUTICON% icoontje om de repuatie van deze website te bekijken"
+   },
+   "howWouldYouRate": {
+      "message": "Hoe zou je deze website beoordelen, van 1 tot 5?"
+   },
+   "identityProtection": {
+      "message": "Identiteitsbescherming"
+   },
+   "identityProtectionModalMessage": {
+      "message": "Door de functie Identiteitsbescherming in te schakelen, gaat u ermee akkoord dat we uw e-mailadres kunnen delen met een derde partij die wachtwoordbeveiliging en controleservice biedt"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT waarschuwt u wanneer uw persoonlijke gegevens zijn gelekt, zodat u snel kunt handelen om identiteitsdiefstal en toekomstige lekken te voorkomen."
+   },
+   "increaseOnlineSecurity": {
+      "message": "Online beveiliging verhogen"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "Schakel authenticatie in twee stappen in om toegang te krijgen tot uw persoonlijke accounts die gevoelige informatie bevatten"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "Schakel tweefactorauthenticatie in voor toegang tot uw persoonlijke accounts met gevoelige informatie."
+   },
+   "installed": {
+      "message": "Geïnstalleerd"
+   },
+   "isSafe": {
+      "message": "Denk u dat deze website veilig is?"
+   },
+   "issuesFound": {
+      "message": "%ISSUES% problemen gevonden"
+   },
+   "justNow": {
+      "message": "nu"
+   },
+   "lang": {
+      "message": "en-VS"
+   },
+   "lastScanned": {
+      "message": "Laatst gescand"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT waarschuwt u in realtime over datalekken met uw persoonlijke informatie, zodat u uzelf online kunt beschermen."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "Door de functie Controle gegevensinbreuk in te schakelen, ga je ermee akkoord dat we je e-mailadres delen met een derde die wachtwoordbescherming en de controledienst verzorgt"
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "We raden u aan deze stappen te nemen om uw persoonlijke gegevens veilig te houden en uw digitale identiteit te beschermen:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "Wat te doen als mijn persoonlijke gegevens zijn gelekt?"
+   },
+   "leakedInformation": {
+      "message": "Gelekte informatie"
+   },
+   "legalAnd": {
+      "message": "en"
+   },
+   "legalPrivacyPolicy": {
+      "message": "Privacybeleid"
+   },
+   "legalStatement": {
+      "message": "Om u real-time bescherming en onderhoud te bieden en om onze diensten te verbeteren, hebben we wat informatie nodig over de websites die u bezoekt. Door hierboven op 'Akkoord' te klikken, gaat u akkoord met onze"
+   },
+   "letCommunityKnow": {
+      "message": "Of je nu een goede ervaring hebt of je zorgen maakt om deze website, laat het onze community weten."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "Laat anderen weten hoe je ervaring op deze website was"
+   },
+   "limitedTimeOffer": {
+      "message": "Tijdelijke aanbieding"
+   },
+   "lite": {
+      "message": "Lite"
+   },
+   "liteText": {
+      "message": "Wij zullen u niet lastigvallen - alleen als dit nodig is"
+   },
+   "liveBlocking": {
+      "message": "Live blokkeren"
+   },
+   "loading": {
+      "message": "Aan het laden…"
+   },
+   "logOut": {
+      "message": "Log Uit"
+   },
+   "login": {
+      "message": "Log In"
+   },
+   "looksSafe": {
+      "message": "Ziet er veilig uit"
+   },
+   "manage": {
+      "message": "Beheren"
+   },
+   "manageProtection": {
+      "message": "Beveiliging beheren"
+   },
+   "manageSubscriptions": {
+      "message": "Abonnementen beheren"
+   },
+   "manageTrackers": {
+      "message": "trackers beheren"
+   },
+   "manualModeAgree": {
+      "message": "Door hierboven op 'Inschakelen' te klikken, ga je akkoord met onze"
+   },
+   "manualModeWarning": {
+      "message": "U bladert in handmatige modus - de proactieve bescherming van WOT is uitgeschakeld en we kunnen u niet langer beschermen tegen gevaarlijke sites"
+   },
+   "manualModeWarningStrip": {
+      "message": "Houd er rekening mee dat je in handmatige modus surft en dat veel functies niet beschikbaar zijn"
+   },
+   "marketing": {
+      "message": "Marketing"
+   },
+   "maybeNextTime": {
+      "message": "Misschien de volgende keer"
+   },
+   "messageSubmitted": {
+      "message": "Bericht verzonden"
+   },
+   "minute": {
+      "message": "minuut"
+   },
+   "minuteAgo": {
+      "message": "één minuut geleden"
+   },
+   "minutes": {
+      "message": "Minuten"
+   },
+   "minutesAgo": {
+      "message": "%1% minuten geleden"
+   },
+   "missingReviews": {
+      "message": "Ontbrekende beoordelingen"
+   },
+   "month": {
+      "message": "maand"
+   },
+   "monthAgo": {
+      "message": "één maand geleden"
+   },
+   "monthsAgo": {
+      "message": "%1% maanden geleden"
+   },
+   "moreInfo": {
+      "message": "Meer info"
+   },
+   "myDashboardNav": {
+      "message": "mijn dashboard"
+   },
+   "myProfile": {
+      "message": "Mijn Profiel"
+   },
+   "newDataLeaksFound": {
+      "message": "%1% nieuwe datalekken gevonden"
+   },
+   "next": {
+      "message": "Volgende"
+   },
+   "no": {
+      "message": "Nee"
+   },
+   "noBreaches": {
+      "message": "Goed nieuws! Geen datalek gevonden"
+   },
+   "noComments": {
+      "message": "Geen beoordelingen"
+   },
+   "noKeepIt": {
+      "message": "Nee, behoud het"
+   },
+   "noReviewsYet": {
+      "message": "Nog geen beoordelingen"
+   },
+   "noSkip": {
+      "message": "Nee, sla over"
+   },
+   "noThanks": {
+      "message": "Nee bedankt"
+   },
+   "noTrackersBlocked": {
+      "message": "%1% Trackers gedetecteerd"
+   },
+   "noTrackersDetected": {
+      "message": "Geen trackers gedetecteerd"
+   },
+   "none": {
+      "message": "Geen"
+   },
+   "notSecurity": {
+      "message": "Zijn er veiligheidskwesties?"
+   },
+   "notSuitableForChildren": {
+      "message": "Is er inhoud ongeschikt voor kinderen?"
+   },
+   "notSure": {
+      "message": "Misschien"
+   },
+   "off": {
+      "message": "Uit"
+   },
+   "okGotIt": {
+      "message": "Ok, begrepen"
+   },
+   "on": {
+      "message": "Aan"
+   },
+   "onBoarding4States": {
+      "message": "Er zijn 4 statussen:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "om de reputatie van een website te bekijken voordat je erop klikt."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "Zweef over het schildpictogram"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "Reputatiedashboard"
+   },
+   "onBoardingReputationScore": {
+      "message": "Reputatiescore"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "Je kunt nu zonder zorgen het internet op. Vergeet niet het schildpictogram te controleren voordat je op een onbekende website klikt!"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "Deze pop-up geeft je de reputatiescore van elke opgegeven website. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "Deze website is %SAFETY% volgens WOT!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "U kunt op 'Reviews lezen' klikken om meer gebruikersrecensies te lezen."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "Je bent helemaal klaar!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1 Geblokkeerde tracker"
+   },
+   "oneTrackerDetected": {
+      "message": "1 Tracker gedetecteerd"
+   },
+   "optinAreYouSureMessage": {
+      "message": "Om u live 360-graden webbescherming te bieden, vereisen sommige functies van WOT toegang tot anonieme informatie die is verzameld van de websites die u bezoekt. Deze informatie wordt niet gedeeld met derden of gebruikt voor marketingdoeleinden. U kunt uw voorkeuren op elk moment wijzigen door naar de instellingenpagina te gaan."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT waarschuwt u bij het ontvangen van scam-, phishing-, verdachte-, malware- en spam-e-mails"
+   },
+   "optinGoBack": {
+      "message": "Ga terug"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "Live-beveiliging inschakelen"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "Verbeterde bescherming"
+   },
+   "optinHeaderInstallation": {
+      "message": "Met succes geïnstalleerd"
+   },
+   "optinHeaderScanDevice": {
+      "message": "Scanapparaat"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "Stel uw browser in"
+   },
+   "optinMaybeLater": {
+      "message": "Misschien later"
+   },
+   "optinProtectYourEmail": {
+      "message": "Bescherm uw e-mail"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "Het logo in de adresbalk verandert afhankelijk van de reputatie van de website"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "Zoek naar het WOT-logo"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "WOT waarschuwt je als je op een website terechtkomt met een slechte reputatie"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "Ontvang real-time meldingen"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "Controleer de kleur van het WOT-logo in de zoekmachineresultaten om te zien op welke websites je veilig kunt klikken"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "Markeer zoekresultaten"
+   },
+   "optinReputationIconsText": {
+      "message": "Neem online weloverwogen beslissingen met de WOT veiligheidsdonuts, naast de websitelinks."
+   },
+   "optinSafetyScoreText": {
+      "message": "Gebruik de scorekaarten om de reputatie en beoordelingen van de website te controleren."
+   },
+   "optinSubtitle": {
+      "message": "Om u in realtime te beschermen, hebben we toegang nodig tot de URL's die u doorzoekt"
+   },
+   "optinTitle": {
+      "message": "Browserbeveiliging toestaan"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "Vermijd websites die schadelijk kunnen zijn of die een slechte reputatie hebben door ze te blokkeren."
+   },
+   "optinWelcomeSubtitle": {
+      "message": "Je bent net lid geworden van {millionMembers} en beschermt elkaar met WOT"
+   },
+   "or": {
+      "message": " of "
+   },
+   "other": {
+      "message": "Anders"
+   },
+   "outOfHere": {
+      "message": "Haal me hier weg"
+   },
+   "ownThisSite": {
+      "message": "Bent u de eigenaar van deze website?"
+   },
+   "parentalControl": {
+      "message": "Ouderlijk Toezicht"
+   },
+   "parentalControlOFF": {
+      "message": "Websites met ongepaste inhoud voor kinderen worden niet geblokkeerd"
+   },
+   "parentalControlON": {
+      "message": "Websites met ongepaste inhoud voor kinderen worden geblokkeerd"
+   },
+   "performance": {
+      "message": "Prestatie"
+   },
+   "pinWot": {
+      "message": "Maak WOT vast!"
+   },
+   "pinWotPopup": {
+      "message": "Maak $WOT$ vast om de beveiligingsstatus van je huidige website te bekijken",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "Neem even de tijd om ons te beoordelen"
+   },
+   "policy": {
+      "message": "Bekijk Privacybeleid"
+   },
+   "poorCustomerService": {
+      "message": "Slechte klantenservice"
+   },
+   "poorOnly": {
+      "message": "Alleen Slecht"
+   },
+   "poorRating": {
+      "message": "Deze website is verdacht."
+   },
+   "popupAdultStrip": {
+      "message": "Kan content bevatten die alleen voor volwassenen is"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "In dit gedeelte kunt u controleren of de site die u momenteel bezoekt veilig is of niet."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "Klik op de link om recensies te lezen."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "Welkom bij je nieuwe WOT!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "Dit gedeelte laat zien hoeveel services uw online gewoonten volgen."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "Klik op de link om de blokkering van trackers aan te passen."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "Digitale trackers"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "Klik hier om accountinstellingen te openen en uw bescherming te beheren."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "Beheer mijn bescherming"
+   },
+   "postReview": {
+      "message": "Beoordeling plaatsen"
+   },
+   "potentiallyMalicious": {
+      "message": "Deze website is mogelijk schadelijk."
+   },
+   "preCheck": {
+      "message": "CONTROLE VOORAF"
+   },
+   "premium": {
+      "message": "Premie"
+   },
+   "premiumFeature": {
+      "message": "Premium functie"
+   },
+   "premiumSecurity": {
+      "message": "Premium beveiliging"
+   },
+   "premiumText": {
+      "message": "Alle online beveiliging die je nodig hebt voor bescherming tegen de schadelijkste websites en links"
+   },
+   "presettings": {
+      "message": "Voorinstellingen"
+   },
+   "protectPrivacy": {
+      "message": "Bescherm je identiteit en privacy "
+   },
+   "protectYourPrivacy": {
+      "message": "Pop-upblokkering"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "Blokkeert pop-ups voor een schonere, snellere en veiligere browse-ervaring."
+   },
+   "protectYourself": {
+      "message": "Ontvang nu meldingen over datalekken"
+   },
+   "protectedForXDays": {
+      "message": "%1% dagen beschermd"
+   },
+   "protection": {
+      "message": "bescherming"
+   },
+   "rateOnStore": {
+      "message": "Beoordeel ons in de %BROWSER% Store"
+   },
+   "rateOverall": {
+      "message": "Beoordeel uw algehele *ervaring* op %DOMAIN%"
+   },
+   "rateThisSite": {
+      "message": "Beoordeel deze website"
+   },
+   "rateUs": {
+      "message": "BeoordeelWOT"
+   },
+   "rateYourExperience": {
+      "message": "Beoordeel jouw algemene ervaring op"
+   },
+   "readMoreReviews": {
+      "message": "Meer recensies lezen (%1%)"
+   },
+   "readReviews": {
+      "message": "Lees beoordelingen"
+   },
+   "realTimeCheckups": {
+      "message": "Real-time controles"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "Bescherm jezelf real-time tegen phishing, malware en andere dreigingen."
+   },
+   "realtimePhishingAlerts": {
+      "message": "Real-time phishing alarmen"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "Meld onbetrouwbare of nepwebsites waar anderen risico door zouden kunnen lopen aan ons"
+   },
+   "reputation": {
+      "message": "Reputatie"
+   },
+   "reputationIcons": {
+      "message": "Reputatiepictogrammen"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT geeft het veiligheidsniveau weer van de website die u momenteel bezoekt"
+   },
+   "restorePurchases": {
+      "message": "Aankopen herstellen"
+   },
+   "resultFor": {
+      "message": "Resultaten voor"
+   },
+   "reviewAddedErrorText": {
+      "message": "Er is een fout opgetreden, probeer het opnieuw."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "Kon beoordeling niet plaatsen"
+   },
+   "reviewAddedOKText": {
+      "message": "Bedankt dat je het internet een stukje veiliger hebt gemaakt!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "Beoordeling geplaatst"
+   },
+   "reviews": {
+      "message": "Beoordelingen"
+   },
+   "rtOFF": {
+      "message": "U draait nu in de handmatige modus - de proactieve bescherming van WOT is uitgeschakeld"
+   },
+   "rtON": {
+      "message": "U bent nu proactief beschermd met de volledige dekking van WOT."
+   },
+   "rtProtection": {
+      "message": "Realtime bescherming"
+   },
+   "rtProtectionRecommended": {
+      "message": "Realtime bescherming (aanbevolen)"
+   },
+   "safeBrowsing": {
+      "message": "Veilig surfen"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT houdt u online waakzaam door elke site, pagina en service die u bezoekt te scannen met realtime waarschuwingen."
+   },
+   "safeSearch": {
+      "message": "Veilige zoekopdracht"
+   },
+   "safeSearchSubtitle": {
+      "message": "Er worden pictogrammen weergegeven naast uw zoekresultaten om te weten of een website veilig is of niet voordat u erop klikt."
+   },
+   "safeShopping": {
+      "message": "Veilig winkelen"
+   },
+   "safeShoppingSite": {
+      "message": "Deze website is veilig om op te winkelen"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "Op basis van het algoritme van WOT, Machine Learning en de beoordeling van gebruikers is deze website veilig om op te winkelen"
+   },
+   "safetyScore": {
+      "message": "Veiligheidsscore"
+   },
+   "safetyScoreSubtitle": {
+      "message": "Gebruik de scorecards om de reputatie en recensies van websites te controleren en uw eigen ervaringen te delen"
+   },
+   "scannedOn": {
+      "message": "gedetecteerd op"
+   },
+   "scoreCard": {
+      "message": "Scorekaart"
+   },
+   "searchEnginePageResults": {
+      "message": "Pagina met zoekresultaten voor zoekmachines"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "Neem weloverwogen beslissingen online met de veiligheidsindicator van WOT naast websitelinks"
+   },
+   "searchIndicator": {
+      "message": "Zoekindicator"
+   },
+   "searchManualModeButton": {
+      "message": "Begeleiding zoekmachine inschakelen"
+   },
+   "searchManualModeHeader": {
+      "message": "Je mist de begeleiding van WOT"
+   },
+   "searchManualModeText": {
+      "message": "Bescherming van WOT voor zoekmachines is uitgeschakeld. We kunnen je de beoordeling van een website niet laten zien naast een link."
+   },
+   "security": {
+      "message": "Veiligheid"
+   },
+   "securityBreaches": {
+      "message": "beveiligingsdreigingen!"
+   },
+   "securityRiskDetected": {
+      "message": "Beveiligingsrisico's gedetecteerd"
+   },
+   "securityScore": {
+      "message": "Beveiligingsscore"
+   },
+   "securitySystem": {
+      "message": "Beveiligingssysteem"
+   },
+   "securityWarning": {
+      "message": "Beveiligingswaarschuwing"
+   },
+   "seeLess": {
+      "message": "Minder zien"
+   },
+   "seeMore": {
+      "message": "Meer zien"
+   },
+   "seeReviews": {
+      "message": "Zie Boordelingen"
+   },
+   "sendFeedback": {
+      "message": "Feedback versturen"
+   },
+   "serpMailWarning": {
+      "message": "WOT vindt deze e-mail verdacht omdat deze mogelijk gevaarlijke links of volg-url's bevat"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "Upgrade & bescherm mijn e-mail"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "Later herinneren"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "96% van de online scams komt via e-mail. Aarzel niet, bescherm jezelf NU."
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "Je e-mailadres loopt risico!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT detecteert en voorkomt online dreiging en volging zodat je er alle vertrouwen in kunt hebben dat jouw persoonsgegevens in veilige handen zijn."
+   },
+   "servicesTrackingYou": {
+      "message": "Services volgen uw activiteit"
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "ONTGRENDEL PREMIUM FUNCTIES"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "Verbeter je bescherming"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "Overal en altijd."
+   },
+   "settingsBannerTitle": {
+      "message": "Veiliger browsen."
+   },
+   "setup": {
+      "message": "Configuratie"
+   },
+   "severeOnly": {
+      "message": "Alleen Ernstig"
+   },
+   "share": {
+      "message": "Deel"
+   },
+   "shareExperience": {
+      "message": "Deel je ervaringen op %1% en help anderen"
+   },
+   "shareFeedback": {
+      "message": "Deel uw feedback over"
+   },
+   "shareOnFacebook": {
+      "message": "Deel op Facebook"
+   },
+   "shareOnGoogle": {
+      "message": "Deel op Google+"
+   },
+   "shareOnTwitter": {
+      "message": "Deel op Twitter"
+   },
+   "shareText1": {
+      "message": "Ik heb zojuist geholpen om het web een betere plek te maken door %WEBSITE% te beoordelen op Web of Trust! Oneens? Beoordeel het  hier 👉 %LINK% zelf"
+   },
+   "shareTextFacebook": {
+      "message": "Ik heb een manier gevonden om veilig te browsen en onveilige websites te vermijden! Bekijk de Web of Trust extensie: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Ik heb zojuist geholpen om het web een betere plek te maken door %WEBSITE% te beoordelen met %STARS% uit 5 sterren onp Web of Trust! Oneens? Beoordeel het zelf hier 👉 %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": " Ik gebruik @Web_of_Trust om veilig te browsen en onveilige websites te vermijden. Probeer het zelf hier: %LINK% #WOT #MyWOT #Veiligheid"
+   },
+   "shareTextGoogleRate": {
+      "message": "Ik heb zojuist geholpen om het web een betere plek te maken door %WEBSITE% te beoordelen met %STARS% uit 5 sterren op Web of Trust! Oneens? Beoordeel het zelf hier 👉 %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": " Ik gebruik @Web_of_Trust om veilig te browsen en onveilige websites te vermijden. Probeer het zelf hier: %LINK% #WOT #MyWOT #Veiligheid"
+   },
+   "shareTextTwitterRate": {
+      "message": "I’ve just rated %WEBSITE% %STARS% out of 5 stars on WOT! Oneens? Beoordeeel het zelf hier👉 %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "Ik heb een manier gevonden om veilig te browsen en onveilige websites te vermijden! Bekijk de Web of Trust extensie: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Ik heb zojuist geholpen om het web een betere plek te maken door %WEBSITE% te beoordelen met %STARS% uit 5 sterren onp Web of Trust! Oneens? Beoordeel het zelf hier 👉 %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "Deel WOT met vrienden!"
+   },
+   "shareWotRating": {
+      "message": "Deel uw score voor %DOMAIN% met vrienden!"
+   },
+   "shareYouRating": {
+      "message": "Deel uw beoordeling met uw vrienden!"
+   },
+   "shopWithConfidence": {
+      "message": "Winkel met vertrouwen"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "Bekijk kopersrecensies in elke online winkel en bescherm uzelf tegen phishing en valse e-commercezwendel"
+   },
+   "signIn": {
+      "message": "Log In"
+   },
+   "signInNow": {
+      "message": "Nu aanmelden"
+   },
+   "signInToRate": {
+      "message": "Meld je aan om deze website te beoordelen en een recensie te schrijven"
+   },
+   "siteIsSafe": {
+      "message": "Denkt u dat deze website *veilig is?*"
+   },
+   "siteIsSafeChildren": {
+      "message": "Is deze site *veilig voor kinderen is?*"
+   },
+   "skip": {
+      "message": "Sla over"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "Geavanceerde phishing-beveiliging die is ontwikkeld om bedreigingen te detecteren en u weg te houden van oplichting."
+   },
+   "social": {
+      "message": "Sociale netwerken"
+   },
+   "someTrackersBlocked": {
+      "message": "%1% van %2% trackers geblokkeerd"
+   },
+   "specialOfferBillingDetails": {
+      "message": "Gefactureerd als één betaling van"
+   },
+   "specialOfferFeatures": {
+      "message": "E-mailbescherming, content voor volwassenen blokkeren, onbeperkt trackers blokkeren en nog veel meer!"
+   },
+   "startFreeTrial": {
+      "message": "Start mijn gratis proefperiode"
+   },
+   "startProtection": {
+      "message": "Start je bescherming!"
+   },
+   "startYourFreeTrial": {
+      "message": "Begin jouw gratis proefperiode"
+   },
+   "successRecPass": {
+      "message": "Instructies zijn naar uw e-mailadres gestuurd"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT markeerde deze website als verdacht"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "Verdachte websites volgens WOT"
+   },
+   "suspiciousSite": {
+      "message": "Verdachte site"
+   },
+   "switchToClassic": {
+      "message": "Ga naar Classic WOT"
+   },
+   "systemPageAction": {
+      "message": "IK SNAP HET"
+   },
+   "systemPageContent": {
+      "message": "Je probeert WOT te gebruiken op een niet-ondersteunde pagina, zoals de browserpagina van een browser, lokale host of extensiepagina."
+   },
+   "systemPageTitle": {
+      "message": "Systeempagina"
+   },
+   "takeAction": {
+      "message": "Onderneem actie"
+   },
+   "tellUsMore": {
+      "message": "Vertel ons meer..."
+   },
+   "tellYourFriends": {
+      "message": "Verspreid de community door je vrienden over WOT te vertellen!"
+   },
+   "termsOfUse": {
+      "message": "Gebruiksvoorwaarden"
+   },
+   "thankYou": {
+      "message": "Bedankt!"
+   },
+   "thankYouForFeedback": {
+      "message": "Hartelijk dank voor uw feedback"
+   },
+   "thankYouForInstalling": {
+      "message": "Zorg er nu voor dat u volledig bent beschermd door uw beschermingsschild te kiezen"
+   },
+   "thanksGotIt": {
+      "message": "Bedankt, ik snap het!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "Deze e-mail verscheen in %1% bekende datalekken"
+   },
+   "thisPopupShows": {
+      "message": "Deze pop-up geeft je de reputatiescore van elke opgegeven website. "
+   },
+   "thisSiteOnly": {
+      "message": "deze website"
+   },
+   "threatsFound": {
+      "message": "Dreigingen gevonden"
+   },
+   "timerManualModeButton": {
+      "message": "Real-time bescherming inschakelen"
+   },
+   "timerManualModeHeader": {
+      "message": "Je surft in de handmatige modus!"
+   },
+   "timerManualModeText": {
+      "message": "Proactieve bescherming van WOT is uitgeschakeld en we kunnen je nu niet beschermen tegen gevaarlijke websites."
+   },
+   "toWriteReview": {
+      "message": " om een beoordeling te schrijven"
+   },
+   "toggleTooltipMessage": {
+      "message": "om deze functie in te schakelen"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "WAARDEER NU OP"
+   },
+   "tooComplicated": {
+      "message": "Te ingewikkeld"
+   },
+   "tooltipChildSafe": {
+      "message": "Is deze website vrij van inhoud, zoals: naaktheid, schokkend, gruwelijk, enz.?"
+   },
+   "tooltipSafe": {
+      "message": "Is deze website vrij van bedreigingen zoals: malware, virussen, phishing enz.?"
+   },
+   "tour": {
+      "message": "Rondleiding"
+   },
+   "trackerBlocked": {
+      "message": "Geblokkeerd"
+   },
+   "trackerBlocker": {
+      "message": "Bescherming tegen trackers"
+   },
+   "trackerBlockerDescription": {
+      "message": "Blokkeer automatisch alle trackers op elke website die je bezoekt."
+   },
+   "trackerCounterAction": {
+      "message": "Ontgrendel meer trackers"
+   },
+   "trackerCounterText": {
+      "message": "%1%/3 trackers beschikbaar voor basisbescherming"
+   },
+   "trackerSomeBlocked": {
+      "message": "%1% van %2% geblokkeerd"
+   },
+   "trackerUnblocked": {
+      "message": "Niet-geblokkeerd"
+   },
+   "trackersBlockAll": {
+      "message": "Blokkeer automatisch alle trackers"
+   },
+   "trackersBlocked": {
+      "message": "Trackers geblokkeerd"
+   },
+   "trackersDetected": {
+      "message": "trackers gedetecteerd"
+   },
+   "trackingProtection": {
+      "message": "Bescherming tegen tracking"
+   },
+   "trustIssues": {
+      "message": "Deze website heeft een aantal vertrouwenskwesties. Wees voorzichtig."
+   },
+   "trusted": {
+      "message": "betrouwbaar"
+   },
+   "trustedByWOT": {
+      "message": "Website vertrouwd door WOT"
+   },
+   "trustedByWOTPopup": {
+      "message": "Websites vertrouwd door WOT"
+   },
+   "trustedSite": {
+      "message": "Betrouwbare site"
+   },
+   "trustedSource": {
+      "message": "Betrouwbare bron"
+   },
+   "tryAgain": {
+      "message": "PROBEER HET OPNIEUW"
+   },
+   "turnOffProtection": {
+      "message": "Bescherming uitschakelen"
+   },
+   "twoMillionMembers": {
+      "message": "2+ miljoen leden"
+   },
+   "unknownByWOT": {
+      "message": "Te weinig informatie"
+   },
+   "unknownByWOTPopup": {
+      "message": "Onbekende website volgens WOT"
+   },
+   "unknownSite": {
+      "message": "Onbekende site"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "Onbeperkt trackers blokkeren is alleen beschikbaar voor premium-gebruikers"
+   },
+   "unlock": {
+      "message": "ONTGRENDELEN"
+   },
+   "unlockPremium": {
+      "message": "Premium ontgrendelen"
+   },
+   "untrusted": {
+      "message": "onbetrouwbaar"
+   },
+   "untrustedByWOT": {
+      "message": "WOT vond deze site niet betrouwbaar"
+   },
+   "untrustedByWOTPopup": {
+      "message": "Onbetrouwbare website volgens WOT"
+   },
+   "untrustedSite": {
+      "message": "Onbetrouwbare site"
+   },
+   "upgrade": {
+      "message": "UPGRADE"
+   },
+   "upgradeNow": {
+      "message": "WAARDEER NU OP"
+   },
+   "viewAll": {
+      "message": "Alle bekijken"
+   },
+   "viewFullReport": {
+      "message": "Bekijk Volledig Rapport"
+   },
+   "viewFullScorecard": {
+      "message": "Bekijk Volledige Scorecard"
+   },
+   "wantToDelete": {
+      "message": "Weet u zeker dat u uw beoordeling wilt verwijderen?"
+   },
+   "wantToRateWOT": {
+      "message": "Neem een moment om ons te beoordelen in de %BROWSER% Winkel"
+   },
+   "wantToRateWOTBtn": {
+      "message": "BeoordeelWOT"
+   },
+   "wantToRateWOTHeader": {
+      "message": "Geniet u van WOT?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "Wil je alle functies van WOT Premium ontgrendelen?"
+   },
+   "warning": {
+      "message": "Waarschuwing!"
+   },
+   "warningAlerts": {
+      "message": "Waarschuwingswaarschuwingen"
+   },
+   "warningAlertsSubtitle": {
+      "message": "Waarschuwingen weergeven voor bezochte verdachte websites"
+   },
+   "warnings": {
+      "message": "Waarschuwingsmeldingen"
+   },
+   "weAppreciate": {
+      "message": "We stellen uw tijd op prijs en bedanken u voor uw hulp bij het verbeteren van WOT"
+   },
+   "websiteBlocking": {
+      "message": "Websites blokkeren"
+   },
+   "weekAgo": {
+      "message": "één week geleden"
+   },
+   "weeksAgo": {
+      "message": "%1% weken geleden"
+   },
+   "welcome": {
+      "message": "Welkom"
+   },
+   "welcomeToWot": {
+      "message": "Welkom bij WOT"
+   },
+   "whatCanIDo": {
+      "message": "Wat kan ik er aan doen?"
+   },
+   "whatCouldWeDo": {
+      "message": "Wat zouden we beter kunnen doen?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "Onbetrouwbare activiteiten omvatten gedrag dat vaak bij oplichting, phishing, malware, PUP's en andere soorten schadelijke, riskante en gevaarlijke website hoort."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "Wat is een *onbetrouwbare* site?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "Mogelijk verdachte activiteiten omvatten gedrag die vaak bij oplichting, cryptojacking, kapen van browsers en andere soorten schadelijke, riskante en gevaarlijke websites horen."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "Wat is een *verdachte* site?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "We hebben onvoldoende informatie om deze website momenteel te beoordelen. We raden je aan je persoonsgegevens niet te geven, zoals je bsn-nummer, je bankrekeningnummer of creditcardgegevens."
+   },
+   "whatIsUnknownTitle": {
+      "message": "Wat is een *onbekende* site?"
+   },
+   "whatsNewWOT": {
+      "message": "Controle nieuwe gegevensinbreuk"
+   },
+   "whatsNewWOTContent": {
+      "message": "Met deze krachtige nieuwe functie kunt u er nu voor zorgen dat uw persoonlijke gegevens en wachtwoorden niet worden gecompromitteerd of worden blootgesteld aan beveiligingsrisico's."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "Laten we eens kijken"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "Meer informatie"
+   },
+   "whitelist": {
+      "message": "Whitelist"
+   },
+   "whitelistTitle": {
+      "message": "Toon geen waarschuwingen op deze websites"
+   },
+   "whyIsntSafe": {
+      "message": "Waarom is %DOMAIN% niet *veilig?*"
+   },
+   "whyIsntSafeChildren": {
+      "message": "Waarom is %DOMAIN% niet *veilig voor kinderen?*"
+   },
+   "wotAssistant": {
+      "message": "WOT Assistant"
+   },
+   "wotAssistantOFF": {
+      "message": "Websites met een goede reputatie niet tonen in de hoek van mijn browser"
+   },
+   "wotAssistantON": {
+      "message": "Websites met een goede reputatie tonen in de hoek van mijn browser"
+   },
+   "wotCommunity": {
+      "message": "WOT's gemeenschap"
+   },
+   "wotDetected": {
+      "message": "WOT heeft een mogelijke beveiligingsdreiging gedetecteerd en blokkeert $DOMAIN$, Deze website is mogelijk schadelijk en kan scamactiviteit bevatten.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "$DOMAIN$ werd geblokkeerd door WOT omdat er mogelijk inhoud voor volwassenen werd weergegeven.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "WOT Helper"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "WOT Helper widget wordt niet getoond."
+   },
+   "wotHelperSettingsOnState": {
+      "message": "Toon de widget WOT Helper om snel toegang te krijgen tot scores, opmerkingen en veiligheid van deze website."
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT is met succes geïnstalleerd"
+   },
+   "writeAtLeast15": {
+      "message": "Schrijf minimaal 15 tekens om anderen te helpen"
+   },
+   "writeFirstReview": {
+      "message": "Wees de eerste die een beoordeling schrijft"
+   },
+   "writeReview": {
+      "message": "Schrijf een beoordeling"
+   },
+   "yearAgo": {
+      "message": "%1% jaar geleden"
+   },
+   "yearsAgo": {
+      "message": "%1% jaar geleden"
+   },
+   "yes": {
+      "message": "Ja"
+   },
+   "youCanAlsoEdit": {
+      "message": "Je kunt je huidige beoordeling en punt ook bewerken"
+   },
+   "youCanAlwaysChange": {
+      "message": "(u kunt uw voorkeuren later altijd veranderen)"
+   },
+   "youCanCheckAnyLink": {
+      "message": "Met de volledige bescherming van WOT kun je eventuele links controleren voordat je een pagina bezoekt en nog veel meer!"
+   },
+   "youRatingThisSite": {
+      "message": "Geweldig dat u deze website heeft beoordeeld!"
+   },
+   "yourRating": {
+      "message": "Uw beoordelingen"
+   },
+   "yourSubscription": {
+      "message": "Jouw abonnement"
+   }
+}

@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "18+ Simgesi"
+   },
+   "18IconOFF": {
+      "message": "Çöreklerin yanında yetişkin içerik simgelerini gösterme"
+   },
+   "18IconON": {
+      "message": "Çöreklerin yanında yetişkin içerik simgelerini göster"
+   },
+   "Add": {
+      "message": "Ekle"
+   },
+   "AdultC": {
+      "message": "Yetişkinlere yönelik içerik"
+   },
+   "AllowAlways": {
+      "message": "Her Zaman İzin Ver"
+   },
+   "AllowOnce": {
+      "message": "Açılır pencereye bir kerelik izin ver"
+   },
+   "AlternativeMedicine": {
+      "message": "Alternatif tıp"
+   },
+   "BadReviewWarningText": {
+      "message": "Geçmişte bu siteye düşük bir puanlama verdiniz. Dikkatli olun."
+   },
+   "BlocksPopup": {
+      "message": "Açılır Pencereleri Engelle"
+   },
+   "BlocksPopupText": {
+      "message": "Açılır Pencereleri ve potansiyel olarak istenmeyen programları engeller"
+   },
+   "Carefulx": {
+      "message": "Dikkat!"
+   },
+   "DoNotShowAgain": {
+      "message": "Bu site için bir daha gösterme"
+   },
+   "Error0": {
+      "message": "Bilinmeyen hata"
+   },
+   "Error400": {
+      "message": "E-posta geçerli değil"
+   },
+   "Error4001": {
+      "message": "İzin gerekiyor"
+   },
+   "Error4002": {
+      "message": "Yanlış kullanıcı adı veya şifre"
+   },
+   "Error4003": {
+      "message": "Kimlik bilgileri eksik"
+   },
+   "Error4004": {
+      "message": "Kullanıcı engellendi"
+   },
+   "Error4005": {
+      "message": "Oturumunuz kapatıldı. Lütfen tekrar giriş yapın."
+   },
+   "Error4006": {
+      "message": "Oturumunuz kapatıldı. Lütfen tekrar giriş yapın."
+   },
+   "Error4007": {
+      "message": "Giriş başarısız oldu, daha sonra tekrar deneyin"
+   },
+   "Error4008": {
+      "message": "Giriş başarısız oldu, daha sonra tekrar deneyin"
+   },
+   "Error4009": {
+      "message": "Kullanıcı zaten kayıtlı"
+   },
+   "Error401": {
+      "message": "Yetkisiz"
+   },
+   "Error4010": {
+      "message": "Kullanıcı zaten mevcut"
+   },
+   "Error4101": {
+      "message": "Şifre sıfırlama bağlantısı geçerli değil"
+   },
+   "Error4102": {
+      "message": "Şifre sıfırlama bağlantısının süresi doldu"
+   },
+   "ExperienceFullPower": {
+      "message": "WOT'un tüm gücünden yararlanın"
+   },
+   "FAQ": {
+      "message": "SSS"
+   },
+   "Forgot": {
+      "message": "Unuttunuz mu?"
+   },
+   "ForgotBelow": {
+      "message": "Yeni bir şifre iste"
+   },
+   "Gambling": {
+      "message": "Kumar"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "Bize geri bildirim gönderin ..."
+   },
+   "GoBack": {
+      "message": "← Geri Dön"
+   },
+   "GoToSetting": {
+      "message": "Ayarlar'a git"
+   },
+   "GoodSite": {
+      "message": "İyi site"
+   },
+   "GruesomeShocking": {
+      "message": "Ürkütücü veya sarsıcı"
+   },
+   "HateDiscrimination": {
+      "message": "Nefret, ayrımcılık"
+   },
+   "HowCanWeImprove": {
+      "message": "Nasıl gelişebiliriz?"
+   },
+   "IHaveAccount": {
+      "message": "Hesabım var."
+   },
+   "IHaveNotAccount": {
+      "message": "Hesabım yok."
+   },
+   "Illegal": {
+      "message": "Potansiyel olarak yasa dışı"
+   },
+   "IncidentalNudity": {
+      "message": "Önemsiz çıplaklık"
+   },
+   "LogInBelow": {
+      "message": "Aşağıdan giriş yapın"
+   },
+   "LogInFacebook": {
+      "message": "Facebook ile giriş yap"
+   },
+   "LogInGoogle": {
+      "message": "Google+ ile giriş yap"
+   },
+   "LogInPasswordInput": {
+      "message": "şifre"
+   },
+   "LogInTwitter": {
+      "message": "Twitter ile giriş yap"
+   },
+   "LogInUsernameInput": {
+      "message": "kullanıcı adı veya e-posta"
+   },
+   "MalwareViruses": {
+      "message": "Kötü amaçlı yazılım veya virüsler"
+   },
+   "MisleadingUnethical": {
+      "message": "Yanıltıcı veya etik dışı"
+   },
+   "NOT_SAFE": {
+      "message": "GÜVENLİ DEĞİL!"
+   },
+   "NewPassword": {
+      "message": "Bana yeni bir şifre gönder"
+   },
+   "NotAppropriate": {
+      "message": "Çocuklar İçin Uygun Değil"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "Düşünceler, din, siyaset"
+   },
+   "Phishing": {
+      "message": "Kimlik avı"
+   },
+   "PoorExperience": {
+      "message": "Kötü müşteri deneyimi"
+   },
+   "PopupNotification": {
+      "message": "Bildirim göster"
+   },
+   "PopupNotificationText": {
+      "message": "Açılır pencere engellendiğinde sayfada bildirim göster"
+   },
+   "PrivacyRisks": {
+      "message": "Gizlilik riskleri"
+   },
+   "ProtectionsFeatures": {
+      "message": "WOT Asistan sayesinde Güvende Kalın"
+   },
+   "ProtectionsFeatures2": {
+      "message": "Göz atmadan önce bağlantıları kontrol edin"
+   },
+   "Pts": {
+      "message": "(%POINTS% puan)"
+   },
+   "RateThisWebsite": {
+      "message": "Web sitesini puanlayın"
+   },
+   "RememberMe": {
+      "message": "Beni hatırla"
+   },
+   "SAFE": {
+      "message": "GÜVENLİ!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "Bağlantıların yanında her tür ikonu daima göster (kırmızı, sarı, yeşil)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "Yalnızca düşük puanlaması olan web sitelerinin yanında kırmızı simgeyi göster"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "İtibar ikonu gösterilmez"
+   },
+   "Scam": {
+      "message": "Dolandırıcılık"
+   },
+   "Send": {
+      "message": "Gönder"
+   },
+   "ShowLess": {
+      "message": "Daha Az Göster"
+   },
+   "ShowMore": {
+      "message": "Daha Fazla Göster"
+   },
+   "SignUp": {
+      "message": "Kaydol"
+   },
+   "SignUpBelow": {
+      "message": "Aşağıdan kaydolun"
+   },
+   "SignUpFacebook": {
+      "message": "Facebook ile kaydol"
+   },
+   "SignUpGoogle": {
+      "message": "Google+ ile kaydol"
+   },
+   "SignUpPasswordInput": {
+      "message": "bir şifre şeçin"
+   },
+   "SignUpTwitter": {
+      "message": "Twitter ile kaydol"
+   },
+   "SignUpUsernameInput": {
+      "message": "e-postanız"
+   },
+   "SiteKids": {
+      "message": "Çocuklar için site"
+   },
+   "Spam": {
+      "message": "İstenmeyen ileti"
+   },
+   "Submit": {
+      "message": "Gönder"
+   },
+   "Suspicious": {
+      "message": "Şüpheli"
+   },
+   "TakeMoment": {
+      "message": "Birkaç dakikanızı ayırıp bize geri bildirim gönderin."
+   },
+   "UNKNOWN": {
+      "message": "BİLİNMİYOR"
+   },
+   "UnwantedPrograms": {
+      "message": "Potansiyel olarak istenmeyen programlar"
+   },
+   "ViewMyAccount": {
+      "message": "Hesabımı Görüntüle"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "Düşük puanlaması olan tüm web siteleri için uyarı gösterir"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "Yalnızca kötü amaçlı web sitelerinde uyarı gösterir"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "Hiç uyarı gösterilmez"
+   },
+   "WantMore": {
+      "message": "Bize daha fazlasını anlatmak ister misin?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "Bu ihlallerle ilgili yapılması gerekenler"
+   },
+   "WhitelistPlaceholder": {
+      "message": "Uyarı görmek istemediğiniz bir web sitesi ekleyin. (Ör.: Google.com)"
+   },
+   "WriteYourReview": {
+      "message": "Değerlendirmenizi yazın ..."
+   },
+   "accurace": {
+      "message": "Doğruluk"
+   },
+   "activate": {
+      "message": "Etkinleştir"
+   },
+   "activateProtection": {
+      "message": "Koruma etkinleştir"
+   },
+   "addAReview": {
+      "message": "Yorum ekle"
+   },
+   "adsOrPopups": {
+      "message": "Reklamlar / Açılır pencereler"
+   },
+   "adult": {
+      "message": "Yetişkin"
+   },
+   "adultContent": {
+      "message": "Yetişkinlere yönelik içerik"
+   },
+   "adultContentProtection": {
+      "message": "Yetişkin İçerik Koruması"
+   },
+   "adultProtection": {
+      "message": "Yetişkin Koruması"
+   },
+   "adultProtectionText": {
+      "message": "Bu Yetişkin koruması ayarları, her kategorideki tüm web siteleri için geçerlidir"
+   },
+   "adultProtectionTooltip": {
+      "message": "Uygunsuz içerik, Pornografik içerik ve Kumar içeriği engellenir"
+   },
+   "adultSettingMoreOptions": {
+      "message": "Diğer Seçenekler"
+   },
+   "adultSettingSubtitle": {
+      "message": "Pornografi ve Kumar sitelerini engelleyin"
+   },
+   "adultSettingTitle": {
+      "message": "Yetişkin Koruması"
+   },
+   "ago": {
+      "message": "önce"
+   },
+   "agreeContinue": {
+      "message": "Kabul Et ve Devam Et"
+   },
+   "all": {
+      "message": "Tümü"
+   },
+   "allTrackersBlocked": {
+      "message": "%1% İzleyici Engellendi"
+   },
+   "allWebsites": {
+      "message": "tüm siteler"
+   },
+   "allow": {
+      "message": "İzin ver"
+   },
+   "almostDone": {
+      "message": "Neredeyse Bitti"
+   },
+   "always": {
+      "message": "Her zaman"
+   },
+   "analytics": {
+      "message": "Analiz"
+   },
+   "antiPhishingAndScams": {
+      "message": "Kimlik Avı ve Dolandırıcılığı"
+   },
+   "appDescription": {
+      "message": "Kullanıcıların deneyimine dayalı itibar ve güvenlik bilgileri için herhangi bir web sitesini kontrol edin. Resmi Web Of Trust Chrome Uzantısı."
+   },
+   "appName": {
+      "message": "WOT Web Sitesi Güvenliği ve Güvenli Gezinme Koruması"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "Emin misiniz?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "Bu web sitesi için yeni yorum yazın"
+   },
+   "assistantSettingSubtitle": {
+      "message": "İnternette güvenle arama ve alışveriş yapın"
+   },
+   "assistantSettingTitle": {
+      "message": "WOT Asistan Kalkanı"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "WOT uygulamasını aç"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "Bu sayfada algılanan izleyici sayısı"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOT, verilerinizi kimlerin topladığını kontrol altında tutmak için göz attığınız web sitelerindeki izleyicileri görüntüleyip engellemenize olanak tanır."
+   },
+   "autoScanDevice": {
+      "message": "Otomatik Cihaz Taraması"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "Herhangi bir güvenlik tehdidi ve/veya sızıntı için cihazınızı düzenli olarak taradığınızdan emin olun."
+   },
+   "autoScanDeviceText": {
+      "message": "Cihazınızı güvenlik tehditleri ve/veya ihlallere karşı düzenli olarak taradığınızdan emin olun."
+   },
+   "avoidHarmfulSites": {
+      "message": "Sahte ve Zararlı Sitelerden Kaçının"
+   },
+   "back": {
+      "message": "Geri"
+   },
+   "beTheFirstToReview": {
+      "message": "Bu web sitesini ilk siz değerlendirin"
+   },
+   "blacklistsPreCheck": {
+      "message": "Güncel kara listeler"
+   },
+   "block": {
+      "message": "Engelle"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "Ziyaret ettiğiniz web sitelerindeki tüm izleyicileri otomatik olarak engelleyin"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "Tüm izleyicileri otomatik olarak engelleme özelliğinden sadece Premium kullanıcılar yararlanabilir"
+   },
+   "blockTrackers": {
+      "message": "Blok izleyiciler"
+   },
+   "blockUnsafeWebsites": {
+      "message": "Güvenli olmayan web sitelerini ve bağlantıları engelleme"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT, güvensiz bağlantılara yanlışlıkla tıklayarak veya güvenli olmayan veya kötü niyetli web sitelerine girme konusunda sizi önceden uyarmayı sağlayacaktır."
+   },
+   "blocked": {
+      "message": "Engellendi!"
+   },
+   "blocksHackingAttacks": {
+      "message": "Korsan saldırıları 39 saniyede bir engeller"
+   },
+   "breachedDate": {
+      "message": "İhlal Tarihi"
+   },
+   "breachesAlert": {
+      "message": "Kişisel bilgileriniz ve/veya şifreleriniz tehlikeye atıldı ve güvenlik tehditlerine"
+   },
+   "browse": {
+      "message": "Gez atın"
+   },
+   "browserNotProtected": {
+      "message": "Tarayıcınız korunmuyor"
+   },
+   "browserProtected": {
+      "message": "Tarayıcınız güvende"
+   },
+   "browserSecured": {
+      "message": "Bu tarayıcı güvenli!"
+   },
+   "bugs": {
+      "message": "Böcekler"
+   },
+   "canHelp": {
+      "message": "Nasıl yardımcı olabiliriz?"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "careful": {
+      "message": "Dikkat!"
+   },
+   "categoriesExplained": {
+      "message": "Bu web sitesi için şu kategoriler geçerli olabilir"
+   },
+   "changePassword": {
+      "message": "Şifre Değişikliği"
+   },
+   "changePasswordSubtitle": {
+      "message": "Her bir şifrenin benzersiz, farklı ve tahmin edilmesi zor olduğundan emin olun. Aynı şifreyi asla iki kez kullanmayın."
+   },
+   "changePasswordText": {
+      "message": "Her bir şifrenin benzersiz, farklı ve tahmin edilmesi zor olduğundan emin olun. Aynı şifreyi asla iki kez kullanmayın."
+   },
+   "checkLeaks": {
+      "message": "Sızıntıları kontrol edin"
+   },
+   "checkUrl": {
+      "message": "URL'yi kontrol et"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Herhangi bir web sitesi güvenlik düzeyini kontrol"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT, herhangi bir web sitesi güvenlik düzeyini kontrol etmenin üç yolu sunar: Google arama motoru sonuçları sayfası, tarayıcı araç çubuğu simgesi ve ayrıntılı puan kartı ve yorumlar"
+   },
+   "chooseTags": {
+      "message": "%%DOMAIN seçeneğini tanımlayan etiketleri seçin"
+   },
+   "chooseTagsForSite": {
+      "message": "Bu siteyi en iyi tanımlayan etiketleri seçin:"
+   },
+   "chooseTagsThatDescribes": {
+      "message": "Bu siteyi tanımlayan etiketleri seçin"
+   },
+   "clearPolicy": {
+      "message": "Anlaşılır Politika"
+   },
+   "clickAllTags": {
+      "message": "Geçerli olan tüm etiketlere tıklayın"
+   },
+   "clickOnTheGearIcon": {
+      "message": "Bu açılır pencereyi açmak/kapatmak için %GEARICON% üzerine tıklayın."
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "contactUs": {
+      "message": "Bize Ulaşın"
+   },
+   "containAdultContent": {
+      "message": "Bu site Yetişkinlere Özel İçerik barındırıyor olabilir"
+   },
+   "contentWarning": {
+      "message": "Yetişkinlere Yönelik İçerik Engellendi"
+   },
+   "coolGotIt": {
+      "message": "Peki, Anladım"
+   },
+   "dataBreachHookText": {
+      "message": "Bazen riskli olabilir"
+   },
+   "dataBreachHookTitle": {
+      "message": "Giriş bilgilerinizi girmek üzere misiniz?"
+   },
+   "dataLeakMonitoring": {
+      "message": "Veri İhlali İzleme"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "Bu e-posta hesabıyla ilişkili veri sızıntıları bulundu"
+   },
+   "dayAgo": {
+      "message": "bir gün önce"
+   },
+   "daysAgo": {
+      "message": "%1% gün önce"
+   },
+   "default": {
+      "message": "Varsayılan"
+   },
+   "defaultManualModeButton": {
+      "message": "Devam et ve Aç"
+   },
+   "defaultManualModeHeader": {
+      "message": "Gerçek Zamanlı Sonuçlar ve İçgörüler Alın"
+   },
+   "defaultManualModeText": {
+      "message": "WOT'un proaktif koruması devre dışı bırakıldı. Size web sitesi puanlarını ve uyarılarını gösteremeyiz."
+   },
+   "defaultText": {
+      "message": "Düşük itibarlı web sitelerini engelle ve onlardan kaçın. (Önerilir)"
+   },
+   "del": {
+      "message": "Sil"
+   },
+   "delete": {
+      "message": "Evet, Sil"
+   },
+   "deleteThisReview": {
+      "message": "Bu yorum silinsin mi?"
+   },
+   "digitalTrackingProtection": {
+      "message": "Dijital İzleme Koruması"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "Tüm hizmetlerin çevrimiçi tarama alışkanlıklarınızı izlemesini otomatik olarak engelleyin."
+   },
+   "disableOnAllWebsites": {
+      "message": "Evet, tüm web sitelerinde devre dışı bırak"
+   },
+   "disableOnThusWebsites": {
+      "message": "Evet, sadece bu sitede devre dışı bırak"
+   },
+   "disableWOTHelper": {
+      "message": "WOT Yardımcısı devre dışı bırakılsın mı?"
+   },
+   "disableWOTHelperText": {
+      "message": "WOT Yardımcısı, ziyaret ettiğiniz sayfanın puanını ve yorumlarını hızlı bir şekilde görmenizi sağlar. Bu işlevi istediğiniz zaman WOT ayarlarından devre dışı bırakabilirsiniz."
+   },
+   "disagree": {
+      "message": "Kabul etme"
+   },
+   "dismissWarning": {
+      "message": "Uyarıyı kapat"
+   },
+   "done": {
+      "message": "Bitti"
+   },
+   "dontShowAgain": {
+      "message": "Bana bir daha gösterme."
+   },
+   "dontShowOnThisSite": {
+      "message": "Bu web sitesi hakkında beni bir daha uyarma"
+   },
+   "dontShowThis": {
+      "message": "Bu seçenek için tekrar gösterme"
+   },
+   "donuts": {
+      "message": "Bağlantıların yanında itibara ait ikonlar"
+   },
+   "downloadClassicWot": {
+      "message": "Classic WOT'u indirin"
+   },
+   "downloadMobileWot": {
+      "message": "Mobil Cihaz için WOT indirin"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "editYourReview": {
+      "message": "Yorumunuzu düzenleyin"
+   },
+   "empty": {
+      "message": "Boş Liste"
+   },
+   "enable": {
+      "message": "ETKİNLEŞTİR"
+   },
+   "enableEnhancedProtection": {
+      "message": "Gelişmiş Korumayı Etkinleştir"
+   },
+   "enjoyingWot": {
+      "message": "WOT'u beğendiniz mi?"
+   },
+   "errorAction": {
+      "message": "TAMAM"
+   },
+   "errorContent": {
+      "message": "Üzgünüz. Lütfen mevcut sayfayı yenileyip tekrar deneyin."
+   },
+   "errorTitle": {
+      "message": "Bir şeyler ters gitti"
+   },
+   "extraFeaturesTitle": {
+      "message": "WOT'un sunabileceği başka neler olduğunu görün"
+   },
+   "faqSupport": {
+      "message": "SSS & Destek"
+   },
+   "findHelp": {
+      "message": "Yardım alın veya bizimle iletişime geçin"
+   },
+   "firstRate": {
+      "message": "Bu web sitesini ilk puanlayan siz olun"
+   },
+   "followUs": {
+      "message": "Bizi Takip Edin"
+   },
+   "forAllPremiumPlans": {
+      "message": "Tüm premium planlar için"
+   },
+   "forum": {
+      "message": "Forum"
+   },
+   "freeTrialEndend": {
+      "message": "%2% ücretsiz denemenizin kaldığı gün"
+   },
+   "freeUserBlockTitle": {
+      "message": "Diğer zararlı web sitelerinden korunmak mı istiyorsunuz?"
+   },
+   "gamblingSites": {
+      "message": "Kumar Siteleri"
+   },
+   "gamblingSitesText": {
+      "message": "Kumar oyunları ve içeriği barındıran web siteleri engellenir"
+   },
+   "generalSettings": {
+      "message": "Genel Ayarlar"
+   },
+   "generalSettingsDescription": {
+      "message": "Ayarlarınızı ihtiyaçlarınıza göre özelleştirin ve korunmaya uyun"
+   },
+   "getFullCoverage": {
+      "message": "Gezinirken tam koruma"
+   },
+   "getFullProtection": {
+      "message": "WOT tam korumaya sahip olun"
+   },
+   "getMorePremium": {
+      "message": "Premium ile daha fazlasına sahip olun"
+   },
+   "getPhishingAlert": {
+      "message": "Kimlik Avı Uyarıları Alın"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "Sizi en yeni kimlik avı siteleri ve Sosyal Mühendislik saldırılarından korur."
+   },
+   "getWOTPremium": {
+      "message": "Hacker'lar, virüsler ve kötü amaçlı web sitelerine karşı kapsamlı koruma için WOT Premium'u edinin."
+   },
+   "gmailProtectionDescription": {
+      "message": "Gelen kutunuzdaki şüpheli e-postalar hakkında uyarılar alın"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "Kimlik avı e-postalarını hızlıca algılamak için tasarlanmıştır"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "Akıllı e-Posta Algılama"
+   },
+   "gmailProtectionTitle": {
+      "message": "E-posta Koruması"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "E-posta korumanızı özelleştirin ve güvendiğiniz URL adreslerini girin"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "Güvendiğiniz URL adreslerini (ör.: sendgrid.com) ekleyin"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "İzin Verilenler Listesi"
+   },
+   "goPremium": {
+      "message": "Premium Git"
+   },
+   "goToLeakReport": {
+      "message": "İhracat Raporuna Bkz."
+   },
+   "goToSite": {
+      "message": "Yine de siteye git."
+   },
+   "goodService": {
+      "message": "İyi Hizmet"
+   },
+   "gotIt": {
+      "message": "Anladım"
+   },
+   "greatSupport": {
+      "message": "Harika Destek"
+   },
+   "hide": {
+      "message": "Gizle"
+   },
+   "hideWotAssistant": {
+      "message": "WOT Asistanı Gizle"
+   },
+   "hideWotAssistantText": {
+      "message": "'Gizle' tıkladığınızda artık WOT asistan sayfasının yüklendiğini görmezsiniz. Bunu daima daha sonra ayarlarınızda değiştirebilirsiniz."
+   },
+   "high": {
+      "message": "Yüksek"
+   },
+   "highText": {
+      "message": "Bütün şüpheli web sitelerini engelle. Çocuklar için uygun olmayan içeriğe sahip web siteleri varsayılan olarak engellenir"
+   },
+   "holdOn": {
+      "message": "Dayan!"
+   },
+   "hour": {
+      "message": "saat"
+   },
+   "hourAgo": {
+      "message": "bir saat önce"
+   },
+   "hourMinutesAgo": {
+      "message": "bir %2% saat önce"
+   },
+   "hours": {
+      "message": "saatler"
+   },
+   "hoursAgo": {
+      "message": "%1% saat önce"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% saat %2% dakika önce"
+   },
+   "hoverOverTheWOT": {
+      "message": "Bu sitenin itibarını görüntülemek için imlecinizi WOT %DONUTICON% simgesinin üzerine getirin"
+   },
+   "howWouldYouRate": {
+      "message": "Bu web sitesini 1 - 5 arası bir ölçekte nasıl değerlendirirdiniz?"
+   },
+   "identityProtection": {
+      "message": "Kimlik Koruma"
+   },
+   "identityProtectionModalMessage": {
+      "message": "Kimlik Koruması özelliğini etkinleştirerek, e-posta adresinizi şifre koruması ve izleme hizmeti sağlayan üçüncü bir tarafla paylaşabileceğimizi kabul etmiş olursunuz"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT, kişisel verileriniz sızdırıldığında sizi uyarır, böylece kimlik hırsızlığını ve gelecekteki sızıntıları önlemek için hızlı hareket edebilirsiniz."
+   },
+   "increaseOnlineSecurity": {
+      "message": "Artırılmış Çevrimiçi Güvenlik"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "Hassas bilgiler içeren kişisel hesaplarınıza erişmek için iki faktörlü kimlik doğrulamayı etkinleştirin"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "Hassas bilgiler içeren kişisel hesaplarınıza erişim için iki faktörlü kimlik doğrulamasını etkinleştirin."
+   },
+   "installed": {
+      "message": "Yüklendi"
+   },
+   "isSafe": {
+      "message": "Bu sitenin güvenli olduğunu düşünüyor musunuz?"
+   },
+   "issuesFound": {
+      "message": "%ISSUES% sorunlar bulundu"
+   },
+   "justNow": {
+      "message": "az önce"
+   },
+   "lang": {
+      "message": "en-US"
+   },
+   "lastScanned": {
+      "message": "Son taranan"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT, kişisel bilgilerinizi içeren veri ihlalleri hakkında gerçek zamanlı olarak sizi uyaracaktır, böylece kendinizi çevrimiçi olarak koruyabilirsiniz."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "Veri ihlali izleme özelliğini etkinleştirerek e-posta adresinizi, şifre koruma ve izleme hizmeti sunan bir üçüncü taraf ile paylaşabileceğimizi kabul etmiş olursunuz"
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "Kişisel bilgilerinizi güvende tutmak ve dijital kimliğinizi korumak için aşağıdaki adımları atmanızı öneririz:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "Kişisel bilgilerim sızdırıldıysa ne yapmalı?"
+   },
+   "leakedInformation": {
+      "message": "Sızdırılan Bilgiler"
+   },
+   "legalAnd": {
+      "message": "ve Koşullarımızı kabul etmektesiniz."
+   },
+   "legalPrivacyPolicy": {
+      "message": "Gizlilik Politikası"
+   },
+   "legalStatement": {
+      "message": "Size gerçek zamanlı koruma ve bakım sunmak ve hizmetimizi iyileştirmek için, ziyaret ettiğiniz web siteleri hakkında sunucularımıza bilgi göndermemiz gerekiyor. Yukarıdaki 'Kabul Ediyorum'u tıklayarak, şunu kabul edersiniz:"
+   },
+   "letCommunityKnow": {
+      "message": "Bu siteyi kullanmakla ilgili iyi veya kötü deneyimlerinizi topluluğumuzla paylaşın."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "Bu sitedeki deneyiminizi başkalarıyla paylaşın"
+   },
+   "limitedTimeOffer": {
+      "message": "Sınırlı süreli teklif"
+   },
+   "lite": {
+      "message": "Hafif"
+   },
+   "liteText": {
+      "message": "Sizi rahatsız etmeyiz - sadece kritik olduğunda"
+   },
+   "liveBlocking": {
+      "message": "Canlı engelleme"
+   },
+   "loading": {
+      "message": "Yükleniyor..."
+   },
+   "logOut": {
+      "message": "Çıkış Yap"
+   },
+   "login": {
+      "message": "Giriş Yap"
+   },
+   "looksSafe": {
+      "message": "Güvenli"
+   },
+   "manage": {
+      "message": "Yönet"
+   },
+   "manageProtection": {
+      "message": "Koruma Yönet"
+   },
+   "manageSubscriptions": {
+      "message": "Abonelikleri yönet"
+   },
+   "manageTrackers": {
+      "message": "izleyicileri yönet"
+   },
+   "manualModeAgree": {
+      "message": "Yukarıdaki 'Aç'ı tıklayarak, şunu kabul edersiniz:"
+   },
+   "manualModeWarning": {
+      "message": "Şu an manüel modda geziniyorsunuz - WOT'un proaktif koruması devre dışı ve sizleri tehlikeli sitelerden koruyamayız"
+   },
+   "manualModeWarningStrip": {
+      "message": "Manuel modda baktığınızı ve birçok özelliğin elverişli olmadığını unutmayın"
+   },
+   "marketing": {
+      "message": "Pazarlama"
+   },
+   "maybeNextTime": {
+      "message": "Belki bir dahaki sefere"
+   },
+   "messageSubmitted": {
+      "message": "Mesaj başarıyla gönderildi."
+   },
+   "minute": {
+      "message": "dakika"
+   },
+   "minuteAgo": {
+      "message": "bir dakika önce"
+   },
+   "minutes": {
+      "message": "dakikalar"
+   },
+   "minutesAgo": {
+      "message": "%1% dakika önce"
+   },
+   "missingReviews": {
+      "message": "Ekip İncelemeler"
+   },
+   "month": {
+      "message": "ay"
+   },
+   "monthAgo": {
+      "message": "bir ay önce"
+   },
+   "monthsAgo": {
+      "message": "%1% ay önce"
+   },
+   "moreInfo": {
+      "message": "Daha fazla bilgi"
+   },
+   "myDashboardNav": {
+      "message": "Gösterge Tablom"
+   },
+   "myProfile": {
+      "message": "Profilim"
+   },
+   "newDataLeaksFound": {
+      "message": "%1% yeni veri sızıntısı bulundu"
+   },
+   "next": {
+      "message": "İleri"
+   },
+   "no": {
+      "message": "Hayır"
+   },
+   "noBreaches": {
+      "message": "Müjde! Veri sızıntısı bulunmadı"
+   },
+   "noComments": {
+      "message": "Değerlendirme yok"
+   },
+   "noKeepIt": {
+      "message": "Hayır, etkin bırak"
+   },
+   "noReviewsYet": {
+      "message": "Henüz yorum yok"
+   },
+   "noSkip": {
+      "message": "Hayır, Atla"
+   },
+   "noThanks": {
+      "message": "Hayır Teşekkürler"
+   },
+   "noTrackersBlocked": {
+      "message": "%1% İzleyici Algılandı"
+   },
+   "noTrackersDetected": {
+      "message": "İzleyici Algılanmadı"
+   },
+   "none": {
+      "message": "Yok"
+   },
+   "notSecurity": {
+      "message": "Herhangi bir güvenlik sorunu var mı?"
+   },
+   "notSuitableForChildren": {
+      "message": "Çocuklar için uygun olmayan içerik var mı?"
+   },
+   "notSure": {
+      "message": "Bilmiyorum"
+   },
+   "off": {
+      "message": "Kapalı"
+   },
+   "okGotIt": {
+      "message": "Tamam, Anladım"
+   },
+   "on": {
+      "message": ":"
+   },
+   "onBoarding4States": {
+      "message": "4 durum vardır:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "üzerine gelerek sitenin itibarını kontrol edebilirsiniz."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "Bir web sitesine tıklamadan önce kalkan simgesinin"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "İtibar Kontrol Paneli"
+   },
+   "onBoardingReputationScore": {
+      "message": "İtibar puanı"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "Artık web'de gezinirken içiniz rahat edebilir. Bilinmeyen bir web sitesine tıklamadan önce kalkan simgesini kontrol ettiğinizden emin olun!"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "Bu açılır pencere size web sitesinin itibar puanını gösterir. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "Bu web sitesi WOT için %SAFETY%!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "Daha fazla kullanıcı yorumu okumak için “İncelemeleri Oku” yı tıklayabilirsiniz."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "Her şey tamam!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1 Engellenmiş İzleyici"
+   },
+   "oneTrackerDetected": {
+      "message": "1 İzleyici Algılandı"
+   },
+   "optinAreYouSureMessage": {
+      "message": "Size 360 derece canlı web koruması sağlamak için, WOT özelliklerinden bazıları ziyaret ettiğiniz web sitelerinden toplanan anonim bilgilere erişim gerektirir. Bu bilgiler üçüncü taraflarla paylaşılmayacak veya pazarlama amacıyla kullanılmayacaktır. Ayarlar sayfasını ziyaret ederek tercihlerinizi istediğiniz zaman değiştirebilirsiniz."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT aldatmaca, kimlik avı, şüpheli, kötü amaçlı yazılım ve spam-e-posta alırken sizi uyarır"
+   },
+   "optinGoBack": {
+      "message": "GERİ DÖN"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "Canlı Korumaya Aç"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "Gelişmiş Koruma"
+   },
+   "optinHeaderInstallation": {
+      "message": "Başarıyla Yüklendi"
+   },
+   "optinHeaderScanDevice": {
+      "message": "Aygıtı Tara"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "Tarayıcınızı kurun"
+   },
+   "optinMaybeLater": {
+      "message": "Belki sonra"
+   },
+   "optinProtectYourEmail": {
+      "message": "E-postanızı koruyun"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "Tarayıcı araç çubuğunda bulunan logo, sitenin itibarına bağlı olarak değişir"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "WOT Logosuna Bakın"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "İtibarı düşük bir siteyi ziyaret ettiğinizde WOT sizi uyarır"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "Gerçek Zamanlı Uyarılar Alın"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "Hangi sitelerin güvenilir olduğunu öğrenmek için Arama Motoru Sonuç Sayfalarındaki WOT logosunun rengine bakın"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "Bir Arama Sonucunu İşaretleyin"
+   },
+   "optinReputationIconsText": {
+      "message": "WOT ile web sitelerinin yanındaki güvenlik halkaları sayesinde internette bilinçli kararlar alın."
+   },
+   "optinSafetyScoreText": {
+      "message": "Site itibarını ve yorumları kontrol etmek için puan kartlarından yararlanın."
+   },
+   "optinSubtitle": {
+      "message": "Sizi gerçek zamanlı olarak korumak için, göz attığınız URL'lere erişmemiz gerekir"
+   },
+   "optinTitle": {
+      "message": "Tarayıcıya izin ver"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "Zararlı olabilecek veya itibarı düşük web sitelerini engelleyerek onlardan kaçının."
+   },
+   "optinWelcomeSubtitle": {
+      "message": "Sadece WOT kullanarak birbirlerini korumak {millionMembers}, katıldı"
+   },
+   "or": {
+      "message": " veya "
+   },
+   "other": {
+      "message": "Diğer"
+   },
+   "outOfHere": {
+      "message": "Beni buradan çıkar"
+   },
+   "ownThisSite": {
+      "message": "Bu sitenin sahibi siz misiniz?"
+   },
+   "parentalControl": {
+      "message": "Ebeveyn Kontrolü"
+   },
+   "parentalControlOFF": {
+      "message": "Çocuklar için uygun olmayan içeriğe sahip web siteleri engellenmeyecektir."
+   },
+   "parentalControlON": {
+      "message": "Çocuklar için uygun olmayan içeriğe sahip web siteleri engellenir"
+   },
+   "performance": {
+      "message": "Performans"
+   },
+   "pinWot": {
+      "message": "WOT'u Sabitleyin!"
+   },
+   "pinWotPopup": {
+      "message": "Mevcut web sitesi güvenlik durumunuzu görmek için $WOT$'u sabitleyin",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "Bizi değerlendirmek için bir dakikanızı ayırın"
+   },
+   "policy": {
+      "message": "Gizlilik Politikasını görüntüle"
+   },
+   "poorCustomerService": {
+      "message": "Kötü müşteri hizmeti"
+   },
+   "poorOnly": {
+      "message": "Yalnızca Düşük Puanlamalar"
+   },
+   "poorRating": {
+      "message": "Bu site şüpheli."
+   },
+   "popupAdultStrip": {
+      "message": "Yetişkinlere Özel İçerik Barındırıyor Olabilir"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "Bu bölümde, şu anda ziyaret ettiğiniz sitenin güvenli olup olmadığını kontrol edebilirsiniz.."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "İncelemeleri okumak için bağlantıya tıklayın."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "Yeni WOT\"nuza hoş geldiniz!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "Bu bölüm, çevrimiçi alışkanlıklarınızı kaç hizmetin izlediğini gösterir."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "İzleyicilerin engellenmesini ayarlamak için bağlantıya tıklayın."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "Dijital izleyiciler"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "Hesap ayarlarını açmak ve korumanızı yönetmek için burayı tıklayın."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "Korumayı yönet"
+   },
+   "postReview": {
+      "message": "Yorumu Gönder"
+   },
+   "potentiallyMalicious": {
+      "message": "Bu sitenin kötü amaçlı olma ihtimali var."
+   },
+   "preCheck": {
+      "message": "ÖN KONTROL"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "premiumFeature": {
+      "message": "Premium Özellik"
+   },
+   "premiumSecurity": {
+      "message": "Premium Güvenlik"
+   },
+   "premiumText": {
+      "message": "En zararlı web siteleri ve bağlantılardan korunmak için ihtiyaç duyduğunuz tüm çevrimiçi güvenlik özellikleri"
+   },
+   "presettings": {
+      "message": "Ön Ayarlar"
+   },
+   "protectPrivacy": {
+      "message": "Kimliğinizi ve Gizliliğinizi Koruyun "
+   },
+   "protectYourPrivacy": {
+      "message": "Açılır Pencere Engelleyici"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "Daha temiz, hızlı ve güvenli bir gezinme deneyimi için açılır pencereleri engeller."
+   },
+   "protectYourself": {
+      "message": "Veri Sızıntısı Uyarılarını Hemen Alın"
+   },
+   "protectedForXDays": {
+      "message": "%1% Günler İçin Korunur"
+   },
+   "protection": {
+      "message": "koruma"
+   },
+   "rateOnStore": {
+      "message": "%BROWSER% Mağazada bize puan verin"
+   },
+   "rateOverall": {
+      "message": "%%DOMAIN hakkındaki genel *deneyiminizi* derecelendirin"
+   },
+   "rateThisSite": {
+      "message": "Bu siteyi derecelendir"
+   },
+   "rateUs": {
+      "message": "WOT'u değerlendirin"
+   },
+   "rateYourExperience": {
+      "message": "Bu sitedeki genel deneyiminiz:"
+   },
+   "readMoreReviews": {
+      "message": "Daha fazla yorum (%1%) okuyun"
+   },
+   "readReviews": {
+      "message": "İncelemeleri okuyun"
+   },
+   "realTimeCheckups": {
+      "message": "Gerçek Zamanlı Kontroller"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "Kimlik Avı, Kötü Amaçlı Yazılımlar ve diğer tehditlere karşı gerçek zamanlı koruma."
+   },
+   "realtimePhishingAlerts": {
+      "message": "Gerçek Zamanlı Kimlik Avı Uyarıları"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "Başkalarını tehlikeye atabilecek güvenilmez veya sahte siteleri bize bildirin"
+   },
+   "reputation": {
+      "message": "İtibar"
+   },
+   "reputationIcons": {
+      "message": "İtibar Simgeleri"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT, şu anda ziyaret ettiğiniz web sitesinin güvenlik düzeyini gösterecektir"
+   },
+   "restorePurchases": {
+      "message": "Satın alımları geri yükle"
+   },
+   "resultFor": {
+      "message": "Şunun için sonuçlar:"
+   },
+   "reviewAddedErrorText": {
+      "message": "Bir hata oluştu. Lütfen tekrar deneyin."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "Yorum gönderilemedi"
+   },
+   "reviewAddedOKText": {
+      "message": "İnterneti daha güvenli bir yer haline getirdiğiniz için teşekkürler!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "Yorum başarıyla gönderildi"
+   },
+   "reviews": {
+      "message": "Değerlendirme"
+   },
+   "rtOFF": {
+      "message": "Şu an manüel moddasınız - WOT'un proaktif koruması devre dışı"
+   },
+   "rtON": {
+      "message": "WOT'un tüm kapsamıyla proaktif olarak korunuyorsunuz."
+   },
+   "rtProtection": {
+      "message": "Gerçek zamanlı koruma"
+   },
+   "rtProtectionRecommended": {
+      "message": "Gerçek zamanlı koruma (Önerilir)"
+   },
+   "safeBrowsing": {
+      "message": "Güvenli Tarama"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT, her siteyi tarayarak sizi çevrimiçi olarak tetikte tutar, gerçek zamanlı uyarılarla ziyaret ettiğiniz sayfa ve hizmet."
+   },
+   "safeSearch": {
+      "message": "Güvenli Arama"
+   },
+   "safeSearchSubtitle": {
+      "message": "Tıklamadan önce bir web sitesinin güvenli olup olmadığını öğrenmek için arama sonuçlarınızın yanında simgeler görüntülenecektir.."
+   },
+   "safeShopping": {
+      "message": "Güvenli Alışveriş"
+   },
+   "safeShoppingSite": {
+      "message": "Bu web sitesi alışveriş için güvenli"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "WOT algoritması, Makine Öğrenimi ve Kullanıcı yorumlarına göre bu web sitesi alışveriş için güvenli"
+   },
+   "safetyScore": {
+      "message": "Güvenlik Puanı"
+   },
+   "safetyScoreSubtitle": {
+      "message": "Web sitesi itibarlarını ve yorumlarını kontrol etmek ve kendi deneyiminizi paylaşmak için puan kartlarını kullanın"
+   },
+   "scannedOn": {
+      "message": "algılandı:"
+   },
+   "scoreCard": {
+      "message": "Puan Kartı"
+   },
+   "searchEnginePageResults": {
+      "message": "Arama Motoru Sonuçları Sayfası"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "Web sitesi bağlantılarının yanındaki WOT'un güvenlik göstergesi ile bilinçli kararlar alın"
+   },
+   "searchIndicator": {
+      "message": "Arama göstergesi"
+   },
+   "searchManualModeButton": {
+      "message": "Arama Motoru Rehberliğini Aç"
+   },
+   "searchManualModeHeader": {
+      "message": "WOT'un Rehberliğinden yoksun kalıyorsunuz"
+   },
+   "searchManualModeText": {
+      "message": "WOT'un Arama Motorları için koruması devre dışı bırakıldı. Size web sitesi puanlarını ve uyarılarını gösteremeyiz."
+   },
+   "security": {
+      "message": "Güvenlik"
+   },
+   "securityBreaches": {
+      "message": "açık hale geldi!"
+   },
+   "securityRiskDetected": {
+      "message": "Güvenlik Riskleri Algılandı"
+   },
+   "securityScore": {
+      "message": "Güvenlik Puanı"
+   },
+   "securitySystem": {
+      "message": "Güvenlik Sistemi"
+   },
+   "securityWarning": {
+      "message": "Güvenlik Uyarısı"
+   },
+   "seeLess": {
+      "message": "Daha Az"
+   },
+   "seeMore": {
+      "message": "Daha Fazla"
+   },
+   "seeReviews": {
+      "message": "Değerlendirme"
+   },
+   "sendFeedback": {
+      "message": "Geri bildirim gönder"
+   },
+   "serpMailWarning": {
+      "message": "WOT, tehlikeli bağlantılar veya izleme URL'leri içeriyor olabileceği için bu e-postayı şüpheli buldu"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "Yükselt ve E-postamı Koru"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "Daha sonra hatırlat"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "İnternet dolandırıcılıklarının %96'sı e-postalarla başlar. Tereddüt etmeyin ve kendinizi HEMEN korumaya alın."
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "E-postanız risk altında!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT çevrimiçi tehditleri ve izlemeyi algıladığı ve engellediği için kişisel bilgilerinizin güvende olduğundan emin olabilirsiniz."
+   },
+   "servicesTrackingYou": {
+      "message": "Hizmetler etkinliğinizi takip eder"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "Bu özelliği etkinleştirmek için"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "Korumanızı güçlendirin"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "Her Yerde, Her Zaman."
+   },
+   "settingsBannerTitle": {
+      "message": "Daha Güvenli Bir Gezinme Deneyimi."
+   },
+   "setup": {
+      "message": "Kurulum"
+   },
+   "severeOnly": {
+      "message": "Yalnızca Şiddetli Puanlamalar"
+   },
+   "share": {
+      "message": "Paylaş"
+   },
+   "shareExperience": {
+      "message": "%1% sitesindeki deneyiminizi paylaşarak başkalarına yardımcı olun"
+   },
+   "shareFeedback": {
+      "message": "Geri bildiriminizi paylaşın"
+   },
+   "shareOnFacebook": {
+      "message": "Facebook'ta paylaş"
+   },
+   "shareOnGoogle": {
+      "message": "Google +'da paylaş"
+   },
+   "shareOnTwitter": {
+      "message": "Twitter'da paylaş"
+   },
+   "shareText1": {
+      "message": "%WEBSITE%'i Web of Trust'da derecelendirerek İnternetin daha iyi bir yer olmasına yardımcı oldum! Bana katılmıyor musunuz? Siz de derecelendirin  %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "İnternette güvenle gezinmenin ve güvenli olmayan web sitelerden kaçınmanın yolunu buldum! Web of Trust uzantısına göz atın: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "%WEBSITE%'ı Web of Trust'da 5 yıldızda %STARS% derecelendirerek İnternetin daha iyi bir yer olmasına yardımcı oldum! Bana katılmıyor musunuz? Siz de derecelendirin  %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": "İnternette güvenle gezinmek ve güvenli olmayan web sitelerden kaçınmak için @Web_of_Trust kullanıyorum. Kendiniz deneyin: %LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextGoogleRate": {
+      "message": "%WEBSITE%'ı Web of Trust'da 5 yıldızda %STARS% derecelendirerek İnternetin daha iyi bir yer olmasına yardımcı oldum! Bana katılmıyor musunuz? Siz de derecelendirin  %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": "İnternette güvenle gezinmek ve güvenli olmayan web sitelerden kaçınmak için @Web_of_Trust kullanıyorum. Kendiniz deneyin: %LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextTwitterRate": {
+      "message": "%WEBSITE%'ı WOT'da 5 yıldızda %STARS% derecelendirdim! Bana katılmıyor musunuz? Siz de derecelendirin %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "İnternette güvenle gezinmenin ve güvenli olmayan web sitelerden kaçınmanın yolunu buldum! Web of Trust uzantısına göz atın: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "%WEBSITE%'ı Web of Trust'da 5 yıldızda %STARS% derecelendirerek İnternetin daha iyi bir yer olmasına yardımcı oldum! Bana katılmıyor musunuz? Siz de derecelendirin  %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "WOT'u arkadaşlarınızla paylaşın!"
+   },
+   "shareWotRating": {
+      "message": "%DOMAIN% puanlamanızı arkadaşlarınızla paylaşın!"
+   },
+   "shareYouRating": {
+      "message": "Değerlendirmenizi arkadaşlarınızla paylaşın"
+   },
+   "shopWithConfidence": {
+      "message": "Güvenle alışveriş yapın"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "Herhangi bir çevrimiçi mağazada alıcı yorumlarını görün ve kimlik avı ve sahte e-ticaret dolandırıcılığına karşı kendinizi koruyun"
+   },
+   "signIn": {
+      "message": "Giriş Yap"
+   },
+   "signInNow": {
+      "message": "Oturum açın"
+   },
+   "signInToRate": {
+      "message": "Bu web sitesini değerlendirmek ve yorumlamak için lütfen oturum açın"
+   },
+   "siteIsSafe": {
+      "message": "Bu sitenin *güvenli* olduğunu düşünüyor musunuz?"
+   },
+   "siteIsSafeChildren": {
+      "message": "Bu site *çocuklar için güvenli mi?*"
+   },
+   "skip": {
+      "message": "Atla"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "Tehditleri tespit etmek ve sizi dolandırıcılıktan uzak tutmak için geliştirilmiş kimlik avı koruması."
+   },
+   "social": {
+      "message": "Sosyal Ağlar"
+   },
+   "someTrackersBlocked": {
+      "message": "%1% / %2% İzleyici Engellendi"
+   },
+   "specialOfferBillingDetails": {
+      "message": "Tek ödeme şeklinde faturalandırılır:"
+   },
+   "specialOfferFeatures": {
+      "message": "E-posta Koruması, yetişkinlere özel içerikleri engelleme, sınırsız izleyici engelleme ve daha fazlası!"
+   },
+   "startFreeTrial": {
+      "message": "Ücretsiz denememi başlat"
+   },
+   "startProtection": {
+      "message": "Korunmaya Başlayın!"
+   },
+   "startYourFreeTrial": {
+      "message": "Ücretsiz denemenizi başlatın"
+   },
+   "successRecPass": {
+      "message": "Talimatlar e-posta adresinize gönderildi"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT, bu siteyi şüpheli olarak işaretledi"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "WOT için Şüpheli Web Sitesi"
+   },
+   "suspiciousSite": {
+      "message": "Şüpheli site"
+   },
+   "switchToClassic": {
+      "message": "Classic WOT'a geç"
+   },
+   "systemPageAction": {
+      "message": "Anladım"
+   },
+   "systemPageContent": {
+      "message": "WOT'u tarayıcı sistem sayfası, yerel ana bilgisayar veya uzantı sayfası gibi desteklenmeyen bir sayfada kullanmaya çalışıyorsunuz."
+   },
+   "systemPageTitle": {
+      "message": "Sistem Sayfası"
+   },
+   "takeAction": {
+      "message": "İşlem Yap"
+   },
+   "tellUsMore": {
+      "message": "Bize biraz daha anlat..."
+   },
+   "tellYourFriends": {
+      "message": "WOT hakkında arkadaşlarınıza anlatarak topluluğu yayın!"
+   },
+   "termsOfUse": {
+      "message": "Kullanım Şartları"
+   },
+   "thankYou": {
+      "message": "Teşekkür ederiz!"
+   },
+   "thankYouForFeedback": {
+      "message": "Geri bildiriminiz için teşekkür ederiz"
+   },
+   "thankYouForInstalling": {
+      "message": "Şimdi koruma kalkanınızı seçerek tamamen korunduğunuzdan emin olun"
+   },
+   "thanksGotIt": {
+      "message": "Teşekkürler, anladım!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "Bu e-posta, %1% bilinen veri ihlalinde yer aldı"
+   },
+   "thisPopupShows": {
+      "message": "Bu açılır pencere size web sitesinin itibar puanını gösterir. "
+   },
+   "thisSiteOnly": {
+      "message": "yalnızca bu site"
+   },
+   "threatsFound": {
+      "message": "Tehditler bulundu"
+   },
+   "timerManualModeButton": {
+      "message": "Gerçek Zamanlı Korumayı Aç"
+   },
+   "timerManualModeHeader": {
+      "message": "Manuel modda geziniyorsunuz!"
+   },
+   "timerManualModeText": {
+      "message": "WOT'un proaktif koruması devre dışı bırakıldı, sizi tehlikeli web sitelerinden koruyamayız."
+   },
+   "toWriteReview": {
+      "message": " değerlendirme yazmak için"
+   },
+   "toggleTooltipMessage": {
+      "message": "PREMIUM ÖZELLİKLERİN KİLİDİNİ AÇIN"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "ŞİMDİ TERFİ EDİN"
+   },
+   "tooComplicated": {
+      "message": "Çok Karmaşık"
+   },
+   "tooltipChildSafe": {
+      "message": "Bu site rahatsız edici içeriklere (çıplaklık, sarsıcı, ürkütücü) karşı  korunuyor mu?"
+   },
+   "tooltipSafe": {
+      "message": "Bu site, tehditlere (kötü amaçlı yazılımlar, virüsler, kimlik avı vs.) karşı korunuyor mu?"
+   },
+   "tour": {
+      "message": "Tur"
+   },
+   "trackerBlocked": {
+      "message": "Engellendi"
+   },
+   "trackerBlocker": {
+      "message": "İzleyici Engelleme Koruması"
+   },
+   "trackerBlockerDescription": {
+      "message": "Ziyaret ettiğiniz web sitelerindeki tüm izleyicileri otomatik olarak engelleyin."
+   },
+   "trackerCounterAction": {
+      "message": "Daha Fazla İzleyici"
+   },
+   "trackerCounterText": {
+      "message": "Temel koruma için %1%/3 izleyici kullanılabilir"
+   },
+   "trackerSomeBlocked": {
+      "message": "%1% / %2% Engellendi"
+   },
+   "trackerUnblocked": {
+      "message": "Engeli Kaldırıldı"
+   },
+   "trackersBlockAll": {
+      "message": "Tüm izleyicileri otomatik olarak engelleyin"
+   },
+   "trackersBlocked": {
+      "message": "İzleyiciler Engellendi"
+   },
+   "trackersDetected": {
+      "message": "izleyiciler algılandı"
+   },
+   "trackingProtection": {
+      "message": "İzleme Koruması"
+   },
+   "trustIssues": {
+      "message": "Bu sitede bazı güven sorunları var. Dikkatli olun."
+   },
+   "trusted": {
+      "message": "güvenilir"
+   },
+   "trustedByWOT": {
+      "message": "WOT tarafından Güvenilen Site"
+   },
+   "trustedByWOTPopup": {
+      "message": "WOT için Güvenilir Web Sitesi"
+   },
+   "trustedSite": {
+      "message": "Güvenilen Site"
+   },
+   "trustedSource": {
+      "message": "Güvenilir kaynak"
+   },
+   "tryAgain": {
+      "message": "Tekrar Deneyin"
+   },
+   "turnOffProtection": {
+      "message": "Korumayı kapat"
+   },
+   "twoMillionMembers": {
+      "message": "2+ milyon üye"
+   },
+   "unknownByWOT": {
+      "message": "Yeterli bilgi yok"
+   },
+   "unknownByWOTPopup": {
+      "message": "WOT için Bilinmeyen Web Sitesi"
+   },
+   "unknownSite": {
+      "message": "Bilinmeyen Site"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "Sınırsız izleyici engelleme özelliğinden sadece Premium kullanıcılar yararlanabilir"
+   },
+   "unlock": {
+      "message": "KİLİDİ AÇIN"
+   },
+   "unlockPremium": {
+      "message": "Premium Kilidini Aç"
+   },
+   "untrusted": {
+      "message": "güvenilmez"
+   },
+   "untrustedByWOT": {
+      "message": "WOT, bu siteyi güvenilmez buldu"
+   },
+   "untrustedByWOTPopup": {
+      "message": "WOT için Güvenilmez Web Sitesi"
+   },
+   "untrustedSite": {
+      "message": "Güvenilmeyen Site"
+   },
+   "upgrade": {
+      "message": "YÜKSELT"
+   },
+   "upgradeNow": {
+      "message": "ŞİMDİ TERFİ EDİN"
+   },
+   "viewAll": {
+      "message": "Tümünü Göster"
+   },
+   "viewFullReport": {
+      "message": "Tam Raporu Görüntüle"
+   },
+   "viewFullScorecard": {
+      "message": "Tam Skor Kartını Görüntüle"
+   },
+   "wantToDelete": {
+      "message": "Puanlamanızı silmek istediğinizden emin misiniz?"
+   },
+   "wantToRateWOT": {
+      "message": "%%BROWSER Store'da bizi değerlendirin"
+   },
+   "wantToRateWOTBtn": {
+      "message": "WOT'u değerlendirin"
+   },
+   "wantToRateWOTHeader": {
+      "message": "WOT'u beğendiniz mi?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "Tüm WOT Premium özelliklerinin kilidini açmak ister misiniz?"
+   },
+   "warning": {
+      "message": "Uyarı!"
+   },
+   "warningAlerts": {
+      "message": "Uyarı Uyarıları"
+   },
+   "warningAlertsSubtitle": {
+      "message": "Ziyaret edilen şüpheli web siteleri için uyarıları göster"
+   },
+   "warnings": {
+      "message": "Uyarı bildirimleri"
+   },
+   "weAppreciate": {
+      "message": "Zaman ayırdığınız için teşekkür ederiz ve WOT'u geliştirmemize yardımcı olduğunuz için teşekkür ederiz"
+   },
+   "websiteBlocking": {
+      "message": "Web Sitesi Engelleme"
+   },
+   "weekAgo": {
+      "message": "bir hafta önce"
+   },
+   "weeksAgo": {
+      "message": "%1% hafta önce"
+   },
+   "welcome": {
+      "message": "Hoş geldiniz"
+   },
+   "welcomeToWot": {
+      "message": "WOT'a Hoş Geldiniz"
+   },
+   "whatCanIDo": {
+      "message": "Bu konuda ne yapabilirim?"
+   },
+   "whatCouldWeDo": {
+      "message": "Daha iyi ne yapabiliriz ki?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "Güvenilmeyen etkinlik, sıklıkla Dolandırıcılık, Kimlik Avı, Kötü Amaçlı Yazılımlar, Potansiyel Olarak İstenmeyen Programlar ve diğer zararlı, riskli ve tehlikeli web sitesi türleriyle ilişkilendirilen davranışları kapsar."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "*Güvenilmeyen* site nedir?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "Olası şüpheli etkinlik, sıklıkla dolandırıcılık, kötü amaçlı kripto para madenciliği, tarayıcı korsanlığı ve diğer zararlı, riskli ve tehlikeli web sitesi türleriyle ilişkilendirilen davranışları kapsar."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "*Şüpheli* site nedir?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "Bu web sitesini puanlamak için şu an elimizde yeterli bilgi yok. Sosyal Güvenlik numaranız, banka hesabı veya kredi kartı bilgileriniz gibi özel bilgileri vermekten kaçınmanızı öneririz."
+   },
+   "whatIsUnknownTitle": {
+      "message": "*Bilinmeyen* site nedir?"
+   },
+   "whatsNewWOT": {
+      "message": "Yeni Veri İhlali İzleme Özelliği"
+   },
+   "whatsNewWOTContent": {
+      "message": "Bu güçlü yeni özellik sayesinde artık kişisel bilgilerinizin ve parolalarınızın tehlikeye girmediğinden veya güvenlik tehditlerine maruz kalmadığından emin olabilirsiniz."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "Hadi bir bakalım."
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "Daha fazla bilgi"
+   },
+   "whitelist": {
+      "message": "Beyaz liste"
+   },
+   "whitelistTitle": {
+      "message": "Bu sitelerde uyarı gösterme"
+   },
+   "whyIsntSafe": {
+      "message": "%DOMAIN% neden *güvenli* değil?"
+   },
+   "whyIsntSafeChildren": {
+      "message": "%DOMAIN% neden *çocuklar için güvenli değil?*"
+   },
+   "wotAssistant": {
+      "message": "WOT Asistan"
+   },
+   "wotAssistantOFF": {
+      "message": "Tarayıcımın köşesinde iyi web sitesi itibarını gösterme"
+   },
+   "wotAssistantON": {
+      "message": "Tarayıcımın köşesinde iyi web sitesi itibarını göster"
+   },
+   "wotCommunity": {
+      "message": "WOT Topluluğu"
+   },
+   "wotDetected": {
+      "message": "WOT, olası bir güvenlik tehdidi tespit etti ve $DOMAIN$ sitesini engelledi. Bu site zararlı ve dolandırıcılık faaliyetleri içeriyor olabilir.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "$DOMAIN$, yetişkinlere yönelik içerik gösterilmesi ihtimali nedeniyle WOT tarafından engellendi.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "WOT Yardımcısı"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "WOT Yardımcısı widget'ı gösterilmeyecektir."
+   },
+   "wotHelperSettingsOnState": {
+      "message": "Bu web sitesinin puanı, yorumları ve güvenliğine hızlı bir şekilde erişmek için WOT Yardımcısı widget'ini görüntüleyin."
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT kurulumu başarıyla tamamlandı"
+   },
+   "writeAtLeast15": {
+      "message": "Başkalarına yardımcı olmak için en az 15 karakterlik bir yorum girin"
+   },
+   "writeFirstReview": {
+      "message": "İlk yorumu siz yazın"
+   },
+   "writeReview": {
+      "message": "Yorum yazın"
+   },
+   "yearAgo": {
+      "message": "%1% yıl önce"
+   },
+   "yearsAgo": {
+      "message": "%1% yıl önce"
+   },
+   "yes": {
+      "message": "Evet"
+   },
+   "youCanAlsoEdit": {
+      "message": "Dilerseniz mevcut yorum ve değerlendirmeniz üzerinde değişiklik de yapabilirsiniz"
+   },
+   "youCanAlwaysChange": {
+      "message": "(tercihlerinizi daha sonra değiştirebilirsiniz)"
+   },
+   "youCanCheckAnyLink": {
+      "message": "WOT tam koruma sayesinde, tüm bağlantıları ziyaret etmeden önce kontrol edebilir ve çok daha fazlasını yapabilirsiniz!"
+   },
+   "youRatingThisSite": {
+      "message": "Bu siteyi değerlendirerek harika bir iş çıkardınız!"
+   },
+   "yourRating": {
+      "message": "Puanlamanız"
+   },
+   "yourSubscription": {
+      "message": "Aboneliğiniz"
+   }
+}

@@ -1,0 +1,1712 @@
+{
+   "18Icon": {
+      "message": "Ikona 18+"
+   },
+   "18IconOFF": {
+      "message": "Nezobrazovat ikony obsahu pro dospělé vedle donutů"
+   },
+   "18IconON": {
+      "message": "Zobrazovat ikony obsahu pro dospělé vedle donutů"
+   },
+   "Add": {
+      "message": "Přidat"
+   },
+   "AdultC": {
+      "message": "Obsah pro dospělé"
+   },
+   "AllowAlways": {
+      "message": "Povolit vždy"
+   },
+   "AllowOnce": {
+      "message": "Povolit vyskakovací okno jednou"
+   },
+   "AlternativeMedicine": {
+      "message": "Alternativní medicína"
+   },
+   "BadReviewWarningText": {
+      "message": "Tomuto webu jste v minulosti dali nízké hodnocení. Buďte opatrní."
+   },
+   "BlocksPopup": {
+      "message": "Blokuje vyskakovací okna"
+   },
+   "BlocksPopupText": {
+      "message": "Blokuje všechna vyskakovací okna a potenciálně nevyžádané programy"
+   },
+   "Carefulx": {
+      "message": "Buďte opatrní!"
+   },
+   "DoNotShowAgain": {
+      "message": "Toto už pro tento web nezobrazovat"
+   },
+   "Error400": {
+      "message": "E-mail není platný"
+   },
+   "Error401": {
+      "message": "Neautorizováno"
+   },
+   "ExperienceFullPower": {
+      "message": "Zažijte WOT na plný výkon"
+   },
+   "FAQ": {
+      "message": "Často kladené dotazy"
+   },
+   "Forgot": {
+      "message": "Zapomněli jste?"
+   },
+   "ForgotBelow": {
+      "message": "Požádat o nové heslo"
+   },
+   "Gambling": {
+      "message": "Hazard"
+   },
+   "GoBack": {
+      "message": "← Zpět"
+   },
+   "GoToSetting": {
+      "message": "Přejít do nastavení"
+   },
+   "GoodSite": {
+      "message": "Dobrý web"
+   },
+   "GruesomeShocking": {
+      "message": "Odpudivý nebo šokující"
+   },
+   "HateDiscrimination": {
+      "message": "Nenávistný, diskriminační"
+   },
+   "IHaveAccount": {
+      "message": "Mám účet. "
+   },
+   "IHaveNotAccount": {
+      "message": "Nemám účet. "
+   },
+   "Illegal": {
+      "message": "Potenciálně nelegální"
+   },
+   "IncidentalNudity": {
+      "message": "Náhodná nahota"
+   },
+   "LogInBelow": {
+      "message": "Přihlásit se níže"
+   },
+   "LogInFacebook": {
+      "message": "Přihlásit se přes Facebook"
+   },
+   "LogInGoogle": {
+      "message": "Přihlásit se přes Google+"
+   },
+   "LogInPasswordInput": {
+      "message": "heslo"
+   },
+   "LogInTwitter": {
+      "message": "Přihlásit se přes Twitter"
+   },
+   "LogInUsernameInput": {
+      "message": "uživatelské jméno nebo e-mail"
+   },
+   "MalwareViruses": {
+      "message": "Malware nebo viry"
+   },
+   "MisleadingUnethical": {
+      "message": "Zavádějící nebo neetický"
+   },
+   "NOT_SAFE": {
+      "message": "NENÍ BEZPEČNÝ!"
+   },
+   "NewPassword": {
+      "message": "Poslat mi e-mailem nové heslo"
+   },
+   "NotAppropriate": {
+      "message": "Nevhodné pro děti"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "Názory, náboženství, politika"
+   },
+   "Phishing": {
+      "message": "Útok phishing"
+   },
+   "PoorExperience": {
+      "message": "Nízké hodnocení zákazníky"
+   },
+   "PopupNotification": {
+      "message": "Zobrazení oznámení"
+   },
+   "PopupNotificationText": {
+      "message": "Zobrazí oznámení na stránce při zablokování vyskakovacího okna"
+   },
+   "PrivacyRisks": {
+      "message": "Ohrožení soukromí"
+   },
+   "ProtectionsFeatures": {
+      "message": "Buďte v bezpečí s Asistentem WOT"
+   },
+   "ProtectionsFeatures2": {
+      "message": "Kontrola odkazů před otevřením"
+   },
+   "RateThisWebsite": {
+      "message": "Ohodnoťte tento web"
+   },
+   "RememberMe": {
+      "message": "Zapamatovat si mě"
+   },
+   "SAFE": {
+      "message": "BEZPEČNÝ"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "U odkazů zobrazovat vždy všechny typy ikon (červené, žluté, zelené)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "U webů s nízkým hodnocením zobrazovat pouze červenou ikonu "
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "Nezobrazí se žádné ikony reputace"
+   },
+   "Scam": {
+      "message": "Podvod"
+   },
+   "ShowLess": {
+      "message": "Zobrazit méně"
+   },
+   "ShowMore": {
+      "message": "Zobrazit více"
+   },
+   "SignUp": {
+      "message": "Zaregistrovat se"
+   },
+   "SignUpBelow": {
+      "message": "Zaregistrovat se níže"
+   },
+   "SignUpFacebook": {
+      "message": "Zaregistrovat se přes Facebook"
+   },
+   "SignUpGoogle": {
+      "message": "Zaregistrovat se přes Google+"
+   },
+   "SignUpPasswordInput": {
+      "message": "zvolit heslo"
+   },
+   "SignUpTwitter": {
+      "message": "Zaregistrovat se přes Twitter"
+   },
+   "SignUpUsernameInput": {
+      "message": "váš e-mail"
+   },
+   "SiteKids": {
+      "message": "Web pro děti"
+   },
+   "Spam": {
+      "message": "Spam"
+   },
+   "Suspicious": {
+      "message": "Podezřelý"
+   },
+   "UNKNOWN": {
+      "message": "NEZNÁMO"
+   },
+   "UnwantedPrograms": {
+      "message": "Potenciálně nevyžádané programy"
+   },
+   "ViewMyAccount": {
+      "message": "Zobrazit můj účet"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "Zobrazuje varování na všechny weby, které mají nízké hodnocení"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "Zobrazuje varování pouze na škodlivé weby"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "Nezobrazí se žádná varování"
+   },
+   "WantMore": {
+      "message": "Chcete nám říct víc?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "Co ohledně těchto úniků dělat"
+   },
+   "WhitelistPlaceholder": {
+      "message": "Přidejte web, pro který nechcete zobrazovat varování. (Např. Google.com)"
+   },
+   "accurace": {
+      "message": "Accurace"
+   },
+   "activate": {
+      "message": "Aktivovat"
+   },
+   "activateProtection": {
+      "message": "Aktivujte ochranu"
+   },
+   "addAReview": {
+      "message": "Přidat recenzi"
+   },
+   "adsOrPopups": {
+      "message": "Reklamy a vyskakovací okna"
+   },
+   "adult": {
+      "message": "Pro dospělé"
+   },
+   "adultContent": {
+      "message": "Obsah pro dospělé"
+   },
+   "adultContentProtection": {
+      "message": "Ochrana obsahu pro dospělé"
+   },
+   "adultProtection": {
+      "message": "Ochrana před obsahem pro dospělé"
+   },
+   "adultProtectionText": {
+      "message": "Toto nastavení ochrany před obsahem pro dospělé se použije u všech webových stránek v každé kategorii"
+   },
+   "adultProtectionTooltip": {
+      "message": "Weby s nevhodným obsahem, pornem a hazardními hrami budou zablokovány"
+   },
+   "adultSettingMoreOptions": {
+      "message": "Další volby"
+   },
+   "adultSettingSubtitle": {
+      "message": "Blokování porna a hazardu"
+   },
+   "adultSettingTitle": {
+      "message": "Ochrana před obsahem pro dospělé"
+   },
+   "ago": {
+      "message": "před"
+   },
+   "agreeContinue": {
+      "message": "Souhlasím, pokračovat"
+   },
+   "all": {
+      "message": "Vše"
+   },
+   "allTrackersBlocked": {
+      "message": "Zablokovaných trackerů: %1%"
+   },
+   "allow": {
+      "message": "Povolit"
+   },
+   "almostDone": {
+      "message": "Už to skoro bude"
+   },
+   "always": {
+      "message": "Vždy"
+   },
+   "analytics": {
+      "message": "Analytika"
+   },
+   "antiPhishingAndScams": {
+      "message": "Anti-Phishing a podvody"
+   },
+   "appDescription": {
+      "message": "Zjistěte si o libovolném webu, jakou má reputaci a jak je bezpečný – na základě zkušeností uživatelů. Oficiální rozšíření Web of Trust pro Chrome"
+   },
+   "appName": {
+      "message": "WOT – zabezpečení webových stránek a ochrana pro bezpečné procházení"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "Jste si jistí?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "Napsat novou recenzi na tento web"
+   },
+   "assistantSettingSubtitle": {
+      "message": "Bezpečné nakupování a hledání na webu"
+   },
+   "assistantSettingTitle": {
+      "message": "Štít asistenta WOT"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "Otevřít posuvník WOT"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "Počet trackerů zjištěných na této stránce"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOT umožňuje zobrazovat a blokovat trackery na navštívených webových stránkách, abyste měli pod kontrolou, kdo shromažďuje vaše data."
+   },
+   "autoScanDevice": {
+      "message": "Automatické prověření zařízení"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "Ujistěte se, že zařízení pravidelně kontrolujete, zda neexistují bezpečnostní hrozby a/nebo úniky."
+   },
+   "autoScanDeviceText": {
+      "message": "Dbejte na pravidelné prověřování svého zařízení z hlediska bezpečnostních hrozeb nebo úniků."
+   },
+   "avoidHarmfulSites": {
+      "message": "Vyhýbejte se podvodným a škodlivým webům"
+   },
+   "back": {
+      "message": "Zpět"
+   },
+   "beTheFirstToReview": {
+      "message": "Buďte první, kdo ohodnotit tuto webovou stránku"
+   },
+   "blacklistsPreCheck": {
+      "message": "Aktuální černé listiny"
+   },
+   "block": {
+      "message": "Blokovat"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "Automaticky blokuje všechny trackery na všech navštívených webech"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "Automatické blokování všech trackerů je k dispozici pouze pro prémiové uživatele"
+   },
+   "blockTrackers": {
+      "message": "Blokové trackery"
+   },
+   "blockUnsafeWebsites": {
+      "message": "Blokovat nebezpečné webové stránky a odkazy"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT vás předem upozorní na náhodné kliknutí na nebezpečné odkazy nebo přechodem na nebezpečné nebo škodlivé webové stránky"
+   },
+   "blocked": {
+      "message": "Blokován!"
+   },
+   "blocksHackingAttacks": {
+      "message": "Blokuje útoky hackerů každých 39 sekund"
+   },
+   "breachedDate": {
+      "message": "Datum úniku"
+   },
+   "breachesAlert": {
+      "message": "Došlo k ohrožení vašich osobních údajů nebo hesel, která byla vystavena"
+   },
+   "browse": {
+      "message": "Prohlížení"
+   },
+   "browserNotProtected": {
+      "message": "Váš prohlížeč není chráněn"
+   },
+   "browserProtected": {
+      "message": "Váš prohlížeč je zabezpečený"
+   },
+   "browserSecured": {
+      "message": "Tento prohlížeč je zabezpečený!"
+   },
+   "bugs": {
+      "message": "Chyby"
+   },
+   "canHelp": {
+      "message": "Jak vám můžeme pomoct?"
+   },
+   "cancel": {
+      "message": "Zrušit"
+   },
+   "careful": {
+      "message": "Buďte opatrní!"
+   },
+   "categoriesExplained": {
+      "message": "Na tento web se můžou vztahovat tyto kategorie"
+   },
+   "changePassword": {
+      "message": "Změnit heslo"
+   },
+   "changePasswordSubtitle": {
+      "message": "Je důležité dbát na to, aby úplně každé heslo bylo jedinečné, jiné a nedalo se snadno uhodnout. Nikdy nepoužívejte stejné heslo dvakrát."
+   },
+   "changePasswordText": {
+      "message": "Je důležité dbát na to, aby úplně každé heslo bylo jedinečné, jiné a nedalo se snadno uhodnout. Nikdy nepoužívejte stejné heslo dvakrát."
+   },
+   "checkLeaks": {
+      "message": "Zkontrolujte netěsnosti"
+   },
+   "checkUrl": {
+      "message": "Zkontrolovat URL"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Zkontrolujte jakoukoli úroveň zabezpečení webových stránek"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT vám poskytuje tři způsoby, jak zkontrolovat úroveň zabezpečení webových stránek: Stránka s výsledky vyhledávače Google, ikona panelu nástrojů prohlížeče a podrobný přehled a recenze"
+   },
+   "chooseTags": {
+      "message": "Zvolte značky, které popisují web %DOMAIN%"
+   },
+   "chooseTagsForSite": {
+      "message": "Zvolte štítky, které nejlíp popisují tenhle web:"
+   },
+   "clearPolicy": {
+      "message": "Jasné zásady"
+   },
+   "close": {
+      "message": "Zavřít"
+   },
+   "contactUs": {
+      "message": "Kontaktujte nás"
+   },
+   "containAdultContent": {
+      "message": "Na tomto webu se možná vyskytuje obsah jen pro dospělé"
+   },
+   "contentWarning": {
+      "message": "Obsah pro dospělé je zablokovaný"
+   },
+   "dataBreachHookText": {
+      "message": "Někdy to může být riskantní"
+   },
+   "dataBreachHookTitle": {
+      "message": "Zadáváte přihlašovací údaje?"
+   },
+   "dataLeakMonitoring": {
+      "message": "Monitorování úniků dat"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "byly nalezeny úniky dat spojené s tímto e-mailovým účtem"
+   },
+   "dayAgo": {
+      "message": "včera"
+   },
+   "daysAgo": {
+      "message": "před %1% dny"
+   },
+   "default": {
+      "message": "Výchozí"
+   },
+   "defaultManualModeButton": {
+      "message": "Pokračovat a zapnout"
+   },
+   "defaultManualModeHeader": {
+      "message": "Získejte aktuální výsledky a informace"
+   },
+   "defaultManualModeText": {
+      "message": "Proaktivní ochrana WOT je vypnuta. Nebudeme vám moct zobrazovat hodnocení webových stránek a upozornění."
+   },
+   "defaultText": {
+      "message": "Blokovat webové stránky s nízkou reputací. (Doporučeno)"
+   },
+   "del": {
+      "message": "Smazat"
+   },
+   "delete": {
+      "message": "Ano, odstranit"
+   },
+   "deleteThisReview": {
+      "message": "Smazat tuhle recenzi?"
+   },
+   "digitalTrackingProtection": {
+      "message": "Ochrana proti digitálnímu sledování"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "Automaticky zablokujte všechny služby ve sledování vašich návyků při procházení online."
+   },
+   "disagree": {
+      "message": "Nesouhlasím"
+   },
+   "dismissWarning": {
+      "message": "Zavřít varování"
+   },
+   "done": {
+      "message": "HOTOVO"
+   },
+   "dontShowAgain": {
+      "message": "Už mi to neukazuj."
+   },
+   "dontShowOnThisSite": {
+      "message": "Na tento webu už neupozorňovat"
+   },
+   "donuts": {
+      "message": "Ikony reputace vedle odkazů"
+   },
+   "downloadClassicWot": {
+      "message": "Stáhnout Classic WOT"
+   },
+   "downloadMobileWot": {
+      "message": "Stáhnout WOT pro mobily"
+   },
+   "edit": {
+      "message": "Upravit"
+   },
+   "editYourReview": {
+      "message": "Upravte recenzi"
+   },
+   "empty": {
+      "message": "Prázdný seznam"
+   },
+   "enable": {
+      "message": "POVOLIT"
+   },
+   "enableEnhancedProtection": {
+      "message": "Zapnout vylepšenou ochranu"
+   },
+   "enjoyingWot": {
+      "message": "Líbí se vám WOT?"
+   },
+   "errorAction": {
+      "message": "OK"
+   },
+   "errorContent": {
+      "message": "Omlouváme se. Aktualizujte tuhle stránku a zkuste to znovu."
+   },
+   "errorTitle": {
+      "message": "Něco se pokazilo"
+   },
+   "extraFeaturesTitle": {
+      "message": "Podívejte se, co ještě WOT nabízí"
+   },
+   "faqSupport": {
+      "message": "FAQ & Podpora"
+   },
+   "findHelp": {
+      "message": "Získejte pomoc nebo se s námi spojte"
+   },
+   "firstRate": {
+      "message": "Ohodnoťte tento web jako první"
+   },
+   "followUs": {
+      "message": "Sledujte nás"
+   },
+   "forAllPremiumPlans": {
+      "message": "Pro všechny prémiové verze předplatného"
+   },
+   "forum": {
+      "message": "Fórum"
+   },
+   "freeTrialEndend": {
+      "message": "%2% zbývající dny vaší bezplatné zkušební verze"
+   },
+   "freeUserBlockTitle": {
+      "message": "Chcete se chránit i před jinými škodlivými weby?"
+   },
+   "gamblingSites": {
+      "message": "Stránky s hazardními hrami"
+   },
+   "gamblingSitesText": {
+      "message": "Weby s hazardními hrami a obsahem budou zablokovány"
+   },
+   "generalSettings": {
+      "message": "Obecná nastavení"
+   },
+   "generalSettingsDescription": {
+      "message": "Přizpůsobte si nastavení podle svých potřeb a zůstaňte chráněni"
+   },
+   "getFullCoverage": {
+      "message": "Kompletní ochrana při prohlížení"
+   },
+   "getFullProtection": {
+      "message": "Získejte ucelenou ochranu WOT"
+   },
+   "getMorePremium": {
+      "message": "Získejte více s verzí Premium"
+   },
+   "getPhishingAlert": {
+      "message": "Upozornění na phishing"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "Chrání vás před nejnovějšími phishingovými weby a útoky sociálního inženýrství."
+   },
+   "getWOTPremium": {
+      "message": "Získejte WOT Premium pro komplexní ochranu proti hackerům, virům a škodlivým webům."
+   },
+   "gmailProtectionDescription": {
+      "message": "Dostávat varování ohledně podezřelých e-mailů ve schránce"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "Určeno pro rychlou detekci phishingových e-mailů"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "Inteligentní detekce e-mailů"
+   },
+   "gmailProtectionTitle": {
+      "message": "Ochrana e-mailu"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "Přizpůsobte si ochranu e-mailů a zadejte adresy URL, kterým důvěřujete"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "Přidání důvěryhodných adres URL (např. sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "Seznam povolených"
+   },
+   "goPremium": {
+      "message": "Přejít na Premium"
+   },
+   "goToLeakReport": {
+      "message": "Viz zpráva o porušení"
+   },
+   "goToSite": {
+      "message": "Přesto přejít na web"
+   },
+   "goodService": {
+      "message": "Kvalitní služba"
+   },
+   "greatSupport": {
+      "message": "Skvělá podpora"
+   },
+   "hide": {
+      "message": "Skrýt"
+   },
+   "hideWotAssistant": {
+      "message": "Skrýt Asistenta WOT"
+   },
+   "hideWotAssistantText": {
+      "message": "Kliknete-li na Skrýt, stránka Asistenta WOT se vám už nebude načítat. To můžete kdykoli změnit v nastaveních."
+   },
+   "high": {
+      "message": "Vysoká"
+   },
+   "highText": {
+      "message": "Blokovat jakékoli podezřelé webové stránky. Weby s nevhodným obsahem pro děti budou zablokovány."
+   },
+   "holdOn": {
+      "message": "Vydrž!"
+   },
+   "hour": {
+      "message": "hodina"
+   },
+   "hourAgo": {
+      "message": "před hodinou"
+   },
+   "hourMinutesAgo": {
+      "message": "před %2% hodinou"
+   },
+   "hours": {
+      "message": "hodin"
+   },
+   "hoursAgo": {
+      "message": "před %1% hodinami"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% před %2% hodinami"
+   },
+   "howWouldYouRate": {
+      "message": "Jak byste ohodnotili tuhle webovou stránku na stupnici od 1 do 5?"
+   },
+   "identityProtection": {
+      "message": "Ochrana identity"
+   },
+   "identityProtectionModalMessage": {
+      "message": "Povolením funkce Ochrana identity souhlasíte s tím, že můžeme sdílet vaši e-mailovou adresu s třetí stranou, která poskytuje ochranu heslem a monitorovací službu"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT vás upozorní, když dojde k úniku vašich osobních údajů, abyste se mohli rychle pohybovat, abyste zabránili krádeži identity a budoucím únikům."
+   },
+   "increaseOnlineSecurity": {
+      "message": "Zvýšit zabezpečení online"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "Povolit dvoufaktorové ověřování pro přístup k vašim osobním účtům, které obsahují citlivé informace"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "Pro přístup k osobním účtům, které obsahují citlivé informace, si nastavte dvoufaktorové ověřování."
+   },
+   "installed": {
+      "message": "Nainstalováno"
+   },
+   "isSafe": {
+      "message": "Myslíte, že je tento web bezpečný?"
+   },
+   "issuesFound": {
+      "message": "%ISSUES% nalezené problémy"
+   },
+   "justNow": {
+      "message": "právě teď"
+   },
+   "lang": {
+      "message": "en-US"
+   },
+   "lastScanned": {
+      "message": "Poslední naskenované"
+   },
+   "leakMonitoringDescription": {
+      "message": "Společnost WOT vás v reálném čase upozorní na narušení dat obsahujících vaše osobní údaje, abyste se mohli chránit online."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "Zapnutím funkce Monitorování úniků dat vyjadřujete souhlas s tím, že můžeme sdílet vaši e-mailovou adresu s třetí stranou, která provozuje službu ochrany a monitorování hesel."
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "Doporučujeme podniknout tyto kroky, abyste udrželi své osobní údaje v bezpečí a chránili svou digitální identitu:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "Co dělat, když došlo k úniku mých osobních údajů?"
+   },
+   "leakedInformation": {
+      "message": "Uniklé údaje"
+   },
+   "legalAnd": {
+      "message": "a"
+   },
+   "legalPrivacyPolicy": {
+      "message": "Zásadami ochrany soukromí"
+   },
+   "legalStatement": {
+      "message": "Abychom vám mohli nabídnout údržbu a ochranu v reálném čase a vylepšení naší služby, musíme na naše servery posílat informace o webových stránkách, které navštívíte. Kliknutím na volbu „Souhlasím“ souhlasíte s našimi"
+   },
+   "letCommunityKnow": {
+      "message": "Ať jste si z webu odnesli dobrý dojem, nebo k němu máte výhrady, dejte naší komunitě vědět."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "Podělte se s ostatními o svou zkušenost s tímhle webem"
+   },
+   "limitedTimeOffer": {
+      "message": "Časově omezená nabídka"
+   },
+   "lite": {
+      "message": "Nízká"
+   },
+   "liteText": {
+      "message": "Nebudeme vás obtěžovat – pouze v naléhavých případech"
+   },
+   "liveBlocking": {
+      "message": "Živé blokování"
+   },
+   "logOut": {
+      "message": "Odhlásit se"
+   },
+   "login": {
+      "message": "Přihlásit se"
+   },
+   "looksSafe": {
+      "message": "Vypadá to bezpečně"
+   },
+   "manage": {
+      "message": "Spravovat"
+   },
+   "manageProtection": {
+      "message": "Správa ochrany"
+   },
+   "manageSubscriptions": {
+      "message": "Spravovat předplatná"
+   },
+   "manageTrackers": {
+      "message": "správa trackerů"
+   },
+   "manualModeAgree": {
+      "message": "Kliknutím na „Zapnout“ výše souhlasíte s dokumentem"
+   },
+   "manualModeWarning": {
+      "message": "Je spuštěn manuální režim – proaktivní ochrana WOT je vypnutá a před nebezpečnými weby vás nebudeme schopni chránit"
+   },
+   "manualModeWarningStrip": {
+      "message": "Upozorňujeme vás, že prohlížíte v manuálním režimu a spousta funkcí nebude k dispozici"
+   },
+   "marketing": {
+      "message": "Marketing"
+   },
+   "maybeNextTime": {
+      "message": "Možná příště"
+   },
+   "messageSubmitted": {
+      "message": "Zpráva úspěšně odeslána."
+   },
+   "minute": {
+      "message": "minuta"
+   },
+   "minuteAgo": {
+      "message": "před minutou"
+   },
+   "minutes": {
+      "message": "minut"
+   },
+   "minutesAgo": {
+      "message": "před %1% minutami"
+   },
+   "missingReviews": {
+      "message": "Chybějící recenze"
+   },
+   "month": {
+      "message": "měsíc"
+   },
+   "monthAgo": {
+      "message": "před měsícem"
+   },
+   "monthsAgo": {
+      "message": "před %1% měsíci"
+   },
+   "moreInfo": {
+      "message": "Další informace"
+   },
+   "myDashboardNav": {
+      "message": "Můj řídicí panel"
+   },
+   "myProfile": {
+      "message": "Můj profil"
+   },
+   "newDataLeaksFound": {
+      "message": "Nalezeny nové úniky dat %1%"
+   },
+   "next": {
+      "message": "Další"
+   },
+   "no": {
+      "message": "Ne"
+   },
+   "noBreaches": {
+      "message": "Dobrá zpráva. Nebyl zjištěn žádný únik dat."
+   },
+   "noReviewsYet": {
+      "message": "Zatím žádné hodnocení"
+   },
+   "noThanks": {
+      "message": "Ne, děkuji"
+   },
+   "noTrackersBlocked": {
+      "message": "Zjištěných trackerů: %1%"
+   },
+   "noTrackersDetected": {
+      "message": "Žádné zjištěné trackery"
+   },
+   "none": {
+      "message": "Žádné"
+   },
+   "notSure": {
+      "message": "Nevím "
+   },
+   "off": {
+      "message": "Vypnuto"
+   },
+   "on": {
+      "message": "na"
+   },
+   "onBoarding4States": {
+      "message": "Existují 4 stavy:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "ať si před kliknutím na jakýkoli web zkontrolujete jeho reputaci."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "Najeďte kurzorem na ikonu štítu,"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "Přehled reputace"
+   },
+   "onBoardingReputationScore": {
+      "message": "Skóre reputace"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "Teď můžete bez obav bezpečně procházet web. Před kliknutím na neznámé webové stránky zkontrolujte ikonu štítu."
+   },
+   "onBoardingThisPopupShows": {
+      "message": "Tato místní nabídka zobrazuje skóre reputace daného webu. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "Podle WOT je tento web %SAFETY%."
+   },
+   "onBoardingYouCanClick": {
+      "message": "Kliknutím na „Číst recenze“ si přečtete další uživatelské recenze."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "Všechno je připraveno!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1 zablokovaný tracker"
+   },
+   "oneTrackerDetected": {
+      "message": "1 zjištěný tracker"
+   },
+   "optinAreYouSureMessage": {
+      "message": "Abychom vám poskytli živou ochranu o 360 stupňů webu, některé funkce WOT vyžadují přístup k anonymním informacím shromážděným z webových stránek, které navštívíte. Tyto informace nebudou sdíleny s třetími stranami ani použity pro marketingové účely. Své předvolby můžete kdykoli změnit na stránce nastavení."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT vás varuje při přijímání podvodů, phishing, podezřelých, malware a nevyžádané e-maily"
+   },
+   "optinGoBack": {
+      "message": "JÍT ZPĚT"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "Zapnout živou ochranu"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "Vylepšená ochrana"
+   },
+   "optinHeaderInstallation": {
+      "message": "Nainstalováno úspěšně"
+   },
+   "optinHeaderScanDevice": {
+      "message": "Skenování zařízení"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "Nastavení prohlížeče"
+   },
+   "optinMaybeLater": {
+      "message": "Možná později"
+   },
+   "optinProtectYourEmail": {
+      "message": "Chraňte svůj e-mail"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "Le logo qui s'affiche dans la barre d'outils du navigateur change en fonction de la réputation du site"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "Recherchez le logo WOT"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "WOT vous avertit lorsque vous accédez à un site ayant une mauvaise réputation"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "Recevez des alertes en temps réel"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "Regardez la couleur du logo WOT sur les pages des résultats du moteur de recherche pour savoir sur quels sites vous pouvez cliquer en toute sécurité"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "Marquez les résultats de la recherche"
+   },
+   "optinReputationIconsText": {
+      "message": "Bezpečnostní donuty WOT vedle webových odkazů vám pomůžou s informovaným rozhodováním."
+   },
+   "optinSafetyScoreText": {
+      "message": "Pomocí výsledkových karet si můžete kontrolovat reputaci a recenze jednotlivých webů."
+   },
+   "optinSubtitle": {
+      "message": "Abychom vás ochránili v reálném čase, potřebujeme přístup k adres URL, které procházíte"
+   },
+   "optinTitle": {
+      "message": "Povolit ochranu prohlížeče"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "Zablokujte si weby, které můžou obsahovat škodlivý kód nebo mít špatnou reputaci."
+   },
+   "optinWelcomeSubtitle": {
+      "message": "Právě jste se připojili {millionMembers}, chránit se navzájem pomocí WOT"
+   },
+   "other": {
+      "message": "Ostatní"
+   },
+   "outOfHere": {
+      "message": "Pryč odsud"
+   },
+   "ownThisSite": {
+      "message": "Jste vlastníkem tohoto webu?"
+   },
+   "parentalControl": {
+      "message": "Rodičovská kontrola"
+   },
+   "parentalControlOFF": {
+      "message": "Weby s nevhodným obsahem pro děti nebudou blokovány"
+   },
+   "parentalControlON": {
+      "message": "Weby s nevhodným obsahem pro děti budou zablokovány"
+   },
+   "performance": {
+      "message": "Výkonnost"
+   },
+   "pinWot": {
+      "message": "Připnout WOT"
+   },
+   "pinWotPopup": {
+      "message": "Připněte si $WOT$, ať vidíte aktuální stav zabezpečení webu",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "Udělejte si chvilku, abyste nás ohodnotili"
+   },
+   "policy": {
+      "message": "Zobrazit zásady ochrany osobních údajů"
+   },
+   "poorCustomerService": {
+      "message": "Špatné zákaznické služby"
+   },
+   "poorOnly": {
+      "message": "Jen nízké hodnocení"
+   },
+   "poorRating": {
+      "message": "Tento web je podezřelý."
+   },
+   "popupAdultStrip": {
+      "message": "Může obsahovat obsah pouze pro dospělé"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "V této části můžete zkontrolovat, zda je web, který právě navštěvujete, bezpečný nebo ne."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "Kliknutím na odkaz si přečtete recenze."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "Vítejte ve svém novém WOT!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "Tato část ukazuje, kolik služeb sleduje vaše online návyky."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "Kliknutím na odkaz upravíte blokování trackerů."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "Digitální sledovače"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "Kliknutím sem otevřete nastavení účtu a spravujete svou ochranu."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "Správa mé ochrany"
+   },
+   "postReview": {
+      "message": "Zveřejnit recenzi"
+   },
+   "potentiallyMalicious": {
+      "message": "Tento web je potenciálně škodlivý."
+   },
+   "preCheck": {
+      "message": "PŘEDBĚŽNÁ KONTROLA"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "premiumFeature": {
+      "message": "Prémiová funkce"
+   },
+   "premiumSecurity": {
+      "message": "Prémiové zabezpečení"
+   },
+   "premiumText": {
+      "message": "Kompletní online zabezpečení, které potřebujete k ochraně před nejškodlivějšími weby a odkazy"
+   },
+   "presettings": {
+      "message": "Přednastavení"
+   },
+   "protectPrivacy": {
+      "message": "Ochrana identity a soukromí "
+   },
+   "protectYourPrivacy": {
+      "message": "Blokování automaticky otevíraných oken"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "Blokuje vyskakovací okna pro přehlednější, rychlejší a bezpečnější prohlížení."
+   },
+   "protectYourself": {
+      "message": "Zobrazit upozornění na úniky dat"
+   },
+   "protectedForXDays": {
+      "message": "Chráněné %1% dny"
+   },
+   "protection": {
+      "message": "ochrana"
+   },
+   "rateOnStore": {
+      "message": "Ohodnoťte nás v %BROWSER% obchodě"
+   },
+   "rateOverall": {
+      "message": "Ohodnoťte svou celkovou *zkušenost* s webem %DOMAIN%"
+   },
+   "rateThisSite": {
+      "message": "Ohodnotit tento web"
+   },
+   "rateUs": {
+      "message": "Ohodnoťte nás"
+   },
+   "rateYourExperience": {
+      "message": "Ohodnoťte svou celkovou zkušenost s webem"
+   },
+   "readMoreReviews": {
+      "message": "Více recenzí (%1%)"
+   },
+   "readReviews": {
+      "message": "Přečtěte si recenze"
+   },
+   "realTimeCheckups": {
+      "message": "Kontroly v reálném čase"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "Nepřetržitá ochrana před phishingem, malwarem a dalšími hrozbami."
+   },
+   "realtimePhishingAlerts": {
+      "message": "Upozorňování na phishing v reálném čase"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "Dejte nám vědět o nedůvěryhodných nebo podvodných webech, na kterých ostatním hrozí riziko"
+   },
+   "reputation": {
+      "message": "Reputace"
+   },
+   "reputationIcons": {
+      "message": "Ikony reputace"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT zobrazí úroveň bezpečnosti webových stránek, které právě navštěvujete"
+   },
+   "restorePurchases": {
+      "message": "Ponechat mé nákupy"
+   },
+   "resultFor": {
+      "message": "Výsledky pro"
+   },
+   "reviewAddedErrorText": {
+      "message": "Došlo k chybě, zkuste to znovu."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "Recenzi se nepodařilo zveřejnit"
+   },
+   "reviewAddedOKText": {
+      "message": "Děkujeme, že pomáháte dělat z internetu bezpečnější místo."
+   },
+   "reviewAddedOKTitle": {
+      "message": "Recenze úspěšně zveřejněna"
+   },
+   "reviews": {
+      "message": " Hodnocení"
+   },
+   "rtOFF": {
+      "message": "Nyní je spuštěn ruční režim – proaktivní ochrana WOT je neaktivní"
+   },
+   "rtON": {
+      "message": "Nyní jste proaktivně chráněni úplným pokrytím WOT."
+   },
+   "rtProtection": {
+      "message": "Ochrana v reálném čase"
+   },
+   "rtProtectionRecommended": {
+      "message": "Ochrana v reálném čase (doporučeno)"
+   },
+   "safeBrowsing": {
+      "message": "Bezpečné prohlížení"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT vás udržuje ostražitý online skenováním každého webu, stránky a služby, které navštívíte s upozorněními v reálném čase."
+   },
+   "safeSearch": {
+      "message": "Bezpečné vyhledávání"
+   },
+   "safeSearchSubtitle": {
+      "message": "Vedle výsledků vyhledávání se zobrazí ikony, abyste věděli, zda je web bezpečný nebo ne, než kliknete."
+   },
+   "safeShopping": {
+      "message": "Bezpečné nakupování"
+   },
+   "safeShoppingSite": {
+      "message": "Na tomhle webu je bezpečné nakupovat"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "Podle algoritmu WOT, strojového učení a recenzí uživatelů je bezpečné na tomhle webu nakupovat"
+   },
+   "safetyScore": {
+      "message": "Bezpečnostní skóre"
+   },
+   "safetyScoreSubtitle": {
+      "message": "Pomocí výsledkových karet můžete zkontrolovat reputaci a recenze webových stránek a sdílet své vlastní zkušenosti"
+   },
+   "scannedOn": {
+      "message": "zjištěno na"
+   },
+   "scoreCard": {
+      "message": "Skóre"
+   },
+   "searchEnginePageResults": {
+      "message": "Stránka s výsledky vyhledávače"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "Provádějte informovaná rozhodnutí online pomocí bezpečnostního indikátoru WOT vedle odkazů na webové stránky"
+   },
+   "searchIndicator": {
+      "message": "Indikátor vyhledávání"
+   },
+   "searchManualModeButton": {
+      "message": "Zapnout hodnocení ve vyhledávačích"
+   },
+   "searchManualModeHeader": {
+      "message": "Přicházíte o informace ze služby WOT"
+   },
+   "searchManualModeText": {
+      "message": "Ochrana WOT pro vyhledávače je vypnutá. Nebudeme vám moct zobrazovat hodnocení webové stránky vedle odkazu."
+   },
+   "security": {
+      "message": "Zabezpečení"
+   },
+   "securityBreaches": {
+      "message": "bezpečnostním hrozbám."
+   },
+   "securityRiskDetected": {
+      "message": "Zjištěná bezpečnostní rizika"
+   },
+   "securityScore": {
+      "message": "Bezpečnostní skóre"
+   },
+   "securitySystem": {
+      "message": "Bezpečnostní systém"
+   },
+   "securityWarning": {
+      "message": "Bezpečnostní varování"
+   },
+   "seeLess": {
+      "message": "Zobrazit méně"
+   },
+   "seeMore": {
+      "message": "Zobrazit více"
+   },
+   "sendFeedback": {
+      "message": "Poslat zpětnou vazbu"
+   },
+   "serpMailWarning": {
+      "message": "WOT považuje tento e-mail za podezřelý, protože může obsahovat nebezpečné odkazy nebo sledovací adresy URL"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "Upgradovat a zapnout ochranu e-mailu"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "Připomenout později"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "96 % online podvodů přichází e-mailem. Neváhejte a zajistěte si ochranu hned teď."
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "Váš e-mail je v ohrožení!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT zjišťuje online hrozby a sledování a zabraňuje jim, takže máte jistotu, že vaše osobní informace jsou v bezpečí."
+   },
+   "servicesTrackingYou": {
+      "message": "Služby sledují vaši aktivitu"
+   },
+   "settings": {
+      "message": "Nastavení"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "ODEMKNOUT PRÉMIOVÉ FUNKCE"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "Zajistěte si lepší ochranu"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "Všude a kdykoli."
+   },
+   "settingsBannerTitle": {
+      "message": "Bezpečnější prohlížení webu."
+   },
+   "setup": {
+      "message": "Nastavení"
+   },
+   "severeOnly": {
+      "message": "Jen závažné"
+   },
+   "share": {
+      "message": "Sdílet"
+   },
+   "shareExperience": {
+      "message": "Podělte se o zkušenost se stránkou %1%, ať pomůžete ostatním"
+   },
+   "shareFeedback": {
+      "message": "Sdílejte svůj názor na"
+   },
+   "shareText1": {
+      "message": "Právě jsem pomohl(a) zlepšit prostředí na webu tím, že jsem ohodnotil(a) web %WEBSITE% na Web of Trust! Nesouhlasíte? Zde můžete web ohodnotit sami: %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "Už vím, jak bezpečně procházet internet a vyhnout se nebezpečným webům. Vyzkoušejte rozšíření Web of Trust: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Právě jsem pomohl(a) zlepšit prostředí na webu tím, že jsem dal(a) webu %WEBSITE% %STARS% z 5 na Web of Trust! Nesouhlasíte? Zde můžete web ohodnotit sami: %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": " Používám @Web_of_Trust k bezpečnému procházení internetu, takže se vyhnu nebezpečným webům. Vyzkoušejte toto rozšíření sami: %LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextGoogleRate": {
+      "message": "Právě jsem pomohl(a) zlepšit prostředí na webu tím, že jsem dal(a) webu %WEBSITE% %STARS% z 5 na Web of Trust! Nesouhlasíte? Zde můžete web ohodnotit sami: %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": " Používám @Web_of_Trust k bezpečnému procházení internetu, takže se vyhnu nebezpečným webům. Vyzkoušejte toto rozšíření sami: %LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextTwitterRate": {
+      "message": "Právě jsem dal(a) webu %WEBSITE% %STARS% z 5 na WOT! Nesouhlasíte? Zde můžete web ohodnotit sami: %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "Už vím, jak bezpečně procházet internet a vyhnout se nebezpečným webům. Vyzkoušejte rozšíření Web of Trust: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Právě jsem pomohl(a) zlepšit prostředí na webu tím, že jsem dal(a) webu %WEBSITE% %STARS% z 5 na Web of Trust! Nesouhlasíte? Zde můžete web ohodnotit sami: %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "Sdílet WOT s přáteli"
+   },
+   "shareWotRating": {
+      "message": "Sdílet hodnocení webu %DOMAIN% s přáteli"
+   },
+   "shopWithConfidence": {
+      "message": "Nakupujte s důvěrou"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "Podívejte se na recenze kupujících v jakémkoli internetovém obchodě a chraňte se před phishingem a falešnými podvody elektronického"
+   },
+   "signIn": {
+      "message": "Přihlásit se"
+   },
+   "signInNow": {
+      "message": "Přihlásit se"
+   },
+   "signInToRate": {
+      "message": "Přihlaste se, abyste mohli tento web ohodnotit a napsat na něj recenzi"
+   },
+   "siteIsSafe": {
+      "message": "Myslíte, že je tento web *bezpečný*?"
+   },
+   "siteIsSafeChildren": {
+      "message": "Je tento web *bezpečný pro děti?*"
+   },
+   "skip": {
+      "message": "Přeskočit"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "Pokročilá ochrana proti phishingu vytvořená pro detekci hrozeb a zabránění podvodům."
+   },
+   "social": {
+      "message": "Sociální sítě"
+   },
+   "someTrackersBlocked": {
+      "message": "Zablokovaných trackerů: %1% z %2%"
+   },
+   "specialOfferBillingDetails": {
+      "message": "Účtováno jako jedna platba"
+   },
+   "specialOfferFeatures": {
+      "message": "Ochrana e-mailů, blokování obsahu pro dospělé, neomezené blokování trackerů a další."
+   },
+   "startFreeTrial": {
+      "message": "Spustit bezplatnou zkušební verzi"
+   },
+   "startProtection": {
+      "message": "Spustit ochranu"
+   },
+   "startYourFreeTrial": {
+      "message": "Zahájit bezplatné zkušební období"
+   },
+   "suspiciousByWOT": {
+      "message": "Služba WOT označila tento web jako podezřelý"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "Podezřelý web podle WOT"
+   },
+   "suspiciousSite": {
+      "message": "Podezřelý web"
+   },
+   "switchToClassic": {
+      "message": "Přepnout na Classic WOT"
+   },
+   "systemPageAction": {
+      "message": "Rozumím"
+   },
+   "systemPageContent": {
+      "message": "Pokoušíte se spustit WOT na nepodporované stránce, třeba na systémové stránce prohlížeče, místním hostiteli nebo stránce rozšíření."
+   },
+   "systemPageTitle": {
+      "message": "Systémová stránka"
+   },
+   "takeAction": {
+      "message": "Podniknout akci"
+   },
+   "tellUsMore": {
+      "message": "Řekni nám víc..."
+   },
+   "tellYourFriends": {
+      "message": "Rozšiřte komunitu tím, že řeknete svým přátelům o WOT!"
+   },
+   "termsOfUse": {
+      "message": "Podmínky použití"
+   },
+   "thankYou": {
+      "message": "Děkuji vám!"
+   },
+   "thankYouForInstalling": {
+      "message": "Teď si zvolte svůj ochranný štít, ať jste plně chráněni"
+   },
+   "thanksGotIt": {
+      "message": "Díky, je mi to jasné!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "Tento e-mail se objevil v některých známých únicích dat (celkem %1%)"
+   },
+   "thisPopupShows": {
+      "message": "Tato místní nabídka zobrazuje skóre reputace daného webu. "
+   },
+   "threatsFound": {
+      "message": "Zjištěné hrozby"
+   },
+   "timerManualModeButton": {
+      "message": "Zapnout ochranu v reálném čase"
+   },
+   "timerManualModeHeader": {
+      "message": "Prohlížíte v manuálním režimu."
+   },
+   "timerManualModeText": {
+      "message": "Proaktivní ochrana WOT je vypnutá. Nebudeme vás moct chránit před nebezpečnými webovými stránkami."
+   },
+   "toggleTooltipMessage": {
+      "message": "zapne tuto funkci"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "UPGRADOVAT"
+   },
+   "tooComplicated": {
+      "message": "Příliš komplikované"
+   },
+   "tooltipChildSafe": {
+      "message": "Není na tomto webu nevhodný obsah (např. nahota, šokující nebo odpudivý obsah apod.)"
+   },
+   "tooltipSafe": {
+      "message": "Neobsahuje tento web nějaké hrozby (např. malware, viry, útoky phishing apod.)"
+   },
+   "tour": {
+      "message": "Prohlídka"
+   },
+   "trackerBlocked": {
+      "message": "Blokováno"
+   },
+   "trackerBlocker": {
+      "message": "Ochrana před sledováním"
+   },
+   "trackerBlockerDescription": {
+      "message": "Automaticky blokuje všechny trackery na všech navštívených webech."
+   },
+   "trackerCounterAction": {
+      "message": "Odemknout blokování více trackerů"
+   },
+   "trackerCounterText": {
+      "message": "V rámci základní ochrany zbývá: %1%/3 trackerů"
+   },
+   "trackerSomeBlocked": {
+      "message": "%1% blokace (z %2%)"
+   },
+   "trackerUnblocked": {
+      "message": "Neblokováno"
+   },
+   "trackersBlockAll": {
+      "message": "Automaticky blokovat všechny trackery"
+   },
+   "trackersBlocked": {
+      "message": "Trackery blokovány"
+   },
+   "trackersDetected": {
+      "message": "byly zjištěny trackery"
+   },
+   "trackingProtection": {
+      "message": "Ochrana před sledováním"
+   },
+   "trustIssues": {
+      "message": "U tohoto webu se vyskytly problémy s důvěryhodností. Postupujte opatrně."
+   },
+   "trusted": {
+      "message": "důvěryhodný"
+   },
+   "trustedByWOT": {
+      "message": "Web, kterému WOT důvěřuje"
+   },
+   "trustedByWOTPopup": {
+      "message": "Důvěryhodný web podle WOT"
+   },
+   "trustedSite": {
+      "message": "Důvěryhodný web"
+   },
+   "trustedSource": {
+      "message": "Důvěryhodný zdroj"
+   },
+   "tryAgain": {
+      "message": "Zkuste to znovu"
+   },
+   "turnOffProtection": {
+      "message": "Vypnout ochranu"
+   },
+   "twoMillionMembers": {
+      "message": "2+ milion členů"
+   },
+   "unknownByWOT": {
+      "message": "Nedostatek informací"
+   },
+   "unknownByWOTPopup": {
+      "message": "Neznámý web podle WOT"
+   },
+   "unknownSite": {
+      "message": "Neznámý web"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "Neomezené blokování trackerů je k dispozici pouze pro prémiové uživatele"
+   },
+   "unlock": {
+      "message": "ODEMKNOUT"
+   },
+   "unlockPremium": {
+      "message": "Odemknout Premium"
+   },
+   "untrusted": {
+      "message": "nedůvěryhodný"
+   },
+   "untrustedByWOT": {
+      "message": "Služba WOT považuje tento web za nedůvěryhodný"
+   },
+   "untrustedByWOTPopup": {
+      "message": "Nedůvěryhodný web podle WOT"
+   },
+   "untrustedSite": {
+      "message": "Nedůvěryhodný web"
+   },
+   "upgrade": {
+      "message": "UPGRADE"
+   },
+   "upgradeNow": {
+      "message": "UPGRADOVAT"
+   },
+   "viewAll": {
+      "message": "Zobrazit vše"
+   },
+   "viewFullReport": {
+      "message": "Zobrazit úplnou zprávu"
+   },
+   "viewFullScorecard": {
+      "message": "Zobrazit úplnou kartu hodnocení"
+   },
+   "wantToDelete": {
+      "message": "Opravdu chcete své hodnocení odstranit?"
+   },
+   "wantToRateWOT": {
+      "message": "Udělejte si chvilku a ohodnoťte nás v %BROWSER% Storu"
+   },
+   "wantToRateWOTBtn": {
+      "message": "Ohodnotit WOT"
+   },
+   "wantToRateWOTHeader": {
+      "message": "Líbí se vám WOT?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "Chcete odemknout všechny funkce WOT Premium?"
+   },
+   "warning": {
+      "message": "Varování!"
+   },
+   "warningAlerts": {
+      "message": "Výstražné výstrahy"
+   },
+   "warningAlertsSubtitle": {
+      "message": "Zobrazit varování pro podezřelé navštívené weby"
+   },
+   "warnings": {
+      "message": "Varování"
+   },
+   "weAppreciate": {
+      "message": "Vážíme si vašeho času a děkujeme, že jste nám pomohli zlepšit WOT"
+   },
+   "websiteBlocking": {
+      "message": "Blokování webů"
+   },
+   "weekAgo": {
+      "message": "před týdnem"
+   },
+   "weeksAgo": {
+      "message": "před %1% týdny"
+   },
+   "welcome": {
+      "message": "Vítejte"
+   },
+   "welcomeToWot": {
+      "message": "Vítejte na WOT"
+   },
+   "whatCanIDo": {
+      "message": "Co s tím mohu dělat?"
+   },
+   "whatCouldWeDo": {
+      "message": "Co bychom mohli udělat lépe?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "Nedůvěryhodné aktivity zahrnují chování, které se obvykle spojuje s podvody, phishingem, malwarem, nechtěným softwarem a dalšími škodlivými, riskantními a nebezpečnými aktivitami."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "Co je *nedůvěryhodný* web?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "Možné podezřelé aktivity zahrnují chování, které se obvykle spojuje s podvody, cryptojackingem, nabouráním prohlížeče a dalšími škodlivými, riskantními a nebezpečnými aktivitami."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "Co je *podezřelý* web?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "Aktuálně nemáme dost informací, abychom mohli tento web ohodnotit. Doporučujeme nezadávat na něj svoje osobní informace, například rodné číslo, číslo bankovního účtu nebo údaje o platebních kartách."
+   },
+   "whatIsUnknownTitle": {
+      "message": "Co je *neznámý* web?"
+   },
+   "whatsNewWOT": {
+      "message": "Nové monitorování úniků dat"
+   },
+   "whatsNewWOTContent": {
+      "message": "Díky této nové výkonné funkci se nyní můžete ujistit, že vaše osobní údaje a hesla nejsou ohroženy nebo jsou vystaveny bezpečnostním hrozbám."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "Podíváme se na to."
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "Další informace"
+   },
+   "whitelist": {
+      "message": "Seznam povolených"
+   },
+   "whitelistTitle": {
+      "message": "Na těchto webech nezobrazovat varování"
+   },
+   "whyIsntSafe": {
+      "message": "Proč není web %DOMAIN% *bezpečný*?"
+   },
+   "whyIsntSafeChildren": {
+      "message": "Proč není web %DOMAIN% *bezpečný pro děti?*"
+   },
+   "wotAssistant": {
+      "message": "Asistent WOT"
+   },
+   "wotAssistantOFF": {
+      "message": "Nezobrazovat dobrou pověst webu v rohu prohlížeče"
+   },
+   "wotAssistantON": {
+      "message": "Zobrazovat dobrou pověst webu v rohu prohlížeče"
+   },
+   "wotCommunity": {
+      "message": "Komunita WOT"
+   },
+   "wotDetected": {
+      "message": "WOT zjistil potenciální bezpečnostní hrozbu a zablokoval doménu $DOMAIN$. Tato stránka je potenciálně nebezpečná a může obsahovat podvodnou činnost.",
+      "placeholders": {
+         "domain": {
+            "content": "1 $",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "WOT blokuje $DOMAIN$ kvůli možnému zobrazení obsahu pro dospělé.",
+      "placeholders": {
+         "domain": {
+            "content": "1 $",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT je nainstalovaný"
+   },
+   "writeAtLeast15": {
+      "message": "Pokud chcete pomoct ostatním, napište aspoň 15 znaků"
+   },
+   "writeFirstReview": {
+      "message": "Buďte první, kdo napíše recenzi"
+   },
+   "writeReview": {
+      "message": "Napsat recenzi"
+   },
+   "yearAgo": {
+      "message": "před %1% rokem"
+   },
+   "yearsAgo": {
+      "message": "před %1% lety"
+   },
+   "yes": {
+      "message": "Ano"
+   },
+   "youCanAlsoEdit": {
+      "message": "Svou aktuální recenzi a hodnocení můžete taky upravit"
+   },
+   "youCanAlwaysChange": {
+      "message": "(své předvolby můžete kdykoli změnit)"
+   },
+   "youCanCheckAnyLink": {
+      "message": "S plnou ochranou WOT můžete jakýkoli odkaz před návštěvou zkontrolovat a využívat i další funkce."
+   },
+   "yourRating": {
+      "message": "Vaše hodnocení"
+   },
+   "yourSubscription": {
+      "message": "Vaše předplatné"
+   }
+}

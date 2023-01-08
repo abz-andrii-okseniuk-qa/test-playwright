@@ -1,0 +1,1 @@
+let lastState;const initStore=e=>{var t;const a=[alias(aliases),ReduxThunk.default];IS_DEV&&a.push(reduxLogger.logger);const r=Redux.createStore(reducers,e,Redux.compose((t=Redux).applyMiddleware.apply(t,a)));return wrapStore(r,{portName:"4873"}),lastState=r.getState(),r};initStore;

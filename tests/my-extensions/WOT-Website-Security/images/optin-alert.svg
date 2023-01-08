@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+    <defs>
+        <linearGradient id="dcysijw2we" x1="50%" x2="50%" y1="0%" y2="99.105%">
+            <stop offset="0%" stop-color="#262626" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#262626"/>
+        </linearGradient>
+        <filter id="wusy0uor4c" width="112.2%" height="106.6%" x="-6.1%" y="-2.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.439215686 0 0 0 0 0.439215686 0 0 0 0 0.439215686 0 0 0 0.16 0"/>
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0.239215686 0 0 0 0 0.239215686 0 0 0 0 0.239215686 0 0 0 0.04 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+            </feMerge>
+        </filter>
+        <circle id="yp98maxoaa" cx="48" cy="48" r="48"/>
+        <rect id="x638q13m3d" width="57.6" height="105.6" x="0" y="0" rx="4.8"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-1008 -321) translate(256 321) translate(672) translate(80)">
+                        <mask id="g2a6n7ty5b" fill="#fff">
+                            <use xlink:href="#yp98maxoaa"/>
+                        </mask>
+                        <use fill="#FAFAFA" xlink:href="#yp98maxoaa"/>
+                        <g mask="url(#g2a6n7ty5b)">
+                            <g>
+                                <g fill-rule="nonzero" transform="translate(19.2 14.4)">
+                                    <use fill="#000" filter="url(#wusy0uor4c)" xlink:href="#x638q13m3d"/>
+                                    <use fill="#FFF" xlink:href="#x638q13m3d"/>
+                                </g>
+                                <path fill="#EAEAEA" d="M7.2 79.2H50.400000000000006V86.4H7.2z" transform="translate(19.2 14.4)"/>
+                                <path fill="#F94338" d="M7.2 55.2H50.400000000000006V62.400000000000006H7.2z" transform="translate(19.2 14.4)"/>
+                                <path fill="#EAEAEA" d="M7.2 67.2H50.400000000000006V74.4H7.2z" transform="translate(19.2 14.4)"/>
+                                <g>
+                                    <g fill="#F94338" transform="translate(19.2 14.4) translate(14.4 14.4)">
+                                        <circle cx="14.4" cy="14.4" r="14.4"/>
+                                    </g>
+                                    <g>
+                                        <path d="M0 0H14.4V14.4H0z" transform="translate(19.2 14.4) translate(14.4 14.4) translate(7.2 7.2)"/>
+                                        <path fill="#FFF" d="M6.908 10.2c.888 0 1.475.627 1.492 1.5 0 .858-.587 1.5-1.492 1.5-.904 0-1.508-.643-1.508-1.5 0-.873.62-1.5 1.508-1.5zm1.492-9L7.985 9h-2.15L5.4 1.2h3z" transform="translate(19.2 14.4) translate(14.4 14.4) translate(7.2 7.2)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <circle cx="48" cy="48" r="48" fill="url(#dcysijw2we)" mask="url(#g2a6n7ty5b)" opacity=".15"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

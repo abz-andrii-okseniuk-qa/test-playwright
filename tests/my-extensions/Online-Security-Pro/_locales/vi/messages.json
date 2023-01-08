@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "Độc hại"
+   },
+   "Malware": {
+      "message": "Phần mềm độc hại"
+   },
+   "Phishing": {
+      "message": "Lừa đảo"
+   },
+   "Suspicious": {
+      "message": "Nghi ngờ"
+   },
+   "alert_back": {
+      "message": "Trở về an toàn"
+   },
+   "alert_continue": {
+      "message": "Vẫn tiếp tục"
+   },
+   "alert_description": {
+      "message": "Trang web này đã bị chặn tạm thời vì lý do sau:"
+   },
+   "alert_false": {
+      "message": "Báo cáo sai tích cực"
+   },
+   "alert_notrecommended": {
+      "message": "(Không được khuyến khích)"
+   },
+   "alert_recommended": {
+      "message": "(Khuyến nghị)"
+   },
+   "alert_safe": {
+      "message": "(Nếu bạn nghĩ rằng trang web là an toàn)"
+   },
+   "alert_text": {
+      "message": "Trang web này chứa các liên kết đến vi-rút hoặc các chương trình phần mềm khác có thể tiết lộ thông tin cá nhân được lưu trữ hoặc nhập trên máy tính của bạn cho những người độc hại."
+   },
+   "alert_warning": {
+      "message": "Cảnh báo: Trang web không an toàn bị chặn!"
+   },
+   "ext_description": {
+      "message": "Bảo mật trực tuyến chống lại các trang web độc hại, lừa đảo và độc hại."
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "Mới! Bảo vệ điện thoại của bạn với Comodo. Nó miễn phí cho \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> và \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>. Lấy nó ngay!"
+   },
+   "lang_id": {
+      "message": "1066"
+   },
+   "lang_name": {
+      "message": "Tiếng Việt"
+   },
+   "options_blocked": {
+      "message": "Bị chặn"
+   },
+   "options_close": {
+      "message": "Gần"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Nhập văn bản"
+   },
+   "options_exclusions_removeall": {
+      "message": "Xóa tất cả"
+   },
+   "options_exclusions_removeselected": {
+      "message": "Bỏ đã chọn"
+   },
+   "options_exclusions_search": {
+      "message": "Tìm kiếm"
+   },
+   "options_exclusions_showingpage": {
+      "message": "trang hiển thị"
+   },
+   "options_exclusions_time": {
+      "message": "Ngày và giờ phát hiện"
+   },
+   "options_exclusions_type": {
+      "message": "Loại đe dọa"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Tuỳ chọn Online Security Pro"
+   },
+   "options_ignored": {
+      "message": "Mặc kệ"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Loại trừ"
+   },
+   "options_tab_title_url": {
+      "message": "Nhật ký lọc trang web"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Loại trừ"
+   },
+   "options_title_url": {
+      "message": "Nhật ký lọc trang web"
+   },
+   "options_url_action": {
+      "message": "Hành động"
+   },
+   "options_url_placeholder": {
+      "message": "Nhập văn bản"
+   },
+   "options_url_removeall": {
+      "message": "Xóa tất cả"
+   },
+   "options_url_removeselected": {
+      "message": "Bỏ đã chọn"
+   },
+   "options_url_search": {
+      "message": "Tìm kiếm"
+   },
+   "options_url_showingpage": {
+      "message": "trang hiển thị"
+   },
+   "options_url_time": {
+      "message": "Ngày và giờ phát hiện"
+   },
+   "options_url_type": {
+      "message": "Loại đe dọa"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "TRONG KHOẢNG"
+   },
+   "popup_click": {
+      "message": "Bấm vào đây"
+   },
+   "popup_exclusions": {
+      "message": "Chỉnh sửa danh sách loại trừ"
+   },
+   "popup_feedback": {
+      "message": "Phản hồi"
+   },
+   "popup_help": {
+      "message": "Cứu giúp"
+   },
+   "popup_history": {
+      "message": "Kiểm tra lịch sử"
+   },
+   "popup_license": {
+      "message": "Giấy phép"
+   },
+   "popup_notes": {
+      "message": "Ghi chú phát hành"
+   },
+   "popup_notifications": {
+      "message": "THÔNG BÁO"
+   },
+   "popup_page": {
+      "message": "Trang sản phẩm"
+   },
+   "popup_policy": {
+      "message": "Chính sách bảo mật"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Đánh giá phần mở rộng này"
+   },
+   "popup_report": {
+      "message": "Báo cáo trang này"
+   },
+   "popup_settings": {
+      "message": "CÀI ĐẶT"
+   },
+   "popup_version": {
+      "message": "Phiên bản"
+   },
+   "popup_warn": {
+      "message": "Chúng tôi đã bắt được %d liên kết độc hại kể từ khi bạn tắt Online Security Pro"
+   }
+}

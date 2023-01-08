@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "Значок 18+"
+   },
+   "18IconOFF": {
+      "message": "Не показывать значки контента для взрослых рядом с пончиками"
+   },
+   "18IconON": {
+      "message": "Показывать значки контента для взрослых рядом с пончиками"
+   },
+   "Add": {
+      "message": "Добавить"
+   },
+   "AdultC": {
+      "message": "Материалы для взрослых"
+   },
+   "AllowAlways": {
+      "message": "Разрешать всегда"
+   },
+   "AllowOnce": {
+      "message": "Разрешить одноразовый показ всплывающего окна"
+   },
+   "AlternativeMedicine": {
+      "message": "Альтернативная медицина"
+   },
+   "BadReviewWarningText": {
+      "message": "Вы присвоили этому сайту низкий рейтинг. Будьте осторожны."
+   },
+   "BlocksPopup": {
+      "message": "Блокирует всплывающие окна"
+   },
+   "BlocksPopupText": {
+      "message": "Блокирует всплывающие окна и потенциально нежелательные программы"
+   },
+   "Carefulx": {
+      "message": "Осторожно!"
+   },
+   "DoNotShowAgain": {
+      "message": "Не показывать на этом сайте"
+   },
+   "Error0": {
+      "message": "Неизвестная ошибка"
+   },
+   "Error400": {
+      "message": "E-mail недействителен"
+   },
+   "Error4001": {
+      "message": "Требуется авторизация"
+   },
+   "Error4002": {
+      "message": "Неверные логин или пароль"
+   },
+   "Error4003": {
+      "message": "Пропущены обязательные поля"
+   },
+   "Error4004": {
+      "message": "Пользователь завблокирован"
+   },
+   "Error4005": {
+      "message": "Сессия истекла. Пожалуйста, войдите заново."
+   },
+   "Error4006": {
+      "message": "Сессия истекла. Пожалуйста, войдите заново."
+   },
+   "Error4007": {
+      "message": "Войти не удалось, попробуйте позже"
+   },
+   "Error4008": {
+      "message": "Войти не удалось, попробуйте позже"
+   },
+   "Error4009": {
+      "message": "Пользователь уже зарегистрирован"
+   },
+   "Error401": {
+      "message": "Запрещено"
+   },
+   "Error4010": {
+      "message": "Пользователь уже существует"
+   },
+   "Error4101": {
+      "message": "Ссылка восстановления пароля недействительна"
+   },
+   "Error4102": {
+      "message": "Ссылка восстановления пароля истекла"
+   },
+   "ExperienceFullPower": {
+      "message": "Воспользуйтесь всем потенциалом WOT"
+   },
+   "FAQ": {
+      "message": "Распространенные вопросы"
+   },
+   "Forgot": {
+      "message": "Забыли пароль?"
+   },
+   "ForgotBelow": {
+      "message": "Запрос нового пароля"
+   },
+   "Gambling": {
+      "message": "Азартные игры"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "Ваше мнение …"
+   },
+   "GoBack": {
+      "message": "← Назад"
+   },
+   "GoToSetting": {
+      "message": "Перейти к настройкам"
+   },
+   "GoodSite": {
+      "message": "Хороший сайт"
+   },
+   "GruesomeShocking": {
+      "message": "Шокирующий контент"
+   },
+   "HateDiscrimination": {
+      "message": "Разжигание ненависти, дискриминация"
+   },
+   "HowCanWeImprove": {
+      "message": "Как мы можем стать лучше?"
+   },
+   "IHaveAccount": {
+      "message": "У меня есть аккаунт. "
+   },
+   "IHaveNotAccount": {
+      "message": "У меня нет аккаунта. "
+   },
+   "Illegal": {
+      "message": "Потенциально незаконное"
+   },
+   "IncidentalNudity": {
+      "message": "Случайное обнажение"
+   },
+   "LogInBelow": {
+      "message": "Войдите ниже"
+   },
+   "LogInFacebook": {
+      "message": "Вход с помощью Facebook"
+   },
+   "LogInGoogle": {
+      "message": "Вход с помощью Google+"
+   },
+   "LogInPasswordInput": {
+      "message": "пароль"
+   },
+   "LogInTwitter": {
+      "message": "Вход с помощью Twitter"
+   },
+   "LogInUsernameInput": {
+      "message": "имя пользователя или e-mail"
+   },
+   "MalwareViruses": {
+      "message": "Вредоносное ПО"
+   },
+   "MisleadingUnethical": {
+      "message": "Некорректный или неэтичный контент"
+   },
+   "NOT_SAFE": {
+      "message": "ОПАСНО!"
+   },
+   "NewPassword": {
+      "message": "Отправьте мне новый пароль по электронной почте"
+   },
+   "NotAppropriate": {
+      "message": "Не подходит для детей"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "Мнения, религия, политика"
+   },
+   "Phishing": {
+      "message": "Фишинг"
+   },
+   "PoorExperience": {
+      "message": "Плохое качество обслуживания"
+   },
+   "PopupNotification": {
+      "message": "Отображать уведомление"
+   },
+   "PopupNotificationText": {
+      "message": "Показывать уведомление на странице при блокировке всплывающего окна"
+   },
+   "PrivacyRisks": {
+      "message": "Риск для конфиденциальности"
+   },
+   "ProtectionsFeatures": {
+      "message": "Обеспечьте свою безопасность, воспользовавшись помощником WOT"
+   },
+   "ProtectionsFeatures2": {
+      "message": "Проверка ссылок перед их открытием"
+   },
+   "Pts": {
+      "message": "(%POINTS% очк.)"
+   },
+   "RateThisWebsite": {
+      "message": "Оценить сайт"
+   },
+   "RememberMe": {
+      "message": "Запомнить меня"
+   },
+   "SAFE": {
+      "message": "БЕЗОПАСНО!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "Всегда показывать иконоки рядом с ссылками (красные, желтые, зеленые)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "Показывать только красные иконки рядом с сайтами с низкой оценкой"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "Не отображать иконки репутации"
+   },
+   "Scam": {
+      "message": "Мошенничество"
+   },
+   "Send": {
+      "message": "Отправить"
+   },
+   "ShowLess": {
+      "message": "Свернуть"
+   },
+   "ShowMore": {
+      "message": "Развернуть"
+   },
+   "SignUp": {
+      "message": "Регистрация"
+   },
+   "SignUpBelow": {
+      "message": "Зарегистрируйтесь ниже"
+   },
+   "SignUpFacebook": {
+      "message": "Регистрация с помощью Facebook"
+   },
+   "SignUpGoogle": {
+      "message": "Регистрация с помощью Google+"
+   },
+   "SignUpPasswordInput": {
+      "message": "выберите пароль"
+   },
+   "SignUpTwitter": {
+      "message": "Регистрация с помощью Twitter"
+   },
+   "SignUpUsernameInput": {
+      "message": "ваш e-mail"
+   },
+   "SiteKids": {
+      "message": "Сайт для детей"
+   },
+   "Spam": {
+      "message": "Спам"
+   },
+   "Submit": {
+      "message": "Отправить"
+   },
+   "Suspicious": {
+      "message": "Подозрительный сайт"
+   },
+   "TakeMoment": {
+      "message": "Уделите пару минут и отправьте нам ваше мнение"
+   },
+   "UNKNOWN": {
+      "message": "НЕИЗВЕСТНО"
+   },
+   "UnwantedPrograms": {
+      "message": "Потенциально нежелательное ПО"
+   },
+   "ViewMyAccount": {
+      "message": "Просмотр аккаунта"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "Отображение предупреждения для всех сайтов с низким рейтингом"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "Отображение предупреждений только для опасных сайтов"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "Отсутствие предупреждений"
+   },
+   "WantMore": {
+      "message": "Хотите рассказать нам больше?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "Как поступить в случае нарушений"
+   },
+   "WhitelistPlaceholder": {
+      "message": "Добавьте сайт, для которого не нужны предупреждения. (Например: Google.com)"
+   },
+   "WriteYourReview": {
+      "message": "Напишите ваш комментарий …"
+   },
+   "accurace": {
+      "message": "Точность"
+   },
+   "activate": {
+      "message": "Активировать"
+   },
+   "activateProtection": {
+      "message": "Активировать защиту"
+   },
+   "addAReview": {
+      "message": "Добавить отзыв"
+   },
+   "adsOrPopups": {
+      "message": "Реклама / Pop-ups"
+   },
+   "adult": {
+      "message": "Для взрослых"
+   },
+   "adultContent": {
+      "message": "Для взрослых"
+   },
+   "adultContentProtection": {
+      "message": "Защита контента для взрослых"
+   },
+   "adultProtection": {
+      "message": "Защита от контента для взрослых"
+   },
+   "adultProtectionText": {
+      "message": "Защита от контента для взрослых применяется ко всем сайтам в каждой категории"
+   },
+   "adultProtectionTooltip": {
+      "message": "Блокирование неприемлемого контента, порнографии и азартных игр"
+   },
+   "adultSettingMoreOptions": {
+      "message": "Другие параметры"
+   },
+   "adultSettingSubtitle": {
+      "message": "Блокирование порносайтов и сайтов азартных игр"
+   },
+   "adultSettingTitle": {
+      "message": "Защита от контента для взрослых"
+   },
+   "ago": {
+      "message": "назад"
+   },
+   "agreeContinue": {
+      "message": "Согласиться и продолжить"
+   },
+   "all": {
+      "message": "Все"
+   },
+   "allTrackersBlocked": {
+      "message": "Заблокировано трекеров: %1%"
+   },
+   "allWebsites": {
+      "message": "всех сайтов"
+   },
+   "allow": {
+      "message": "Разрешить"
+   },
+   "almostDone": {
+      "message": "Все почти готово"
+   },
+   "always": {
+      "message": "Всегда"
+   },
+   "analytics": {
+      "message": "Аналитика"
+   },
+   "antiPhishingAndScams": {
+      "message": "Защита от фишинга и мошенничества"
+   },
+   "appDescription": {
+      "message": "Проверяйте репутацию и безопасность сайтов, заручившись опытом других пользователей. Официальное расширение Web of Trust для Chrome."
+   },
+   "appName": {
+      "message": "WOT: безопасность сайтов и защита онлайн"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "Продолжить?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "Написать новый обзор об этом сайте"
+   },
+   "assistantSettingSubtitle": {
+      "message": "Безопасные покупки и поиск в Интернете"
+   },
+   "assistantSettingTitle": {
+      "message": "Вспомогательная защита WOT"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "Открыть ползунок WOT"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "Количество трекеров, обнаруженных на этой странице"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOT позволяет просматривать и блокировать трекеры на любых посещаемых вами сайтах. Это дает возможность контролировать, кто собирает ваши данные."
+   },
+   "autoScanDevice": {
+      "message": "Автоматически сканируйте устройство"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "Регулярно сканируйте свое устройство для выявления угроз и утечек данных."
+   },
+   "autoScanDeviceText": {
+      "message": "Регулярно сканируйте свое устройство для выявления угроз и нарушений безопасности."
+   },
+   "avoidHarmfulSites": {
+      "message": "Определение поддельных и вредоносных сайтов"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "beTheFirstToReview": {
+      "message": "Будьте первым, кто оценит этот сайт"
+   },
+   "blacklistsPreCheck": {
+      "message": "Актуальные черные списки"
+   },
+   "block": {
+      "message": "БЛОКИРОВАТЬ"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "Автоматически блокируйте трекеры на всех посещаемых сайтах"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "Автоматическое блокирование всех трекеров доступно только пользователям платной версии"
+   },
+   "blockTrackers": {
+      "message": "Блокировка трекеров"
+   },
+   "blockUnsafeWebsites": {
+      "message": "Блокировать небезопасные веб-сайты и ссылки"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT заранее предупредит вас о случайном переходе по небезопасным ссылкам или переходе на небезопасные или вредоносные веб-сайты."
+   },
+   "blocked": {
+      "message": "Заблокировано!"
+   },
+   "blocksHackingAttacks": {
+      "message": "Блокирование хакерских атак каждые 39 секунд"
+   },
+   "breachedDate": {
+      "message": "Дата нарушения"
+   },
+   "breachesAlert": {
+      "message": "Произошла утечка ваших персональных данных и/или паролей либо"
+   },
+   "browse": {
+      "message": "Просмотр"
+   },
+   "browserNotProtected": {
+      "message": "Ваш браузер не защищен"
+   },
+   "browserProtected": {
+      "message": "Ваш браузер в безопасности"
+   },
+   "browserSecured": {
+      "message": "Этот браузер защищен!"
+   },
+   "bugs": {
+      "message": "Ошибки"
+   },
+   "canHelp": {
+      "message": "Чем можем быть полезны?"
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "careful": {
+      "message": "Осторожно!"
+   },
+   "categoriesExplained": {
+      "message": "Сайт может относиться к данным категориям"
+   },
+   "changePassword": {
+      "message": "Изменить пароль"
+   },
+   "changePasswordSubtitle": {
+      "message": "Все пароли должны отличаться друг от друга и быть сложными для угадывания. Никогда не используйте один и тот же пароль для двух разных аккаунтов."
+   },
+   "changePasswordText": {
+      "message": "Все пароли должны отличаться друг от друга и быть сложными для угадывания. Никогда не используйте один и тот же пароль для двух разных аккаунтов."
+   },
+   "checkLeaks": {
+      "message": "Проверка утечек"
+   },
+   "checkUrl": {
+      "message": "Проверить URL"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Проверить любой уровень безопасности сайта"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT предоставляет вам три способа проверить уровень безопасности любого веб-сайта: страница результатов поисковой системы Google, значок на панели инструментов браузера, а также подробная таблица показателей и обзоры."
+   },
+   "chooseTags": {
+      "message": "Выберите теги, которые описывают %DOMAIN%"
+   },
+   "chooseTagsForSite": {
+      "message": "Выберите теги, наиболее соответствующие этому сайту:"
+   },
+   "chooseTagsThatDescribes": {
+      "message": "Выберите теги, описывающие сайт"
+   },
+   "clearPolicy": {
+      "message": "Понятная политика"
+   },
+   "clickAllTags": {
+      "message": "Нажмите на все подходящие теги"
+   },
+   "clickOnTheGearIcon": {
+      "message": "Нажмите на %GEARICON%, чтобы включить/выключить это всплывающее окно"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "contactUs": {
+      "message": "Связаться с нами"
+   },
+   "containAdultContent": {
+      "message": "Сайт может содержать контент для взрослых"
+   },
+   "contentWarning": {
+      "message": "Контент для взрослых заблокирован"
+   },
+   "coolGotIt": {
+      "message": "Круто, Понятно"
+   },
+   "dataBreachHookText": {
+      "message": "Иногда это может быть рискованно"
+   },
+   "dataBreachHookTitle": {
+      "message": "Собираетесь ввести данные входа?"
+   },
+   "dataLeakMonitoring": {
+      "message": "Мониторинг нарушения безопасности данных"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "Обнаружено утечек данных, связанных с этой учетной записью эл. почты:"
+   },
+   "dayAgo": {
+      "message": "день назад"
+   },
+   "daysAgo": {
+      "message": "%1% дн. назад"
+   },
+   "default": {
+      "message": "Обычный"
+   },
+   "defaultManualModeButton": {
+      "message": "Продолжить и включить"
+   },
+   "defaultManualModeHeader": {
+      "message": "Результаты и аналитика в реальном времени"
+   },
+   "defaultManualModeText": {
+      "message": "Активная защита WOT отключена. Рейтинги сайтов и оповещения отображаться не будут."
+   },
+   "defaultText": {
+      "message": "Избегать и блокировать сайты с плохой репутацией. (Рекомендуется)"
+   },
+   "del": {
+      "message": "Удалить"
+   },
+   "delete": {
+      "message": "Да, удалить"
+   },
+   "deleteThisReview": {
+      "message": "Удалить этот обзор?"
+   },
+   "digitalTrackingProtection": {
+      "message": "Защита от цифрового отслеживания"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "Автоматическая блокировка всех служб, отслеживающих наиболее посещаемые сайты."
+   },
+   "disableOnAllWebsites": {
+      "message": "Да, отключить на всех веб-сайтах"
+   },
+   "disableOnThusWebsites": {
+      "message": "Да, отключить только на этом веб-сайте"
+   },
+   "disableWOTHelper": {
+      "message": "Отключить Помощник WOT?"
+   },
+   "disableWOTHelperText": {
+      "message": "Помощник WOT предоставляет вам краткий отчет о рейтинге и комментариях страницы, на которой вы находитесь. Вы можете отключить его в любое время в настройках WOT."
+   },
+   "disagree": {
+      "message": "Не принимаю"
+   },
+   "dismissWarning": {
+      "message": "Закрыть предупреждение"
+   },
+   "done": {
+      "message": "Готово"
+   },
+   "dontShowAgain": {
+      "message": "Не показывай мне снова"
+   },
+   "dontShowOnThisSite": {
+      "message": "Не показывать для этого сайта."
+   },
+   "dontShowThis": {
+      "message": "Больше не показывать для"
+   },
+   "donuts": {
+      "message": "Иконки репутации рядом с ссылками"
+   },
+   "downloadClassicWot": {
+      "message": "Скачать Classic WOT"
+   },
+   "downloadMobileWot": {
+      "message": "WOT для мобильных устройств"
+   },
+   "edit": {
+      "message": "Редактировать"
+   },
+   "editYourReview": {
+      "message": "Отредактируйте свой отзыв"
+   },
+   "empty": {
+      "message": "Список пуст"
+   },
+   "enable": {
+      "message": "ВКЛЮЧИТЬ"
+   },
+   "enableEnhancedProtection": {
+      "message": "Включите расширенную защиту"
+   },
+   "enjoyingWot": {
+      "message": "Вам нравится WOT?"
+   },
+   "errorAction": {
+      "message": "OK"
+   },
+   "errorContent": {
+      "message": "Извините. Обновите текущую страницу и повторите попытку."
+   },
+   "errorTitle": {
+      "message": "Возникла ошибка"
+   },
+   "extraFeaturesTitle": {
+      "message": "Посмотрите, что еще может предложить WOT"
+   },
+   "faqSupport": {
+      "message": "Вопросы и поддержка"
+   },
+   "findHelp": {
+      "message": "Воспользуйтесь справкой или обращайтесь к нам"
+   },
+   "firstRate": {
+      "message": "Оцените этот сайт первым"
+   },
+   "followUs": {
+      "message": "Подпишитесь на нас"
+   },
+   "forAllPremiumPlans": {
+      "message": "Для всех премиум-тарифов"
+   },
+   "forum": {
+      "message": "Форум"
+   },
+   "freeTrialEndend": {
+      "message": "Осталось %2% дн. бесплатного пробного периода"
+   },
+   "freeUserBlockTitle": {
+      "message": "Вам нужна защита от других вредоносных сайтов?"
+   },
+   "gamblingSites": {
+      "message": "Сайты азартных игр"
+   },
+   "gamblingSitesText": {
+      "message": "Блокируются сайты с азартными играми и контентом"
+   },
+   "generalSettings": {
+      "message": "Основные опции"
+   },
+   "generalSettingsDescription": {
+      "message": "Настройте параметры в соответствии со своими потребностями и оставайтесь в безопасности"
+   },
+   "getFullCoverage": {
+      "message": "Полная защите при просмотре"
+   },
+   "getFullProtection": {
+      "message": "Воспользоваться полной защитой WOT"
+   },
+   "getMorePremium": {
+      "message": "Дополнительные возможности платной версии"
+   },
+   "getPhishingAlert": {
+      "message": "Оповещения о фишинге"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "Защита от новых фишинговых сайтов и атак с использованием социальной инженерии."
+   },
+   "getWOTPremium": {
+      "message": "Загрузите WOT Premium, чтобы получить всеобъемлющую защиту от хакеров, вирусов и вредоносных сайтов."
+   },
+   "gmailProtectionDescription": {
+      "message": "Предупреждения о подозрительных письмах в почтовом ящике"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "Быстро определяет фишинговые сообщения"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "Автоматическое обнаружение подозрительной почты"
+   },
+   "gmailProtectionTitle": {
+      "message": "Защита почты"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "Настройка защиты электронной почты и ввод URL-адресов, которым вы доверяете"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "Добавьте доверенные URL-адреса (например sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "Список разрешенных адресов"
+   },
+   "goPremium": {
+      "message": "Перейти Премиум"
+   },
+   "goToLeakReport": {
+      "message": "См. Отчет о нарушениях"
+   },
+   "goToSite": {
+      "message": "Перейти на сайт"
+   },
+   "goodService": {
+      "message": "Качественное обслуживание"
+   },
+   "gotIt": {
+      "message": "Понятно"
+   },
+   "greatSupport": {
+      "message": "Отличная поддержка"
+   },
+   "hide": {
+      "message": "Скрыть"
+   },
+   "hideWotAssistant": {
+      "message": "Скрыть помощника WOT"
+   },
+   "hideWotAssistantText": {
+      "message": "После нажатия кнопки «Скрыть» вспомогательная страница WOT загружаться не будет. Можно изменить эту настройку позже."
+   },
+   "high": {
+      "message": "Высокий"
+   },
+   "highText": {
+      "message": "Блокировать подозрительные сайты. Сайты с неприемлемым для детей контентом блокируются по умолчанию"
+   },
+   "holdOn": {
+      "message": "Подождите!"
+   },
+   "hour": {
+      "message": "час"
+   },
+   "hourAgo": {
+      "message": "час назад"
+   },
+   "hourMinutesAgo": {
+      "message": "час %2% минут назад"
+   },
+   "hours": {
+      "message": "ч."
+   },
+   "hoursAgo": {
+      "message": "%1% час. назад"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% часов %2% минут назад"
+   },
+   "hoverOverTheWOT": {
+      "message": "Наведите курсор на иконку WOT %DONUTICON%, чтобы посмотреть репутацию этого сайта "
+   },
+   "howWouldYouRate": {
+      "message": "Как бы вы оценили этот сайт от 1 до 5?"
+   },
+   "identityProtection": {
+      "message": "Защита личных данных"
+   },
+   "identityProtectionModalMessage": {
+      "message": "Включая функцию защиты личных данных, вы соглашаетесь с тем, что ваш адрес электронной почты может быть передан третьей стороне, которая обеспечивает отслеживание утечек и защиту паролей"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT предупреждает об утечке личных данных, чтобы вы могли быстро предотвратить их кражу и предотвратить утечки в будущем."
+   },
+   "increaseOnlineSecurity": {
+      "message": "Повысьте безопасность онлайн"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "Включите двухфакторную аутентификацию для доступа к личным аккаунтам, содержащим конфиденциальную информацию"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "Включите двухфакторную аутентификацию для доступа к личным аккаунтам, содержащим конфиденциальную информацию."
+   },
+   "installed": {
+      "message": "Установлено"
+   },
+   "isSafe": {
+      "message": "Вы думаете, что этот сайт безопасен?"
+   },
+   "issuesFound": {
+      "message": "Найдено %ISSUES% проблем(ы)"
+   },
+   "justNow": {
+      "message": "только что"
+   },
+   "lang": {
+      "message": "en-US"
+   },
+   "lastScanned": {
+      "message": "Последнее сканирование"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT будет предупреждать вас в режиме реального времени об утечках данных, содержащих вашу личную информацию, чтобы вы могли защитить себя в Интернете."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "Включая функцию мониторинга нарушений безопасности данных, вы соглашаетесь с тем, что ваш адрес электронной почты может быть передан третьей стороне, которая обеспечивает отслеживание утечек и защиту паролей."
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "Рекомендуем принять следующие меры защиты личных данных и цифрового удостоверения:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "Что делать, если произошла утечка моей личной информации?"
+   },
+   "leakedInformation": {
+      "message": "Данные, оказавшиеся в общем доступе вследствие утечки"
+   },
+   "legalAnd": {
+      "message": "и"
+   },
+   "legalPrivacyPolicy": {
+      "message": "Политика конфиденциальности"
+   },
+   "legalStatement": {
+      "message": "Чтобы обеспечить эффективную постоянную защиту и повышать качество наших услуг, нам необходимо получать данные о сайтах, которые вы посещаете. Нажав кнопку «Соглашаюсь» ниже, вы принимаете наши"
+   },
+   "letCommunityKnow": {
+      "message": "Сайт понравился или вызвал подозрения? Сообщите об этом нашему сообществу."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "Расскажите другим о своих впечатлениях от сайта"
+   },
+   "limitedTimeOffer": {
+      "message": "Акция"
+   },
+   "lite": {
+      "message": "Облегченный"
+   },
+   "liteText": {
+      "message": "Обещаем беспокоить вас только по важным вопросам"
+   },
+   "liveBlocking": {
+      "message": "Живая блокировка"
+   },
+   "loading": {
+      "message": "Загрузка…"
+   },
+   "logOut": {
+      "message": "Выход"
+   },
+   "login": {
+      "message": "Вход"
+   },
+   "looksSafe": {
+      "message": "Не вызывает опасений"
+   },
+   "manage": {
+      "message": "Управление"
+   },
+   "manageProtection": {
+      "message": "Управление защитой"
+   },
+   "manageSubscriptions": {
+      "message": "Управление подписками"
+   },
+   "manageTrackers": {
+      "message": "управление трекерами"
+   },
+   "manualModeAgree": {
+      "message": "Нажав кнопку «Включить» выше, вы принимаете наши"
+   },
+   "manualModeWarning": {
+      "message": "Вы просматриваете сайты в ручном режиме. Поскольку активная защита WOT отключена, мы не можем защитить вас от опасных сайтов."
+   },
+   "manualModeWarningStrip": {
+      "message": "Имейте в виду, что вы просматриваете сайты в ручном режиме, поэтому многие функции недоступны."
+   },
+   "marketing": {
+      "message": "Маркетинг"
+   },
+   "maybeNextTime": {
+      "message": "Может, в следующий раз"
+   },
+   "messageSubmitted": {
+      "message": "Сообщение отправлено."
+   },
+   "minute": {
+      "message": "минуту"
+   },
+   "minuteAgo": {
+      "message": "минуту назад"
+   },
+   "minutes": {
+      "message": "мин."
+   },
+   "minutesAgo": {
+      "message": "%1% мин. назад"
+   },
+   "missingReviews": {
+      "message": "Отсутствующие обзоры"
+   },
+   "month": {
+      "message": "месяц"
+   },
+   "monthAgo": {
+      "message": "месяц назад"
+   },
+   "monthsAgo": {
+      "message": "%1% мес. назад"
+   },
+   "moreInfo": {
+      "message": "Дополнительная информация"
+   },
+   "myDashboardNav": {
+      "message": "Моя панель инструментов"
+   },
+   "myProfile": {
+      "message": "Мой профиль"
+   },
+   "newDataLeaksFound": {
+      "message": "Найдено новых утечек данных: %1%"
+   },
+   "next": {
+      "message": "Далее"
+   },
+   "no": {
+      "message": "Нет"
+   },
+   "noBreaches": {
+      "message": "Хорошие новости! Утечек данных не обнаружено"
+   },
+   "noComments": {
+      "message": "Нет отзывов"
+   },
+   "noKeepIt": {
+      "message": "Нет, продолжить использование"
+   },
+   "noReviewsYet": {
+      "message": "Пока нет отзывов"
+   },
+   "noSkip": {
+      "message": "Нет, Пропустить"
+   },
+   "noThanks": {
+      "message": "Нет, спасибо"
+   },
+   "noTrackersBlocked": {
+      "message": "Обнаружено трекеров: %1%"
+   },
+   "noTrackersDetected": {
+      "message": "Трекеры не обнаружены"
+   },
+   "none": {
+      "message": "Нет"
+   },
+   "notSecurity": {
+      "message": "Есть ли опасения относительно безопасности?"
+   },
+   "notSuitableForChildren": {
+      "message": "Есть ли контент, неприемлемый для детей?"
+   },
+   "notSure": {
+      "message": "Не уверен"
+   },
+   "off": {
+      "message": "Откл."
+   },
+   "okGotIt": {
+      "message": "OK, Понятно"
+   },
+   "on": {
+      "message": "на"
+   },
+   "onBoarding4States": {
+      "message": "Сайтам присваиваются 4 оценки:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "наведите указатель мыши на значок щита."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "Прежде чем что-либо нажимать на любом сайте,"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "Панель репутации"
+   },
+   "onBoardingReputationScore": {
+      "message": "Оценка репутации"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "Теперь можно просматривать сайты без всяких опасений. Прежде чем что-либо нажимать на незнакомом сайте, обязательно наведите указатель мыши на значок щита."
+   },
+   "onBoardingThisPopupShows": {
+      "message": "В этом всплывающем окне отображается оценка репутации любого сайта. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "WOT считает этот сайт %SAFETY%!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "Для просмотра других отзывов пользователей нажмите «Читать отзывы»."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "Всё готово!"
+   },
+   "oneTrackerBlocked": {
+      "message": "Заблокирован 1 трекер"
+   },
+   "oneTrackerDetected": {
+      "message": "Обнаружен 1 трекер"
+   },
+   "optinAreYouSureMessage": {
+      "message": "Чтобы предоставить вам всестороннюю веб-защиту, некоторые функции WOT требуют доступа к анонимной информации, собранной с посещаемых вами веб-сайтов. Эта информация не будет передана третьим лицам или использована в маркетинговых целях. Вы можете изменить свои предпочтения в любое время, посетив страницу настроек."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT предупреждает вас при получении мошеннических, фишинговых, подозрительных, вредоносных и спам-сообщений"
+   },
+   "optinGoBack": {
+      "message": "Вернуться"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "Включить живую защиту"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "Усиленная защита"
+   },
+   "optinHeaderInstallation": {
+      "message": "Установлено успешно"
+   },
+   "optinHeaderScanDevice": {
+      "message": "Сканирующее устройство"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "Настройте свой браузер"
+   },
+   "optinMaybeLater": {
+      "message": "Может быть позже"
+   },
+   "optinProtectYourEmail": {
+      "message": "Защитите свою электронную почту"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "Логотип на панели инструментов браузера меняется в зависимости от репутации сайта"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "Обратите внимание на логотип WOT"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "WOT предупредит, если вы окажетесь на сайте с плохой репутацией"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "Мгновенные уведомления"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "Цвет логотипа WOT на странице результатов поиска указывает на безопасность сайта"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "Выделение результатов"
+   },
+   "optinReputationIconsText": {
+      "message": "Значки пончиков WOT рядом со ссылками указывают, насколько безопасны сайты."
+   },
+   "optinSafetyScoreText": {
+      "message": "Для проверки репутации сайтов используйте показатели безопасности и отзывы."
+   },
+   "optinSubtitle": {
+      "message": "Чтобы защитить вас в режиме реального времени, нам нужен доступ к URL-адресам, которые вы просматриваете."
+   },
+   "optinTitle": {
+      "message": "Разрешить защиту браузера"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "Блокируйте сайты, которые могут принести вред или имеют плохую репутацию."
+   },
+   "optinWelcomeSubtitle": {
+      "message": "Вы только что присоединились к {millionMembers} , защищая друг друга с помощью WOT"
+   },
+   "or": {
+      "message": " или "
+   },
+   "other": {
+      "message": "Другие"
+   },
+   "outOfHere": {
+      "message": "Закрыть страницу"
+   },
+   "ownThisSite": {
+      "message": "Владелец этого сайта?"
+   },
+   "parentalControl": {
+      "message": "Родительский контроль"
+   },
+   "parentalControlOFF": {
+      "message": "Сайты с неприемлемым для детей контентом не будут заблокированы"
+   },
+   "parentalControlON": {
+      "message": "Сайты с неприемлемым для детей контентом будут заблокированы"
+   },
+   "performance": {
+      "message": "Представление"
+   },
+   "pinWot": {
+      "message": "Закрепить WOT!"
+   },
+   "pinWotPopup": {
+      "message": "Закрепите $WOT$, чтобы видеть текущий статус безопасности сайта",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WoT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "Найдите минутку, чтобы оценить нас"
+   },
+   "policy": {
+      "message": "Политика конфиденциальности"
+   },
+   "poorCustomerService": {
+      "message": "Низкое качество обслуживания"
+   },
+   "poorOnly": {
+      "message": "Опасные"
+   },
+   "poorRating": {
+      "message": "Это подозрительный сайт."
+   },
+   "popupAdultStrip": {
+      "message": "Может содержать контент только для взрослых"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "В этом разделе можно проверить безопасность сайта, который вы в данный момент посещаете."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "Нажмите на ссылку, чтобы прочитать отзывы."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "Приветствуем вас в новом интерфейсе WOT!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "В этом разделе показано, сколько служб отслеживают ваши действия онлайн."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "Нажмите на ссылку, чтобы настроить блокировку трекеров."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "Цифровые трекеры"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "Нажмите сюда, чтобы открыть настройки учетной записи и настроить защиту."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "Управление защитой"
+   },
+   "postReview": {
+      "message": "Опубликовать обзор"
+   },
+   "potentiallyMalicious": {
+      "message": "Этот сайт может быть вредоносным."
+   },
+   "preCheck": {
+      "message": "ПРЕДВАРИТЕЛЬНАЯ ПРОВЕРКА"
+   },
+   "premium": {
+      "message": "премия"
+   },
+   "premiumFeature": {
+      "message": "Платная функция"
+   },
+   "premiumSecurity": {
+      "message": "Первоклассная безопасность"
+   },
+   "premiumText": {
+      "message": "Всеобъемлющая защита онлайн от самых вредоносных сайтов и ссылок"
+   },
+   "presettings": {
+      "message": "Предварительные настройки"
+   },
+   "protectPrivacy": {
+      "message": "Защита личных данных "
+   },
+   "protectYourPrivacy": {
+      "message": "Блокирование всплывающих окон"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "Блокирование всплывающих окон, обеспечивающее быстрый и безопасный просмотр."
+   },
+   "protectYourself": {
+      "message": "Получайте оповещения об утечке данных"
+   },
+   "protectedForXDays": {
+      "message": "Защищено в течение %1% дней"
+   },
+   "protection": {
+      "message": "уровень защиты"
+   },
+   "rateOnStore": {
+      "message": "Оцените нас в %BROWSER% Store"
+   },
+   "rateOverall": {
+      "message": "Дайте оценку своему общему *впечатлению* от %DOMAIN%"
+   },
+   "rateThisSite": {
+      "message": "Дайте оценку сайту"
+   },
+   "rateUs": {
+      "message": "Оценить WOT"
+   },
+   "rateYourExperience": {
+      "message": "Оцените свое общее впечатление от"
+   },
+   "readMoreReviews": {
+      "message": "Другие отзывы (%1%)"
+   },
+   "readReviews": {
+      "message": "Читать отзывы"
+   },
+   "realTimeCheckups": {
+      "message": "Проверки в реальном времени"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "Защита от фишинга, вредоносных программ и других опасностей в реальном времени."
+   },
+   "realtimePhishingAlerts": {
+      "message": "Оповещения о фишинге в реальном времени"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "Сообщайте нам о подозрительных и поддельных сайтах, которые представляют собой угрозу для других пользователей"
+   },
+   "reputation": {
+      "message": "Репутация"
+   },
+   "reputationIcons": {
+      "message": "Значки репутации"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT отобразит уровень безопасности веб-сайта, который вы сейчас посещаете."
+   },
+   "restorePurchases": {
+      "message": "Восстановить покупки"
+   },
+   "resultFor": {
+      "message": "Результаты по запросу"
+   },
+   "reviewAddedErrorText": {
+      "message": "Возникла ошибка. Пожалуйста, повторите попытку."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "Не удалось опубликовать обзор"
+   },
+   "reviewAddedOKText": {
+      "message": "Благодаря вам интернет становится безопасней. Спасибо!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "Обзор опубликован"
+   },
+   "reviews": {
+      "message": "Отзывы"
+   },
+   "rtOFF": {
+      "message": "Вы перешли в ручной режим - проактивная защита WOT отключена"
+   },
+   "rtON": {
+      "message": "Вы не используете все возможности проактивной защиты WOT."
+   },
+   "rtProtection": {
+      "message": "Защита в режиме реального времени"
+   },
+   "rtProtectionRecommended": {
+      "message": "Защита в режиме реального времени (Рекомендуется)"
+   },
+   "safeBrowsing": {
+      "message": "Безопасный просмотр"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT сканирует каждый сайт, страницу и службу и отображает оповещения в реальном времени, помогая вам сохранять бдительность."
+   },
+   "safeSearch": {
+      "message": "Безопасный поиск"
+   },
+   "safeSearchSubtitle": {
+      "message": "Для обозначения опасных и безопасных сайтов рядом с результатами поиска отображаются значки."
+   },
+   "safeShopping": {
+      "message": "Безопасные покупки"
+   },
+   "safeShoppingSite": {
+      "message": "На этом сайте безопасно совершать покупки"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "Алгоритм WOT, данные машинного обучения и обзоры пользователей показывают, что данный сайт безопасен для покупок"
+   },
+   "safetyScore": {
+      "message": "Оценка надежности"
+   },
+   "safetyScoreSubtitle": {
+      "message": "Используйте оценочные листы, чтобы проверить репутацию и отзывы веб-сайтов и поделиться своим опытом."
+   },
+   "scannedOn": {
+      "message": "обнаружено на"
+   },
+   "scoreCard": {
+      "message": "Показатели"
+   },
+   "searchEnginePageResults": {
+      "message": "Страница результатов поисковой системы"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "Принимайте обоснованные решения в Интернете с помощью индикатора безопасности WOT рядом со ссылками на веб-сайты."
+   },
+   "searchIndicator": {
+      "message": "Индикатор поиска"
+   },
+   "searchManualModeButton": {
+      "message": "Включить контроль поисковых систем"
+   },
+   "searchManualModeHeader": {
+      "message": "Вы не пользуетесь контролем WOT"
+   },
+   "searchManualModeText": {
+      "message": "Активная защита WOT в поисковых системах отключена. Рейтинги сайтов не будут отображаться рядом со ссылкой."
+   },
+   "security": {
+      "message": "Безопасность"
+   },
+   "securityBreaches": {
+      "message": "они подвержены угрозам нарушения безопасности!"
+   },
+   "securityRiskDetected": {
+      "message": "Обнаружены угрозы безопасности"
+   },
+   "securityScore": {
+      "message": "Оценка безопасности"
+   },
+   "securitySystem": {
+      "message": "Система безопасности"
+   },
+   "securityWarning": {
+      "message": "Предупреждение об опасности"
+   },
+   "seeLess": {
+      "message": "Свернуть"
+   },
+   "seeMore": {
+      "message": "Подробнее"
+   },
+   "seeReviews": {
+      "message": "Отзывы"
+   },
+   "sendFeedback": {
+      "message": "ОТПРАВИТЬ ОТЗЫВ"
+   },
+   "serpMailWarning": {
+      "message": "WOT считает это письмо подозрительным, так как оно может содержать опасные ссылки или отслеживать URL-адреса"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "Обновить и защитить мою электронную почту"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "Напомнить позже"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "96% интернет-мошенничеств начинаются с электронной почты. Чего вы ждете? ЗАЩИТИТЕ себя!"
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "Ваш адрес электронной почты — под угрозой!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT обнаруживает и предотвращает угрозы онлайн и отслеживание. Благодаря этому ваши личные данные надежно защищены."
+   },
+   "servicesTrackingYou": {
+      "message": "Некоторые службы отслеживают вашу активность"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "Разблокируйте платные функции"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "Расширьте защиту"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "Везде и всегда."
+   },
+   "settingsBannerTitle": {
+      "message": "Более безопасный просмотр."
+   },
+   "setup": {
+      "message": "Настройка"
+   },
+   "severeOnly": {
+      "message": "Опасные"
+   },
+   "share": {
+      "message": "Поделиться"
+   },
+   "shareExperience": {
+      "message": "Поделитесь своим опытом на %1% и помогите другим"
+   },
+   "shareFeedback": {
+      "message": "Поделитесь своим мнением о"
+   },
+   "shareOnFacebook": {
+      "message": "Поделиться на Facebook"
+   },
+   "shareOnGoogle": {
+      "message": "Поделиться на Google +"
+   },
+   "shareOnTwitter": {
+      "message": "Поделиться в Twitter"
+   },
+   "shareText1": {
+      "message": "Я только что помог сделать Интернет лучше, оценив %WEBSITE% на Web of Trust! Не согласны? Дайте свою оценку здесь 👉 %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "Я нашел способ безопасно пользоваться Интернетом и избегать опасных сайтов! Попробуйте расширение Web of Trust: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Я только что помог сделать Интернет лучше, оценив %WEBSITE% на %STARS% из 5 звезд на Web of Trust! Не согласны? Дайте свою оценку здесь 👉 %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": "Я использую @Web_of_Trust, чтобы избегать опасных сайтов. Попробуйте сами: %LINK% #WOT #MyWOT #Безопасность"
+   },
+   "shareTextGoogleRate": {
+      "message": "Я только что помог сделать Интернет лучше, оценив %WEBSITE% на %STARS% из 5 звезд на Web of Trust! Не согласны? Дайте свою оценку здесь 👉 %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": "Я использую @Web_of_Trust, чтобы избегать опасных сайтов. Попробуйте сами: %LINK% #WOT #MyWOT #Безопасность"
+   },
+   "shareTextTwitterRate": {
+      "message": "Я оценил %WEBSITE% на %STARS% из 5 звезд на WOT! Не согласны? Дайте свою оценку здесь 👉 %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "Я нашел способ безопасно пользоваться Интернетом и избегать опасных сайтов! Попробуйте расширение Web of Trust: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Я только что помог сделать Интернет лучше, оценив %WEBSITE% на %STARS% из 5 звезд на Web of Trust! Не согласны? Дайте свою оценку здесь 👉 %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "Рассказать о WOT друзьям!"
+   },
+   "shareWotRating": {
+      "message": "Поделиться своей оценкой %DOMAIN% с друзьями!"
+   },
+   "shareYouRating": {
+      "message": "Поделитесь своим рейтингом с друзьями"
+   },
+   "shopWithConfidence": {
+      "message": "Делайте покупки с уверенностью"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "Просматривайте отзывы покупателей в любом интернет-магазине и защищайте себя от фишинга и мошеннических действий в сфере электронной коммерции."
+   },
+   "signIn": {
+      "message": "Вход"
+   },
+   "signInNow": {
+      "message": "Войти"
+   },
+   "signInToRate": {
+      "message": "Войдите в систему, чтобы оценить этот сайт и написать о нем обзор"
+   },
+   "siteIsSafe": {
+      "message": "Вы думаете, что этот сайт *безопасен?*"
+   },
+   "siteIsSafeChildren": {
+      "message": "Этот сайт *безопасен для детей?*"
+   },
+   "skip": {
+      "message": "Пропустить"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "Расширенная защита от фишинга для обнаружения угроз и предотвращения мошенничества."
+   },
+   "social": {
+      "message": "Социальные сети"
+   },
+   "someTrackersBlocked": {
+      "message": "Заблокировано %1% из %2% трекеров"
+   },
+   "specialOfferBillingDetails": {
+      "message": "Взимается одним платежом в размере"
+   },
+   "specialOfferFeatures": {
+      "message": "Защита электронной почты, блокировка контента для взрослых, блокировка неограниченного количества трекеров и многое другое!"
+   },
+   "startFreeTrial": {
+      "message": "Попробовать бесплатно"
+   },
+   "startProtection": {
+      "message": "Включить защиту"
+   },
+   "startYourFreeTrial": {
+      "message": "Попробуйте бесплатно"
+   },
+   "successRecPass": {
+      "message": "Инструкции были отправлены на ваш e-mail"
+   },
+   "suspiciousByWOT": {
+      "message": "Этот сайт отмечен WOT как подозрительный"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "WOT считает этот сайт подозрительным"
+   },
+   "suspiciousSite": {
+      "message": "Подозрительный сайт"
+   },
+   "switchToClassic": {
+      "message": "Переключиться на Classic WOT"
+   },
+   "systemPageAction": {
+      "message": "Ясно"
+   },
+   "systemPageContent": {
+      "message": "Вы пытаетесь использовать WOT на неподдерживаемой странице, например на странице настроек браузера, локального хоста или расширения."
+   },
+   "systemPageTitle": {
+      "message": "Страница настроек"
+   },
+   "takeAction": {
+      "message": "Принять меры"
+   },
+   "tellUsMore": {
+      "message": "Расскажи нам больше..."
+   },
+   "tellYourFriends": {
+      "message": "Распространяйте сообщество, рассказывая друзьям о WOT!"
+   },
+   "termsOfUse": {
+      "message": "Условия использования"
+   },
+   "thankYou": {
+      "message": "Спасибо!"
+   },
+   "thankYouForFeedback": {
+      "message": "Спасибо за ваш отзыв"
+   },
+   "thankYouForInstalling": {
+      "message": "Далее выберите щит для обеспечения полной защиты"
+   },
+   "thanksGotIt": {
+      "message": "Спасибо, понятно!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "Этот адрес электронной почты зафиксирован в %1% случаях нарушения безопасности данных"
+   },
+   "thisPopupShows": {
+      "message": "В этом всплывающем окне отображается оценка репутации любого сайта. "
+   },
+   "thisSiteOnly": {
+      "message": "только этого сайта"
+   },
+   "threatsFound": {
+      "message": "Обнаружены угрозы"
+   },
+   "timerManualModeButton": {
+      "message": "Включить защиту в реальном времени"
+   },
+   "timerManualModeHeader": {
+      "message": "Вы просматриваете сайты в ручном режиме!"
+   },
+   "timerManualModeText": {
+      "message": "Поскольку активная защита WOT отключена, мы не можем защитить вас от опасных сайтов."
+   },
+   "toWriteReview": {
+      "message": " чтобы написать комментарий"
+   },
+   "toggleTooltipMessage": {
+      "message": ", чтобы включить эту функцию"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "ОБНОВИ СЕЙЧАС"
+   },
+   "tooComplicated": {
+      "message": "Слишком сложно"
+   },
+   "tooltipChildSafe": {
+      "message": "На этом сайте не присутствует содержание, такое как: эротическое, шокирующее, отталкивающее и т. д."
+   },
+   "tooltipSafe": {
+      "message": "На этом сайте не присутствуют угрозы, такие как: вредоносное ПО, вирусы, фишинг и т. д."
+   },
+   "tour": {
+      "message": "Тур"
+   },
+   "trackerBlocked": {
+      "message": "Заблокировано"
+   },
+   "trackerBlocker": {
+      "message": "Защита от трекеров"
+   },
+   "trackerBlockerDescription": {
+      "message": "Автоматически блокируйте все трекеры на посещаемых сайтах."
+   },
+   "trackerCounterAction": {
+      "message": "Разблокировать больше трекеров"
+   },
+   "trackerCounterText": {
+      "message": "Доступно %1% из 3 трекеров при базовой защите"
+   },
+   "trackerSomeBlocked": {
+      "message": "Заблокировано %1% из %2%"
+   },
+   "trackerUnblocked": {
+      "message": "Разблокировано"
+   },
+   "trackersBlockAll": {
+      "message": "Автоматически блокируйте все трекеры"
+   },
+   "trackersBlocked": {
+      "message": "трекера(-ов) заблокировано"
+   },
+   "trackersDetected": {
+      "message": "Обнаружено трекеров:"
+   },
+   "trackingProtection": {
+      "message": "Защита от трекеров"
+   },
+   "trustIssues": {
+      "message": "Некоторые пользователи не доверяют этому сайту. Будьте осторожны."
+   },
+   "trusted": {
+      "message": "надежный"
+   },
+   "trustedByWOT": {
+      "message": "WOT считает этот сайт надежным"
+   },
+   "trustedByWOTPopup": {
+      "message": "WOT считает этот сайт надежным"
+   },
+   "trustedSite": {
+      "message": "Надежный сайт"
+   },
+   "trustedSource": {
+      "message": "Надежный источник"
+   },
+   "tryAgain": {
+      "message": "ПОПРОБУЙТЕ ЕЩЕ РАЗ"
+   },
+   "turnOffProtection": {
+      "message": "Отключить защиту"
+   },
+   "twoMillionMembers": {
+      "message": "2+ миллиона участников"
+   },
+   "unknownByWOT": {
+      "message": "Недостаточно информации"
+   },
+   "unknownByWOTPopup": {
+      "message": "WOT считает этот сайт неизвестным"
+   },
+   "unknownSite": {
+      "message": "Неизвестный сайт"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "Неограниченное блокирование трекеров доступно только пользователям платной версии"
+   },
+   "unlock": {
+      "message": "ОБНОВИТЬ"
+   },
+   "unlockPremium": {
+      "message": "Разблокировать платную функцию"
+   },
+   "untrusted": {
+      "message": "Ненадежный"
+   },
+   "untrustedByWOT": {
+      "message": "По оценкам WOT это ненадежный сайт"
+   },
+   "untrustedByWOTPopup": {
+      "message": "WOT считает этот сайт ненадежным"
+   },
+   "untrustedSite": {
+      "message": "Ненадежный сайт"
+   },
+   "upgrade": {
+      "message": "ОБНОВИТЬ"
+   },
+   "upgradeNow": {
+      "message": "ОБНОВИ СЕЙЧАС"
+   },
+   "viewAll": {
+      "message": "Посмотреть все"
+   },
+   "viewFullReport": {
+      "message": "Просмотр полного отчета"
+   },
+   "viewFullScorecard": {
+      "message": "Просмотр полного отчета"
+   },
+   "wantToDelete": {
+      "message": "Вы уверены, что хотите удалить рейтинг?"
+   },
+   "wantToRateWOT": {
+      "message": "Уделите пару минут, чтобы оценить нас в Интернет-магазине %BROWSER%"
+   },
+   "wantToRateWOTBtn": {
+      "message": "Оценить WOT"
+   },
+   "wantToRateWOTHeader": {
+      "message": "Вам нравится WOT?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "Хотите разблокировать все платные функции WOT?"
+   },
+   "warning": {
+      "message": "Внимание!"
+   },
+   "warningAlerts": {
+      "message": "Предупреждающие оповещения"
+   },
+   "warningAlertsSubtitle": {
+      "message": "Показывать предупреждения при посещении подозрительных сайтов"
+   },
+   "warnings": {
+      "message": "Предупреждения"
+   },
+   "weAppreciate": {
+      "message": "Мы ценим ваше время и благодарим вас за помощь в улучшении WOT"
+   },
+   "websiteBlocking": {
+      "message": "Блокирование сайтов"
+   },
+   "weekAgo": {
+      "message": "неделю назад"
+   },
+   "weeksAgo": {
+      "message": "%1% нед. назад"
+   },
+   "welcome": {
+      "message": "Добро пожаловать"
+   },
+   "welcomeToWot": {
+      "message": "Добро пожаловать в WOT"
+   },
+   "whatCanIDo": {
+      "message": "Что мне делать?"
+   },
+   "whatCouldWeDo": {
+      "message": "Что мы могли сделать лучше?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "Ненадежными считаются действия, обычно связанные с мошенничеством, кражей фишингом, вредоносными и потенциально нежелательными программами, а также другие действия, характерные для вредоносных, рискованных и опасных сайтов."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "Что такое *ненадежный* сайт?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "Подозрительными считаются действия, обычно связанные с мошенничеством, кражей криптовалют, получением контроля над браузером, а также другие действия, характерные для вредоносных, рискованных и опасных сайтов."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "Что такое *подозрительный* сайт?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "На данный момент у нас недостаточно данных для оценки этого сайта. Рекомендуем не предоставлять личных данных, таких как номер социального страхования, банковского счета или данные кредитной карты."
+   },
+   "whatIsUnknownTitle": {
+      "message": "Что такое *неизвестный* сайт?"
+   },
+   "whatsNewWOT": {
+      "message": "Новый мониторинг нарушений безопасности данных"
+   },
+   "whatsNewWOTContent": {
+      "message": "С помощью этой новой мощной функции вы теперь можете быть уверены, что ваша личная информация и пароли не скомпрометированы и не подвержены угрозам безопасности."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "Давайте посмотрим"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "Узнать больше"
+   },
+   "whitelist": {
+      "message": "Белый список"
+   },
+   "whitelistTitle": {
+      "message": "Не показывать предупреждения для этих сайтов"
+   },
+   "whyIsntSafe": {
+      "message": "Почему %DOMAIN% *небезопасен?*"
+   },
+   "whyIsntSafeChildren": {
+      "message": "Почему %DOMAIN% *опасен для детей?*"
+   },
+   "wotAssistant": {
+      "message": "Помощник WOT"
+   },
+   "wotAssistantOFF": {
+      "message": "Не отображать положительную репутацию сайта в углу браузера"
+   },
+   "wotAssistantON": {
+      "message": "Отображать положительную репутацию сайта в углу браузера"
+   },
+   "wotCommunity": {
+      "message": "Сообщество WOT"
+   },
+   "wotDetected": {
+      "message": "WOT обнаружил потенциальную угрозу безопасности и заблокировал $DOMAIN$. Этот сайт может быть опасен и, возможно, используется в целях мошенничества.",
+      "placeholders": {
+         "domain": {
+            "content": "1 $",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "$DOMAIN$ был заблокирован WOT из-за вероятности отображения контента для взрослых.",
+      "placeholders": {
+         "domain": {
+            "content": "1 $",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "Помощник WOT"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "Помощник WOT не будет отображаться."
+   },
+   "wotHelperSettingsOnState": {
+      "message": "Отображать Помощник WOT для быстрого доступа к рейтингу, комментариям и данным о безопасности этого веб-сайта."
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT установлен"
+   },
+   "writeAtLeast15": {
+      "message": "Если обзор короче 15 знаков, он вряд ли будет полезен другим"
+   },
+   "writeFirstReview": {
+      "message": "Напишите первый обзор"
+   },
+   "writeReview": {
+      "message": "Написать обзор"
+   },
+   "yearAgo": {
+      "message": "%1% год назад"
+   },
+   "yearsAgo": {
+      "message": "%1% лет назад"
+   },
+   "yes": {
+      "message": "Да"
+   },
+   "youCanAlsoEdit": {
+      "message": "Можно также отредактировать уже имеющийся обзор и оценку"
+   },
+   "youCanAlwaysChange": {
+      "message": "(можно всегда изменить настройки позже)"
+   },
+   "youCanCheckAnyLink": {
+      "message": "Пользуясь полной защитой WOT, можно проверять любые ссылки перед их посещением и делать многое другое!"
+   },
+   "youRatingThisSite": {
+      "message": "Вы проделали отличную работу, присвоив рейтинг данному веб-сайту!"
+   },
+   "yourRating": {
+      "message": "Ваш рейтинг"
+   },
+   "yourSubscription": {
+      "message": "Ваша подписка"
+   }
+}

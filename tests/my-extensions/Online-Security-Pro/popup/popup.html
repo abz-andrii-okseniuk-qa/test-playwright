@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>popup</title>
+		<!-- font -->
+		<link href='font.css' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="popup.css"/>
+	</head>
+	<body>
+		<div id="row">
+			<div id="name">Online Security Pro<span id="onOff"></span></div>
+			<div id="container">
+				<!--SETTINGS-->
+				<div id="tab1" class="content active">
+					<div id="settings_header" class="header"></div>
+					<ul id="buttons">
+						<li id="report" class="button"><span id="report_icon"></span><span id="report_text"></span><span class="arrows"></span></li>
+						<li id="exclusion" class="button"><span id="exclusion_icon"></span><span id="exclusion_text"></span><span class="arrows"></span></li>
+						<li id="history" class="button"><span id="history_icon"></span><span id="history_text"></span><span class="arrows"></span></li>
+						<li id="rate" class="button"><span id="rate_icon"></span><span id="rate_text"></span><span class="arrows"></span></li>
+					</ul>
+				</div>
+				<!--NOTIFICATIONS-->
+				<div id="tab2" class="content">
+					<div id="notifications_header" class="header"></div>
+					<div id="notifications_row">
+						<div id="malicious_links">
+							<div class="notifications_content"><div id="warning"></div><div class="notifications_text" id="link_text"></div><div id="clearWarning" class="clear"></div></div>
+						</div>
+						<div id="CMS">
+							<div id="CMS_content"><div id="CMS_icon"></div><div class="notifications_text" id="CMS_text"></div><div id="clearCMS" class="clear"></div>
+							</div>
+						</div>
+						<img id="empty" src="../imgs/empty.png"/>
+					</div>
+				</div>
+				<!--ABOUT-->
+				<div id="tab3" class="content">
+					<div id="about_header" class="header"></div>
+					<div id="about_content">
+						<ul id="about_buttons">
+							<li id="about_pp" class="about_button"><img src="../imgs/PP.png"/><span id="product_page"></span></li>
+							<li id="about_rn" class="about_button"><img src="../imgs/RN.png"/><span id="release_notes"></span></li>
+						</ul>
+						<div id="version"></div>
+						<span id="powered"></span>
+						<img id="about_logo" src="../imgs/logo.png"/>
+						<div id="tools">
+							<a href="https://download-cn.comodo.com/eula/cos-eula.pdf"  target="_blank" id="popup_license"></a> | 
+							<a href="https://www.comodo.com/repository/privacy-policy.php" target="_blank" id="popup_policy"></a> | 
+						 	<a href="https://forums.comodo.com/news-announcements-feedback-cos-b520.0/" target="_blank" id="popup_feedback"></a> | 
+						 	<a href="https://help.comodo.com/topic-450-1-930-12683-Introduction-to-Comodo-Online-Security.html" target="_blank" id="popup_help"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<ul id="tabs">
+				<li id="settings" class="active"></li>
+				<li id="notifications">
+					<div id="dot"></div>
+				</li>
+				<li id="about"></li>
+			</ul>
+		</div>
+		<script src="popup.js"></script>
+	</body>
+</html>

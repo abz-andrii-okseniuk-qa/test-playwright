@@ -1,0 +1,1 @@
+class LoginError extends React.Component{render(){return React.createElement("div",{className:"login-error "+this.props.className},React.createElement("span",{className:"login-error__close",onClick:this.props.closeError}),React.createElement("span",{className:"login-error__text"},this.props.message))}}

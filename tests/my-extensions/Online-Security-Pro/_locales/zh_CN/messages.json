@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "恶毒"
+   },
+   "Malware": {
+      "message": "恶意软件"
+   },
+   "Phishing": {
+      "message": "网络钓鱼"
+   },
+   "Suspicious": {
+      "message": "可疑"
+   },
+   "alert_back": {
+      "message": "返回到安全的网站"
+   },
+   "alert_continue": {
+      "message": "继续浏览"
+   },
+   "alert_description": {
+      "message": "由于以下原因，此网站暂时被阻止："
+   },
+   "alert_false": {
+      "message": "提交误报"
+   },
+   "alert_notrecommended": {
+      "message": "(不推荐)"
+   },
+   "alert_recommended": {
+      "message": "(推荐)"
+   },
+   "alert_safe": {
+      "message": "(如果您认为此网站是安全的)"
+   },
+   "alert_text": {
+      "message": "此网站包含指向病毒或其他软件程序的链接，这些程序可以将您计算机上存储或者键入的个人信息显示给恶意人员。"
+   },
+   "alert_warning": {
+      "message": "警告：不安全的网站被阻止！"
+   },
+   "ext_description": {
+      "message": "针对恶意软件，网络钓鱼和恶意网站的在线安全性。"
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "新！ 使用Comodo保护您的手机。 它适用于\u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a>和\u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>。 立即获取！"
+   },
+   "lang_id": {
+      "message": "2052"
+   },
+   "lang_name": {
+      "message": "中文(简体)"
+   },
+   "options_blocked": {
+      "message": "阻止"
+   },
+   "options_close": {
+      "message": "关闭"
+   },
+   "options_exclusions_placeholder": {
+      "message": "输入文字"
+   },
+   "options_exclusions_removeall": {
+      "message": "移除所有"
+   },
+   "options_exclusions_removeselected": {
+      "message": "删除选定"
+   },
+   "options_exclusions_search": {
+      "message": "搜索"
+   },
+   "options_exclusions_showingpage": {
+      "message": "显示页面"
+   },
+   "options_exclusions_time": {
+      "message": "检测日期和时间"
+   },
+   "options_exclusions_type": {
+      "message": "威胁类型"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro 选项"
+   },
+   "options_ignored": {
+      "message": "忽视"
+   },
+   "options_tab_title_exclusions": {
+      "message": "排除"
+   },
+   "options_tab_title_url": {
+      "message": "网站过滤日志"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "排除"
+   },
+   "options_title_url": {
+      "message": "网站过滤日志"
+   },
+   "options_url_action": {
+      "message": "采取的行动"
+   },
+   "options_url_placeholder": {
+      "message": "输入文字"
+   },
+   "options_url_removeall": {
+      "message": "移除所有"
+   },
+   "options_url_removeselected": {
+      "message": "删除选定"
+   },
+   "options_url_search": {
+      "message": "搜索"
+   },
+   "options_url_showingpage": {
+      "message": "显示页面"
+   },
+   "options_url_time": {
+      "message": "检测日期和时间"
+   },
+   "options_url_type": {
+      "message": "威胁类型"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "关于"
+   },
+   "popup_click": {
+      "message": "点击这里"
+   },
+   "popup_exclusions": {
+      "message": "编辑排除列表"
+   },
+   "popup_feedback": {
+      "message": "反馈"
+   },
+   "popup_help": {
+      "message": "帮助"
+   },
+   "popup_history": {
+      "message": "检查历史"
+   },
+   "popup_license": {
+      "message": "执照"
+   },
+   "popup_notes": {
+      "message": "发行说明"
+   },
+   "popup_notifications": {
+      "message": "通知"
+   },
+   "popup_page": {
+      "message": "产品页面"
+   },
+   "popup_policy": {
+      "message": "隐私政策"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "评价此扩展"
+   },
+   "popup_report": {
+      "message": "报告此页面"
+   },
+   "popup_settings": {
+      "message": "设置"
+   },
+   "popup_version": {
+      "message": "版本"
+   },
+   "popup_warn": {
+      "message": "自从您禁用了Online Security Pro后，我们收集了 %d 个恶意链接"
+   }
+}

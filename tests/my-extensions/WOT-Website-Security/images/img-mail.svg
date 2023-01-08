@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <filter id="rucub01eia" width="129.2%" height="129.2%" x="-14.6%" y="-10.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.439215686 0 0 0 0 0.439215686 0 0 0 0 0.439215686 0 0 0 0.16 0"/>
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0.239215686 0 0 0 0 0.239215686 0 0 0 0 0.239215686 0 0 0 0.04 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+            </feMerge>
+        </filter>
+        <circle id="w83ncgg1bb" cx="24" cy="24" r="24"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g fill-rule="nonzero">
+                            <g transform="translate(-280 -544) translate(0 -692) translate(0 1204) matrix(-1 0 0 1 328 32)">
+                                <use fill="#000" filter="url(#rucub01eia)" xlink:href="#w83ncgg1bb"/>
+                                <use fill="#FFF" xlink:href="#w83ncgg1bb"/>
+                            </g>
+                        </g>
+                        <g>
+                            <path stroke="#46A85B" stroke-width="2.5" d="M0 11v10c0 1.657 1.343 3 3 3h24c1.657 0 3-1.343 3-3V11" transform="translate(-280 -544) translate(0 -692) translate(0 1204) matrix(-1 0 0 1 328 32) translate(9 12)"/>
+                            <path stroke="#000" stroke-width="1.5" d="M30 6V3c0-1.657-1.343-3-3-3H3C1.343 0 0 1.343 0 3v3l15 8 15-8z" transform="translate(-280 -544) translate(0 -692) translate(0 1204) matrix(-1 0 0 1 328 32) translate(9 12)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

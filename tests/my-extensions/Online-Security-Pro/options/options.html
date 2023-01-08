@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Online Security Pro Options</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<!--shortcut-->
+		<link rel="shortcut icon" href="../assets/icon16.png">
+		<!-- bootstrap css -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<!-- google font -->
+		<link href='css/font.css' rel='stylesheet' type='text/css'>
+
+		<!-- custom css -->
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/tab-css.css">
+	</head>
+	<body>
+		<div class="content">
+			<div class="container">	
+				<div class="row">
+					<h1><img src="images/comodo-c.png"><span id="options_header"></span></h1>
+					<ul class="tabs">
+						<li rel="tab1"><span id="options_title_url"></span></li>
+						<li rel="tab2"><span id="options_title_exclusions"></span></li> 
+					</ul>
+					<div class="tab_container">
+					  <!--URLs-->
+					  <h3 class="tab_drawer_heading" rel="tab1" id="options_tab_title_url"></h3>
+					  <div id="tab1" class="tab_content"">
+					  	<br>
+					  	<div class="row" id="url_menu_content">
+							<button class="btn" id="removeSelected"></button>
+                            <button class="btn" id="removeAll"></button>
+							<input id="SearchField" type="text" placeholder="" class="text" >
+							<button class="btn" id="searchUrl"></button>
+					   </div>
+					   <br>
+
+					    <div class="row" id="content_table">
+						   <table class="table table-bordered tab-table" >
+							    <thead>
+							      <tr>
+							      	<th><input type="checkbox" id="selectAll"></th>
+							        <th id="options_url_type"></th>
+							        <th id="options_url_time"></th>
+							        <th id="options_url_url"></th>
+							        <th id="options_url_action"></th>
+							      </tr>
+							    </thead>
+							    <tbody  id="content_table_body">
+						    </table>
+					  	</div>
+
+					  	<div class="row" style="display: none" id="paginationContent">
+					  		<div class="col-md-12 pagination">
+					  			<button class="prev" id="gotoFirstPage"><<</button> <button class="prev" id="gotoPreviousPage"><</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+								<span class="show-text" id="textOfPages"> </span>
+								<button class="next" id="gotoNextPage">></button> <button class="next" id="gotoLastPage">>></button>
+					  		</div>
+					  	</div>
+					  </div>
+					  <!--Exclusions-->
+					  <h3 class="tab_drawer_heading" rel="tab2" id="options_tab_title_exclusions"></h3>
+					  <div id="tab2" class="tab_content">
+					  	<br>
+					  	<div class="row" id="exclusions_menu_content">
+							<button class="btn" id="removeSelectedExclusion"></button>
+                            <button class="btn" id="removeAllExclusions"></button>
+							<input id="exclusionSearchField" type="text" placeholder="" class="text" >
+							<button class="btn" id="searchExclusion"></button>
+					   </div>
+					   <br>
+					    <div class="row" id="exclusion_content_table">
+						   <table class="table table-bordered tab-table" >
+							    <thead>
+							      <tr>
+							      	<th><input type="checkbox" id="selectAllExclusions"></th>
+							        <th id="options_exclusions_type"></th>
+							        <th id="options_exclusions_time"></th>
+							        <th id="options_exclusions_url"></th>
+							      </tr>
+							    </thead>
+							    <tbody  id="exclusion_content_table_body">
+						    </table>
+					  	</div>
+					  	<div class="row" style="display: none" id="exclusionsPaginationContent">
+					  		<div class="col-md-12 pagination">
+					  			<button class="prev" id="gotoFirstExclusionsPage"><<</button> <button class="prev" id="gotoPreviousExclusionsPage"><</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+								<span class="show-text" id="textOfExclusionsPages"> </span>
+								<button class="next" id="gotoNextExclusionsPage">></button> <button class="next" id="gotoLastExclusionsPage">>></button>
+					  		</div>
+					  	</div>	
+					  </div>
+					</div>
+				</div>					
+		
+			</div>
+		</div>
+		<!-- end content -->
+		<script src="../libs/jquery-3.2.1.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/tab.js"></script>
+	</body>
+</html>

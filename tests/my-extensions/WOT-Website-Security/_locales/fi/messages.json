@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "18+ kuvake"
+   },
+   "18IconOFF": {
+      "message": "Älä näytä aikuisille tarkoitettujen sisältöjen kuvakkeita donitsien vieressä"
+   },
+   "18IconON": {
+      "message": "Näytä aikuisille tarkoitettujen sisältöjen kuvakkeet donitsien vieressä"
+   },
+   "Add": {
+      "message": "Lisää"
+   },
+   "AdultC": {
+      "message": "Aikuisille suunnattu sisältö"
+   },
+   "AllowAlways": {
+      "message": "Salli aina"
+   },
+   "AllowOnce": {
+      "message": "Salli ponnahdusikkuna kerran"
+   },
+   "AlternativeMedicine": {
+      "message": "Vaihtoehtoinen lääkintä"
+   },
+   "BadReviewWarningText": {
+      "message": "Annoit tälle sivustolle aiemmin alhaisen luokituksen. Etene varoen."
+   },
+   "BlocksPopup": {
+      "message": "Estää ponnahdusikkunat"
+   },
+   "BlocksPopupText": {
+      "message": "Estää ponnahdusikkunat ja mahdollisesti ei-halutut sovellukset"
+   },
+   "Carefulx": {
+      "message": "Varovaisuutta!"
+   },
+   "DoNotShowAgain": {
+      "message": "Älä näytä tätä uudelleen tälle sivustolle"
+   },
+   "Error0": {
+      "message": "Tuntematon virhe"
+   },
+   "Error400": {
+      "message": "Sähköpostiosoite ei kelpaa"
+   },
+   "Error4001": {
+      "message": "Lupa vaaditaan"
+   },
+   "Error4002": {
+      "message": "Virheellinen käyttäjätunnus tai salasana"
+   },
+   "Error4003": {
+      "message": "Tunnistetiedot puuttuvat"
+   },
+   "Error4004": {
+      "message": "Käyttäjä on estetty"
+   },
+   "Error4005": {
+      "message": "Olet kirjautunut ulos. Kirjaudu uudelleen sisään."
+   },
+   "Error4006": {
+      "message": "Olet kirjautunut ulos. Kirjaudu uudelleen sisään."
+   },
+   "Error4007": {
+      "message": "Sisäänkirjautuminen epäonnistui, yritä uudelleen myöhemmin"
+   },
+   "Error4008": {
+      "message": "Sisäänkirjautuminen epäonnistui, yritä uudelleen myöhemmin"
+   },
+   "Error4009": {
+      "message": "Käyttäjä on jo rekisteröitynyt"
+   },
+   "Error401": {
+      "message": "Luvaton"
+   },
+   "Error4010": {
+      "message": "Käyttäjä on jo olemassa"
+   },
+   "Error4101": {
+      "message": "Salasanan palautuslinkki ei kelpaa"
+   },
+   "Error4102": {
+      "message": "Salasanan palautuslinkki on vanhentunut"
+   },
+   "ExperienceFullPower": {
+      "message": "Koe WOT:n täysi teho"
+   },
+   "FAQ": {
+      "message": "UKK"
+   },
+   "Forgot": {
+      "message": "Unohtuiko?"
+   },
+   "ForgotBelow": {
+      "message": "Pyydä uusi salasana"
+   },
+   "Gambling": {
+      "message": "Uhkapelaaminen"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "Anna meille palautetta..."
+   },
+   "GoBack": {
+      "message": "← Mene takaisin"
+   },
+   "GoToSetting": {
+      "message": "Siirry Asetuksiin"
+   },
+   "GoodSite": {
+      "message": "Hyvä sivusto"
+   },
+   "GruesomeShocking": {
+      "message": "Karmea tai järkyttävä"
+   },
+   "HateDiscrimination": {
+      "message": "Viha, syrjintä"
+   },
+   "HowCanWeImprove": {
+      "message": "Miten voimme parantaa?"
+   },
+   "IHaveAccount": {
+      "message": "Minulla on käyttäjä. "
+   },
+   "IHaveNotAccount": {
+      "message": "Minulla ei ole käyttäjää. "
+   },
+   "Illegal": {
+      "message": "Mahdollisesti laiton"
+   },
+   "IncidentalNudity": {
+      "message": "Satunnainen alastomuus"
+   },
+   "LogInBelow": {
+      "message": "Kirjaudu sisään alla"
+   },
+   "LogInFacebook": {
+      "message": "Kirjaudu sisään Facebookin kautta"
+   },
+   "LogInGoogle": {
+      "message": "Kirjaudu sisään Google+:n kautta"
+   },
+   "LogInPasswordInput": {
+      "message": "salasana"
+   },
+   "LogInTwitter": {
+      "message": "Kirjaudu sisään Twitterin kautta"
+   },
+   "LogInUsernameInput": {
+      "message": "käyttäjänimi tai sähköposti"
+   },
+   "MalwareViruses": {
+      "message": "Haittaohjelmia tai viruksia"
+   },
+   "MisleadingUnethical": {
+      "message": "Harhaanjohtava tai epäeettinen"
+   },
+   "NOT_SAFE": {
+      "message": "EI TURVALLINEN!"
+   },
+   "NewPassword": {
+      "message": "Lähetä minulle uusi salasana sähköpostissa"
+   },
+   "NotAppropriate": {
+      "message": "Lapsille sopimaton"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "Mielipiteitä, uskonto, politiikka"
+   },
+   "Phishing": {
+      "message": "Tietojen kalastelu"
+   },
+   "PoorExperience": {
+      "message": "Asiakkaiden huonoja kokemuksia"
+   },
+   "PopupNotification": {
+      "message": "Näytä ilmoitus"
+   },
+   "PopupNotificationText": {
+      "message": "Näytä sivulla ilmoitus, kun ponnahdusikkuna on estetty"
+   },
+   "PrivacyRisks": {
+      "message": "Yksityisyysriskejä"
+   },
+   "ProtectionsFeatures": {
+      "message": "WOT-avustaja pitää sinut turvassa"
+   },
+   "ProtectionsFeatures2": {
+      "message": "Tarkista linkit ennen selaamista"
+   },
+   "Pts": {
+      "message": "(%POINTS% pist.)"
+   },
+   "RateThisWebsite": {
+      "message": "Arvioi tämä verkkosivusto"
+   },
+   "RememberMe": {
+      "message": "Muista minut"
+   },
+   "SAFE": {
+      "message": "TURVALLINEN!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "Näytä aina kaikentyyppiset ikonit linkkien vierellä (punainen, keltainen, vihreä)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "Näytä vain punainen ikoni huonosti luokiteltujen sivustojen vierellä"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "Mainetta osoittavia ikoneita ei näytetä"
+   },
+   "Scam": {
+      "message": "Huijaus"
+   },
+   "Send": {
+      "message": "Lähetä"
+   },
+   "ShowLess": {
+      "message": "Näytä vähemmän"
+   },
+   "ShowMore": {
+      "message": "Näytä lisää"
+   },
+   "SignUp": {
+      "message": "Rekisteröidy"
+   },
+   "SignUpBelow": {
+      "message": "Rekisteröidy alla"
+   },
+   "SignUpFacebook": {
+      "message": "Rekisteröidy Facebookin kautta"
+   },
+   "SignUpGoogle": {
+      "message": "Rekisteröidy Google+:n kautta"
+   },
+   "SignUpPasswordInput": {
+      "message": "valitse salasana"
+   },
+   "SignUpTwitter": {
+      "message": "Rekisteröidy Twitterin kautta"
+   },
+   "SignUpUsernameInput": {
+      "message": "sähköpostisi"
+   },
+   "SiteKids": {
+      "message": "Sivusto lapsille"
+   },
+   "Spam": {
+      "message": "Roskaposti"
+   },
+   "Submit": {
+      "message": "Lähetä"
+   },
+   "Suspicious": {
+      "message": "Epäilyttävä"
+   },
+   "TakeMoment": {
+      "message": "Käytä hetki antaaksesi palautetta."
+   },
+   "UNKNOWN": {
+      "message": "TUNTEMATON"
+   },
+   "UnwantedPrograms": {
+      "message": "Mahdollisesti ei-haluttuja sovelluksia"
+   },
+   "ViewMyAccount": {
+      "message": "Näytä tilini"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "Näyttää varoitukset kaikilla sivustoilla, joilla on huono luokitus"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "Näyttää varoitukset vain haitallisilla sivustoilla"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "Varoituksia ei näytetä"
+   },
+   "WantMore": {
+      "message": "Haluatko kertoa meille lisää?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "Mitä tehdä näille rikkomuksille"
+   },
+   "WhitelistPlaceholder": {
+      "message": "Lisää sivusto, jolla et halua nähdä varoituksia. (Esim. Google.com)"
+   },
+   "WriteYourReview": {
+      "message": "Kirjoita arvio..."
+   },
+   "accurace": {
+      "message": "Tarkkuus"
+   },
+   "activate": {
+      "message": "Aktivoida"
+   },
+   "activateProtection": {
+      "message": "Aktivoi suojaus"
+   },
+   "addAReview": {
+      "message": "Lisää arvostelu"
+   },
+   "adsOrPopups": {
+      "message": "Mainokset/ponnahdusikkunat"
+   },
+   "adult": {
+      "message": "Aikuinen"
+   },
+   "adultContent": {
+      "message": "Aikuissisältö"
+   },
+   "adultContentProtection": {
+      "message": "Vain aikuisille suunnatun sisällön suojaus"
+   },
+   "adultProtection": {
+      "message": "Lapsilukko"
+   },
+   "adultProtectionText": {
+      "message": "Lapsilukkoasetukset ovat voimassa kaikilla sivustoilla kaikissa luokissa"
+   },
+   "adultProtectionTooltip": {
+      "message": "Sopimaton sisältö, aikuisviihde ja uhkapelit estetään"
+   },
+   "adultSettingMoreOptions": {
+      "message": "Lisää vaihtoehtoja"
+   },
+   "adultSettingSubtitle": {
+      "message": "Estä aikuisviihde- ja uhkapelisivustot"
+   },
+   "adultSettingTitle": {
+      "message": "Lapsilukko"
+   },
+   "ago": {
+      "message": "sitten"
+   },
+   "agreeContinue": {
+      "message": "Hyväksy ja jatka"
+   },
+   "all": {
+      "message": "Kaikki"
+   },
+   "allTrackersBlocked": {
+      "message": "%1% seurainta estetty"
+   },
+   "allWebsites": {
+      "message": "kaikille sivustoille"
+   },
+   "allow": {
+      "message": "Salli"
+   },
+   "almostDone": {
+      "message": "Melkein valmista"
+   },
+   "always": {
+      "message": "Aina"
+   },
+   "analytics": {
+      "message": "Analytiikka"
+   },
+   "antiPhishingAndScams": {
+      "message": "Tietojenkalastelun ja huijausten torjunta"
+   },
+   "appDescription": {
+      "message": "Tarkasta minkä tahansa sivuston maine ja turvallisuustiedot käyttäjien kokemuksiin pohjautuen. Virallinen Web of Trust -Chrome-laajennus"
+   },
+   "appName": {
+      "message": "WOT-verkkosivustojen suojaus ja selaussuoja"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "Oletko varma?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "Kirjoita tälle verkkosivustolle uusi arvostelu"
+   },
+   "assistantSettingSubtitle": {
+      "message": "Tee turvallisia ostoksia ja hakuja verkossa"
+   },
+   "assistantSettingTitle": {
+      "message": "WOT-avustajan suojauskilpi"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "Avaa WOT-sovellus"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "Tällä sivulla havaittujen seuraimien määrä"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOTin avulla näet ja voit estää seuraimet millä tahansa verkkosivustolla, jolla käyt. Näin voit hallita, kuka kerää tietojasi."
+   },
+   "autoScanDevice": {
+      "message": "Skannaa laite automaattisesti"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "Varmista, että tarkistat laitteesi säännöllisesti tietoturvauhkien ja/tai vuotojen varalta."
+   },
+   "autoScanDeviceText": {
+      "message": "Varmista, että skannaat laitteesi säännöllisesti mahdollisten turvallisuusuhkien ja/tai rikkomusten varalta."
+   },
+   "avoidHarmfulSites": {
+      "message": "Vältä väärennettyjä ja vahingollisia sivustoja"
+   },
+   "back": {
+      "message": "Takaisin"
+   },
+   "beTheFirstToReview": {
+      "message": "Ole ensimmäinen, joka arvioi tämän sivuston"
+   },
+   "blacklistsPreCheck": {
+      "message": "Ajantasaiset mustat listat"
+   },
+   "block": {
+      "message": "Estä"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "Estä automaattisesti kaikki seuranta kaikilla sivustoilla, joilla käyt"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "Kaiken seurannan automaattinen esto vain premium-käyttäjille"
+   },
+   "blockTrackers": {
+      "message": "Estä seurantalaitteet"
+   },
+   "blockUnsafeWebsites": {
+      "message": "Estä vaaralliset verkkosivustot ja linkit"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT varoittaa sinua etukäteen vaarallisten linkkien napsauttamisesta tai turvattomille tai haitallisille verkkosivustoille siirtymisestä"
+   },
+   "blocked": {
+      "message": "Estetty!"
+   },
+   "blocksHackingAttacks": {
+      "message": "Estää hakkerointihyökkäykset 39 sekunnin välein"
+   },
+   "breachedDate": {
+      "message": "Tietomurron päiväys"
+   },
+   "breachesAlert": {
+      "message": "Henkilötietosi ja/tai salasanasi ovat vaarantuneet ja altistuneet"
+   },
+   "browse": {
+      "message": "Selaa"
+   },
+   "browserNotProtected": {
+      "message": "Selaintasi ei ole suojattu"
+   },
+   "browserProtected": {
+      "message": "Selaimesi on suojattu"
+   },
+   "browserSecured": {
+      "message": "Tämä selain on suojattu!"
+   },
+   "bugs": {
+      "message": "Vikoja"
+   },
+   "canHelp": {
+      "message": "Kuinka voimme auttaa?"
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "careful": {
+      "message": "Varovaisuutta!"
+   },
+   "categoriesExplained": {
+      "message": "Nämä luokat saattavat koskea tätä verkkosivustoa"
+   },
+   "changePassword": {
+      "message": "Vaihda salasana"
+   },
+   "changePasswordSubtitle": {
+      "message": "Varmista, että jokainen salasana on ainutlaatuinen, erilainen ja vaikea arvata. Älä koskaan käytä samaa salasanaa kahdesti."
+   },
+   "changePasswordText": {
+      "message": "Varmista, että jokainen salasana on ainutlaatuinen, erilainen ja vaikea arvata. Älä koskaan käytä samaa salasanaa kahdesti."
+   },
+   "checkLeaks": {
+      "message": "Tarkista vuodot"
+   },
+   "checkUrl": {
+      "message": "Tarkista URL"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Tarkista mikä tahansa verkkosivuston suojaustaso"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT tarjoaa kolme tapaa tarkistaa minkä tahansa verkkosivuston suojaustaso: Googlen hakukoneen tulossivu, selaimen työkalupalkin kuvake ja yksityiskohtainen tuloskortti ja arvostelut"
+   },
+   "chooseTags": {
+      "message": "Valitse tagit, jotka kuvaavat sivustoa %DOMAIN%"
+   },
+   "chooseTagsForSite": {
+      "message": "Valitse aihetunnisteet, jotka kuvaavat tätä sivustoa parhaiten:"
+   },
+   "chooseTagsThatDescribes": {
+      "message": "Valitse tagit, jotka kuvaavat tätä sivustoa"
+   },
+   "clearPolicy": {
+      "message": "Selkeä käytäntö"
+   },
+   "clickAllTags": {
+      "message": "Napsauta kaikkia soveltuvia tageja"
+   },
+   "clickOnTheGearIcon": {
+      "message": "Saat tämän ponnahdusikkunan näkyviin / pois näkyvistä napsauttamalla %GEARICON% "
+   },
+   "close": {
+      "message": "Sulje"
+   },
+   "contactUs": {
+      "message": "Ota yhteyttä"
+   },
+   "containAdultContent": {
+      "message": "Tämä sivusto saattaa sisältää aikuisille suunnattua sisältöä"
+   },
+   "contentWarning": {
+      "message": "Aikuissisältö estetty"
+   },
+   "coolGotIt": {
+      "message": "Mahtavaa, selvä homma"
+   },
+   "dataBreachHookText": {
+      "message": "Joskus se voi olla riskialtista"
+   },
+   "dataBreachHookTitle": {
+      "message": "Oletko syöttämässä kirjautumistietosi?"
+   },
+   "dataLeakMonitoring": {
+      "message": "Tietomurtojen seuranta"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "tähän sähköpostitiliin liittyvää tietovuotoa havaittiin"
+   },
+   "dayAgo": {
+      "message": "päivä sitten"
+   },
+   "daysAgo": {
+      "message": "%1% päivää sitten"
+   },
+   "default": {
+      "message": "Keskitasoinen"
+   },
+   "defaultManualModeButton": {
+      "message": "Jatka ja ota käyttöön"
+   },
+   "defaultManualModeHeader": {
+      "message": "Saa reaaliaikaisia tuloksia ja tietoa"
+   },
+   "defaultManualModeText": {
+      "message": "Ennakoiva WOT-suojaus ei ole käytössä. Emme voi näyttää sinulle verkkosivustojen arvosteluja tai hälytyksiä."
+   },
+   "defaultText": {
+      "message": "Estä ja vältä sivustoja, joilla on huono maine. (Suositus)"
+   },
+   "del": {
+      "message": "Poista"
+   },
+   "delete": {
+      "message": "Kyllä, poista"
+   },
+   "deleteThisReview": {
+      "message": "Poistetaanko arvio?"
+   },
+   "digitalTrackingProtection": {
+      "message": "Digitaalinen seurantasuojaus"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "Estä automaattisesti kaikkia palveluita seuraamasta online-selaustottumuksiasi."
+   },
+   "disableOnAllWebsites": {
+      "message": "Kyllä, poista käytöstä kaikilla verkkosivustoilla"
+   },
+   "disableOnThusWebsites": {
+      "message": "Kyllä, poista käytöstä vain tällä verkkosivustolla"
+   },
+   "disableWOTHelper": {
+      "message": "Poista WOT-avustin käytöstä?"
+   },
+   "disableWOTHelperText": {
+      "message": "WOT-avustimen avulla näet nopeasti käyttämäsi verkkosivun pisteet ja kommentit. Voit aina poistaa avustimen käytöstä WOT:n asetuksissa."
+   },
+   "disagree": {
+      "message": "Hylkää"
+   },
+   "dismissWarning": {
+      "message": "Ohita varoitus"
+   },
+   "done": {
+      "message": "TEHTY"
+   },
+   "dontShowAgain": {
+      "message": "Älä näytä minulle uudelleen"
+   },
+   "dontShowOnThisSite": {
+      "message": "Älä varoita minua tästä sivustosta uudelleen"
+   },
+   "dontShowThis": {
+      "message": "Älä näytä tätä uudelleen"
+   },
+   "donuts": {
+      "message": "Mainetta osoittavat ikonit linkkien vierellä"
+   },
+   "downloadClassicWot": {
+      "message": "Lataa Classic WOT"
+   },
+   "downloadMobileWot": {
+      "message": "Lataa WOT mobiilille"
+   },
+   "edit": {
+      "message": "Muokkaa"
+   },
+   "editYourReview": {
+      "message": "Muokkaa arvosteluasi"
+   },
+   "empty": {
+      "message": "Tyhjennä lista"
+   },
+   "enable": {
+      "message": "OTA KÄYTTÖÖN"
+   },
+   "enableEnhancedProtection": {
+      "message": "Ota parannettu suojaus käyttöön"
+   },
+   "enjoyingWot": {
+      "message": "Miellyttääkö WOT?"
+   },
+   "errorAction": {
+      "message": "OK"
+   },
+   "errorContent": {
+      "message": "Pahoittelut. Päivitä sivu ja yritä uudelleen."
+   },
+   "errorTitle": {
+      "message": "Jokin meni pieleen"
+   },
+   "extraFeaturesTitle": {
+      "message": "Katso mitä muuta WOT:lla on tarjottavanaan"
+   },
+   "faqSupport": {
+      "message": "UKK ja tuki"
+   },
+   "findHelp": {
+      "message": "Etsi ohjeita tai ota yhteyttä"
+   },
+   "firstRate": {
+      "message": "Ole ensimmäinen, joka arvioi tämän verkkosivuston"
+   },
+   "followUs": {
+      "message": "Seuraa meitä"
+   },
+   "forAllPremiumPlans": {
+      "message": "Kaikille premium-paketeille"
+   },
+   "forum": {
+      "message": "Keskustelualue"
+   },
+   "freeTrialEndend": {
+      "message": "%2% päivää jäljellä ilmaista kokeilua"
+   },
+   "freeUserBlockTitle": {
+      "message": "Haluatko suojata muilta haitallisilta verkkosivustoilta?"
+   },
+   "gamblingSites": {
+      "message": "Uhkapelisivustot"
+   },
+   "gamblingSitesText": {
+      "message": "Sivustot, joilla on uhkapelejä ja uhkapeleihin liittyvää sisältöä, estetään"
+   },
+   "generalSettings": {
+      "message": "Yleisasetukset"
+   },
+   "generalSettingsDescription": {
+      "message": "Mukauta asetukset tarpeidesi mukaan ja pysy suojattuna"
+   },
+   "getFullCoverage": {
+      "message": "Täydellinen selainsuojaus"
+   },
+   "getFullProtection": {
+      "message": "Hanki täydellinen WOT-suoja"
+   },
+   "getMorePremium": {
+      "message": "Premium-palvelulla saat enemmän"
+   },
+   "getPhishingAlert": {
+      "message": "Saa tietojenkalasteluhälytys"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "Suojaa sinua uusimmilta tietojenkalastelusivustoilta ja käyttäjän manipuloinnilta."
+   },
+   "getWOTPremium": {
+      "message": "Hanki WOT Premium, niin saat kattavan suojan hakkereita, viruksia ja haitallisia sivustoja vastaan."
+   },
+   "gmailProtectionDescription": {
+      "message": "Saat varoituksia epäilyttävistä sähköposteista postilaatikossasi"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "Suunniteltu tunnistamaan tietojenkalasteluviestit nopeasti"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "Älykäs sähköpostin tunnistus"
+   },
+   "gmailProtectionTitle": {
+      "message": "Sähköpostin suojaus"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "Muokkaa sähköpostisuojaustasi ja anna luotettavat URL-osoitteet"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "Lisää luotettavat URL-osoitteet (esim. sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "Sallittujen luettelo"
+   },
+   "goPremium": {
+      "message": "GO PREMIUM"
+   },
+   "goToLeakReport": {
+      "message": "Katso rikkomusraportti"
+   },
+   "goToSite": {
+      "message": "Mene sivustolle siitä huolimatta"
+   },
+   "goodService": {
+      "message": "Hyvä palvelu"
+   },
+   "gotIt": {
+      "message": "Selvä homma"
+   },
+   "greatSupport": {
+      "message": "Mahtava tuki"
+   },
+   "hide": {
+      "message": "Piilota"
+   },
+   "hideWotAssistant": {
+      "message": "Piilota WOT-avustaja"
+   },
+   "hideWotAssistantText": {
+      "message": "Napsautettuasi \"Piilota\" et enää näe WOT-avustajan sivun latautumista. Voit muuttaa asetusta milloin tahansa."
+   },
+   "high": {
+      "message": "Korkea"
+   },
+   "highText": {
+      "message": "Estä kaikki epäilyttävät sivustot. Sivustot, joilla on lapsille sopimatonta sisältöä, estetään oletusarvoisesti"
+   },
+   "holdOn": {
+      "message": "Pidä kiinni!"
+   },
+   "hour": {
+      "message": "tunnin"
+   },
+   "hourAgo": {
+      "message": "tunti sitten"
+   },
+   "hourMinutesAgo": {
+      "message": "tunti %2% minuuttia sitten"
+   },
+   "hours": {
+      "message": "tuntia"
+   },
+   "hoursAgo": {
+      "message": "%1% tuntia sitten"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% tuntia %2% minuuttia sitten"
+   },
+   "hoverOverTheWOT": {
+      "message": "Näet tämän sivuston maineen liikuttamalla kursoria WOT %DONUTICON% -ikonin päällä"
+   },
+   "howWouldYouRate": {
+      "message": "Millaisen arvosanan annat sivustolle asteikolla 1–5?"
+   },
+   "identityProtection": {
+      "message": "Henkilöllisyyden suojaus"
+   },
+   "identityProtectionModalMessage": {
+      "message": "Ottamalla Identity Protection -ominaisuuden käyttöön hyväksyt, että voimme jakaa sähköpostiosoitteesi kolmannelle osapuolelle, joka tarjoaa salasanasuojaus- ja valvontapalvelua"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT hälyttää, kun henkilötietosi on vuotanut, jotta voit toimia nopeasti estääksesi identiteettivarkaudet ja tulevat vuodot."
+   },
+   "increaseOnlineSecurity": {
+      "message": "Paranna verkkoturvaa"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "Ota kaksivaiheinen todennus käyttöön päästäksesi henkilökohtaisiin tileihisi, jotka sisältävät arkaluonteisia tietoja"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "Ota käyttöön kaksivaiheinen todennus henkilökohtaisille tileillesi, jotka sisältävät arkaluonteisia tietoja."
+   },
+   "installed": {
+      "message": "Asennettu"
+   },
+   "isSafe": {
+      "message": "Onko tämä sivusto mielestäsi turvallinen?"
+   },
+   "issuesFound": {
+      "message": "%ISSUES% ongelmaa löydetty"
+   },
+   "justNow": {
+      "message": "juuri nyt"
+   },
+   "lang": {
+      "message": "fi-FI"
+   },
+   "lastScanned": {
+      "message": "Viimeksi skannattu"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT varoittaa sinua reaaliajassa henkilökohtaisia tietojasi sisältävistä tietomurroista, jotta voit suojata itsesi verkossa."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "Ottamalla Tietomurtojen seurantaominaisuuden käyttöön hyväksyt, että voimme antaa sähköpostiosoitteesi kolmannelle osapuolelle, joka tarjoaa salasanansuojaus- ja valvontapalveluita"
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "Suosittelemme, että suoritat nämä toimenpiteet henkilötietojesi turvaamiseksi ja digitaalisen identiteettisi suojaamiseksi:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "Mitä tehdä, jos henkilötietoni ovat vuotaneet?"
+   },
+   "leakedInformation": {
+      "message": "Vuodetut tiedot"
+   },
+   "legalAnd": {
+      "message": "ja"
+   },
+   "legalPrivacyPolicy": {
+      "message": "Yksityisyyskäytäntö"
+   },
+   "legalStatement": {
+      "message": "Tarjotaksemme sinulle reaaliaikaista suojaa ja huoltoa ja parantaaksemme palveluamme meidän on lähetettävä palvelimillemme tietoa verkkosivustoista, joilla käyt. Napsauttamalla \"Hyväksy\", hyväksyt"
+   },
+   "letCommunityKnow": {
+      "message": "Kerro yhteisölle hyvistä kokemuksistasi ja huolen aiheistasi sivustoa koskien."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "Kerro muille, mitä mieltä olet tästä sivustosta"
+   },
+   "limitedTimeOffer": {
+      "message": "Rajoitettu tarjous"
+   },
+   "lite": {
+      "message": "Kevyt"
+   },
+   "liteText": {
+      "message": "Häiritsemme sinua vain äärimmäisen tärkeissä tilanteissa"
+   },
+   "liveBlocking": {
+      "message": "Suora esto"
+   },
+   "loading": {
+      "message": "Ladataan..."
+   },
+   "logOut": {
+      "message": "Kirjaudu ulos"
+   },
+   "login": {
+      "message": "Kirjaudu sisään"
+   },
+   "looksSafe": {
+      "message": "Näyttää turvalliselta"
+   },
+   "manage": {
+      "message": "Hallitse"
+   },
+   "manageProtection": {
+      "message": "Hallitse suojausta"
+   },
+   "manageSubscriptions": {
+      "message": "Hallitse tilauksia"
+   },
+   "manageTrackers": {
+      "message": "hallitse seuraimia"
+   },
+   "manualModeAgree": {
+      "message": "Napsauttamalla \"Ota käyttöön\" hyväksyt"
+   },
+   "manualModeWarning": {
+      "message": "Selaat nyt manuaalitilassa eli WOTin ennakoiva suojaus ei ole käytössä emmekä voi suojata sinua vaarallisilta sivustoilta"
+   },
+   "manualModeWarningStrip": {
+      "message": "Huomaa, että selaat manuaalitilassa, joten monet ominaisuuksista eivät ole käytössä"
+   },
+   "marketing": {
+      "message": "Markkinointi"
+   },
+   "maybeNextTime": {
+      "message": "Ehkä ensi kerralla"
+   },
+   "messageSubmitted": {
+      "message": "Viesti lähetetty."
+   },
+   "minute": {
+      "message": "minuutti"
+   },
+   "minuteAgo": {
+      "message": "minuutti sitten"
+   },
+   "minutes": {
+      "message": "Pöytäkirja"
+   },
+   "minutesAgo": {
+      "message": "%1% minuuttia sitten"
+   },
+   "missingReviews": {
+      "message": "Puuttuvat arvostelut"
+   },
+   "month": {
+      "message": "kuukausi"
+   },
+   "monthAgo": {
+      "message": "kuukausi sitten"
+   },
+   "monthsAgo": {
+      "message": "%1% kuukautta sitten"
+   },
+   "moreInfo": {
+      "message": "Lisätietoja"
+   },
+   "myDashboardNav": {
+      "message": "kojelautani"
+   },
+   "myProfile": {
+      "message": "Oma profiili"
+   },
+   "newDataLeaksFound": {
+      "message": "%1% uutta tietovuotoa löydetty"
+   },
+   "next": {
+      "message": "Seuraava"
+   },
+   "no": {
+      "message": "Ei"
+   },
+   "noBreaches": {
+      "message": "Hyviä uutisia! Tietovuotoa ei löytynyt"
+   },
+   "noComments": {
+      "message": "Ei arvioita"
+   },
+   "noKeepIt": {
+      "message": "Ei, pidä käytössä"
+   },
+   "noReviewsYet": {
+      "message": "Ei vielä arvioita"
+   },
+   "noSkip": {
+      "message": "Ei, ohita"
+   },
+   "noThanks": {
+      "message": "Ei kiitos"
+   },
+   "noTrackersBlocked": {
+      "message": "%1% seurainta havaittu"
+   },
+   "noTrackersDetected": {
+      "message": "Ei havaittuja seuraimia"
+   },
+   "none": {
+      "message": "Ei mitään"
+   },
+   "notSecurity": {
+      "message": "Onko sinulla turvallisuutta koskevia huolia?"
+   },
+   "notSuitableForChildren": {
+      "message": "On sivustolla lapsille sopimatonta sisältöä?"
+   },
+   "notSure": {
+      "message": "En ole varma "
+   },
+   "off": {
+      "message": "Pois päältä"
+   },
+   "okGotIt": {
+      "message": "OK, selvä homma"
+   },
+   "on": {
+      "message": "Päällä"
+   },
+   "onBoarding4States": {
+      "message": "Olemassa on 4 tilaa:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "tarkistaaksesi verkkosivuston maineen ennen kuin napsautat sitä."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "Vie hiiri kilpikuvakkeen päälle"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "Mainearvojen koontinäyttö"
+   },
+   "onBoardingReputationScore": {
+      "message": "Mainepisteet"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "Voit nyt selata internetiä ilman huolia. Varmista, että tarkistat kilpikuvakkeen, ennen kuin napsautat tuntemattomia verkkosivustoja."
+   },
+   "onBoardingThisPopupShows": {
+      "message": "Näet sivuston maineen tässä ponnahdusikkunassa. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "Tämä on verkkosivusto on WOT:n mielestä %SAFETY%!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "Voit lukea lisää käyttäjien arvosteluja napsauttamalla \"Lue arvostelut\"."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "Valmista!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1 estetty seurain"
+   },
+   "oneTrackerDetected": {
+      "message": "1 seurain havaittu"
+   },
+   "optinAreYouSureMessage": {
+      "message": "Jotta voit tarjota sinulle 360 asteen verkkosuojauksen, jotkin WOT:n ominaisuudet vaativat pääsyn vierailluilta verkkosivustoilta kerättyihin anonyymeihin tietoihin. Näitä tietoja ei jaeta kolmansille osapuolille eikä käytetä markkinointitarkoituksiin. Voit muuttaa asetuksiasi milloin tahansa siirtymällä asetussivulle."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT varoittaa, kun vastaanotat huijaus-, tietojenkalastelu-, epäilyttäviä, haittaohjelmia ja roskapostiviestejä"
+   },
+   "optinGoBack": {
+      "message": "Palaa"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "Ota Live Protection käyttöön"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "Parannettu suojaus"
+   },
+   "optinHeaderInstallation": {
+      "message": "Asennus onnistui"
+   },
+   "optinHeaderScanDevice": {
+      "message": "Skannaa laite"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "Määritä selaimesi"
+   },
+   "optinMaybeLater": {
+      "message": "Ehkä myöhemmin"
+   },
+   "optinProtectYourEmail": {
+      "message": "Suojaa sähköpostisi"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "Selaimen työkalupalkissa näkyvä logo muuttuu sivuston maineen mukaan"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "Tarkkaile WOT-logoa"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "WOT varoittaa sinua, jos päädyt sivustolle, jolla on huono maine"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "Saa reaaliaikaisia ilmoituksia"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "Tarkista WOT-logon väri hakukoneen tuloksista, niin näet, mitkä sivustot ovat turvallisia"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "Merkitse hakutulokset"
+   },
+   "optinReputationIconsText": {
+      "message": "Verkkosivustojen linkkien vieressä olevien WOT-turvakuvakkeiden avulla voit tehdä tietoon perustuvia päätöksiä."
+   },
+   "optinSafetyScoreText": {
+      "message": "Tarkista sivuston maine ja arvostelut tuloskortista."
+   },
+   "optinSubtitle": {
+      "message": "Suojellaksemme sinua reaaliajassa tarvitsemme pääsyn selaamiisi URL-osoitteisiin"
+   },
+   "optinTitle": {
+      "message": "Salli selaimen suojaus"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "Estä sivustot, jotka voivat olla haitallisia tai joilla on huono maine."
+   },
+   "optinWelcomeSubtitle": {
+      "message": "Liityit juuri ryhmään {millionMembers} suojaten toisiasi WOT:n avulla"
+   },
+   "or": {
+      "message": " tai "
+   },
+   "other": {
+      "message": "Muut"
+   },
+   "outOfHere": {
+      "message": "Vie minut pois täältä"
+   },
+   "ownThisSite": {
+      "message": "Omistatko tämän sivuston?"
+   },
+   "parentalControl": {
+      "message": "Lapsilukko"
+   },
+   "parentalControlOFF": {
+      "message": "Sivustoja, joilla on lapsille sopimatonta sisältöä, ei estetä"
+   },
+   "parentalControlON": {
+      "message": "Sivustot, joilla on lapsille sopimatonta sisältöä, estetään"
+   },
+   "performance": {
+      "message": "Esitys"
+   },
+   "pinWot": {
+      "message": "Kiinnitä WOT!"
+   },
+   "pinWotPopup": {
+      "message": "Kiinnitä $WOT$ nähdäksesi sivustosi nykyisen suojaustilan",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "Käytä hetki arvioidaksesi meitä"
+   },
+   "policy": {
+      "message": "Näytä tietosuojakäytäntö"
+   },
+   "poorCustomerService": {
+      "message": "Huono asiakaspalvelu"
+   },
+   "poorOnly": {
+      "message": "Vain huonot"
+   },
+   "poorRating": {
+      "message": "Tämä sivusto on epäilyttävä."
+   },
+   "popupAdultStrip": {
+      "message": "Voi sisältää aikuissisältöä"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "Tässä osiossa voit tarkistaa, onko tällä hetkellä vierailemasi sivusto turvallinen vai ei."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "Klikkaa linkkiä lukeaksesi arvosteluja."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "Tervetuloa uuteen WOT-tiliisi!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "Tämä osio näyttää, kuinka moni palvelu seuraa online-tottumuksiasi."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "Napsauta linkkiä säätääksesi seurantalaitteiden estoa."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "Digitaaliset seurantalaitteet"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "Napsauta tätä avataksesi tilin asetukset ja hallinnoidaksesi suojaustasi."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "Hallitse suojaustani"
+   },
+   "postReview": {
+      "message": "Julkaise arvio"
+   },
+   "potentiallyMalicious": {
+      "message": "Tämä sivusto on mahdollisesti haitallinen."
+   },
+   "preCheck": {
+      "message": "ESITARKISTUS"
+   },
+   "premium": {
+      "message": "palkkio"
+   },
+   "premiumFeature": {
+      "message": "Premium-ominaisuus"
+   },
+   "premiumSecurity": {
+      "message": "Premium-turvallisuus"
+   },
+   "premiumText": {
+      "message": "Kaikki, mitä tarvitset suojautuaksesi haitallisilta verkkosivustoilta ja linkeiltä"
+   },
+   "presettings": {
+      "message": "Esiasetukset"
+   },
+   "protectPrivacy": {
+      "message": "Suojaa henkilöllisyys ja yksityisyys "
+   },
+   "protectYourPrivacy": {
+      "message": "Ponnahdusikkunoiden esto"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "Estää ponnahdusikkunat, että voit selailla nopeammin, miellyttävämmin ja turvallisemmin."
+   },
+   "protectYourself": {
+      "message": "Hanki tietovuotoilmoitukset nyt"
+   },
+   "protectedForXDays": {
+      "message": "Suojattu %1% päivän ajan"
+   },
+   "protection": {
+      "message": "suojaus"
+   },
+   "rateOnStore": {
+      "message": "Arvioi meidät %BROWSER% Kaupassa"
+   },
+   "rateOverall": {
+      "message": "Arvioi yleinen *kokemuksesi* sivustolla %DOMAIN%"
+   },
+   "rateThisSite": {
+      "message": "Arvioi tämä sivusto"
+   },
+   "rateUs": {
+      "message": "Arvioi WOT"
+   },
+   "rateYourExperience": {
+      "message": "Arvioi yleinen kokemuksesi sivustolla"
+   },
+   "readMoreReviews": {
+      "message": "Lue lisää arvosteluja (%1%)"
+   },
+   "readReviews": {
+      "message": "Lue arvosteluja"
+   },
+   "realTimeCheckups": {
+      "message": "Reaaliaikaiset tarkistukset"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "Pysy suojassa tietojenkalastelulta, haittaohjelmista ja muilta uhilta reaaliajassa."
+   },
+   "realtimePhishingAlerts": {
+      "message": "Reaaliaikaiset tietojenkalasteluilmoitukset"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "Ilmoita meille epäluotettavista ja väärennetyistä sivustoista, jotka saattavat olla vaaraksi muille"
+   },
+   "reputation": {
+      "message": "Maine"
+   },
+   "reputationIcons": {
+      "message": "Mainekuvakkeet"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT näyttää vierailemasi verkkosivuston turvallisuustason"
+   },
+   "restorePurchases": {
+      "message": "Palauta ostokset"
+   },
+   "resultFor": {
+      "message": "Tulokset haulle"
+   },
+   "reviewAddedErrorText": {
+      "message": "Tapahtui virhe, yritä uudelleen."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "Arvion julkaiseminen epäonnistui"
+   },
+   "reviewAddedOKText": {
+      "message": "Kiitos, että teet internetistä turvallisemman paikan!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "Arvioi julkaistu"
+   },
+   "reviews": {
+      "message": "Arviot"
+   },
+   "rtOFF": {
+      "message": "Olet nyt täysin manuaalisessa tilassa - WOT:n etukäteinen suojaus on poissa päältä"
+   },
+   "rtON": {
+      "message": "WOT suojelee sinua nyt kattavasti etukäteen."
+   },
+   "rtProtection": {
+      "message": "Reaaliaikainen suojaus"
+   },
+   "rtProtectionRecommended": {
+      "message": "Reaaliaikainen suojaus (suositeltu)"
+   },
+   "safeBrowsing": {
+      "message": "Turvallinen selaaminen"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT pitää sinut valppaana verkossa skannaamalla jokaisen vierailemasi sivuston, sivun ja palvelun reaaliaikaisilla hälytyksillä."
+   },
+   "safeSearch": {
+      "message": "Turvallinen haku"
+   },
+   "safeSearchSubtitle": {
+      "message": "Hakutulostesi vieressä näytetään kuvakkeita, jotka kertovat, onko verkkosivusto turvallinen vai ei, ennen kuin napsautat."
+   },
+   "safeShopping": {
+      "message": "Turvallisia ostoksia"
+   },
+   "safeShoppingSite": {
+      "message": "Tällä sivustolla on turvallista tehdä ostoksia"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "WOT:n algoritmin, koneoppimisen ja käyttäjien arvioiden perusteella tällä sivustolla on turvallista tehdä ostoksia"
+   },
+   "safetyScore": {
+      "message": "Turvapisteet"
+   },
+   "safetyScoreSubtitle": {
+      "message": "Käytä tuloskortteja tarkistaaksesi verkkosivuston maineen ja arvostelut ja jaa omia kokemuksiasi"
+   },
+   "scannedOn": {
+      "message": "havaittu"
+   },
+   "scoreCard": {
+      "message": "Tuloskortti"
+   },
+   "searchEnginePageResults": {
+      "message": "Hakukoneen tulossivu"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "Tee tietoon perustuvia päätöksiä verkossa WOT:n turvailmaisimen avulla verkkosivustolinkkien vieressä"
+   },
+   "searchIndicator": {
+      "message": "Hakuindikaattori"
+   },
+   "searchManualModeButton": {
+      "message": "Ota hakukoneiden ohjaus käyttöön"
+   },
+   "searchManualModeHeader": {
+      "message": "Et saa WOT-ohjausta"
+   },
+   "searchManualModeText": {
+      "message": "WOT-suojaus hakukoneille ei ole käytössä. Emme voi näyttää sinulle verkkosivuston arvosteluja linkin yhteydessä."
+   },
+   "security": {
+      "message": "Turvallisuus"
+   },
+   "securityBreaches": {
+      "message": "turvallisuusuhkille!"
+   },
+   "securityRiskDetected": {
+      "message": "Turvallisuusriskejä havaittu"
+   },
+   "securityScore": {
+      "message": "Turvallisuuspisteet"
+   },
+   "securitySystem": {
+      "message": "Turvallisuusjärjestelmä"
+   },
+   "securityWarning": {
+      "message": "Suojausvaroitus"
+   },
+   "seeLess": {
+      "message": "Näytä vähemmän"
+   },
+   "seeMore": {
+      "message": "Näytä enemmän"
+   },
+   "seeReviews": {
+      "message": "Arviot"
+   },
+   "sendFeedback": {
+      "message": "Lähetä palautetta"
+   },
+   "serpMailWarning": {
+      "message": "WOT pitää tätä sähköpostia epäilyttävänä, sillä se voi sisältää vaarallisia linkkejä tai seuranta-URL:iä"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "Päivitä ja suojaa sähköpostini"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "Muistuta myöhemmin"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "96 % verkkohuijauksista tapahtuu sähköpostin kautta. Älä epäröi, vaan suojaa itsesi NYT."
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "Sähköpostisi on vaarassa!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT havaitsee ja estää verkkouhat ja seurannan, joten voit olla varma, että henkilötietosi ovat turvassa."
+   },
+   "servicesTrackingYou": {
+      "message": "Palvelut seuraavat toimintaasi"
+   },
+   "settings": {
+      "message": "Asetukset"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "AVAA PREMIUM-OMINAISUUDET"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "Paranna suojaustasi"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "Missä ja milloin vain."
+   },
+   "settingsBannerTitle": {
+      "message": "Turvallisempi selauskokemus."
+   },
+   "setup": {
+      "message": "Asetukset"
+   },
+   "severeOnly": {
+      "message": "Vain vakavat"
+   },
+   "share": {
+      "message": "Jaa"
+   },
+   "shareExperience": {
+      "message": "Jaa omat kokemuksesi %1%-palvelussa ja auta muita"
+   },
+   "shareFeedback": {
+      "message": "Jaa palautteesi aiheesta"
+   },
+   "shareOnFacebook": {
+      "message": "Jaa Facebookissa"
+   },
+   "shareOnGoogle": {
+      "message": "Jaa Google+:ssa"
+   },
+   "shareOnTwitter": {
+      "message": "Jaa Twitterissä"
+   },
+   "shareText1": {
+      "message": "Olen juuri auttanut tekemään netistä paremman paikan arvioimalla sivuston %WEBSITE% Web of Trustissa! Eri mieltä? Arvioi se itse täällä 👉 %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "Olen löytänyt keinon selata verkkoa turvallisesti ja välttää turvattomat sivustot! Tarkasta Web of Trust -laajennus: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Olen juuri auttanut tekemään netistä paremman paikan arvioimalla sivuston %WEBSITE% %STARS% tähdellä viidestä Web of Trustissa! Eri mieltä? Arvioi se itse täällä 👉 %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": " Käytössä @Web_of_Trust – voin selata turvassa, välttää turvattomat sivustot. Kokeile itse: %LINK% #WOT #MyWOT #Turva"
+   },
+   "shareTextGoogleRate": {
+      "message": "Olen juuri auttanut tekemään netistä paremman paikan arvioimalla sivuston %WEBSITE% %STARS% tähdellä viidestä Web of Trustissa! Eri mieltä? Arvioi se itse täällä 👉 %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": "Käytössä @Web_of_Trust – voin selata turvassa, välttää turvattomat sivustot. Kokeile itse: %LINK% #WOT #MyWOT #Turva"
+   },
+   "shareTextTwitterRate": {
+      "message": "Olen juuri arvioinut sivuston %WEBSITE% %STARS% tähdellä viidestä WOT:ssa! Eri mieltä? Arvioi itse täällä👉 %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "Olen löytänyt keinon selata verkkoa turvallisesti ja välttää turvattomat sivustot! Tarkasta Web of Trust -laajennus: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Olen juuri auttanut tekemään netistä paremman paikan arvioimalla sivuston %WEBSITE% %STARS% tähdellä viidestä Web of Trustissa! Eri mieltä? Arvioi se itse täällä 👉 %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "Jaa WOT ystävien kanssa!"
+   },
+   "shareWotRating": {
+      "message": "Jaa sivuston %DOMAIN% arvio ystäviesi kanssa!"
+   },
+   "shareYouRating": {
+      "message": "Jaa arvio ystävillesi"
+   },
+   "shopWithConfidence": {
+      "message": "Osta luottavaisin mielin"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "Katso ostajien arvostelut missä tahansa verkkokaupassa ja suojaa itsesi tietojenkalastelulta ja väärennetyiltä verkkokaupan huijauksilta"
+   },
+   "signIn": {
+      "message": "Kirjaudu sisään"
+   },
+   "signInNow": {
+      "message": "Kirjaudu nyt"
+   },
+   "signInToRate": {
+      "message": "Kirjaudu sisään arvostellaksesi tämän verkkosivuston"
+   },
+   "siteIsSafe": {
+      "message": "Onko tämä sivusto mielestäsi *turvallinen?*"
+   },
+   "siteIsSafeChildren": {
+      "message": "Onko tämä sivusto *turvallinen lapsille?*"
+   },
+   "skip": {
+      "message": "Ohita"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "Kehittynyt tietojenkalastelusuojaus, joka on suunniteltu tunnistamaan uhat ja pitämään sinut poissa huijauksilta."
+   },
+   "social": {
+      "message": "Sosiaaliset verkostot"
+   },
+   "someTrackersBlocked": {
+      "message": "%1%/%2% seurainta estetty"
+   },
+   "specialOfferBillingDetails": {
+      "message": "Laskutetaan kertamaksuna:"
+   },
+   "specialOfferFeatures": {
+      "message": "Sähköpostisuojaus, aikuisille suunnatun sisällön esto, rajoittamaton seurannan esto ja paljon muuta!"
+   },
+   "startFreeTrial": {
+      "message": "Aloita ilmainen kokeilu"
+   },
+   "startProtection": {
+      "message": "Aloita suojaus!"
+   },
+   "startYourFreeTrial": {
+      "message": "Aloita ilmainen kokeilu"
+   },
+   "successRecPass": {
+      "message": "Ohjeet on lähetetty sähköpostiosoitteeseesi"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT merkitsi tämän verkkosivuston epäilyttäväksi"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "Sivusto, jota WOT epäilee"
+   },
+   "suspiciousSite": {
+      "message": "Epäilyttävä sivusto"
+   },
+   "switchToClassic": {
+      "message": "Vaihda Classic WOT:hen"
+   },
+   "systemPageAction": {
+      "message": "Selvä"
+   },
+   "systemPageContent": {
+      "message": "Yrität käyttää WOT-palvelua sivulla, jota ei tueta, kuten selaimen järjestelmäsivulla, localhost-sivulla tai laajennussivulla."
+   },
+   "systemPageTitle": {
+      "message": "Järjestelmäsivu"
+   },
+   "takeAction": {
+      "message": "Ryhdy toimiin"
+   },
+   "tellUsMore": {
+      "message": "Kerro meille lisää..."
+   },
+   "tellYourFriends": {
+      "message": "Levitä yhteisöä kertomalla ystävillesi WOT!"
+   },
+   "termsOfUse": {
+      "message": "Käyttöehdot"
+   },
+   "thankYou": {
+      "message": "Kiitos!"
+   },
+   "thankYouForFeedback": {
+      "message": "Kiitos palautteestasi"
+   },
+   "thankYouForInstalling": {
+      "message": "Varmista nyt, että suojauksesi on kunnossa valitsemalla sopiva suojaus."
+   },
+   "thanksGotIt": {
+      "message": "Kiitos, selvä!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "Tämä sähköposti oli mukana %1% tunnetussa tietomurrossa"
+   },
+   "thisPopupShows": {
+      "message": "Näet sivuston maineen tässä ponnahdusikkunassa. "
+   },
+   "thisSiteOnly": {
+      "message": "vain tälle sivustolle"
+   },
+   "threatsFound": {
+      "message": "Uhkia löydetty"
+   },
+   "timerManualModeButton": {
+      "message": "Ota reaaliaikainen suojaus käyttöön"
+   },
+   "timerManualModeHeader": {
+      "message": "Selaat manuaalitilassa!"
+   },
+   "timerManualModeText": {
+      "message": "Ennakoiva WOT-suojaus ei ole käytössä, emmekä voi suojata sinua vaarallisilta sivustoilta."
+   },
+   "toWriteReview": {
+      "message": " kirjoittaaksesi arvion"
+   },
+   "toggleTooltipMessage": {
+      "message": "ottaaksesi tämän ominaisuuden käyttöön"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "PÄIVITÄ NYT"
+   },
+   "tooComplicated": {
+      "message": "Liian monimutkainen"
+   },
+   "tooltipChildSafe": {
+      "message": "Onko tämä sivusto vapaa seuraavasta sisällöstä: alastomuus, järkyttävä, karmea jne."
+   },
+   "tooltipSafe": {
+      "message": "Onko tämä sivusto vapaa seuraavista uhista: haittaohjelmat, virukset, kalastelu jne."
+   },
+   "tour": {
+      "message": "Tutustumismatka"
+   },
+   "trackerBlocked": {
+      "message": "Estetty"
+   },
+   "trackerBlocker": {
+      "message": "Suojaus seurantaa vastaan"
+   },
+   "trackerBlockerDescription": {
+      "message": "Estä automaattisesti kaikki seuranta kaikilla sivustoilla, joilla käyt."
+   },
+   "trackerCounterAction": {
+      "message": "Ota useampia seuraimia käyttöön"
+   },
+   "trackerCounterText": {
+      "message": "%1%/3 seurainta saatavilla perussuojaukseen"
+   },
+   "trackerSomeBlocked": {
+      "message": "%1%/%2% estetty"
+   },
+   "trackerUnblocked": {
+      "message": "Esto poistettu"
+   },
+   "trackersBlockAll": {
+      "message": "Estä kaikki seuranta automaattisesti"
+   },
+   "trackersBlocked": {
+      "message": "Seuraajat estetty"
+   },
+   "trackersDetected": {
+      "message": "seuraimia havaittu"
+   },
+   "trackingProtection": {
+      "message": "Seuraamissuoja"
+   },
+   "trustIssues": {
+      "message": "Tällä sivustolla on ongelmia luottamuksen kanssa. Etene varoen."
+   },
+   "trusted": {
+      "message": "luotettava"
+   },
+   "trustedByWOT": {
+      "message": "Sivusto, johon WOT luottaa"
+   },
+   "trustedByWOTPopup": {
+      "message": "Sivusto, johon WOT luottaa"
+   },
+   "trustedSite": {
+      "message": "Luotettu sivusto"
+   },
+   "trustedSource": {
+      "message": "Luotettu lähde"
+   },
+   "tryAgain": {
+      "message": "YRITÄ UUDELLEEN"
+   },
+   "turnOffProtection": {
+      "message": "Poista suojaus käytöstä."
+   },
+   "twoMillionMembers": {
+      "message": "2+ miljoonaa jäsentä"
+   },
+   "unknownByWOT": {
+      "message": "Ei riittävästi tietoja"
+   },
+   "unknownByWOTPopup": {
+      "message": "Sivusto, jota WOT ei tunne"
+   },
+   "unknownSite": {
+      "message": "Tuntematon sivusto"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "Rajoittamaton seurannan esto on vain premium-käyttäjien käytössä"
+   },
+   "unlock": {
+      "message": "AVAA"
+   },
+   "unlockPremium": {
+      "message": "Ota premium käyttöön"
+   },
+   "untrusted": {
+      "message": "epäluotettava"
+   },
+   "untrustedByWOT": {
+      "message": "WOT havaitsi, että sivusto on epäluotettava"
+   },
+   "untrustedByWOTPopup": {
+      "message": "Sivusto, johon WOT ei luota"
+   },
+   "untrustedSite": {
+      "message": "Epäluotettava sivusto"
+   },
+   "upgrade": {
+      "message": "PÄIVITÄ"
+   },
+   "upgradeNow": {
+      "message": "PÄIVITÄ NYT"
+   },
+   "viewAll": {
+      "message": "Näytä kaikki"
+   },
+   "viewFullReport": {
+      "message": "Näytä koko raportti"
+   },
+   "viewFullScorecard": {
+      "message": "Näytä koko WOT-pistetaulukko"
+   },
+   "wantToDelete": {
+      "message": "Oletko varma, että haluat poistaa luokituksesi?"
+   },
+   "wantToRateWOT": {
+      "message": "Käytä hetki arvioidaksesi meidät %BROWSER% Storessa"
+   },
+   "wantToRateWOTBtn": {
+      "message": "Arvioi WOT"
+   },
+   "wantToRateWOTHeader": {
+      "message": "Miellyttääkö WOT?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "Haluatko ottaa käyttöön kaikki WOT Premium -ominaisuudet?"
+   },
+   "warning": {
+      "message": "Varoitus!"
+   },
+   "warningAlerts": {
+      "message": "Varoitusilmoitukset"
+   },
+   "warningAlertsSubtitle": {
+      "message": "Näytä varoituksia epäilyttävistä verkkosivustoista, joissa on vieraillut"
+   },
+   "warnings": {
+      "message": "Varoitusilmoitukset"
+   },
+   "weAppreciate": {
+      "message": "Arvostamme ajastasi ja kiitos, että autat meitä parantamaan WOT: ta"
+   },
+   "websiteBlocking": {
+      "message": "Verkkosivuston estäminen"
+   },
+   "weekAgo": {
+      "message": "viikko sitten"
+   },
+   "weeksAgo": {
+      "message": "%1% viikkoa sitten"
+   },
+   "welcome": {
+      "message": "Tervetuloa"
+   },
+   "welcomeToWot": {
+      "message": "Tervetuloa WOT-palveluun"
+   },
+   "whatCanIDo": {
+      "message": "Mitä voin tehdä asialle?"
+   },
+   "whatCouldWeDo": {
+      "message": "Mitä voisimme tehdä paremmin?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "Epäluotettava toiminta kattaa käyttäytymisen, joka yleensä johtuu huijauksista, tietojenkalastelusta, haittaohjelmista, PUP-ohjelmista ja muuntyyppisistä haitallisista, riskialttiista ja vaarallisista verkkosivustoista."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "Mikä on *epäluotettava* sivusto?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "Mahdollinen epäilyttävä toiminta kattaa käyttäytymisen, joka yleensä johtuu huijauksista, salauksen estämisestä, selaimen kaappaamisesta ja muuntyyppisistä haitallisista, riskialttiista ja vaarallisista verkkosivustoista."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "Mikä on *epäilyttävä* sivusto?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "Meillä ei ole tällä hetkellä tarpeeksi tietoa tämän verkkosivuston arvioimiseksi. Suosittelemme, ettet anna sivustolla henkilökohtaisia tietojasi, kuten henkilötunnustasi, pankkitili numeroa tai luottokorttitietojasi."
+   },
+   "whatIsUnknownTitle": {
+      "message": "Mikä on *tuntematon* sivusto?"
+   },
+   "whatsNewWOT": {
+      "message": "Uusi tietomurtojen seuranta"
+   },
+   "whatsNewWOTContent": {
+      "message": "Tämän tehokkaan uuden ominaisuuden avulla voit nyt varmistaa, etteivät henkilökohtaiset tietosi ja salasanasi joudu vaarantumaan tai altistumaan tietoturvauhkille."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "Katsotaan"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "LUE LISÄÄ"
+   },
+   "whitelist": {
+      "message": "Whitelist"
+   },
+   "whitelistTitle": {
+      "message": "Älä näytä varoituksia näillä sivustoilla"
+   },
+   "whyIsntSafe": {
+      "message": "Miksi %DOMAIN% ei ole *turvallinen?*"
+   },
+   "whyIsntSafeChildren": {
+      "message": "Miksi %DOMAIN% ei ole *turvallinen lapsille?*"
+   },
+   "wotAssistant": {
+      "message": "WOT-avustaja"
+   },
+   "wotAssistantOFF": {
+      "message": "Älä näytä verkkosivuston hyvää mainetta selaimen nurkassa"
+   },
+   "wotAssistantON": {
+      "message": "Näytä verkkosivuston hyvä maine selaimen nurkassa"
+   },
+   "wotCommunity": {
+      "message": "WOT:n yhteisö"
+   },
+   "wotDetected": {
+      "message": "WOT havaitsi mahdollisen turvallisuusuhan ja esti verkkotunnuksen $DOMAIN$. Tämä sivusto on mahdollisesti haitallinen ja se voi sisältää huijaustoimintaa.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "WOT on estänyt $DOMAIN$-sivuston mahdollisen aikuissisällön vuoksi.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "WOT-avustin"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "WOT-avustimen widget ei näy."
+   },
+   "wotHelperSettingsOnState": {
+      "message": "Näytä WOT-avustimen widget päästäksesi katsomaan nopeasti tämän verkkosivuston pisteitä, kommentteja ja turvallisuutta."
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT asennettiin onnistuneesti"
+   },
+   "writeAtLeast15": {
+      "message": "Kirjoita vähintään 15 merkkiä muiden avuksi"
+   },
+   "writeFirstReview": {
+      "message": "Kirjoita ensimmäinen arvio"
+   },
+   "writeReview": {
+      "message": "Kirjoita arvio"
+   },
+   "yearAgo": {
+      "message": "%1% vuosi sitten"
+   },
+   "yearsAgo": {
+      "message": "%1% vuotta sitten"
+   },
+   "yes": {
+      "message": "Kyllä"
+   },
+   "youCanAlsoEdit": {
+      "message": "Voit myös muokata nykyistä arvosteluasi ja arvioitasi"
+   },
+   "youCanAlwaysChange": {
+      "message": "(Voit muuttaa asetuksiasi myöhemmin)"
+   },
+   "youCanCheckAnyLink": {
+      "message": "WOT:n täydellisellä suojalla voit tarkistaa kaikki linkit ennen kuin siirryt sivustolle."
+   },
+   "youRatingThisSite": {
+      "message": "Upeaa, että arvioit tämän sivuston!"
+   },
+   "yourRating": {
+      "message": "Luokituksesi"
+   },
+   "yourSubscription": {
+      "message": "Tilauksesi"
+   }
+}

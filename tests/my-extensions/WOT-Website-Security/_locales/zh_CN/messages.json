@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "超过 18 个图标"
+   },
+   "18IconOFF": {
+      "message": "不要在甜甜圈旁边显示成人内容图标"
+   },
+   "18IconON": {
+      "message": "在甜甜圈旁边显示成人内容图标"
+   },
+   "Add": {
+      "message": "添加"
+   },
+   "AdultC": {
+      "message": "成人内容"
+   },
+   "AllowAlways": {
+      "message": "总是允许"
+   },
+   "AllowOnce": {
+      "message": "允许一次弹窗"
+   },
+   "AlternativeMedicine": {
+      "message": "替代医疗"
+   },
+   "BadReviewWarningText": {
+      "message": "您过去对此网站的评级较低。请小心行事。"
+   },
+   "BlocksPopup": {
+      "message": "阻止弹窗"
+   },
+   "BlocksPopupText": {
+      "message": "阻止任何弹窗和可能不需要的程序"
+   },
+   "Carefulx": {
+      "message": "小心！"
+   },
+   "DoNotShowAgain": {
+      "message": "此网站不再显示此消息"
+   },
+   "Error0": {
+      "message": "未知錯誤"
+   },
+   "Error400": {
+      "message": "电子邮件无效"
+   },
+   "Error4001": {
+      "message": "需要授權"
+   },
+   "Error4002": {
+      "message": "使用者名稱或密碼錯誤"
+   },
+   "Error4003": {
+      "message": "缺少認證"
+   },
+   "Error4004": {
+      "message": "使用者被阻止"
+   },
+   "Error4005": {
+      "message": "您已登出。請再次登入"
+   },
+   "Error4006": {
+      "message": "您已登出。請再次登入"
+   },
+   "Error4007": {
+      "message": "登入失敗，請稍後再試"
+   },
+   "Error4008": {
+      "message": "登入失敗，請稍後再試"
+   },
+   "Error4009": {
+      "message": "使用者已註冊"
+   },
+   "Error401": {
+      "message": "未授权"
+   },
+   "Error4010": {
+      "message": "使用者已存在"
+   },
+   "Error4101": {
+      "message": "重設密碼連結無效"
+   },
+   "Error4102": {
+      "message": "重設密碼連結已過期"
+   },
+   "ExperienceFullPower": {
+      "message": "体验 WOT 的全部功能"
+   },
+   "FAQ": {
+      "message": "常见问题解答"
+   },
+   "Forgot": {
+      "message": "忘记了？"
+   },
+   "ForgotBelow": {
+      "message": "请求新密码"
+   },
+   "Gambling": {
+      "message": "博彩"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "給我們一些意見反應…"
+   },
+   "GoBack": {
+      "message": "← 返回"
+   },
+   "GoToSetting": {
+      "message": "转到设置"
+   },
+   "GoodSite": {
+      "message": "好网站"
+   },
+   "GruesomeShocking": {
+      "message": "可怕或令人不适"
+   },
+   "HateDiscrimination": {
+      "message": "憎恨、歧视"
+   },
+   "HowCanWeImprove": {
+      "message": "我們該如何改進？"
+   },
+   "IHaveAccount": {
+      "message": "我有帐户。"
+   },
+   "IHaveNotAccount": {
+      "message": "我没有帐户。"
+   },
+   "Illegal": {
+      "message": "可能非法"
+   },
+   "IncidentalNudity": {
+      "message": "非色情裸露"
+   },
+   "LogInBelow": {
+      "message": "在下方登录"
+   },
+   "LogInFacebook": {
+      "message": "使用Facebook登录"
+   },
+   "LogInGoogle": {
+      "message": "使用Google+登录"
+   },
+   "LogInPasswordInput": {
+      "message": "密码"
+   },
+   "LogInTwitter": {
+      "message": "使用Twitter登录"
+   },
+   "LogInUsernameInput": {
+      "message": "用户名或电子邮件"
+   },
+   "MalwareViruses": {
+      "message": "恶意软件或病毒"
+   },
+   "MisleadingUnethical": {
+      "message": "误导或不道德"
+   },
+   "NOT_SAFE": {
+      "message": "不安全！"
+   },
+   "NewPassword": {
+      "message": "通过电子邮件给我发送新密码"
+   },
+   "NotAppropriate": {
+      "message": "儿童不宜"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "舆论、宗教、政治"
+   },
+   "Phishing": {
+      "message": "网络钓鱼"
+   },
+   "PoorExperience": {
+      "message": "客户体验较差"
+   },
+   "PopupNotification": {
+      "message": "显示通知"
+   },
+   "PopupNotificationText": {
+      "message": "弹出窗口被阻止后，在网页上显示通知"
+   },
+   "PrivacyRisks": {
+      "message": "隐私风险"
+   },
+   "ProtectionsFeatures": {
+      "message": "借助 WOT 助手保持安全"
+   },
+   "ProtectionsFeatures2": {
+      "message": "在浏览前检查链接"
+   },
+   "Pts": {
+      "message": "（%POINTS%分）"
+   },
+   "RateThisWebsite": {
+      "message": "对此网站进行评价"
+   },
+   "RememberMe": {
+      "message": "记住我"
+   },
+   "SAFE": {
+      "message": "安全!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "始终在链接旁边显示所有类型的图标（红色、黄色、绿色）"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "仅在评级较差的网站旁边显示红色图标"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "不显示声誉图标"
+   },
+   "Scam": {
+      "message": "欺诈"
+   },
+   "Send": {
+      "message": "傳送"
+   },
+   "ShowLess": {
+      "message": "显示更少"
+   },
+   "ShowMore": {
+      "message": "显示更多"
+   },
+   "SignUp": {
+      "message": "注册"
+   },
+   "SignUpBelow": {
+      "message": "在下方注册"
+   },
+   "SignUpFacebook": {
+      "message": "使用Facebook注册"
+   },
+   "SignUpGoogle": {
+      "message": "使用Google+注册"
+   },
+   "SignUpPasswordInput": {
+      "message": "选择密码"
+   },
+   "SignUpTwitter": {
+      "message": "使用Twitter注册"
+   },
+   "SignUpUsernameInput": {
+      "message": "您的电子邮件"
+   },
+   "SiteKids": {
+      "message": "儿童网站"
+   },
+   "Spam": {
+      "message": "垃圾邮件"
+   },
+   "Submit": {
+      "message": "提交"
+   },
+   "Suspicious": {
+      "message": "可疑"
+   },
+   "TakeMoment": {
+      "message": "花點時間給我們提供意見反應。"
+   },
+   "UNKNOWN": {
+      "message": "未知"
+   },
+   "UnwantedPrograms": {
+      "message": "可能不需要的程序"
+   },
+   "ViewMyAccount": {
+      "message": "查看我的帐户"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "显示针对全部评级较差网站的警告"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "仅显示针对恶意网站的警告"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "不显示警告"
+   },
+   "WantMore": {
+      "message": "想告诉我们更多吗？"
+   },
+   "WhatToDoForBreaches": {
+      "message": "应对泄露的措施"
+   },
+   "WhitelistPlaceholder": {
+      "message": "添加您不想看到警告的网站（例如：Google.com）"
+   },
+   "WriteYourReview": {
+      "message": "寫下您的評論…"
+   },
+   "accurace": {
+      "message": "准确度"
+   },
+   "activate": {
+      "message": "激活"
+   },
+   "activateProtection": {
+      "message": "激活保护"
+   },
+   "addAReview": {
+      "message": "添加评论"
+   },
+   "adsOrPopups": {
+      "message": "广告 / 弹窗"
+   },
+   "adult": {
+      "message": "成人"
+   },
+   "adultContent": {
+      "message": "成人内容"
+   },
+   "adultContentProtection": {
+      "message": "成人内容保护"
+   },
+   "adultProtection": {
+      "message": "成人保护"
+   },
+   "adultProtectionText": {
+      "message": "这些成人保护设置适用于每个类别中的所有网站"
+   },
+   "adultProtectionTooltip": {
+      "message": "不宜内容、色情和博彩将被阻止"
+   },
+   "adultSettingMoreOptions": {
+      "message": "更多选项"
+   },
+   "adultSettingSubtitle": {
+      "message": "阻止色情和博彩网站"
+   },
+   "adultSettingTitle": {
+      "message": "成人保护"
+   },
+   "ago": {
+      "message": "前"
+   },
+   "agreeContinue": {
+      "message": "同意并继续"
+   },
+   "all": {
+      "message": "全部"
+   },
+   "allTrackersBlocked": {
+      "message": "已拦截 %1% 个跟踪器"
+   },
+   "allWebsites": {
+      "message": "適用於全部網站"
+   },
+   "allow": {
+      "message": "允许"
+   },
+   "almostDone": {
+      "message": "您快完成了"
+   },
+   "always": {
+      "message": "始终"
+   },
+   "analytics": {
+      "message": "分析"
+   },
+   "antiPhishingAndScams": {
+      "message": "反网络钓鱼和诈骗"
+   },
+   "appDescription": {
+      "message": "查看基于用户体验给出的任何网站的声誉和安全信息。官方的Web of Trust Chrome扩展程序。"
+   },
+   "appName": {
+      "message": "WOT 网站安全和安全浏览保护"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "您确定吗？"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "为此网站撰写新评论"
+   },
+   "assistantSettingSubtitle": {
+      "message": "安全地在线购物和搜索"
+   },
+   "assistantSettingTitle": {
+      "message": "WOT 助手护盾"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "打开 WOT 滑块"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "在此页面上检测到的跟踪器数量"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOT允许您在浏览的任何网站上查看和拦截跟踪器，以控制谁收集您的数据。"
+   },
+   "autoScanDevice": {
+      "message": "自动扫描装置"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "确保定期扫描您的设备是否存在任何安全威胁和/或泄漏。"
+   },
+   "autoScanDeviceText": {
+      "message": "请确保您定期扫描您的设备以查找任何安全威胁和/或漏洞。"
+   },
+   "avoidHarmfulSites": {
+      "message": "避开虚假和有害网站"
+   },
+   "back": {
+      "message": "返回"
+   },
+   "beTheFirstToReview": {
+      "message": "成为第一个评价这个网站的人"
+   },
+   "blacklistsPreCheck": {
+      "message": "最新黑名单"
+   },
+   "block": {
+      "message": "阻止"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "自动拦截您访问的每个网站上的所有跟踪器"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "自动拦截仅适用于高级版用户的所有跟踪器"
+   },
+   "blockTrackers": {
+      "message": "块跟踪器"
+   },
+   "blockUnsafeWebsites": {
+      "message": "阻止不安全的网站和链接"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT 将确保提前警告您意外点击不安全链接或进入不安全或恶意网站"
+   },
+   "blocked": {
+      "message": "已阻止"
+   },
+   "blocksHackingAttacks": {
+      "message": "每 39 秒阻止一次黑客攻击"
+   },
+   "breachedDate": {
+      "message": "泄露日期"
+   },
+   "breachesAlert": {
+      "message": "您的个人信息和/或密码已被泄露并暴露于"
+   },
+   "browse": {
+      "message": "浏览"
+   },
+   "browserNotProtected": {
+      "message": "您的浏览器未受保护"
+   },
+   "browserProtected": {
+      "message": "您的浏览器是安全的"
+   },
+   "browserSecured": {
+      "message": "这个浏览器是安全的！"
+   },
+   "bugs": {
+      "message": "错误"
+   },
+   "canHelp": {
+      "message": "我们如何提供帮助？"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "careful": {
+      "message": "小心！"
+   },
+   "categoriesExplained": {
+      "message": "这些类别可能适用于此网站"
+   },
+   "changePassword": {
+      "message": "更改密码"
+   },
+   "changePasswordSubtitle": {
+      "message": "请确保每个密码都是唯一的、不同的且难以猜测。切勿两次使用相同的密码。"
+   },
+   "changePasswordText": {
+      "message": "请确保每个密码都是唯一的、不同的且难以猜测。切勿两次使用相同的密码。"
+   },
+   "checkLeaks": {
+      "message": "检查泄漏"
+   },
+   "checkUrl": {
+      "message": "检查网址"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "检查任何网站安全级别"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT 为您提供三种方法来检查任何网站的安全级别：Google 搜索引擎结果页面、浏览器工具栏图标以及详细的记分卡和评论"
+   },
+   "chooseTags": {
+      "message": "选择描述%DOMAIN%的标签"
+   },
+   "chooseTagsForSite": {
+      "message": "选择最适合描述此网站的标签："
+   },
+   "chooseTagsThatDescribes": {
+      "message": "選擇描述此網站的標籤"
+   },
+   "clearPolicy": {
+      "message": "清晰的政策"
+   },
+   "clickAllTags": {
+      "message": "點選全部適用的標籤"
+   },
+   "clickOnTheGearIcon": {
+      "message": "按一下%GEARICON%可打開/關閉此快顯視窗"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "contactUs": {
+      "message": "联系我们"
+   },
+   "containAdultContent": {
+      "message": "此网站可能包含成人内容"
+   },
+   "contentWarning": {
+      "message": "已拦截成人内容"
+   },
+   "coolGotIt": {
+      "message": "很酷，知道了"
+   },
+   "dataBreachHookText": {
+      "message": "有时可能有风险"
+   },
+   "dataBreachHookTitle": {
+      "message": "您即将输入登录详细信息吗？"
+   },
+   "dataLeakMonitoring": {
+      "message": "数据泄露监控"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "发现与此电子邮件帐户相关的数据泄漏"
+   },
+   "dayAgo": {
+      "message": "1 天前"
+   },
+   "daysAgo": {
+      "message": "%1% 天前"
+   },
+   "default": {
+      "message": "默认"
+   },
+   "defaultManualModeButton": {
+      "message": "继续并开启"
+   },
+   "defaultManualModeHeader": {
+      "message": "获取实时结果和洞察"
+   },
+   "defaultManualModeText": {
+      "message": "WOT 的主动保护已禁用。我们将无法向您显示网站评级和警报。"
+   },
+   "defaultText": {
+      "message": "拦截并避开信誉低下的网站。（推荐）"
+   },
+   "del": {
+      "message": "删除"
+   },
+   "delete": {
+      "message": "是，删除"
+   },
+   "deleteThisReview": {
+      "message": "删除此评论？"
+   },
+   "digitalTrackingProtection": {
+      "message": "数字跟踪保护"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "自动阻止所有服务跟踪您的在线浏览习惯。"
+   },
+   "disableOnAllWebsites": {
+      "message": "是，在全部網站停用"
+   },
+   "disableOnThusWebsites": {
+      "message": "是，在本網站停用"
+   },
+   "disableWOTHelper": {
+      "message": "停用WOT助手？"
+   },
+   "disableWOTHelperText": {
+      "message": "WOT助手讓您快速瀏覽正在檢視頁面的得分和評論。您可以隨時在WOT設定中停用此功能。"
+   },
+   "disagree": {
+      "message": "不同意"
+   },
+   "dismissWarning": {
+      "message": "关闭警告"
+   },
+   "done": {
+      "message": "完成"
+   },
+   "dontShowAgain": {
+      "message": "不要再显示给我"
+   },
+   "dontShowOnThisSite": {
+      "message": "不要再向我发出有关此网站的警告"
+   },
+   "dontShowThis": {
+      "message": "不再顯示此訊息功能"
+   },
+   "donuts": {
+      "message": "声誉图标紧邻链接"
+   },
+   "downloadClassicWot": {
+      "message": "下载Classic WOT"
+   },
+   "downloadMobileWot": {
+      "message": "下载WOT移动版"
+   },
+   "edit": {
+      "message": "编辑"
+   },
+   "editYourReview": {
+      "message": "编辑您的评论"
+   },
+   "empty": {
+      "message": "清空列表"
+   },
+   "enable": {
+      "message": "启用"
+   },
+   "enableEnhancedProtection": {
+      "message": "启用增强保护"
+   },
+   "enjoyingWot": {
+      "message": "很喜欢WOT？"
+   },
+   "errorAction": {
+      "message": "确定"
+   },
+   "errorContent": {
+      "message": "我们很抱歉。请刷新当前页面并重试。"
+   },
+   "errorTitle": {
+      "message": "出错了"
+   },
+   "extraFeaturesTitle": {
+      "message": "看看 WOT 还能提供什么"
+   },
+   "faqSupport": {
+      "message": "常见问题与支持"
+   },
+   "findHelp": {
+      "message": "寻求帮助或与我们联系"
+   },
+   "firstRate": {
+      "message": "率先对此网站进行评价"
+   },
+   "followUs": {
+      "message": "关注我们"
+   },
+   "forAllPremiumPlans": {
+      "message": "适用于所有高级版套餐"
+   },
+   "forum": {
+      "message": "论坛"
+   },
+   "freeTrialEndend": {
+      "message": "免费试用还剩%2%天"
+   },
+   "freeUserBlockTitle": {
+      "message": "想要免受其他有害网站的侵害？"
+   },
+   "gamblingSites": {
+      "message": "博彩网站"
+   },
+   "gamblingSitesText": {
+      "message": "拦截包含博彩游戏和内容的网站"
+   },
+   "generalSettings": {
+      "message": "基本设置"
+   },
+   "generalSettingsDescription": {
+      "message": "自定义您的设置以满足您的需求并保持受到保护"
+   },
+   "getFullCoverage": {
+      "message": "全面浏览保护"
+   },
+   "getFullProtection": {
+      "message": "获取 WOT 全面保护"
+   },
+   "getMorePremium": {
+      "message": "使用高级版获取更多"
+   },
+   "getPhishingAlert": {
+      "message": "获取网络钓鱼警报"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "保护您免受最新的网络钓鱼网站和社会工程学攻击。"
+   },
+   "getWOTPremium": {
+      "message": "获取 WOT 高级版，全面防御黑客、病毒和恶意网站。"
+   },
+   "gmailProtectionDescription": {
+      "message": "在收件箱中接收有关可疑电子邮件的警告"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "为快速检测网络钓鱼电子邮件而设计"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "智能电子邮件检测"
+   },
+   "gmailProtectionTitle": {
+      "message": "电子邮箱保护"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "自定义您的电子邮件保护并输入您信任的 URL 地址"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "添加您信任的 URL 地址（例如：sendgrid.com）"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "允许列表"
+   },
+   "goPremium": {
+      "message": "去高级"
+   },
+   "goToLeakReport": {
+      "message": "请参阅违规报告"
+   },
+   "goToSite": {
+      "message": "无论如何继续访问网站"
+   },
+   "goodService": {
+      "message": "良好的服务"
+   },
+   "gotIt": {
+      "message": "知道了"
+   },
+   "greatSupport": {
+      "message": "卓越的支持"
+   },
+   "hide": {
+      "message": "隐藏"
+   },
+   "hideWotAssistant": {
+      "message": "隐藏 WOT 助手"
+   },
+   "hideWotAssistantText": {
+      "message": "点击“隐藏”后，您将不再看到 WOT 助手页面的加载。您以后可以随时在设置中更改此设置。"
+   },
+   "high": {
+      "message": "高"
+   },
+   "highText": {
+      "message": "拦截任何可疑的网站。默认拦截包含儿童不宜内容的网站"
+   },
+   "holdOn": {
+      "message": "坚持，稍等！"
+   },
+   "hour": {
+      "message": "小时"
+   },
+   "hourAgo": {
+      "message": "1 小时前"
+   },
+   "hourMinutesAgo": {
+      "message": "一小时%2%分钟前"
+   },
+   "hours": {
+      "message": "小时"
+   },
+   "hoursAgo": {
+      "message": "%1% 小时前"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1%小时%2%分钟前"
+   },
+   "hoverOverTheWOT": {
+      "message": "將滑鼠懸停在WOT %DONUTICON%圖示上檢視此網站的聲譽"
+   },
+   "howWouldYouRate": {
+      "message": "从 1 到 5，您会如何给本网站打分？"
+   },
+   "identityProtection": {
+      "message": "身份保护"
+   },
+   "identityProtectionModalMessage": {
+      "message": "通过启用身份保护功能，您同意我们可以与提供密码保护和监控服务的第三方共享您的电子邮件地址"
+   },
+   "identityProtectionSubtitle": {
+      "message": "当您的个人数据被泄露时，WOT 会提醒您，以便您可以迅速采取行动以防止身份盗用和未来的泄露。"
+   },
+   "increaseOnlineSecurity": {
+      "message": "提高在线安全性"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "启用两因素身份验证以访问包含敏感信息的个人帐户"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "启用双重身份验证以访问包含敏感信息的个人帐户。"
+   },
+   "installed": {
+      "message": "已安装"
+   },
+   "isSafe": {
+      "message": "您认为此网站安全吗？"
+   },
+   "issuesFound": {
+      "message": "发现%ISSUES%问题"
+   },
+   "justNow": {
+      "message": "刚刚"
+   },
+   "lang": {
+      "message": "en-US"
+   },
+   "lastScanned": {
+      "message": "上次扫描"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT 会实时提醒您有关包含您个人信息的数据泄露，以便您可以在线保护自己。"
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "通过启用数据泄露监控功能，您同意我们可以与提供密码保护和监控服务的第三方共享您的电子邮件地址"
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "我们建议您采取以下步骤来确保您的个人信息安全并保护您的数字身份："
+   },
+   "leakSuggestionsTitle": {
+      "message": "如果我的个人信息被泄露怎么办？"
+   },
+   "leakedInformation": {
+      "message": "泄露的信息"
+   },
+   "legalAnd": {
+      "message": "和"
+   },
+   "legalPrivacyPolicy": {
+      "message": "隐私政策"
+   },
+   "legalStatement": {
+      "message": "为了向您提供实时保护、维护并改善我们的服务，我们需要将您所访问的网站相关信息发送回我们的服务器。点击上方的“同意”，即表示您同意我们的"
+   },
+   "letCommunityKnow": {
+      "message": "无论您在使用本网站时是否拥有良好体验还是存在疑问，请告知我们的社区。"
+   },
+   "letOthersKnowYourExperience": {
+      "message": "让他人了解您在本网站上的体验"
+   },
+   "limitedTimeOffer": {
+      "message": "限时优惠"
+   },
+   "lite": {
+      "message": "精简版"
+   },
+   "liteText": {
+      "message": "我们不会打扰您 - 除非是在关键时刻"
+   },
+   "liveBlocking": {
+      "message": "实时封锁"
+   },
+   "loading": {
+      "message": "正在載入..."
+   },
+   "logOut": {
+      "message": "退出"
+   },
+   "login": {
+      "message": "登录"
+   },
+   "looksSafe": {
+      "message": "看起来很安全"
+   },
+   "manage": {
+      "message": "管理"
+   },
+   "manageProtection": {
+      "message": "管理保护"
+   },
+   "manageSubscriptions": {
+      "message": "管理订阅"
+   },
+   "manageTrackers": {
+      "message": "管理跟踪器"
+   },
+   "manualModeAgree": {
+      "message": "点击上方的“开启”，即表示您同意我们的"
+   },
+   "manualModeWarning": {
+      "message": "您现在正在以手动模式浏览——WOT 的主动保护已禁用，我们将无法保护您免受危险站点的侵害"
+   },
+   "manualModeWarningStrip": {
+      "message": "请注意，您正在以手动模式浏览，许多功能将不可用"
+   },
+   "marketing": {
+      "message": "营销"
+   },
+   "maybeNextTime": {
+      "message": "也许下次吧"
+   },
+   "messageSubmitted": {
+      "message": "已成功提交消息。"
+   },
+   "minute": {
+      "message": "分钟"
+   },
+   "minuteAgo": {
+      "message": "1 分钟前"
+   },
+   "minutes": {
+      "message": "分钟"
+   },
+   "minutesAgo": {
+      "message": "%1% 分钟前"
+   },
+   "missingReviews": {
+      "message": "缺少评论"
+   },
+   "month": {
+      "message": "月"
+   },
+   "monthAgo": {
+      "message": "1 个月前"
+   },
+   "monthsAgo": {
+      "message": "%1% 个月前"
+   },
+   "moreInfo": {
+      "message": "更多信息"
+   },
+   "myDashboardNav": {
+      "message": "我的仪表板"
+   },
+   "myProfile": {
+      "message": "我的个人资料"
+   },
+   "newDataLeaksFound": {
+      "message": "发现 %1% 新数据泄露"
+   },
+   "next": {
+      "message": "下一步"
+   },
+   "no": {
+      "message": "否"
+   },
+   "noBreaches": {
+      "message": "好消息！未发现数据泄露"
+   },
+   "noComments": {
+      "message": "沒有評論"
+   },
+   "noKeepIt": {
+      "message": "不，請保留"
+   },
+   "noReviewsYet": {
+      "message": "暂无评论"
+   },
+   "noSkip": {
+      "message": "不，跳過"
+   },
+   "noThanks": {
+      "message": "不，谢谢"
+   },
+   "noTrackersBlocked": {
+      "message": "已检测到 %1% 个跟踪器"
+   },
+   "noTrackersDetected": {
+      "message": "未检测到跟踪器"
+   },
+   "none": {
+      "message": "无"
+   },
+   "notSecurity": {
+      "message": "有什麼安全問題嗎？"
+   },
+   "notSuitableForChildren": {
+      "message": "有不適合兒童的內容嗎？"
+   },
+   "notSure": {
+      "message": "不确定"
+   },
+   "off": {
+      "message": "关"
+   },
+   "okGotIt": {
+      "message": "好的，知道了"
+   },
+   "on": {
+      "message": "开"
+   },
+   "onBoarding4States": {
+      "message": "分为 4 种状态："
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "以在单击任何网站之前查看其声誉。"
+   },
+   "onBoardingHoverTheShield": {
+      "message": "将鼠标悬停在护盾图标上，"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "声誉主控面板"
+   },
+   "onBoardingReputationScore": {
+      "message": "声誉评分"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "您现在可以安全地浏览互联网，安心无忧。点击任何未知网站之前，请务必查看护盾图标！"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "此弹窗向您显示任何给定网站的声誉评分。 "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "此网站为 WOT 认定的%SAFETY%网站。"
+   },
+   "onBoardingYouCanClick": {
+      "message": "您可以单击“阅读评论”以阅读更多用户评论。"
+   },
+   "onBoardingYoureAllSet": {
+      "message": "您已全部准备就绪！"
+   },
+   "oneTrackerBlocked": {
+      "message": "已拦截 1 个跟踪器"
+   },
+   "oneTrackerDetected": {
+      "message": "已检测到 1 个跟踪器"
+   },
+   "optinAreYouSureMessage": {
+      "message": "为了向您提供实时 360 度网络保护，WOT 的某些功能需要访问从您访问的网站收集的匿名信息。此信息不会与第三方共享或用于营销目的。您可以通过访问设置页面随时更改您的偏好。"
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT 在收到诈骗、网络钓鱼、可疑、恶意软件和垃圾邮件时向您发出警告"
+   },
+   "optinGoBack": {
+      "message": "后退"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "打开实时保护"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "增强保护"
+   },
+   "optinHeaderInstallation": {
+      "message": "安装成功"
+   },
+   "optinHeaderScanDevice": {
+      "message": "扫描设备"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "设置您的浏览器"
+   },
+   "optinMaybeLater": {
+      "message": "也许以后"
+   },
+   "optinProtectYourEmail": {
+      "message": "保护您的电子邮件"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "在浏览器工具栏中找到的徽标将根据网站的声誉而变化"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "寻找 WOT 徽标"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "如果您登录信誉不佳的网站，WOT 会警告您"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "获取实时警报"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "查看搜索引擎结果页面中 WOT 徽标的颜色，以了解可以安全点击的网站"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "标记任何搜索结果"
+   },
+   "optinReputationIconsText": {
+      "message": "使用网站链接旁边的 WOT 安全甜甜圈在线做出明智的决定。"
+   },
+   "optinSafetyScoreText": {
+      "message": "使用记分卡检查站点声誉和评论。"
+   },
+   "optinSubtitle": {
+      "message": "为了实时保护您，我们需要访问您浏览的 URL"
+   },
+   "optinTitle": {
+      "message": "允许浏览器保护"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "通过拦截可能有害或声誉不佳的网站来避开它们。"
+   },
+   "optinWelcomeSubtitle": {
+      "message": "您刚刚加入{millionMembers} ，使用 WOT 互相保护"
+   },
+   "or": {
+      "message": " 或者"
+   },
+   "other": {
+      "message": "其他"
+   },
+   "outOfHere": {
+      "message": "让我离开这里"
+   },
+   "ownThisSite": {
+      "message": "您拥有此网站吗？"
+   },
+   "parentalControl": {
+      "message": "家长控制"
+   },
+   "parentalControlOFF": {
+      "message": "不阻止包含儿童不宜内容的网站"
+   },
+   "parentalControlON": {
+      "message": "阻止包含儿童不宜内容的网站"
+   },
+   "performance": {
+      "message": "绩效"
+   },
+   "pinWot": {
+      "message": "固定 WOT！"
+   },
+   "pinWotPopup": {
+      "message": "固定 $WOT$ 以查看您当前的网站安全状态",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "花点时间给我们评分"
+   },
+   "policy": {
+      "message": "查看隐私政策"
+   },
+   "poorCustomerService": {
+      "message": "糟糕的客户服务"
+   },
+   "poorOnly": {
+      "message": "仅声誉较差网站"
+   },
+   "poorRating": {
+      "message": "此网站可疑。"
+   },
+   "popupAdultStrip": {
+      "message": "可能包含仅限成人查看的内容"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "在本节中，您可以检查您当前访问的网站是否安全。"
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "点击链接阅读评论。"
+   },
+   "popupOnboardingStep1Title": {
+      "message": "欢迎来到您的新 WOT！"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "本部分显示有多少服务正在跟踪您的在线习惯。"
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "单击链接以调整跟踪器阻止。"
+   },
+   "popupOnboardingStep2Title": {
+      "message": "数字追踪器"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "单击此处打开帐户设置并管理您的保护。"
+   },
+   "popupOnboardingStep3Title": {
+      "message": "管理我的保护"
+   },
+   "postReview": {
+      "message": "发表评论"
+   },
+   "potentiallyMalicious": {
+      "message": "此网站具有潜在有害内容。"
+   },
+   "preCheck": {
+      "message": "预检查"
+   },
+   "premium": {
+      "message": "额外费用"
+   },
+   "premiumFeature": {
+      "message": "高级版功能"
+   },
+   "premiumSecurity": {
+      "message": "高级版安全性"
+   },
+   "premiumText": {
+      "message": "保护您免受最有害的网站和链接所需的所有在线安全措施"
+   },
+   "presettings": {
+      "message": "预设置"
+   },
+   "protectPrivacy": {
+      "message": "保护身份和隐私 "
+   },
+   "protectYourPrivacy": {
+      "message": "弹窗阻止程序"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "阻止弹窗以提供更洁净、更快捷和更安全的浏览体验。"
+   },
+   "protectYourself": {
+      "message": "立即获取数据泄漏警报"
+   },
+   "protectedForXDays": {
+      "message": "受保护%1%天"
+   },
+   "protection": {
+      "message": "保护"
+   },
+   "rateOnStore": {
+      "message": "%BROWSER%商店给我们评分"
+   },
+   "rateOverall": {
+      "message": "评价您对%DOMAIN%的整体*体验*"
+   },
+   "rateThisSite": {
+      "message": "评价此网站"
+   },
+   "rateUs": {
+      "message": "评价WOT"
+   },
+   "rateYourExperience": {
+      "message": "评价您对以下网站的整体体验："
+   },
+   "readMoreReviews": {
+      "message": "阅读更多评论 (%1%)"
+   },
+   "readReviews": {
+      "message": "阅读评论"
+   },
+   "realTimeCheckups": {
+      "message": "实时安全检查"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "实时防范网络钓鱼、恶意软件和其他威胁。"
+   },
+   "realtimePhishingAlerts": {
+      "message": "实时网络钓鱼警报"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "向我们报告不可信或虚假的网站，这些网站可能会给其他人带来风险"
+   },
+   "reputation": {
+      "message": "声誉"
+   },
+   "reputationIcons": {
+      "message": "声誉图标"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT 将显示您当前访问的网站的安全级别"
+   },
+   "restorePurchases": {
+      "message": "恢复购买"
+   },
+   "resultFor": {
+      "message": "以下搜索条件的结果："
+   },
+   "reviewAddedErrorText": {
+      "message": "出现错误，请重试。"
+   },
+   "reviewAddedErrorTitle": {
+      "message": "无法发表评论"
+   },
+   "reviewAddedOKText": {
+      "message": "感谢您使互联网成为更安全的场所！"
+   },
+   "reviewAddedOKTitle": {
+      "message": "评论已发布成功"
+   },
+   "reviews": {
+      "message": "評論"
+   },
+   "rtOFF": {
+      "message": "您现在采用人工模式——WOT的主动保护被禁用"
+   },
+   "rtON": {
+      "message": "您现在受到WOT的全方位主动保护。"
+   },
+   "rtProtection": {
+      "message": "实时保护"
+   },
+   "rtProtectionRecommended": {
+      "message": "实时保护（推荐）"
+   },
+   "safeBrowsing": {
+      "message": "安全浏览"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT 通过扫描您访问的每个站点、页面和服务并提供实时警报，让您保持在线警惕。"
+   },
+   "safeSearch": {
+      "message": "安全搜索"
+   },
+   "safeSearchSubtitle": {
+      "message": "图标将显示在您的搜索结果旁边，以在您单击之前了解网站是否安全。"
+   },
+   "safeShopping": {
+      "message": "安全购物"
+   },
+   "safeShoppingSite": {
+      "message": "该网站可以安全购物"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "基于 WOT 算法、机器学习和用户评论，该网站可以安全购物"
+   },
+   "safetyScore": {
+      "message": "安全评分"
+   },
+   "safetyScoreSubtitle": {
+      "message": "使用记分卡检查网站声誉和评论并分享您自己的经验"
+   },
+   "scannedOn": {
+      "message": "检测到"
+   },
+   "scoreCard": {
+      "message": "评分卡"
+   },
+   "searchEnginePageResults": {
+      "message": "搜索引擎结果页面"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "使用网站链接旁边的 WOT 安全指示器在线做出明智的决定"
+   },
+   "searchIndicator": {
+      "message": "搜索指标"
+   },
+   "searchManualModeButton": {
+      "message": "开启搜索引擎指导"
+   },
+   "searchManualModeHeader": {
+      "message": "您缺少 WOT 的指导"
+   },
+   "searchManualModeText": {
+      "message": "WOT 对搜索引擎的保护已禁用。我们将无法在链接旁边显示您的网站评级。"
+   },
+   "security": {
+      "message": "安全性"
+   },
+   "securityBreaches": {
+      "message": "安全威胁！"
+   },
+   "securityRiskDetected": {
+      "message": "检测到安全风险"
+   },
+   "securityScore": {
+      "message": "安全性评分"
+   },
+   "securitySystem": {
+      "message": "安全系统"
+   },
+   "securityWarning": {
+      "message": "安全警告"
+   },
+   "seeLess": {
+      "message": "查看较少内容"
+   },
+   "seeMore": {
+      "message": "查看更多"
+   },
+   "seeReviews": {
+      "message": "查看評論"
+   },
+   "sendFeedback": {
+      "message": "发送反馈"
+   },
+   "serpMailWarning": {
+      "message": "WOT 发现此电子邮件可疑，因为它可能包含危险链接或跟踪 URL"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "升级和保护我的电子邮箱"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "稍后提醒我"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "96% 的在线诈骗是通过电子邮件到达的。别犹豫，立即保护自己。"
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "您的电子邮件存在风险！"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT 检测并阻止在线威胁和跟踪，因此您可以确信自己的个人信息是安全的。"
+   },
+   "servicesTrackingYou": {
+      "message": "服务正在跟踪您的活动"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "解锁高级版功能"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "增强您的保护"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "随时随地。"
+   },
+   "settingsBannerTitle": {
+      "message": "更安全的浏览体验。"
+   },
+   "setup": {
+      "message": "设置"
+   },
+   "severeOnly": {
+      "message": "仅非常危险网站"
+   },
+   "share": {
+      "message": "分享"
+   },
+   "shareExperience": {
+      "message": "在 %1% 上分享您自己的体验并帮助他人"
+   },
+   "shareFeedback": {
+      "message": "分享您的反馈"
+   },
+   "shareOnFacebook": {
+      "message": "分享到Facebook"
+   },
+   "shareOnGoogle": {
+      "message": "分享到Google +"
+   },
+   "shareOnTwitter": {
+      "message": "分享到Twitter"
+   },
+   "shareText1": {
+      "message": "我刚刚在Web of Trust上对%WEBSITE%进行了评级，为网络的良性发展贡献了一份力量！有不同意见？自己去评价一下吧 👉 %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "我已经找到了安全浏览网站和避开不安全网站的好办法！看看Web of Trust扩展程序：%LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "我刚刚在Web of Trust上对%WEBSITE%做出了%STARS%评级（最高5星），为网络的良性发展贡献了一份力量！有不同意见？自己去评价一下吧 👉 %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": "我正在使用@Web_of_Trust来安全浏览网站和避开不安全的网站。您也试试吧：%LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextGoogleRate": {
+      "message": "我刚刚在Web of Trust上对%WEBSITE%做出了%STARS%评级（最高5星），为网络的良性发展贡献了一份力量！有不同意见？自己去评价一下吧 👉 %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": "我正在使用@Web_of_Trust来安全浏览网站和避开不安全的网站。您也试试吧：%LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextTwitterRate": {
+      "message": "我刚刚在WOT上对%WEBSITE%做出了%STARS%评级（最高5星），为网络的良性发展贡献了一份力量！有不同意见？自己去评价一下吧 👉 %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "我已经找到了安全浏览网站和避开不安全网站的好办法！看看Web of Trust扩展程序：%LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "我刚刚在Web of Trust上对%WEBSITE%做出了%STARS%评级（最高5星），为网络的良性发展贡献了一份力量！有不同意见？自己去评价一下吧 👉 %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "与好友分享WOT！"
+   },
+   "shareWotRating": {
+      "message": "与好友分享您对%DOMAIN%的评级！"
+   },
+   "shareYouRating": {
+      "message": "與朋友分享您的評價"
+   },
+   "shopWithConfidence": {
+      "message": "放心购物"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "查看任何在线商店的买家评论，保护自己免受网络钓鱼和虚假电子商务诈骗的侵害"
+   },
+   "signIn": {
+      "message": "登录"
+   },
+   "signInNow": {
+      "message": "立即登录"
+   },
+   "signInToRate": {
+      "message": "请登录以对此网站进行评分并撰写评论"
+   },
+   "siteIsSafe": {
+      "message": "您认为此网站*安全*吗？"
+   },
+   "siteIsSafeChildren": {
+      "message": "此网站对*儿童安全*吗？"
+   },
+   "skip": {
+      "message": "跳过"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "高级网络钓鱼防护旨在检测威胁并让您远离诈骗。"
+   },
+   "social": {
+      "message": "社交网络"
+   },
+   "someTrackersBlocked": {
+      "message": "已拦截 %2% 个跟踪器中的 %1% 个"
+   },
+   "specialOfferBillingDetails": {
+      "message": "记为一次付款"
+   },
+   "specialOfferFeatures": {
+      "message": "电子邮件保护、拦截成人内容、无限量跟踪器拦截等等！"
+   },
+   "startFreeTrial": {
+      "message": "开始免费试用"
+   },
+   "startProtection": {
+      "message": "开始保护！"
+   },
+   "startYourFreeTrial": {
+      "message": "开始您的免费试用"
+   },
+   "successRecPass": {
+      "message": "說明已寄送到您的電子郵件地址"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT 将此网站标记为可疑"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "WOT 认定的可疑网站"
+   },
+   "suspiciousSite": {
+      "message": "可疑网站"
+   },
+   "switchToClassic": {
+      "message": "切换到Classic WOT"
+   },
+   "systemPageAction": {
+      "message": "明白了"
+   },
+   "systemPageContent": {
+      "message": "您正试图在不支持的页面（例如浏览器系统页面、本地主机或扩展页面）中使用 WOT。"
+   },
+   "systemPageTitle": {
+      "message": "系统页面"
+   },
+   "takeAction": {
+      "message": "采取行动"
+   },
+   "tellUsMore": {
+      "message": "请告诉我们更多..."
+   },
+   "tellYourFriends": {
+      "message": "通过告诉您的朋友关于 WOT 来传播社区！"
+   },
+   "termsOfUse": {
+      "message": "使用条款"
+   },
+   "thankYou": {
+      "message": "谢谢！"
+   },
+   "thankYouForFeedback": {
+      "message": "感謝您的意見反應"
+   },
+   "thankYouForInstalling": {
+      "message": "感谢您安装 WOT。接下来，请通过选择您的保护盾来确保您获得全面的保护"
+   },
+   "thanksGotIt": {
+      "message": "谢谢，明白了！"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "这封电子邮件出现在%1%已知的数据泄露中"
+   },
+   "thisPopupShows": {
+      "message": "此弹窗向您显示任何给定网站的声誉评分。 "
+   },
+   "thisSiteOnly": {
+      "message": "僅適用於這個網站"
+   },
+   "threatsFound": {
+      "message": "发现威胁"
+   },
+   "timerManualModeButton": {
+      "message": "开启实时保护"
+   },
+   "timerManualModeHeader": {
+      "message": "您正在以手动模式浏览！"
+   },
+   "timerManualModeText": {
+      "message": "WOT 的主动保护已被禁用，我们将无法保护您免受危险网站的侵害。"
+   },
+   "toWriteReview": {
+      "message": " 寫評論"
+   },
+   "toggleTooltipMessage": {
+      "message": "以启用此功能"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "立即升级"
+   },
+   "tooComplicated": {
+      "message": "太复杂"
+   },
+   "tooltipChildSafe": {
+      "message": "此网站没有裸体、令人不适或可怕等不良内容。"
+   },
+   "tooltipSafe": {
+      "message": "此网站没有恶意软件、病毒和钓鱼程序等威胁"
+   },
+   "tour": {
+      "message": "旅行"
+   },
+   "trackerBlocked": {
+      "message": "已拦截"
+   },
+   "trackerBlocker": {
+      "message": "防跟踪保护"
+   },
+   "trackerBlockerDescription": {
+      "message": "自动拦截您访问的每个网站上的所有跟踪器。"
+   },
+   "trackerCounterAction": {
+      "message": "解锁更多跟踪器"
+   },
+   "trackerCounterText": {
+      "message": "%1%/3 跟踪器可用于基本保护"
+   },
+   "trackerSomeBlocked": {
+      "message": "已拦截 %2% 个中的 %1% 个"
+   },
+   "trackerUnblocked": {
+      "message": "已取消拦截"
+   },
+   "trackersBlockAll": {
+      "message": "自动拦截所有跟踪器"
+   },
+   "trackersBlocked": {
+      "message": "追踪器被封锁"
+   },
+   "trackersDetected": {
+      "message": "已检测到跟踪器"
+   },
+   "trackingProtection": {
+      "message": "跟踪保护"
+   },
+   "trustIssues": {
+      "message": "此网站有些信任问题。请小心行事。"
+   },
+   "trusted": {
+      "message": "可信"
+   },
+   "trustedByWOT": {
+      "message": "WOT 信任的网站"
+   },
+   "trustedByWOTPopup": {
+      "message": "WOT 认定的可信网站"
+   },
+   "trustedSite": {
+      "message": "可信网站"
+   },
+   "trustedSource": {
+      "message": "值得信赖的来源"
+   },
+   "tryAgain": {
+      "message": "再试一次"
+   },
+   "turnOffProtection": {
+      "message": "关闭保护"
+   },
+   "twoMillionMembers": {
+      "message": "2+百万会员"
+   },
+   "unknownByWOT": {
+      "message": "缺乏足够的信息"
+   },
+   "unknownByWOTPopup": {
+      "message": "WOT 认定的未知网站"
+   },
+   "unknownSite": {
+      "message": "未知网站"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "无限量跟踪器拦截仅适用于高级版用户"
+   },
+   "unlock": {
+      "message": "解锁"
+   },
+   "unlockPremium": {
+      "message": "解锁高级版"
+   },
+   "untrusted": {
+      "message": "不可信"
+   },
+   "untrustedByWOT": {
+      "message": "WOT 发现此网站不受信任"
+   },
+   "untrustedByWOTPopup": {
+      "message": "WOT 认定的不可信网站"
+   },
+   "untrustedSite": {
+      "message": "不受信任的网站"
+   },
+   "upgrade": {
+      "message": "升级"
+   },
+   "upgradeNow": {
+      "message": "立即升级"
+   },
+   "viewAll": {
+      "message": "查看全部"
+   },
+   "viewFullReport": {
+      "message": "查看完整报告"
+   },
+   "viewFullScorecard": {
+      "message": "查看完整记分卡"
+   },
+   "wantToDelete": {
+      "message": "您确定要删除您的评级？"
+   },
+   "wantToRateWOT": {
+      "message": "花点时间在%BROWSER% Store评价一下吧"
+   },
+   "wantToRateWOTBtn": {
+      "message": "评价WOT"
+   },
+   "wantToRateWOTHeader": {
+      "message": "很喜欢WOT？"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "想要解锁所有 WOT 高级功能？"
+   },
+   "warning": {
+      "message": "警告！"
+   },
+   "warningAlerts": {
+      "message": "警告警报"
+   },
+   "warningAlertsSubtitle": {
+      "message": "显示访问的可疑网站的警告"
+   },
+   "warnings": {
+      "message": "警告通知"
+   },
+   "weAppreciate": {
+      "message": "我们感谢您的时间并感谢您帮助我们改进 WOT"
+   },
+   "websiteBlocking": {
+      "message": "网站拦截"
+   },
+   "weekAgo": {
+      "message": "1 周前"
+   },
+   "weeksAgo": {
+      "message": "%1% 周前"
+   },
+   "welcome": {
+      "message": "欢迎"
+   },
+   "welcomeToWot": {
+      "message": "欢迎使用 WOT"
+   },
+   "whatCanIDo": {
+      "message": "我能做些什么呢？"
+   },
+   "whatCouldWeDo": {
+      "message": "我们还能做什么更好？"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "不受信任的活动包括通常归因于诈骗、网络钓鱼、恶意软件、PUP 和其他类型的有害、存在风险和危险网站的行为。"
+   },
+   "whatIsNotSafeTitle": {
+      "message": "什么是不受信任的网站？"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "可能的可疑活动包括通常归因于诈骗、加密劫持、浏览器劫持和其他类型的有害、存在风险和危险网站的行为。"
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "什么是*可疑*网站？"
+   },
+   "whatIsUnknownDescription": {
+      "message": "我们目前没有足够的信息来为此网站评分。我们建议您避免提供您的个人信息，例如您的社会保险号、银行帐户或信用卡信息。"
+   },
+   "whatIsUnknownTitle": {
+      "message": "什么是未知网站？"
+   },
+   "whatsNewWOT": {
+      "message": "新的数据泄露监控"
+   },
+   "whatsNewWOTContent": {
+      "message": "借助这项强大的新功能，您现在可以确保您的个人信息和密码不会受到损害或受到安全威胁。"
+   },
+   "whatsNewWOTGotIt": {
+      "message": "我们来看一下"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "了解更多"
+   },
+   "whitelist": {
+      "message": "Whitelist"
+   },
+   "whitelistTitle": {
+      "message": "不显示有关这些网站的警告"
+   },
+   "whyIsntSafe": {
+      "message": "为什么%DOMAIN%不*安全*？"
+   },
+   "whyIsntSafeChildren": {
+      "message": "为什么%DOMAIN%对*儿童安全*？"
+   },
+   "wotAssistant": {
+      "message": "WOT 助手"
+   },
+   "wotAssistantOFF": {
+      "message": "不要在浏览器的一角显示良好网站声誉"
+   },
+   "wotAssistantON": {
+      "message": "在浏览器的一角显示良好网站声誉"
+   },
+   "wotCommunity": {
+      "message": "WOT的社区"
+   },
+   "wotDetected": {
+      "message": "WOT 检测到潜在的安全威胁并拦截了 $DOMAIN$，此网站具有潜在有害内容，并且可能包含欺诈活动。",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "$DOMAIN$ 由于显示了潜在的成人内容而被 WOT 拦截。",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "WOT助手"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "不再顯示WOT助手小部件。"
+   },
+   "wotHelperSettingsOnState": {
+      "message": "顯示WOT助手小部件，快速查看本網站的得分、評論和安全性。"
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT 已安装成功"
+   },
+   "writeAtLeast15": {
+      "message": "要帮助他人，请撰写至少 15 个字符"
+   },
+   "writeFirstReview": {
+      "message": "率先撰写评论"
+   },
+   "writeReview": {
+      "message": "撰写评论"
+   },
+   "yearAgo": {
+      "message": "%1% 年前"
+   },
+   "yearsAgo": {
+      "message": "%1% 年前"
+   },
+   "yes": {
+      "message": "是"
+   },
+   "youCanAlsoEdit": {
+      "message": "您还可以编辑当前的评论和评分"
+   },
+   "youCanAlwaysChange": {
+      "message": "（您以后可以随时更改首选项）"
+   },
+   "youCanCheckAnyLink": {
+      "message": "借助 WOT 的全面保护，您可以在访问之前检查所有链接等！"
+   },
+   "youRatingThisSite": {
+      "message": "您在評價這個網站方面做得很好！"
+   },
+   "yourRating": {
+      "message": "您的评级"
+   },
+   "yourSubscription": {
+      "message": "您的订阅"
+   }
+}

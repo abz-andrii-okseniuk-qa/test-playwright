@@ -1,0 +1,1 @@
+function SidebarButton(e){const t=e.title,i=e.selected,s=e.id,c="settings__sidebar_item "+(i?"selected":"");return React.createElement("div",{className:c,onClick:e.onClick,id:s},React.createElement("h1",{className:"settings__sidebar_item_title"},t))}

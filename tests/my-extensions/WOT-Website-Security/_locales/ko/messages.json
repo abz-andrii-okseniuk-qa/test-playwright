@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "18+ 아이콘"
+   },
+   "18IconOFF": {
+      "message": "도넛 옆에 성인용 콘텐츠 아이콘 표시 안 함"
+   },
+   "18IconON": {
+      "message": "도넛 옆에 성인용 콘텐츠 아이콘 표시"
+   },
+   "Add": {
+      "message": "추가"
+   },
+   "AdultC": {
+      "message": "성인물"
+   },
+   "AllowAlways": {
+      "message": "항상 허용"
+   },
+   "AllowOnce": {
+      "message": "한 번만 허용"
+   },
+   "AlternativeMedicine": {
+      "message": "대체의학"
+   },
+   "BadReviewWarningText": {
+      "message": "이 사이트에 대해 이전에 낮은 평가를 주셨습니다. 주의하여 이용하십시오."
+   },
+   "BlocksPopup": {
+      "message": "팝업 차단"
+   },
+   "BlocksPopupText": {
+      "message": "모든 팝업 및 잠재적으로 원치 않는 프로그램 차단"
+   },
+   "Carefulx": {
+      "message": "주의!"
+   },
+   "DoNotShowAgain": {
+      "message": "이 사이트에 대해 다시 표시하지 않습니다"
+   },
+   "Error0": {
+      "message": "알 수 없는 오류"
+   },
+   "Error400": {
+      "message": "이메일이 유효하지 않습니다"
+   },
+   "Error4001": {
+      "message": "승인 필요"
+   },
+   "Error4002": {
+      "message": "잘못된 사용자명 또는 암호"
+   },
+   "Error4003": {
+      "message": "로그인 정보 누락"
+   },
+   "Error4004": {
+      "message": "사용자 차단됨"
+   },
+   "Error4005": {
+      "message": "로그아웃되었습니다. 다시 로그인하십시오."
+   },
+   "Error4006": {
+      "message": "로그아웃되었습니다. 다시 로그인하십시오."
+   },
+   "Error4007": {
+      "message": "로그인 실패, 다시 시도하십시오."
+   },
+   "Error4008": {
+      "message": "로그인 실패, 다시 시도하십시오."
+   },
+   "Error4009": {
+      "message": "이미 등록되어 있습니다"
+   },
+   "Error401": {
+      "message": "미승인"
+   },
+   "Error4010": {
+      "message": "이미 존재합니다"
+   },
+   "Error4101": {
+      "message": "암호 재설정 링크가 유효하지 않습니다"
+   },
+   "Error4102": {
+      "message": "암호 재설정 링크가 만료되었습니다"
+   },
+   "ExperienceFullPower": {
+      "message": "WOT의 완전한 파워를 경험하세요"
+   },
+   "FAQ": {
+      "message": "자주 묻는 질문"
+   },
+   "Forgot": {
+      "message": "잊으셨습니까?"
+   },
+   "ForgotBelow": {
+      "message": "새 암호 요청"
+   },
+   "Gambling": {
+      "message": "도박"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "피드백을 주시기 바랍니다…"
+   },
+   "GoBack": {
+      "message": "← 뒤로 가기"
+   },
+   "GoToSetting": {
+      "message": "설정으로 이동"
+   },
+   "GoodSite": {
+      "message": "좋은 사이트"
+   },
+   "GruesomeShocking": {
+      "message": "섬뜩하거나 충격적"
+   },
+   "HateDiscrimination": {
+      "message": "증오, 차별"
+   },
+   "HowCanWeImprove": {
+      "message": "어떻게 개선할 수 있습니까?"
+   },
+   "IHaveAccount": {
+      "message": "계정이 있습니다. "
+   },
+   "IHaveNotAccount": {
+      "message": "계정이 없습니다. "
+   },
+   "Illegal": {
+      "message": "불법일 가능성"
+   },
+   "IncidentalNudity": {
+      "message": "우발적 누드"
+   },
+   "LogInBelow": {
+      "message": "아래에서 로그인하세요"
+   },
+   "LogInFacebook": {
+      "message": "Facebook으로 로그인"
+   },
+   "LogInGoogle": {
+      "message": "Google+로 로그인"
+   },
+   "LogInPasswordInput": {
+      "message": "암호"
+   },
+   "LogInTwitter": {
+      "message": "Twitter로 로그인"
+   },
+   "LogInUsernameInput": {
+      "message": "사용자이름 또는 이메일"
+   },
+   "MalwareViruses": {
+      "message": "멀웨어 또는 바이러스"
+   },
+   "MisleadingUnethical": {
+      "message": "현혹적이거나 비윤리적"
+   },
+   "NOT_SAFE": {
+      "message": "안전하지 않음!"
+   },
+   "NewPassword": {
+      "message": "새로운 암호를 이메일로 보내주십시오"
+   },
+   "NotAppropriate": {
+      "message": "어린이에게 부적합"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "견해, 종교, 정치적"
+   },
+   "Phishing": {
+      "message": "피싱"
+   },
+   "PoorExperience": {
+      "message": "나쁜 고객 경험"
+   },
+   "PopupNotification": {
+      "message": "알림 허용"
+   },
+   "PopupNotificationText": {
+      "message": "팝업 차단 시 페이지 알림을 표시합니다."
+   },
+   "PrivacyRisks": {
+      "message": "개인정보 침해 위험"
+   },
+   "ProtectionsFeatures": {
+      "message": "WOT 어시스턴트로 언제나 안전하게"
+   },
+   "ProtectionsFeatures2": {
+      "message": "방문 전 링크 확인"
+   },
+   "Pts": {
+      "message": "(%POINTS% pts)"
+   },
+   "RateThisWebsite": {
+      "message": "이 웹사이트 평가"
+   },
+   "RememberMe": {
+      "message": "기억하기"
+   },
+   "SAFE": {
+      "message": "안전함!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "링크 옆에 모든 유형의 아이콘을 항상 표시(빨강, 노랑, 녹색)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "평가가 나쁜 웹사이트 옆에 빨강 아이콘만 표시"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "평판 아이콘을 표시하지 않음"
+   },
+   "Scam": {
+      "message": "사기"
+   },
+   "Send": {
+      "message": "보내기"
+   },
+   "ShowLess": {
+      "message": "축소"
+   },
+   "ShowMore": {
+      "message": "확장"
+   },
+   "SignUp": {
+      "message": "가입"
+   },
+   "SignUpBelow": {
+      "message": "아래에서 가입하세요"
+   },
+   "SignUpFacebook": {
+      "message": "Facebook으로 가입"
+   },
+   "SignUpGoogle": {
+      "message": "Google+로 가입"
+   },
+   "SignUpPasswordInput": {
+      "message": "암호 선택"
+   },
+   "SignUpTwitter": {
+      "message": "Twitter로 가입"
+   },
+   "SignUpUsernameInput": {
+      "message": "내 이메일"
+   },
+   "SiteKids": {
+      "message": "어린이용 사이트"
+   },
+   "Spam": {
+      "message": "스팸"
+   },
+   "Submit": {
+      "message": "제출"
+   },
+   "Suspicious": {
+      "message": "의심스러움"
+   },
+   "TakeMoment": {
+      "message": "잠시 시간을 내어 피드백을 주시기 바랍니다."
+   },
+   "UNKNOWN": {
+      "message": "알 수 없음"
+   },
+   "UnwantedPrograms": {
+      "message": "원하지 않는 프로그램일 가능성"
+   },
+   "ViewMyAccount": {
+      "message": "내 계정 보기"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "평가가 나쁜 모든 웹사이트에 대한 경고 표시"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "악성 웹사이트에 대해서만 경고 표시"
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "경고를 표시하지 않음"
+   },
+   "WantMore": {
+      "message": "더 얘기해 주실래요?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "이 침해에 대해 취해야 할 조치"
+   },
+   "WhitelistPlaceholder": {
+      "message": "경고를 보고 싶지 않은 웹사이트를 추가하세요. (예: Google.com)"
+   },
+   "WriteYourReview": {
+      "message": "리뷰 작성…"
+   },
+   "accurace": {
+      "message": "Accurace"
+   },
+   "activate": {
+      "message": "활성화"
+   },
+   "activateProtection": {
+      "message": "보호 활성화"
+   },
+   "addAReview": {
+      "message": "검토 추가"
+   },
+   "adsOrPopups": {
+      "message": "광고/팝업"
+   },
+   "adult": {
+      "message": "성인"
+   },
+   "adultContent": {
+      "message": "성인 컨텐츠"
+   },
+   "adultContentProtection": {
+      "message": "성인용 콘텐츠 보호"
+   },
+   "adultProtection": {
+      "message": "미성년자 보호"
+   },
+   "adultProtectionText": {
+      "message": "미성년자 보호 설정은 각 카테고리에 해당하는 모든 웹사이트에 적용할 수 있습니다"
+   },
+   "adultProtectionTooltip": {
+      "message": "부적절한 콘텐츠, 포르노 및 도박이 차단됩니다."
+   },
+   "adultSettingMoreOptions": {
+      "message": "옵션 더 보기"
+   },
+   "adultSettingSubtitle": {
+      "message": "성인 및 도박 사이트 차단"
+   },
+   "adultSettingTitle": {
+      "message": "미성년자 보호"
+   },
+   "ago": {
+      "message": "전에"
+   },
+   "agreeContinue": {
+      "message": "동의 및 계속"
+   },
+   "all": {
+      "message": "전부"
+   },
+   "allTrackersBlocked": {
+      "message": "%1%개의 추적기 차단됨"
+   },
+   "allWebsites": {
+      "message": "모든 웹사이트에"
+   },
+   "allow": {
+      "message": "허용"
+   },
+   "almostDone": {
+      "message": "거의 완료되었습니다."
+   },
+   "always": {
+      "message": "항상"
+   },
+   "analytics": {
+      "message": "분석"
+   },
+   "antiPhishingAndScams": {
+      "message": "Anti-Phishing및 Scams"
+   },
+   "appDescription": {
+      "message": "WOT에서는 전 세계의 수백만 사용자 경험을 기준으로 신뢰할 수 있는 웹 사이트를 보여 줍니다. Web of Trust는 공인 크롬 확장기능입니다."
+   },
+   "appName": {
+      "message": "WOT 웹사이트 보안 및 브라우징 안전 보호"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "계속 진행할까요?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "이 웹사이트에 대한 새 리뷰 작성"
+   },
+   "assistantSettingSubtitle": {
+      "message": "안전한 쇼핑과 온라인 검색"
+   },
+   "assistantSettingTitle": {
+      "message": "WOT 어시스턴트 실드"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "WOT 슬라이더 열기"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "이 페이지에서 감지된 추적기 수"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOT를 사용하면 탐색 중인 모든 웹사이트에서 추적기를 파악 및 차단하여 데이터 수집 주체를 제어할 수 있습니다."
+   },
+   "autoScanDevice": {
+      "message": "기기 자동 스캔"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "보안 위협 및/또는 누수에 대해 정기적으로 디바이스를 스캔하는지 확인하십시오."
+   },
+   "autoScanDeviceText": {
+      "message": "기기를 정기적으로 스캔하여 보안 위협 및/또는 침해가 없는지 확인하세요."
+   },
+   "avoidHarmfulSites": {
+      "message": "가짜 및 유해 사이트 회피"
+   },
+   "back": {
+      "message": "뒤로"
+   },
+   "beTheFirstToReview": {
+      "message": "이 웹 사이트의 등급을 먼저 지정하십시오."
+   },
+   "blacklistsPreCheck": {
+      "message": "최신 블랙리스트"
+   },
+   "block": {
+      "message": "차단"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "방문하는 모든 웹사이트의 모든 추적기를 자동으로 차단합니다"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "프리미엄 사용자의 경우에만 모든 추적기를 자동으로 차단합니다"
+   },
+   "blockTrackers": {
+      "message": "블록 추적 프로그램"
+   },
+   "blockUnsafeWebsites": {
+      "message": "안전하지 않은 웹 사이트 및 링크 차단"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT는 안전하지 않은 링크를 클릭하거나 안전하지 않거나 악의적인 웹 사이트로 이동하는 경우 미리 경고하도록 합니다."
+   },
+   "blocked": {
+      "message": "차단됨!"
+   },
+   "blocksHackingAttacks": {
+      "message": "39초마다 해킹 공격 차단"
+   },
+   "breachedDate": {
+      "message": "침해 날짜"
+   },
+   "breachesAlert": {
+      "message": "귀하의 개인정보 및/또는 암호가 해킹되어 보안 위협에"
+   },
+   "browse": {
+      "message": "탐색"
+   },
+   "browserNotProtected": {
+      "message": "브라우저가 보호되지 않음"
+   },
+   "browserProtected": {
+      "message": "브라우저가 안전하다"
+   },
+   "browserSecured": {
+      "message": "이 브라우저는 보안이 됩니다!"
+   },
+   "bugs": {
+      "message": "벅스"
+   },
+   "canHelp": {
+      "message": "무엇을 도와드릴까요?"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "careful": {
+      "message": "주의!"
+   },
+   "categoriesExplained": {
+      "message": "이 웹사이트의 해당 유형:"
+   },
+   "changePassword": {
+      "message": "암호 변경"
+   },
+   "changePasswordSubtitle": {
+      "message": "모든 암호가 고유하고 서로 다르며 추측하기 어려운지 확인하세요. 동일한 암호를 절대 재사용하지 마세요."
+   },
+   "changePasswordText": {
+      "message": "모든 암호가 고유하고 서로 다르며 추측하기 어려운지 확인하세요. 동일한 암호를 절대 재사용하지 마세요."
+   },
+   "checkLeaks": {
+      "message": "누수 확인하기"
+   },
+   "checkUrl": {
+      "message": "URL 확인"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "웹 사이트 보안 레벨 확인"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT 에서는 웹 사이트 보안 레벨을 확인하는 세 가지 방법을 제공합니다. Google 검색 엔진 결과 페이지, 브라우저 도구 모음 아이콘 및 자세한 스코어카드 및 검토"
+   },
+   "chooseTags": {
+      "message": "%DOMAIN%을(를) 설명하는 태그를 선택하십시오"
+   },
+   "chooseTagsForSite": {
+      "message": "이 사이트를 가장 잘 설명하는 태그를 선택하세요."
+   },
+   "chooseTagsThatDescribes": {
+      "message": "이 사이트에 대해 설명하는 태그를 선택하십시오."
+   },
+   "clearPolicy": {
+      "message": "명확한 정책"
+   },
+   "clickAllTags": {
+      "message": "해당되는 태그를 모두 클릭하십시오"
+   },
+   "clickOnTheGearIcon": {
+      "message": "이 팝업창 켜기/끄기를 전환하려면 %GEARICON% 을 클릭하십시오"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "contactUs": {
+      "message": "문의하기"
+   },
+   "containAdultContent": {
+      "message": "성인물 포함 웹사이트"
+   },
+   "contentWarning": {
+      "message": "성인 콘텐츠 차단됨"
+   },
+   "coolGotIt": {
+      "message": "네, 알겠습니다"
+   },
+   "dataBreachHookText": {
+      "message": "때로는 위험할 수도 있다"
+   },
+   "dataBreachHookTitle": {
+      "message": "로그인 세부 정보를 입력하시겠습니까?"
+   },
+   "dataLeakMonitoring": {
+      "message": "데이터 침해 모니터링"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "이 이메일 계정과 연관된 데이터 누출이 발견되었습니다."
+   },
+   "dayAgo": {
+      "message": "1일 전"
+   },
+   "daysAgo": {
+      "message": "%1%일 전"
+   },
+   "default": {
+      "message": "권장"
+   },
+   "defaultManualModeButton": {
+      "message": "계속하기 및 켜기"
+   },
+   "defaultManualModeHeader": {
+      "message": "실시간 결과 및 통찰력 얻기"
+   },
+   "defaultManualModeText": {
+      "message": "WOT 사전 보호 기능이 비활성화 상태입니다. 웹사이트 등급 및 알림이 표시되지 않습니다."
+   },
+   "defaultText": {
+      "message": "평판이 낮은 웹사이트는 차단하고 방지합니다(권장)."
+   },
+   "del": {
+      "message": "삭제"
+   },
+   "delete": {
+      "message": "예, 삭제합니다"
+   },
+   "deleteThisReview": {
+      "message": "이 리뷰를 삭제하시겠어요?"
+   },
+   "digitalTrackingProtection": {
+      "message": "디지털 추적 보호"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "온라인 찾아보기 습관을 추적하여 모든 서비스를 자동으로 차단합니다."
+   },
+   "disableOnAllWebsites": {
+      "message": "네, 모든 웹사이트에서 사용하지 않습니다."
+   },
+   "disableOnThusWebsites": {
+      "message": "네, 이 웹사이트에서만 사용하지 않습니다."
+   },
+   "disableWOTHelper": {
+      "message": "WOT 도우미를 사용하지 않으시겠습니까?"
+   },
+   "disableWOTHelperText": {
+      "message": "WOT 도우미를 통해 방문하시는 페이지의 평점과 의견을 간략하게 볼 수 있습니다. 언제든지 WOT 설정에서 사용하지 않음으로 설정할 수 있습니다."
+   },
+   "disagree": {
+      "message": "동의하지 않음"
+   },
+   "dismissWarning": {
+      "message": "경고 무시"
+   },
+   "done": {
+      "message": "도그"
+   },
+   "dontShowAgain": {
+      "message": "다시는 보이지 마세요"
+   },
+   "dontShowOnThisSite": {
+      "message": "이 웹사이트에 대해 다시 경고를 받지 않습니다"
+   },
+   "dontShowThis": {
+      "message": "다시 표시하지 않습니다"
+   },
+   "donuts": {
+      "message": "링크 옆의 평판 아이콘"
+   },
+   "downloadClassicWot": {
+      "message": "Classic WOT 다운로드"
+   },
+   "downloadMobileWot": {
+      "message": "모바일용 WOT 다운로드"
+   },
+   "edit": {
+      "message": "편집"
+   },
+   "editYourReview": {
+      "message": "검토 편집"
+   },
+   "empty": {
+      "message": "비어 있는 목록"
+   },
+   "enable": {
+      "message": "활성화하기"
+   },
+   "enableEnhancedProtection": {
+      "message": "향상된 보호 가능"
+   },
+   "enjoyingWot": {
+      "message": "WOT가 마음에 드십니까?"
+   },
+   "errorAction": {
+      "message": "확인"
+   },
+   "errorContent": {
+      "message": "죄송합니다. 현재 페이지를 새로고침하고 다시 시도하세요."
+   },
+   "errorTitle": {
+      "message": "문제 발생"
+   },
+   "extraFeaturesTitle": {
+      "message": "다른 WOT가 제공해야 하는 것 보기"
+   },
+   "faqSupport": {
+      "message": "FAQ & 지원"
+   },
+   "findHelp": {
+      "message": "도움말을 찾아보거나 문의해 주세요"
+   },
+   "firstRate": {
+      "message": "이 웹사이트의 첫 평가자가 되어 주세요"
+   },
+   "followUs": {
+      "message": "팔로우하기"
+   },
+   "forAllPremiumPlans": {
+      "message": "모든 Premium 플랜 대상"
+   },
+   "forum": {
+      "message": "포럼"
+   },
+   "freeTrialEndend": {
+      "message": "무료 평가판이 %2% 일 남았습니다."
+   },
+   "freeUserBlockTitle": {
+      "message": "기타 유해한 웹사이트로부터 보호받고 싶으신가요?"
+   },
+   "gamblingSites": {
+      "message": "도박 사이트"
+   },
+   "gamblingSitesText": {
+      "message": "도박 게임 및 콘텐츠가 있는 웹사이트를 차단합니다"
+   },
+   "generalSettings": {
+      "message": "일반 설정"
+   },
+   "generalSettingsDescription": {
+      "message": "사용자의 필요에 맞게 설정을 사용자 정의하고 보호를 유지합니다."
+   },
+   "getFullCoverage": {
+      "message": "브라우징 완전 보호"
+   },
+   "getFullProtection": {
+      "message": "WOT로부터 완벽한 보호를 받으세요"
+   },
+   "getMorePremium": {
+      "message": "프리미엄으로 더 많은 혜택을 누리세요"
+   },
+   "getPhishingAlert": {
+      "message": "피싱 알림 받기"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "최신 피싱 사이트 및 소셜 엔지니어링 공격으로부터 사용자를 보호합니다."
+   },
+   "getWOTPremium": {
+      "message": "WOT Premium으로 해커, 바이러스, 악성 웹사이트로부터 포괄적인 보호를 받으세요."
+   },
+   "gmailProtectionDescription": {
+      "message": "받은편지함의 의심 이메일에 대해 경고 수신"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "신속한 피싱 이메일 감지 설계"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "스마트 이메일 탐지"
+   },
+   "gmailProtectionTitle": {
+      "message": "이메일 보호"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "이메일 보호 사용자 정의 및 신뢰 가능 URL 주소 입력"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "신뢰 가능 URL 주소 추가(예: sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "허용 목록"
+   },
+   "goPremium": {
+      "message": "프리미엄 이동"
+   },
+   "goToLeakReport": {
+      "message": "BAT 보고서 참조"
+   },
+   "goToSite": {
+      "message": "해당 사이트로 이동"
+   },
+   "goodService": {
+      "message": "만족스러운 서비스"
+   },
+   "gotIt": {
+      "message": "알겠습니다"
+   },
+   "greatSupport": {
+      "message": "뛰어난 지원"
+   },
+   "hide": {
+      "message": "숨기기"
+   },
+   "hideWotAssistant": {
+      "message": "WOT 어시스턴트 숨기기"
+   },
+   "hideWotAssistantText": {
+      "message": "'숨기기'를 클릭하면 WOT 어시스턴트 페이지가 더 이상 표시되지 않습니다. 설정은 나중에 언제든지 변경할 수 있습니다."
+   },
+   "high": {
+      "message": "강력"
+   },
+   "highText": {
+      "message": "의심스러운 웹사이트는 모두 차단합니다. 자녀에게 부적절한 내용이 있는 웹사이트는 차단하도록 기본 설정됩니다."
+   },
+   "holdOn": {
+      "message": "잠깐만!"
+   },
+   "hour": {
+      "message": "시간"
+   },
+   "hourAgo": {
+      "message": "1시간 전"
+   },
+   "hourMinutesAgo": {
+      "message": "한 시간 %2% 분 전"
+   },
+   "hours": {
+      "message": "시간"
+   },
+   "hoursAgo": {
+      "message": "%1%시간 전"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% 시간 %2% 분 전"
+   },
+   "hoverOverTheWOT": {
+      "message": "WOT %DONUTICON% 아이콘 위에 마우스를 갖다대어 이 사이트의 평판을 보십시오"
+   },
+   "howWouldYouRate": {
+      "message": "이 웹사이트에 1~5점 중 몇 점을 주시겠습니까?"
+   },
+   "identityProtection": {
+      "message": "ID 보호"
+   },
+   "identityProtectionModalMessage": {
+      "message": "ID 보호 기능을 사용하여 비밀번호 보호 및 모니터링 서비스를 제공하는 제3자와 귀하의 이메일 주소를 공유할 수 있음에 동의합니다."
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT는 사용자의 개인정보가 유출되었을 때 사용자가 신원 도용 및 향후 유출을 방지하기 위해 신속하게 이동할 수 있도록 경고하고 있습니다."
+   },
+   "increaseOnlineSecurity": {
+      "message": "온라인 보안 강화"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "민감한 정보를 포함하는 개인 계정에 액세스하기 위해 두 개의 요인 인증 사용"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "민감한 정보를 포함하는 개인 계정 액세스에 2단계 인증을 설정하세요."
+   },
+   "installed": {
+      "message": "설치됨"
+   },
+   "isSafe": {
+      "message": "이 사이트가 안전하다고 생각하십니까?"
+   },
+   "issuesFound": {
+      "message": "발견된 %ISSUES% 개의 문제"
+   },
+   "justNow": {
+      "message": "방금 전"
+   },
+   "lang": {
+      "message": "en-US"
+   },
+   "lastScanned": {
+      "message": "마지막 스캔"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT는 여러분이 온라인에서 자신을 보호할 수 있도록 개인정보가 포함된 데이터 침해에 관해 실시간으로 경고할 것입니다."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "데이터 침해 모니터링 기능을 활성화하면 암호 보호 및 모니터링 서비스를 제공하는 제3자와 이메일 주소를 공유할 수 있다는 데 동의하는 것입니다."
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "개인 정보를 안전하게 유지하고 디지털 신원을 보호하기 위해 다음 단계를 수행하는 것이 좋습니다."
+   },
+   "leakSuggestionsTitle": {
+      "message": "내 개인정보가 유출되면 어떻게 해야 할까요?"
+   },
+   "leakedInformation": {
+      "message": "유출된 정보"
+   },
+   "legalAnd": {
+      "message": "및"
+   },
+   "legalPrivacyPolicy": {
+      "message": "개인정보 보호정책"
+   },
+   "legalStatement": {
+      "message": "실시간 보호, 유지 관리 서비스 제공 및 서비스 향상을 위해, 방문한 웹사이트에 대한 정보가 저희 서버로 다시 전송됩니다. 위의 '동의'를 클릭함으로써, 귀하는 다음에 동의하는 것입니다."
+   },
+   "letCommunityKnow": {
+      "message": "이 사이트에 대한 좋은 경험이나 우려 사항 등 무엇이든 커뮤니티에 알려 주세요."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "이 사이트 사용 경험을 다른 사람들에게도 알려 주세요."
+   },
+   "limitedTimeOffer": {
+      "message": "기간 한정 할인 행사"
+   },
+   "lite": {
+      "message": "기본"
+   },
+   "liteText": {
+      "message": "꼭 필요할 때만 연락드립니다."
+   },
+   "liveBlocking": {
+      "message": "라이브 차단"
+   },
+   "loading": {
+      "message": "로드 중…"
+   },
+   "logOut": {
+      "message": "로그아웃"
+   },
+   "login": {
+      "message": "로그인"
+   },
+   "looksSafe": {
+      "message": "안전해 보입니다"
+   },
+   "manage": {
+      "message": "관리"
+   },
+   "manageProtection": {
+      "message": "보호 관리"
+   },
+   "manageSubscriptions": {
+      "message": "등록 관리"
+   },
+   "manageTrackers": {
+      "message": "추적기 관리"
+   },
+   "manualModeAgree": {
+      "message": "위의 '켜기'를 클릭하시면 다음 사항에 동의하는 것으로 간주됩니다."
+   },
+   "manualModeWarning": {
+      "message": "이제 수동 모드로 탐색합니다. WOT의 선제적 보호 기능이 비활성화되며 위험한 사이트로부터 보호되지 않습니다."
+   },
+   "manualModeWarningStrip": {
+      "message": "참고: 현재 수동 모드로 탐색 중이므로 사용할 수 없는 기능이 많습니다."
+   },
+   "marketing": {
+      "message": "마케팅"
+   },
+   "maybeNextTime": {
+      "message": "다음에"
+   },
+   "messageSubmitted": {
+      "message": "메시지 제출 성공."
+   },
+   "minute": {
+      "message": "분"
+   },
+   "minuteAgo": {
+      "message": "1분 전"
+   },
+   "minutes": {
+      "message": "분"
+   },
+   "minutesAgo": {
+      "message": "%1%분 전"
+   },
+   "missingReviews": {
+      "message": "누락된 뷰"
+   },
+   "month": {
+      "message": "월"
+   },
+   "monthAgo": {
+      "message": "1개월 전"
+   },
+   "monthsAgo": {
+      "message": "%1%개월 전"
+   },
+   "moreInfo": {
+      "message": "자세한 정보"
+   },
+   "myDashboardNav": {
+      "message": "내 대시보드"
+   },
+   "myProfile": {
+      "message": "내 프로필"
+   },
+   "newDataLeaksFound": {
+      "message": "%1%새 데이터 누수 발견"
+   },
+   "next": {
+      "message": "다음"
+   },
+   "no": {
+      "message": "아니요"
+   },
+   "noBreaches": {
+      "message": "좋은 소식입니다! 유출된 데이터가 없습니다"
+   },
+   "noComments": {
+      "message": "리뷰 없음"
+   },
+   "noKeepIt": {
+      "message": "아니요, 그냥 둡니다."
+   },
+   "noReviewsYet": {
+      "message": "아직 리뷰 없음"
+   },
+   "noSkip": {
+      "message": "아니요, 건너뜁니다"
+   },
+   "noThanks": {
+      "message": "아니요, 삭제하지 않습니다"
+   },
+   "noTrackersBlocked": {
+      "message": "%1%개의 추적기 감지됨"
+   },
+   "noTrackersDetected": {
+      "message": "감지된 추적기 없음"
+   },
+   "none": {
+      "message": "없음"
+   },
+   "notSecurity": {
+      "message": "보안 문제가 있습니까?"
+   },
+   "notSuitableForChildren": {
+      "message": "어린이에게 적합하지 않은 콘텐츠가 있습니까?"
+   },
+   "notSure": {
+      "message": "잘 모름"
+   },
+   "off": {
+      "message": "끄기"
+   },
+   "okGotIt": {
+      "message": "알겠습니다"
+   },
+   "on": {
+      "message": "켜기"
+   },
+   "onBoarding4States": {
+      "message": "다음과 같이 4개의 상태가 있습니다."
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "웹사이트의 평판을 미리 확인한 후 클릭하세요."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "쉴드 아이콘 위로 마우스를 가져가서"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "평판 대시보드"
+   },
+   "onBoardingReputationScore": {
+      "message": "평점"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "이제 아무 걱정 없이 안전하게 웹을 탐색할 수 있습니다. 알 수 없는 웹사이트를 클릭하기 전에 쉴드 아이콘을 꼭 확인하세요!"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "이 팝업창은 해당 웹사이트의 평점을 보여줍니다. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "이 웹사이트는 WOT 지정 %SAFETY%입니다!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "'검토 읽기' 를 클릭하여 추가 사용자 검토를 읽을 수 있습니다."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "설정 완료!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1개의 차단된 추적기"
+   },
+   "oneTrackerDetected": {
+      "message": "1개의 추적기 감지됨"
+   },
+   "optinAreYouSureMessage": {
+      "message": "라이브 360도 웹 보호를 제공하기 위해, WOT의 기능 중 일부는 방문하는 웹 사이트에서 수집된 익명의 정보에 액세스해야 합니다. 이 정보는 써드파티와 공유되거나 마케팅 목적으로 사용되지 않습니다. 설정 페이지를 방문하여 언제든지 환경 설정을 변경할 수 있습니다."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT는 사기, 피싱, 의심, 멀웨어 및 스팸 메일을 받을 때 경고합니다."
+   },
+   "optinGoBack": {
+      "message": "돌아가기"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "라이브 보호 설정"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "향상된 보호"
+   },
+   "optinHeaderInstallation": {
+      "message": "설치됨"
+   },
+   "optinHeaderScanDevice": {
+      "message": "스캔 디바이스"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "브라우저 설정하기"
+   },
+   "optinMaybeLater": {
+      "message": "아마 나중에"
+   },
+   "optinProtectYourEmail": {
+      "message": "이메일 보호"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "사이트의 평판에 따라 브라우저 툴바의 로고가 달라집니다"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "WOT 로고를 확인하세요"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "평판이 열악한 사이트에서는 WOT가 경고를 보냅니다"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "실시간 알림을 받으세요"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "검색 엔진 결과 페이지에서 WOT 로고의 색상을 확인하여 클릭해도 안전한 사이트를 확인하세요"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "어떤 검색 결과든 표시하세요"
+   },
+   "optinReputationIconsText": {
+      "message": "웹사이트 링크 옆의 WOT 안전 도넛을 사용하여 온라인에서 정보에 입각한 의사결정을 내리세요."
+   },
+   "optinSafetyScoreText": {
+      "message": "스코어카드를 사용하여 사이트 평점과 리뷰를 확인하세요."
+   },
+   "optinSubtitle": {
+      "message": "여러분을 실시간으로 보호하기 위해, 여러분이 찾고 있는 URL들에 대한 액세스가 필요하다."
+   },
+   "optinTitle": {
+      "message": "브라우저 보호 허용"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "유해하거나 평점이 좋지 않은 웹사이트를 차단하여 방지하세요."
+   },
+   "optinWelcomeSubtitle": {
+      "message": "{millionMembers}으로 결합하여 WOT를 사용하여 서로를 보호합니다."
+   },
+   "or": {
+      "message": " 또는 "
+   },
+   "other": {
+      "message": "기타"
+   },
+   "outOfHere": {
+      "message": "나가기"
+   },
+   "ownThisSite": {
+      "message": "이 사이트의 소유자입니까?"
+   },
+   "parentalControl": {
+      "message": "자녀보호"
+   },
+   "parentalControlOFF": {
+      "message": "자녀에게 부적절한 내용이 있는 웹사이트를 차단하지 않습니다"
+   },
+   "parentalControlON": {
+      "message": "자녀에게 부적절한 내용이 있는 웹사이트를 차단합니다"
+   },
+   "performance": {
+      "message": "성능"
+   },
+   "pinWot": {
+      "message": "WOT 고정!"
+   },
+   "pinWotPopup": {
+      "message": "현재 웹사이트 보안 상태를 보려면 $WOT$를 고정하세요",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "시간을 내서 우리를 속인다."
+   },
+   "policy": {
+      "message": "개인정보 보호정책 보기"
+   },
+   "poorCustomerService": {
+      "message": "고객 서비스 불만족"
+   },
+   "poorOnly": {
+      "message": "나쁜 평가만"
+   },
+   "poorRating": {
+      "message": "의심스러운 사이트입니다."
+   },
+   "popupAdultStrip": {
+      "message": "성인 콘텐츠가 있을 수 있음"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "이 섹션에서는 현재 방문 중인 사이트가 안전한지 여부를 확인할 수 있습니다."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "검토를 읽으려면 링크를 클릭하십시오."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "새로운 WOT에 오신 것을 환영합니다!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "이 섹션은 온라인 습관을 추적하는 서비스의 수를 표시합니다."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "트래커 블로킹을 조정하려면 링크를 클릭하십시오."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "디지털 트래커"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "계정 설정을 열고 보호를 관리하려면 여기를 클릭하십시오."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "내 보호 관리"
+   },
+   "postReview": {
+      "message": "리뷰 게시하기"
+   },
+   "potentiallyMalicious": {
+      "message": "이 사이트에 유해한 코드가 포함되었을 가능성이 있습니다."
+   },
+   "preCheck": {
+      "message": "사전 확인"
+   },
+   "premium": {
+      "message": "프리미엄 (Premium)"
+   },
+   "premiumFeature": {
+      "message": "프리미엄 기능"
+   },
+   "premiumSecurity": {
+      "message": "Premium 보안"
+   },
+   "premiumText": {
+      "message": "가장 유해한 웹사이트와 링크로부터 사용자를 보호하는 데 필요한 모든 온라인 보안"
+   },
+   "presettings": {
+      "message": "사전 설정"
+   },
+   "protectPrivacy": {
+      "message": "신원 및 개인정보 보호 "
+   },
+   "protectYourPrivacy": {
+      "message": "팝업 차단"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "팝업을 차단하여 더 깨끗하고 빠르고 안전한 브라우징 경험을 제공합니다."
+   },
+   "protectYourself": {
+      "message": "지금 데이터 유출 경고 받기"
+   },
+   "protectedForXDays": {
+      "message": "%1% 일 동안 보호"
+   },
+   "protection": {
+      "message": "보호"
+   },
+   "rateOnStore": {
+      "message": "%BROWSER% 상점의 등급 지정"
+   },
+   "rateOverall": {
+      "message": "%DOMAIN%에 대한 귀하의 전반적인 *경험*을 설명하십시오"
+   },
+   "rateThisSite": {
+      "message": "이 사이트 평가하기"
+   },
+   "rateUs": {
+      "message": "WOT 평가하기"
+   },
+   "rateYourExperience": {
+      "message": "다음 사항에 대해 전반적으로 어떻게 느끼셨나요?"
+   },
+   "readMoreReviews": {
+      "message": "리뷰 더 읽기 (%1%)"
+   },
+   "readReviews": {
+      "message": "읽기 검토"
+   },
+   "realTimeCheckups": {
+      "message": "실시간 점검"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "피싱, 멀웨어 및 기타 위협으로부터 실시간 보호됩니다."
+   },
+   "realtimePhishingAlerts": {
+      "message": "실시간 피싱 알림"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "다른 사용자를 위험에 빠뜨릴 수 있는 신뢰할 수 없는 사이트나 가짜 사이트를 신고하세요"
+   },
+   "reputation": {
+      "message": "평판"
+   },
+   "reputationIcons": {
+      "message": "평점 아이콘"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT는 현재 방문 중인 웹 사이트의 안전 레벨을 표시합니다."
+   },
+   "restorePurchases": {
+      "message": "구매 내역 복원"
+   },
+   "resultFor": {
+      "message": "결과"
+   },
+   "reviewAddedErrorText": {
+      "message": "오류가 발생했습니다. 다시 시도해 주세요."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "리뷰 게시 실패"
+   },
+   "reviewAddedOKText": {
+      "message": "더 안전한 인터넷을 위한 노력에 감사드립니다!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "리뷰 게시 성공"
+   },
+   "reviews": {
+      "message": "리뷰"
+   },
+   "rtOFF": {
+      "message": "이제 수동 모드로 작동됩니다. WOT의 선제적 보호기능을 사용하지 않습니다"
+   },
+   "rtON": {
+      "message": "이제 WOT의 완전한 선제적 보호를 받게 됩니다."
+   },
+   "rtProtection": {
+      "message": "실시간 보호"
+   },
+   "rtProtectionRecommended": {
+      "message": "실시간 보호 (권장)"
+   },
+   "safeBrowsing": {
+      "message": "안전한 브라우징"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT는 실시간 경보로 방문하는 모든 사이트, 페이지 및 서비스를 스캐닝하여 온라인으로 주의를 유지합니다."
+   },
+   "safeSearch": {
+      "message": "안전 검색"
+   },
+   "safeSearchSubtitle": {
+      "message": "검색 결과 옆에 아이콘이 표시되어 클릭하기 전에 웹 사이트가 안전한지 여부를 알 수 있습니다."
+   },
+   "safeShopping": {
+      "message": "안전한 쇼핑"
+   },
+   "safeShoppingSite": {
+      "message": "쇼핑하기에 안전한 웹사이트입니다"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "WOT 알고리즘, 머신 러닝 및 사용자 리뷰로 판단할 때 쇼핑하기에 안전한 웹사이트입니다."
+   },
+   "safetyScore": {
+      "message": "안전 점수"
+   },
+   "safetyScoreSubtitle": {
+      "message": "스코어카드를 사용하여 웹 사이트 평판을 확인하고 사용자 자신의 경험을 공유합니다."
+   },
+   "scannedOn": {
+      "message": "감지됨:"
+   },
+   "scoreCard": {
+      "message": "점수 카드"
+   },
+   "searchEnginePageResults": {
+      "message": "검색 엔진 결과 페이지"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "웹 사이트 링크 옆에 WOT의 안전 표시기를 사용하여 온라인으로 의사 결정을 내릴 수 있습니다."
+   },
+   "searchIndicator": {
+      "message": "검색 표시기"
+   },
+   "searchManualModeButton": {
+      "message": "검색 엔진 가이던스를 켜세요"
+   },
+   "searchManualModeHeader": {
+      "message": "WOT 가이던스가 비활성화 상태입니다"
+   },
+   "searchManualModeText": {
+      "message": "WOT 검색 엔진 보호 기능이 비활성화 상태입니다. 웹사이트 등급이 링크 옆에 표시되지 않습니다."
+   },
+   "security": {
+      "message": "보안"
+   },
+   "securityBreaches": {
+      "message": "노출되었습니다!"
+   },
+   "securityRiskDetected": {
+      "message": "보안 위험 감지"
+   },
+   "securityScore": {
+      "message": "보안 점수"
+   },
+   "securitySystem": {
+      "message": "보안 시스템"
+   },
+   "securityWarning": {
+      "message": "보안 경고"
+   },
+   "seeLess": {
+      "message": "간략히 보기"
+   },
+   "seeMore": {
+      "message": "자세히 보기"
+   },
+   "seeReviews": {
+      "message": "리뷰 보기"
+   },
+   "sendFeedback": {
+      "message": "피드백 보내기"
+   },
+   "serpMailWarning": {
+      "message": "WOT 발견: 이 이메일에 위험한 링크나 추적 URL이 포함되어 있을 수 있습니다"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "내 이메일 업그레이드 및 보호"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "나중에 다시 알리기"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "온라인 사기 중 96%는 이메일을 통해 들어옵니다. 망설이지 말고 지금 자신을 보호하세요."
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "이메일이 위험합니다!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT는 온라인 위협 및 추적을 감지하고 방지하므로 개인정보 보호를 안심하고 맡길 수 있습니다."
+   },
+   "servicesTrackingYou": {
+      "message": "서비스가 사용자의 활동을 추적 중임"
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "PREMIUM 기능을 사용해 보세요"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "더욱 강력한 보호"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "어디서나, 언제나."
+   },
+   "settingsBannerTitle": {
+      "message": "더 안전한 브라우징 경험."
+   },
+   "setup": {
+      "message": "설정"
+   },
+   "severeOnly": {
+      "message": "심각한 평가만"
+   },
+   "share": {
+      "message": "공유"
+   },
+   "shareExperience": {
+      "message": "자신의 %1% 경험을 공유하여 다른 사람들을 도와주세요"
+   },
+   "shareFeedback": {
+      "message": "귀하의 의견을 공유해 주세요"
+   },
+   "shareOnFacebook": {
+      "message": "페이스북에 공유"
+   },
+   "shareOnGoogle": {
+      "message": "Google +에 공유"
+   },
+   "shareOnTwitter": {
+      "message": "트위터에 공유"
+   },
+   "shareText1": {
+      "message": "Web of Trust에서 %WEBSITE%을(를) 평가함으로써 인터넷의 환경 개선에 기여했습니다. 동의하지 않으십니까? 다음에서 직접 평가해보세요 👉 %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "의심스러운 웹사이트를 피하며 안전하게 인터넷을 탐색하는 방법을 찾았습니다! Web of Trust 확장기능을 사용해 보세요: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Web of Trust에서 별점 5개 중 %WEBSITE% %STARS%를 평가함으로써 인터넷의 환경 개선에 기여했습니다! 동의하지 않으십니까? 다음에서 직접 평가해 보세요 👉 %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": " @Web_of_Trust를 이용하여 의심스러운 웹사이트를 피하며 안전하게 인터넷을 탐색하고 있습니다. 여기서 직접 사용해 보세요: %LINK% #WOT #MyWOT #보안"
+   },
+   "shareTextGoogleRate": {
+      "message": "Web of Trust에서 별점 5개 중 %WEBSITE% %STARS%를 평가함으로써 인터넷의 환경 개선에 기여했습니다! 동의하지 않으십니까? 다음에서 직접 평가해 보세요 👉 %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": " @Web_of_Trust를 이용하여 의심스러운 웹사이트를 피하며 안전하게 인터넷을 탐색하고 있습니다. 여기서 직접 사용해 보세요: %LINK% #WOT #MyWOT #보안"
+   },
+   "shareTextTwitterRate": {
+      "message": "WOT에서 방금 별점 5개 중 %WEBSITE% %STARS%를 평가했습니다! 동의하지 않으십니까? 다음에서 직접 평가해보세요 👉 %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "의심스러운 웹사이트를 피하며 안전하게 인터넷을 탐색하는 방법을 찾았습니다! Web of Trust 확장기능을 사용해 보세요: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Web of Trust에서 별점 5개 중 %WEBSITE% %STARS%를 평가함으로써 인터넷의 환경 개선에 기여했습니다! 동의하지 않으십니까? 다음에서 직접 평가해 보세요 👉 %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "친구와 WOT 공유!"
+   },
+   "shareWotRating": {
+      "message": "%DOMAIN%에 대한 귀하의 평가를 친구와 공유하세요!"
+   },
+   "shareYouRating": {
+      "message": "친구와 평가 공유"
+   },
+   "shopWithConfidence": {
+      "message": "자신감 있는 상점"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "온라인 상점에서 구매자 검토를 확인하고 피싱 및 가짜 전자 상거래 사기에 대해 자신을 보호합니다."
+   },
+   "signIn": {
+      "message": "로그인"
+   },
+   "signInNow": {
+      "message": "지금 로그인하기"
+   },
+   "signInToRate": {
+      "message": "이 웹사이트를 평가하고 리뷰를 작성하려면 로그인해 주세요."
+   },
+   "siteIsSafe": {
+      "message": "이 사이트가 *안전*하다고 생각하십니까?"
+   },
+   "siteIsSafeChildren": {
+      "message": "이 사이트가 *어린이에게 안전*하다고 생각하십니까?"
+   },
+   "skip": {
+      "message": "건너뜀"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "위험을 감지하고 사기로부터 멀어지게 하기 위해 구축된 고급 피싱 보호입니다."
+   },
+   "social": {
+      "message": "소셜 네트워크"
+   },
+   "someTrackersBlocked": {
+      "message": "%2%개 중 %1%개의 추적기 차단됨"
+   },
+   "specialOfferBillingDetails": {
+      "message": "1회 결제액"
+   },
+   "specialOfferFeatures": {
+      "message": "이메일 보호, 성인 콘텐츠 차단, 무제한 트래커 차단 등 다양한 기능!"
+   },
+   "startFreeTrial": {
+      "message": "무료 체험판 시작하기"
+   },
+   "startProtection": {
+      "message": "보호 시작!"
+   },
+   "startYourFreeTrial": {
+      "message": "무료 체험판 시작"
+   },
+   "successRecPass": {
+      "message": "귀하의 이메일 주소로 안내를 보냈습니다"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT에게 의심스러운 웹사이트"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "WOT 지정 의심되는 웹사이트"
+   },
+   "suspiciousSite": {
+      "message": "의심스러운 사이트"
+   },
+   "switchToClassic": {
+      "message": "Classic WOT로 전환"
+   },
+   "systemPageAction": {
+      "message": "이해했습니다"
+   },
+   "systemPageContent": {
+      "message": "WOT가 미지원 페이지(브라우저 시스템 페이지, 로컬 호스트, 확장 페이지 등)에 사용됩니다."
+   },
+   "systemPageTitle": {
+      "message": "시스템 페이지"
+   },
+   "takeAction": {
+      "message": "조치를 취하세요"
+   },
+   "tellUsMore": {
+      "message": "더 말해주세요 ..."
+   },
+   "tellYourFriends": {
+      "message": "당신의 친구들에게 WOT에 대해 이야기함으로써 공동체를 확산시키라!"
+   },
+   "termsOfUse": {
+      "message": "이용 약관"
+   },
+   "thankYou": {
+      "message": "감사합니다!"
+   },
+   "thankYouForFeedback": {
+      "message": "피드백에 감사드립니다"
+   },
+   "thankYouForInstalling": {
+      "message": "WOT를 설치해 주셔서 감사합니다. 이제 적절한 보호 쉴드를 선택하여 완벽한 보호를 시작하세요"
+   },
+   "thanksGotIt": {
+      "message": "감사합니다. 알겠습니다!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "이 이메일은 알려진 데이터 침해 %1%건에 포함되었습니다."
+   },
+   "thisPopupShows": {
+      "message": "이 팝업창은 해당 웹사이트의 평점을 보여줍니다. "
+   },
+   "thisSiteOnly": {
+      "message": "이 사이트만"
+   },
+   "threatsFound": {
+      "message": "위협 발견"
+   },
+   "timerManualModeButton": {
+      "message": "실시간 보호 기능 켜기"
+   },
+   "timerManualModeHeader": {
+      "message": "수동 모드로 탐색합니다!"
+   },
+   "timerManualModeText": {
+      "message": "WOT 사전 보호 기능이 비활성화 상태입니다. 위험한 사이트로부터 보호되지 않습니다."
+   },
+   "toWriteReview": {
+      "message": " 리뷰 쓰기"
+   },
+   "toggleTooltipMessage": {
+      "message": "이 기능 활성화"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "지금 업그레이드하기"
+   },
+   "tooComplicated": {
+      "message": "너무 복잡해"
+   },
+   "tooltipChildSafe": {
+      "message": "이 사이트에는 누드, 충격, 섬뜩한 내용이 없습니까?"
+   },
+   "tooltipSafe": {
+      "message": "이 사이트는 맬웨어, 바이러스, 피싱 등의 위협으로부터 안전합니까?"
+   },
+   "tour": {
+      "message": "둘러보기"
+   },
+   "trackerBlocked": {
+      "message": "차단됨"
+   },
+   "trackerBlocker": {
+      "message": "추적기 방지 보호"
+   },
+   "trackerBlockerDescription": {
+      "message": "방문하는 모든 웹사이트의 모든 추적기를 자동으로 차단합니다."
+   },
+   "trackerCounterAction": {
+      "message": "더 많은 추적기 해제"
+   },
+   "trackerCounterText": {
+      "message": "3개 중 %1%개의 추적기에 대해 기본 보호 기능 적용 가능"
+   },
+   "trackerSomeBlocked": {
+      "message": "%2%개 중 %1%개의 추적기 차단됨"
+   },
+   "trackerUnblocked": {
+      "message": "차단 해제됨"
+   },
+   "trackersBlockAll": {
+      "message": "모든 추적기 자동 차단"
+   },
+   "trackersBlocked": {
+      "message": "트래커 차단"
+   },
+   "trackersDetected": {
+      "message": "추적기 감지됨"
+   },
+   "trackingProtection": {
+      "message": "추적 보호"
+   },
+   "trustIssues": {
+      "message": "이 사이트에는 신뢰 문제가 있습니다. 주의하여 이용하십시오."
+   },
+   "trusted": {
+      "message": "신뢰 가능"
+   },
+   "trustedByWOT": {
+      "message": "WOT가 신뢰하는 웹사이트"
+   },
+   "trustedByWOTPopup": {
+      "message": "WOT 지정 신뢰 가능 웹사이트"
+   },
+   "trustedSite": {
+      "message": "신뢰 사이트"
+   },
+   "trustedSource": {
+      "message": "신뢰받는 출처"
+   },
+   "tryAgain": {
+      "message": "다시 시도하세요"
+   },
+   "turnOffProtection": {
+      "message": "보호 기능 끄기"
+   },
+   "twoMillionMembers": {
+      "message": "2백만 명의 회원"
+   },
+   "unknownByWOT": {
+      "message": "정보 부족"
+   },
+   "unknownByWOTPopup": {
+      "message": "WOT 지정 알 수 없는 웹사이트"
+   },
+   "unknownSite": {
+      "message": "알 수 없는 사이트"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "무제한 추적기 차단은 프리미엄 사용자만 사용할 수 있습니다"
+   },
+   "unlock": {
+      "message": "잠금 해제"
+   },
+   "unlockPremium": {
+      "message": "프리미엄 해제"
+   },
+   "untrusted": {
+      "message": "신뢰 불가"
+   },
+   "untrustedByWOT": {
+      "message": "WOT가 신뢰할 수 없는 웹사이트"
+   },
+   "untrustedByWOTPopup": {
+      "message": "WOT 지정 신뢰 불가 웹사이트"
+   },
+   "untrustedSite": {
+      "message": "신뢰할 수 없는 사이트"
+   },
+   "upgrade": {
+      "message": "업그레이드"
+   },
+   "upgradeNow": {
+      "message": "지금 업그레이드하기"
+   },
+   "viewAll": {
+      "message": "모두 보기"
+   },
+   "viewFullReport": {
+      "message": "전체 보고서 보기"
+   },
+   "viewFullScorecard": {
+      "message": "전체 스코어카드 보기"
+   },
+   "wantToDelete": {
+      "message": "정말로 귀하의 평가를 삭제하시겠습니까?"
+   },
+   "wantToRateWOT": {
+      "message": "잠시 시간을 내어 %BROWSER% Store에서 저희를 평가해 주십시오"
+   },
+   "wantToRateWOTBtn": {
+      "message": "WOT 평가하기"
+   },
+   "wantToRateWOTHeader": {
+      "message": "WOT가 마음에 드십니까?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "모든 WOT 프리미엄 기능을 사용하시겠어요?"
+   },
+   "warning": {
+      "message": "경고!"
+   },
+   "warningAlerts": {
+      "message": "경고 경고"
+   },
+   "warningAlertsSubtitle": {
+      "message": "의심스러운 웹 사이트에 대한 경고 표시"
+   },
+   "warnings": {
+      "message": "경고 알림"
+   },
+   "weAppreciate": {
+      "message": "당신의 시간을 고맙게 생각하며, 우리가 WOT를 개선하도록 도와주셔서 감사합니다."
+   },
+   "websiteBlocking": {
+      "message": "웹사이트 차단"
+   },
+   "weekAgo": {
+      "message": "1주 전"
+   },
+   "weeksAgo": {
+      "message": "%1%주 전"
+   },
+   "welcome": {
+      "message": "환영합니다"
+   },
+   "welcomeToWot": {
+      "message": "WOT에 오신 것을 환영합니다"
+   },
+   "whatCanIDo": {
+      "message": "제가 무엇을 할 수 있을까요?"
+   },
+   "whatCouldWeDo": {
+      "message": "우리가 더 잘할 수 있을까요?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "신뢰할 수 없는 활동은 일반적으로 사기, 피싱, 멀웨어, PUP 및 기타 유해하고 위험한 악성 웹사이트로부터 발생하는 행동을 가리킵니다."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "신뢰할 수 없는 사이트란?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "의심스러운 활동은 일반적으로 사기, 크립토재킹, 브라우저 하이재킹 및 기타 유해하고 위험한 악성 웹사이트로부터 발생되는 행동을 가리킵니다."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "*의심스러운* 사이트란?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "현재 이 웹사이트를 평가할 충분한 정보가 없습니다. 주민등록번호, 은행계좌 또는 신용카드 정보와 같은 개인정보를 제공하지 않는 것이 좋습니다."
+   },
+   "whatIsUnknownTitle": {
+      "message": "알 수 없는 사이트란?"
+   },
+   "whatsNewWOT": {
+      "message": "새로운 데이터 침해 모니터링"
+   },
+   "whatsNewWOTContent": {
+      "message": "이 강력한 새 기능을 사용하면 개인 정보 및 비밀번호가 손상되지 않거나 보안 위협에 노출되지 않도록 할 수 있습니다."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "좀 봐요."
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "자세히 알아보기"
+   },
+   "whitelist": {
+      "message": "화이트리스트"
+   },
+   "whitelistTitle": {
+      "message": "이 사이트들에 대해 경고를 표시하지 않습니다"
+   },
+   "whyIsntSafe": {
+      "message": "왜 %DOMAIN%은(는) *안전하지 않습니까?*"
+   },
+   "whyIsntSafeChildren": {
+      "message": "왜 %DOMAIN%은(는) *어린이에게 안전하지 않습니까?*"
+   },
+   "wotAssistant": {
+      "message": "WOT 어시스턴트"
+   },
+   "wotAssistantOFF": {
+      "message": "브라우저의 가장자리에 좋은 웹사이트 평판을 표시하지 않습니다"
+   },
+   "wotAssistantON": {
+      "message": "브라우저의 가장자리에 좋은 웹사이트 평판을 표시합니다"
+   },
+   "wotCommunity": {
+      "message": "WOT의 커뮤니티"
+   },
+   "wotDetected": {
+      "message": "WOT에서 잠재적인 보안 위협을 감지하고 $DOMAIN$ 도메인을 차단했습니다. 이 사이트는 잠재적으로 유해할 수 있으며 사기 활동이 발생할 수 있습니다.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "$DOMAIN$은(는) 성인용 콘텐츠 표시 가능성이 있어서 WOT에 의해 차단되었습니다.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "WOT 도우미"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "WOT 도우미 위젯을 표시하지 않습니다."
+   },
+   "wotHelperSettingsOnState": {
+      "message": "WOT 도우미 위젯을 표시하여 이 웹사이트의 평점, 의견 및 안전도를 신속하게 확인할 수 있습니다."
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT가 성공적으로 설치되었습니다"
+   },
+   "writeAtLeast15": {
+      "message": "다른 사람들에게도 유용하도록 15자 이상 작성해 주세요"
+   },
+   "writeFirstReview": {
+      "message": "첫 리뷰 작성자가 되어 보세요"
+   },
+   "writeReview": {
+      "message": "리뷰 작성"
+   },
+   "yearAgo": {
+      "message": "%1%년 전"
+   },
+   "yearsAgo": {
+      "message": "%1%년 전"
+   },
+   "yes": {
+      "message": "예"
+   },
+   "youCanAlsoEdit": {
+      "message": "현재 리뷰와 평가를 수정할 수도 있습니다"
+   },
+   "youCanAlwaysChange": {
+      "message": "(선택 사항은 나중에 언제든지 다시 변경할 수 있습니다)."
+   },
+   "youCanCheckAnyLink": {
+      "message": "WOT 완전 보호를 통해 방문 전 링크 확인 등 강력한 보호 혜택을 누리세요!"
+   },
+   "youRatingThisSite": {
+      "message": "이 웹사이트에 대한 평가를 해주셔서 감사합니다!"
+   },
+   "yourRating": {
+      "message": "귀하의 평가"
+   },
+   "yourSubscription": {
+      "message": "내 등록"
+   }
+}

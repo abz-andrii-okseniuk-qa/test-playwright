@@ -1,0 +1,188 @@
+{
+   "Malicious": {
+      "message": "Шкідливий"
+   },
+   "Malware": {
+      "message": "Шкідливі програми"
+   },
+   "Phishing": {
+      "message": "Фішинг"
+   },
+   "Suspicious": {
+      "message": "Підозрілий"
+   },
+   "alert_back": {
+      "message": "Перейти до безпечного веб-серфінгу"
+   },
+   "alert_continue": {
+      "message": "Все одно продовжити"
+   },
+   "alert_description": {
+      "message": "Сайт тимчасово заблокований зі вказаної нижче причини:"
+   },
+   "alert_false": {
+      "message": "Повідомити про помилкове спрацьовування"
+   },
+   "alert_notrecommended": {
+      "message": "(Не рекомендується)"
+   },
+   "alert_recommended": {
+      "message": "(рекомендується)"
+   },
+   "alert_safe": {
+      "message": "(Якщо ви вважаєте, що сайт безпечний)"
+   },
+   "alert_text": {
+      "message": "Цей сайт містить посилання на віруси або інші програми, за допомогою яких зловмисники можуть отримати доступ до інформації, яку ви зберігаєте або вводите на вашому комп'ютері."
+   },
+   "alert_warning": {
+      "message": "Увага: Заблоковано небезпечний сайт!"
+   },
+   "ext_description": {
+      "message": "Онлайн захист від загрозливих програм, шахрайських та небезпечних сайтів"
+   },
+   "ext_name": {
+      "message": "Online Security Pro"
+   },
+   "ext_short_name": {
+      "message": "OSP"
+   },
+   "generic_notification": {
+      "message": "Нове! Захистіть свій телефон від Comodo. Він безкоштовний для \u003Ca href='https://app.appsflyer.com/id1448853386?pid=COS' target='_blank'>iOS\u003C/a> і \u003Ca href='https://app.appsflyer.com/com.comodo.cisme.antivirus?pid=COS' target='_blank'>Android\u003C/a>. Отримайте його зараз!"
+   },
+   "lang_id": {
+      "message": "1058"
+   },
+   "lang_name": {
+      "message": "Українська"
+   },
+   "options_blocked": {
+      "message": "Заблоковано"
+   },
+   "options_close": {
+      "message": "Закрити"
+   },
+   "options_exclusions_placeholder": {
+      "message": "Введіть текст"
+   },
+   "options_exclusions_removeall": {
+      "message": "Видалити все"
+   },
+   "options_exclusions_removeselected": {
+      "message": "Видалити вибране"
+   },
+   "options_exclusions_search": {
+      "message": "Пошук"
+   },
+   "options_exclusions_showingpage": {
+      "message": "показ сторінки"
+   },
+   "options_exclusions_time": {
+      "message": "Дата і час виявлення"
+   },
+   "options_exclusions_type": {
+      "message": "Тип загрози"
+   },
+   "options_exclusions_url": {
+      "message": "URL"
+   },
+   "options_header": {
+      "message": "Online Security Pro опції"
+   },
+   "options_ignored": {
+      "message": "Ігнорується"
+   },
+   "options_tab_title_exclusions": {
+      "message": "Виключення"
+   },
+   "options_tab_title_url": {
+      "message": "Журнал фільтрації веб-сайтів"
+   },
+   "options_title": {
+      "message": "Online Security Pro"
+   },
+   "options_title_exclusions": {
+      "message": "Exclusions"
+   },
+   "options_title_url": {
+      "message": "Журнал фільтрації веб-сайтів"
+   },
+   "options_url_action": {
+      "message": "Дії прийняті"
+   },
+   "options_url_placeholder": {
+      "message": "Введіть текст"
+   },
+   "options_url_removeall": {
+      "message": "Видалити все"
+   },
+   "options_url_removeselected": {
+      "message": "Видалити вибране"
+   },
+   "options_url_search": {
+      "message": "Пошук"
+   },
+   "options_url_showingpage": {
+      "message": "показ сторінки"
+   },
+   "options_url_time": {
+      "message": "Дата і час виявлення"
+   },
+   "options_url_type": {
+      "message": "Тип загрози"
+   },
+   "options_url_url": {
+      "message": "URL"
+   },
+   "popup_about": {
+      "message": "ПРО"
+   },
+   "popup_click": {
+      "message": "Натисніть тут"
+   },
+   "popup_exclusions": {
+      "message": "Редагувати список виключень"
+   },
+   "popup_feedback": {
+      "message": "Зворотній зв'язок"
+   },
+   "popup_help": {
+      "message": "Довідка"
+   },
+   "popup_history": {
+      "message": "Історія перевірки"
+   },
+   "popup_license": {
+      "message": "Ліцензія"
+   },
+   "popup_notes": {
+      "message": "Примітки до випуску"
+   },
+   "popup_notifications": {
+      "message": "ПОВІДОМЛЕННЯ"
+   },
+   "popup_page": {
+      "message": "Сторінка продукту"
+   },
+   "popup_policy": {
+      "message": "Політика конфіденційності"
+   },
+   "popup_powered": {
+      "message": "Powered By"
+   },
+   "popup_rate": {
+      "message": "Оцініть це розширення"
+   },
+   "popup_report": {
+      "message": "Повідомити про цю сторінку"
+   },
+   "popup_settings": {
+      "message": "НАЛАШТУВАННЯ"
+   },
+   "popup_version": {
+      "message": "Версія"
+   },
+   "popup_warn": {
+      "message": "Було зафіксовано %d шкідливих посилань відколи ви відключили Online Security Pro"
+   }
+}

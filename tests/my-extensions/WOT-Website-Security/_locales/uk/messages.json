@@ -1,0 +1,1871 @@
+{
+   "18Icon": {
+      "message": "Піктограма 18+"
+   },
+   "18IconOFF": {
+      "message": "Не показувати піктограми вмісту для дорослих поруч із бубликами"
+   },
+   "18IconON": {
+      "message": "Показувати піктограми вмісту 18+ поруч із бубликами"
+   },
+   "Add": {
+      "message": "Додати"
+   },
+   "AdultC": {
+      "message": "Вміст для дорослих"
+   },
+   "AllowAlways": {
+      "message": "Дозволити назавжди"
+   },
+   "AllowOnce": {
+      "message": "Дозволити спливаюче вікно один раз"
+   },
+   "AlternativeMedicine": {
+      "message": "Альтернативна медицина"
+   },
+   "BadReviewWarningText": {
+      "message": "Ви раніше присвоїли цьому сайту низький рейтинг. Будьте уважними."
+   },
+   "BlocksPopup": {
+      "message": "Блокує спливаючі вікна"
+   },
+   "BlocksPopupText": {
+      "message": "Блокує будь-які спливаючі вікна та потенційно небажані програми"
+   },
+   "Carefulx": {
+      "message": "Обережно!"
+   },
+   "DoNotShowAgain": {
+      "message": "Не показувати це знову для цього сайта"
+   },
+   "Error0": {
+      "message": "Невідома помилка"
+   },
+   "Error400": {
+      "message": "Недійсна адреса електронної пошти"
+   },
+   "Error4001": {
+      "message": "Необхідна авторизація"
+   },
+   "Error4002": {
+      "message": "Невірне ім'я користувача або пароль"
+   },
+   "Error4003": {
+      "message": "Відсутні облікові дані"
+   },
+   "Error4004": {
+      "message": "Користувача заблоковано"
+   },
+   "Error4005": {
+      "message": "Ви вийшли з системи. Будь ласка, увійдіть знову."
+   },
+   "Error4006": {
+      "message": "Ви вийшли з системи. Будь ласка, увійдіть знову."
+   },
+   "Error4007": {
+      "message": "Помилка входу, повторіть спробу пізніше"
+   },
+   "Error4008": {
+      "message": "Помилка входу, повторіть спробу пізніше"
+   },
+   "Error4009": {
+      "message": "Користувача вже зареєстровано"
+   },
+   "Error401": {
+      "message": "Неавторизований"
+   },
+   "Error4010": {
+      "message": "Користувач вже існує"
+   },
+   "Error4101": {
+      "message": "Посилання для скидання пароля недійсне"
+   },
+   "Error4102": {
+      "message": "Термін дії посилання для скидання пароля сплив"
+   },
+   "ExperienceFullPower": {
+      "message": "Випробуйте повну потужність WOT"
+   },
+   "FAQ": {
+      "message": "Часті запитання"
+   },
+   "Forgot": {
+      "message": "Забули?"
+   },
+   "ForgotBelow": {
+      "message": "Запросити новий пароль"
+   },
+   "Gambling": {
+      "message": "Азартні ігри"
+   },
+   "GiveUsSomeFeedback": {
+      "message": "Поділіться своїми враженнями ..."
+   },
+   "GoBack": {
+      "message": "← Повернутися"
+   },
+   "GoToSetting": {
+      "message": "До Налаштувань"
+   },
+   "GoodSite": {
+      "message": "Гарний сайт"
+   },
+   "GruesomeShocking": {
+      "message": "Лякаючий чи шокуючий вміст"
+   },
+   "HateDiscrimination": {
+      "message": "Ненависть, дискримінація"
+   },
+   "HowCanWeImprove": {
+      "message": "Як нам стати краще?"
+   },
+   "IHaveAccount": {
+      "message": "В мене є аккаунт. "
+   },
+   "IHaveNotAccount": {
+      "message": "В мене немає аккаунт. "
+   },
+   "Illegal": {
+      "message": "Потенційно незаконний"
+   },
+   "IncidentalNudity": {
+      "message": "Трапляються зображення оголених тіл"
+   },
+   "LogInBelow": {
+      "message": "Увійти нижче"
+   },
+   "LogInFacebook": {
+      "message": "Увійти через Facebook"
+   },
+   "LogInGoogle": {
+      "message": "Увійти через Google+"
+   },
+   "LogInPasswordInput": {
+      "message": "пароль"
+   },
+   "LogInTwitter": {
+      "message": "Увійти через Twitter"
+   },
+   "LogInUsernameInput": {
+      "message": "ім'я користувача або адреса електронної пошти"
+   },
+   "MalwareViruses": {
+      "message": "Шкідливе програмне забезпечення або віруси"
+   },
+   "MisleadingUnethical": {
+      "message": "Оманливий або неетичний"
+   },
+   "NOT_SAFE": {
+      "message": "НЕБЕЗПЕЧНИЙ!"
+   },
+   "NewPassword": {
+      "message": "Надіслати мені новий пароль"
+   },
+   "NotAppropriate": {
+      "message": "Не підходить дітям"
+   },
+   "OpinionsReligionPolitics": {
+      "message": "Думки, релігія, політика"
+   },
+   "Phishing": {
+      "message": "Фішинг"
+   },
+   "PoorExperience": {
+      "message": "Низька задоволеність користувача"
+   },
+   "PopupNotification": {
+      "message": "Показати сповіщення"
+   },
+   "PopupNotificationText": {
+      "message": "Показувати сповіщення на сторінці у разі блокування спливаючого вікна"
+   },
+   "PrivacyRisks": {
+      "message": "Ризик розкриття персональних даних"
+   },
+   "ProtectionsFeatures": {
+      "message": "Будьте в безпеці з помічником WOT"
+   },
+   "ProtectionsFeatures2": {
+      "message": "Перевіряйте посилання перед переглядом"
+   },
+   "Pts": {
+      "message": "(%POINTS% бал.)"
+   },
+   "RateThisWebsite": {
+      "message": "Оцініть цей веб-сайт"
+   },
+   "RememberMe": {
+      "message": "Запам'ятати мене"
+   },
+   "SAFE": {
+      "message": "БЕЗПЕЧНИЙ!"
+   },
+   "SHIELDS_LEVEL_HIGH": {
+      "message": "Завжди показувати усі типи іконок поруч з посиланнями (червоні, жовті, зелені)"
+   },
+   "SHIELDS_LEVEL_NORMAL": {
+      "message": "Показувати лише червону іконку поруч з посиланнями на веб-сайти з низьким рейтингом"
+   },
+   "SHIELDS_LEVEL_OFF": {
+      "message": "Іконки з репутацією не буде показано"
+   },
+   "Scam": {
+      "message": "Шахрайство"
+   },
+   "Send": {
+      "message": "Надіслати"
+   },
+   "ShowLess": {
+      "message": "Показати менше"
+   },
+   "ShowMore": {
+      "message": "Показати більше"
+   },
+   "SignUp": {
+      "message": "Зареєструватися"
+   },
+   "SignUpBelow": {
+      "message": "Зареєструватися нижче"
+   },
+   "SignUpFacebook": {
+      "message": "Зареєструватися через Facebook"
+   },
+   "SignUpGoogle": {
+      "message": "Зареєструватися через Google+"
+   },
+   "SignUpPasswordInput": {
+      "message": "вибрати пароль"
+   },
+   "SignUpTwitter": {
+      "message": "Зареєструватися через Twitter"
+   },
+   "SignUpUsernameInput": {
+      "message": "ваша адреса електронної пошти"
+   },
+   "SiteKids": {
+      "message": "Сайт для дітей"
+   },
+   "Spam": {
+      "message": "Спам"
+   },
+   "Submit": {
+      "message": "Відправити"
+   },
+   "Suspicious": {
+      "message": "Підозрілий"
+   },
+   "TakeMoment": {
+      "message": "Знайдіть хвилину і надішліть нам відгук."
+   },
+   "UNKNOWN": {
+      "message": "НЕВІДОМО"
+   },
+   "UnwantedPrograms": {
+      "message": "Потенційно небажані програми"
+   },
+   "ViewMyAccount": {
+      "message": "Переглянути аккаунт"
+   },
+   "WARNINGS_LEVEL_HIGH": {
+      "message": "Показує застереження для всіх веб-сайтів із низьким рейтингом"
+   },
+   "WARNINGS_LEVEL_NORMAL": {
+      "message": "Показує застереження лише для шкідливих веб-сайтів "
+   },
+   "WARNINGS_LEVEL_OFF": {
+      "message": "Не буде показано жодних застережень"
+   },
+   "WantMore": {
+      "message": "Хочете розповісти нам більше?"
+   },
+   "WhatToDoForBreaches": {
+      "message": "Що робити в разі таких витоків"
+   },
+   "WhitelistPlaceholder": {
+      "message": "Додати веб-сайти, де ви не хочете бачити застережень. (Наприклад: Google.com)"
+   },
+   "WriteYourReview": {
+      "message": "Напишіть відгук ..."
+   },
+   "accurace": {
+      "message": "Точність"
+   },
+   "activate": {
+      "message": "активувати"
+   },
+   "activateProtection": {
+      "message": "Активувати захист"
+   },
+   "addAReview": {
+      "message": "Додати відгук"
+   },
+   "adsOrPopups": {
+      "message": "Оголошення/спливаючі вікна"
+   },
+   "adult": {
+      "message": "Дорослий"
+   },
+   "adultContent": {
+      "message": "Вміст для дорослих"
+   },
+   "adultContentProtection": {
+      "message": "Захист вмісту для дорослих"
+   },
+   "adultProtection": {
+      "message": "Захист від вмісту для дорослих"
+   },
+   "adultProtectionText": {
+      "message": "Ці налаштування захисту від вмісту для дорослих застосовуються до всіх веб-сайтів кожної категорії"
+   },
+   "adultProtectionTooltip": {
+      "message": "Невідповідний вміст, порно та азартні ігри буде заблоковано"
+   },
+   "adultSettingMoreOptions": {
+      "message": "Більше опцій"
+   },
+   "adultSettingSubtitle": {
+      "message": "Блокуйте порно та азартні ігри"
+   },
+   "adultSettingTitle": {
+      "message": "Захист від вмісту для дорослих"
+   },
+   "ago": {
+      "message": "тому"
+   },
+   "agreeContinue": {
+      "message": "Погоджуюсь і продовжити"
+   },
+   "all": {
+      "message": "Усі"
+   },
+   "allTrackersBlocked": {
+      "message": "%1% трекерів заблоковано"
+   },
+   "allWebsites": {
+      "message": "всіх сайтів"
+   },
+   "allow": {
+      "message": "Дозволити"
+   },
+   "almostDone": {
+      "message": "Все майже готово"
+   },
+   "always": {
+      "message": "Завжди"
+   },
+   "analytics": {
+      "message": "Аналітика"
+   },
+   "antiPhishingAndScams": {
+      "message": "Антифішинг і шахрайство"
+   },
+   "appDescription": {
+      "message": "Перевірте репутацію та безпеку будь-якого веб-сайту на основі досвіду користувачів. Web of Trust – офіційне розширення для веб-переглядача Chrome."
+   },
+   "appName": {
+      "message": "Захист веб-сайту WOT та безпечний перегляд"
+   },
+   "appTooltip": {
+      "message": "Web of Trust"
+   },
+   "areYouSure": {
+      "message": "Ви впевнені?"
+   },
+   "assistantReviewButtonTitle": {
+      "message": "Напишіть новий відгук для цього веб-сайту"
+   },
+   "assistantSettingSubtitle": {
+      "message": "Безпечно купуйте та шукайте в Інтернеті"
+   },
+   "assistantSettingTitle": {
+      "message": "WOT Assistant Shield"
+   },
+   "assistantSliderButtonTitle": {
+      "message": "Активуйте WOT повзунком"
+   },
+   "assistantTrackersButtonTitle": {
+      "message": "Кількість трекерів, виявлених на цій сторінці"
+   },
+   "assistantTrackersTooltip": {
+      "message": "WOT дозволяє переглядати та блокувати трекери на будь-яких веб-сайтах, які ви переглядаєте, щоб контролювати, хто збирає ваші дані."
+   },
+   "autoScanDevice": {
+      "message": "Автосканувати пристрій"
+   },
+   "autoScanDeviceSubtitle": {
+      "message": "Переконайтеся, що ви регулярно скануєте свій пристрій на наявність будь-яких загроз безпеці та/або витоків."
+   },
+   "autoScanDeviceText": {
+      "message": "Регулярно перевіряйте свій пристрій на наявність загроз та/або порушень безпеки."
+   },
+   "avoidHarmfulSites": {
+      "message": "Уникайте підроблених та шкідливих сайтів"
+   },
+   "back": {
+      "message": "Повернутися"
+   },
+   "beTheFirstToReview": {
+      "message": "Будьте першим, хто оцінить цей веб-сайт"
+   },
+   "blacklistsPreCheck": {
+      "message": "Актуальні чорні списки"
+   },
+   "block": {
+      "message": "Блокувати"
+   },
+   "blockAllTrackersTooltip": {
+      "message": "Автоматично блокувати всі трекери на кожному веб-сайті, який ви відвідуєте"
+   },
+   "blockMoreTrackerBlockingOnlyPremium": {
+      "message": "Автоматичне блокування всіх трекерів доступне лише для преміум-користувачів"
+   },
+   "blockTrackers": {
+      "message": "Блок трекерів"
+   },
+   "blockUnsafeWebsites": {
+      "message": "Блокуйте небезпечні веб-сайти та посилання"
+   },
+   "blockUnsafeWebsitesSubtitle": {
+      "message": "WOT обов'язково попередить вас заздалегідь про випадкове натискання небезпечних посилань або перехід на небезпечні або шкідливі веб-сайти"
+   },
+   "blocked": {
+      "message": "Заблоковано!"
+   },
+   "blocksHackingAttacks": {
+      "message": "Блокує хакерські атаки кожні 39 секунд"
+   },
+   "breachedDate": {
+      "message": "Дата витоку"
+   },
+   "breachesAlert": {
+      "message": "Ваші особисті дані та/або паролі були скомпрометовані та піддані"
+   },
+   "browse": {
+      "message": "Перегляд"
+   },
+   "browserNotProtected": {
+      "message": "Ваш браузер не захищений"
+   },
+   "browserProtected": {
+      "message": "Ваш браузер безпечний"
+   },
+   "browserSecured": {
+      "message": "Цей браузер захищений!"
+   },
+   "bugs": {
+      "message": "Помилки"
+   },
+   "canHelp": {
+      "message": "Чим ми можемо допомогти?"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "careful": {
+      "message": "Обережно!"
+   },
+   "categoriesExplained": {
+      "message": "Ці категорії можуть стосуватися цього веб-сайту"
+   },
+   "changePassword": {
+      "message": "Змінити пароль"
+   },
+   "changePasswordSubtitle": {
+      "message": "Переконайтеся, що кожен пароль унікальний, відрізняється від інших і його важко вгадати. Не використовуйте один і той же пароль двічі."
+   },
+   "changePasswordText": {
+      "message": "Переконайтеся, що кожен пароль унікальний, відрізняється від інших і його важко вгадати. Не використовуйте один і той же пароль двічі."
+   },
+   "checkLeaks": {
+      "message": "Перевірте герметичність"
+   },
+   "checkUrl": {
+      "message": "Перевірте URL-адреси"
+   },
+   "checkWebsiteSecurityLevel": {
+      "message": "Перевірте будь-який рівень безпеки веб-сайту"
+   },
+   "checkWebsiteSecurityLevelSubtitle": {
+      "message": "WOT надає вам три способи перевірити рівень безпеки будь-якого веб-сайту: сторінка результатів пошукової системи Google, значок на панелі інструментів веб-переглядача та детальна система показників та огляди."
+   },
+   "chooseTags": {
+      "message": "Оберіть теги, які описують %DOMAIN%"
+   },
+   "chooseTagsForSite": {
+      "message": "Оберіть теги, які найкраще описують цей сайт:"
+   },
+   "chooseTagsThatDescribes": {
+      "message": "Оберіть теги, які описують цей сайт"
+   },
+   "clearPolicy": {
+      "message": "Чітка політика"
+   },
+   "clickAllTags": {
+      "message": "Клацніть на всі теги, що підходять"
+   },
+   "clickOnTheGearIcon": {
+      "message": "Натисніть на %GEARICON%, щоб увімкнути/вимкнути це спливаюче вікно"
+   },
+   "close": {
+      "message": "Закрити"
+   },
+   "contactUs": {
+      "message": "Зв'яжіться з нами"
+   },
+   "containAdultContent": {
+      "message": "Цей веб-сайт може містити вміст для дорослих"
+   },
+   "contentWarning": {
+      "message": "Вміст для дорослих заблоковано"
+   },
+   "coolGotIt": {
+      "message": "Супер, зрозуміло"
+   },
+   "dataBreachHookText": {
+      "message": "Іноді це може бути ризиковано"
+   },
+   "dataBreachHookTitle": {
+      "message": "Ви збираєтеся ввести свої дані для входу?"
+   },
+   "dataLeakMonitoring": {
+      "message": "Моніторинг незаконного доступу до даних"
+   },
+   "dataLeaksFoundForAccount": {
+      "message": "виявлено витоки даних, пов’язані з цим обліковим записом електронної пошти"
+   },
+   "dayAgo": {
+      "message": "день тому"
+   },
+   "daysAgo": {
+      "message": "%1% дні(-в) тому"
+   },
+   "default": {
+      "message": "За замовчуванням"
+   },
+   "defaultManualModeButton": {
+      "message": "Продовжуйте та увімкніть"
+   },
+   "defaultManualModeHeader": {
+      "message": "Отримайте результати та статистику в реальному часі"
+   },
+   "defaultManualModeText": {
+      "message": "Проактивний захист WOT відключено. Ми не зможемо показати вам рейтинги та сповіщення веб-сайтів."
+   },
+   "defaultText": {
+      "message": "Блокувати та уникати веб-сайти з поганою репутацією. (Рекомендується)"
+   },
+   "del": {
+      "message": "Видалити"
+   },
+   "delete": {
+      "message": "Так, видалити"
+   },
+   "deleteThisReview": {
+      "message": "Видалити цей відгук?"
+   },
+   "digitalTrackingProtection": {
+      "message": "Захист цифрового відстеження"
+   },
+   "digitalTrackingProtectionSubtitle": {
+      "message": "Автоматично блокувати всі служби від відстеження ваших звичок веб-перегляду."
+   },
+   "disableOnAllWebsites": {
+      "message": "Так, відключити на всіх сайтах"
+   },
+   "disableOnThusWebsites": {
+      "message": "Так, відключити його лише на цьому сайті"
+   },
+   "disableWOTHelper": {
+      "message": "Відключити помічника WOT?"
+   },
+   "disableWOTHelperText": {
+      "message": "Завдяки помічникові WOT ви можете швидко переглянути рейтинг відвідуваної сторінки та коментарі. Ви можете будь-коли відключити його через налаштування WOT."
+   },
+   "disagree": {
+      "message": "Не погоджуюсь"
+   },
+   "dismissWarning": {
+      "message": "Відхилити попередження"
+   },
+   "done": {
+      "message": "ВИКОНАНО"
+   },
+   "dontShowAgain": {
+      "message": "Не показуй мені більше"
+   },
+   "dontShowOnThisSite": {
+      "message": "Не попереджувати мене про цей веб-сайт знову"
+   },
+   "dontShowThis": {
+      "message": "Не показувати це ще раз для"
+   },
+   "donuts": {
+      "message": "Іконки з репутацією поруч з посиланнями"
+   },
+   "downloadClassicWot": {
+      "message": "Завантажити Classic WOT"
+   },
+   "downloadMobileWot": {
+      "message": "Завантажити мобільну версію WOT"
+   },
+   "edit": {
+      "message": "Редагувати"
+   },
+   "editYourReview": {
+      "message": "Редагуйте свій відгук"
+   },
+   "empty": {
+      "message": "Пустий список"
+   },
+   "enable": {
+      "message": "УВІМКНУТИ"
+   },
+   "enableEnhancedProtection": {
+      "message": "Увімкнути посилений захист"
+   },
+   "enjoyingWot": {
+      "message": "Сподобався WOT?"
+   },
+   "errorAction": {
+      "message": "Добре"
+   },
+   "errorContent": {
+      "message": "Нам шкода. Оновіть поточну сторінку та повторіть спробу."
+   },
+   "errorTitle": {
+      "message": "Щось пішло не так"
+   },
+   "extraFeaturesTitle": {
+      "message": "Подивіться, що ще може запропонувати WOT"
+   },
+   "faqSupport": {
+      "message": "Поширені запитання та підтримка"
+   },
+   "findHelp": {
+      "message": "Отримайте допомогу або зв’яжіться з нами"
+   },
+   "firstRate": {
+      "message": "Оцініть цей веб-сайт першим"
+   },
+   "followUs": {
+      "message": "Стежити за нами"
+   },
+   "forAllPremiumPlans": {
+      "message": "Для всіх преміум-планів"
+   },
+   "forum": {
+      "message": "Форум"
+   },
+   "freeTrialEndend": {
+      "message": "До закінчення безкоштовної пробної версії залишилося %2% днів"
+   },
+   "freeUserBlockTitle": {
+      "message": "Хочете захиститися від інших шкідливих сайтів?"
+   },
+   "gamblingSites": {
+      "message": "Сайти азартних ігор"
+   },
+   "gamblingSitesText": {
+      "message": "Веб-сайти з азартними іграми та вмістом буде заблоковано"
+   },
+   "generalSettings": {
+      "message": "Загальні налаштування"
+   },
+   "generalSettingsDescription": {
+      "message": "Налаштуйте налаштування відповідно до ваших потреб і залишайтеся захищеними"
+   },
+   "getFullCoverage": {
+      "message": "Повний захист веб-перегляду"
+   },
+   "getFullProtection": {
+      "message": "Отримайте повний захист WOT"
+   },
+   "getMorePremium": {
+      "message": "Отримайте більше з Premium"
+   },
+   "getPhishingAlert": {
+      "message": "Отримуйте сповіщення про фішинг"
+   },
+   "getPhishingAlertTooltip": {
+      "message": "Захищає вас від найновіших фішингових веб-сайтів та атак соціальної інженерії."
+   },
+   "getWOTPremium": {
+      "message": "Отримайте WOT Premium для всебічного захисту від хакерів, вірусів та шкідливих веб-сайтів."
+   },
+   "gmailProtectionDescription": {
+      "message": "Отримуйте попередження про підозрілі електронні листи у ваших вхідних повідомленнях"
+   },
+   "gmailProtectionSubDescription": {
+      "message": "Призначено для швидкого розпізнавання фішинг-листів"
+   },
+   "gmailProtectionSubTitle": {
+      "message": "Розумне розпізнавання електронної пошти"
+   },
+   "gmailProtectionTitle": {
+      "message": "Захист пошти"
+   },
+   "gmailProtectionWLDescription": {
+      "message": "Налаштуйте захист електронної пошти та введіть URL-адреси, яким ви довіряєте"
+   },
+   "gmailProtectionWLPlaceHolder": {
+      "message": "Додайте свої надійні URL-адреси (наприклад: sendgrid.com)"
+   },
+   "gmailProtectionWLTitle": {
+      "message": "Список дозволів"
+   },
+   "goPremium": {
+      "message": "Перейти на Premium"
+   },
+   "goToLeakReport": {
+      "message": "Див. Звіт про порушення"
+   },
+   "goToSite": {
+      "message": "Все одно перейти на сайт"
+   },
+   "goodService": {
+      "message": "Хороше обслуговування"
+   },
+   "gotIt": {
+      "message": "Зрозуміло"
+   },
+   "greatSupport": {
+      "message": "Гарна підтримка"
+   },
+   "hide": {
+      "message": "Сховати"
+   },
+   "hideWotAssistant": {
+      "message": "Сховати помічник WOT"
+   },
+   "hideWotAssistantText": {
+      "message": "Після натискання кнопки «Сховати» ви більше не побачите завантаження сторінки помічника WOT. Ви завжди можете пізніше змінити це у своїх налаштуваннях."
+   },
+   "high": {
+      "message": "Високий"
+   },
+   "highText": {
+      "message": "Блокувати будь-які підозрілі веб-сайти. Веб-сайти з невідповідним вмістом для дітей будуть заблоковані за замовчуванням"
+   },
+   "holdOn": {
+      "message": "Зачекай!"
+   },
+   "hour": {
+      "message": "година"
+   },
+   "hourAgo": {
+      "message": "годину тому"
+   },
+   "hourMinutesAgo": {
+      "message": "годину %2% хвилин тому"
+   },
+   "hours": {
+      "message": "години"
+   },
+   "hoursAgo": {
+      "message": "%1% годин(-и) тому"
+   },
+   "hoursMinutesAgo": {
+      "message": "%1% годин %2% хвилин тому"
+   },
+   "hoverOverTheWOT": {
+      "message": "Наведіть курсор на іконку WOT %DONUTICON%, щоб переглянути репутацію цього сайту"
+   },
+   "howWouldYouRate": {
+      "message": "Як би ви оцінили цей веб-сайт за шкалою від 1 до 5?"
+   },
+   "identityProtection": {
+      "message": "Захист ідентифікації"
+   },
+   "identityProtectionModalMessage": {
+      "message": "Увімкнувши функцію захисту особистих даних, ви погоджуєтеся, що ми можемо надати вашу електронну адресу третій стороні, яка надає захист паролем і послуги моніторингу"
+   },
+   "identityProtectionSubtitle": {
+      "message": "WOT сповіщає вас про витік ваших особистих даних, щоб ви могли швидко діяти, щоб запобігти крадіжці особистих даних і майбутньому витоку."
+   },
+   "increaseOnlineSecurity": {
+      "message": "Підвищити безпеку в Інтернеті"
+   },
+   "increaseOnlineSecuritySubtitle": {
+      "message": "Увімкніть двофакторну автентифікацію для доступу до ваших особистих облікових записів, які містять конфіденційну інформацію"
+   },
+   "increaseOnlineSecurityText": {
+      "message": "Увімкніть двофакторну автентифікацію для доступу до ваших особистих облікових записів, які містять конфіденційну інформацію."
+   },
+   "installed": {
+      "message": "Встановлено"
+   },
+   "isSafe": {
+      "message": "Чи ви вважаєте цей сайт безпечним?"
+   },
+   "issuesFound": {
+      "message": "Знайдено проблем: %ISSUES%"
+   },
+   "justNow": {
+      "message": "щойно"
+   },
+   "lang": {
+      "message": "uk-UA"
+   },
+   "lastScanned": {
+      "message": "Останнє сканування"
+   },
+   "leakMonitoringDescription": {
+      "message": "WOT повідомить вас у режимі реального часу про порушення даних, які містять вашу особисту інформацію, щоб ви могли захистити себе в Інтернеті."
+   },
+   "leakMonitoringDisclaimer": {
+      "message": "Увімкнувши функцію моніторингу незаконного доступу до даних, ви погоджуєтеся, що ми можемо передавати вашу електронну адресу третій стороні, яка забезпечує захист паролів та послуги моніторингу"
+   },
+   "leakSuggestionsSubtitle": {
+      "message": "Ми рекомендуємо вам виконати такі дії, щоб зберегти свою особисту інформацію та захистити свою цифрову ідентичність:"
+   },
+   "leakSuggestionsTitle": {
+      "message": "Що робити, якщо моя особиста інформація злилася?"
+   },
+   "leakedInformation": {
+      "message": "Інформація, що витекла"
+   },
+   "legalAnd": {
+      "message": "та"
+   },
+   "legalPrivacyPolicy": {
+      "message": "Політика конфіденційності"
+   },
+   "legalStatement": {
+      "message": "Щоб запропонувати вам захист, технічні послуги та покращене обслуговування в режимі реального часу, нам потрібно повернути на наші сервери інформацію про веб-сайти, які ви відвідуєте. Натискаючи \"Погоджуюсь\" вище, ви погоджуєтесь із нашими"
+   },
+   "letCommunityKnow": {
+      "message": "Якщо у вас був хороший досвід або у вас є проблеми з використанням цього сайту, повідомте нашій спільноті."
+   },
+   "letOthersKnowYourExperience": {
+      "message": "Повідомте іншим про ваш досвід на цьому сайті"
+   },
+   "limitedTimeOffer": {
+      "message": "Час пропозиції обмежено"
+   },
+   "lite": {
+      "message": "Легкий"
+   },
+   "liteText": {
+      "message": "Ми не будемо турбувати вас — лише у разі необхідності"
+   },
+   "liveBlocking": {
+      "message": "Блокування в прямому ефірі"
+   },
+   "loading": {
+      "message": "Завантаження ..."
+   },
+   "logOut": {
+      "message": "Вийти"
+   },
+   "login": {
+      "message": "Увійти"
+   },
+   "looksSafe": {
+      "message": "Виглядає безпечним"
+   },
+   "manage": {
+      "message": "Керувати"
+   },
+   "manageProtection": {
+      "message": "Керувати захистом"
+   },
+   "manageSubscriptions": {
+      "message": "Управління підписками"
+   },
+   "manageTrackers": {
+      "message": "керувати трекерами"
+   },
+   "manualModeAgree": {
+      "message": "Натискаючи \"Увімкнути\" вище, ви погоджуєтесь із нашими"
+   },
+   "manualModeWarning": {
+      "message": "Тепер ви переглядаєте веб-сторінки в ручному режимі — проактивний захист WOT відключено, і ми не зможемо захистити вас від небезпечних веб-сайтів"
+   },
+   "manualModeWarningStrip": {
+      "message": "Зауважте, що ви переглядаєте веб-сторінки в ручному режимі, тому багато функцій не будуть доступні"
+   },
+   "marketing": {
+      "message": "Маркетинг"
+   },
+   "maybeNextTime": {
+      "message": "Можливо, наступного разу"
+   },
+   "messageSubmitted": {
+      "message": "Повідомлення успішно надіслано."
+   },
+   "minute": {
+      "message": "хвилина"
+   },
+   "minuteAgo": {
+      "message": "хвилину тому"
+   },
+   "minutes": {
+      "message": "хвилин"
+   },
+   "minutesAgo": {
+      "message": "%1% хвилин(-и) тому"
+   },
+   "missingReviews": {
+      "message": "Відсутні відгуки"
+   },
+   "month": {
+      "message": "на місяць"
+   },
+   "monthAgo": {
+      "message": "місяць тому"
+   },
+   "monthsAgo": {
+      "message": "%1% місяця(-ів) тому"
+   },
+   "moreInfo": {
+      "message": "Більше інформації"
+   },
+   "myDashboardNav": {
+      "message": "Моя інформаційна панель"
+   },
+   "myProfile": {
+      "message": "Мій профіль"
+   },
+   "newDataLeaksFound": {
+      "message": "%1% нових витоків даних"
+   },
+   "next": {
+      "message": "Далі"
+   },
+   "no": {
+      "message": "Ні"
+   },
+   "noBreaches": {
+      "message": "Гарні новини! Витоку даних не виявлено"
+   },
+   "noComments": {
+      "message": "Немає відгуків"
+   },
+   "noKeepIt": {
+      "message": "Ні, лишити його"
+   },
+   "noReviewsYet": {
+      "message": "Поки що відгуків немає"
+   },
+   "noSkip": {
+      "message": "Ні, пропустити"
+   },
+   "noThanks": {
+      "message": "Ні, дякую"
+   },
+   "noTrackersBlocked": {
+      "message": "%1% трекерів виявлено"
+   },
+   "noTrackersDetected": {
+      "message": "Трекерів не виявлено"
+   },
+   "none": {
+      "message": "Немає"
+   },
+   "notSecurity": {
+      "message": "Чи є якісь проблеми з безпекою?"
+   },
+   "notSuitableForChildren": {
+      "message": "Чи є вміст, який не підходить для дітей?"
+   },
+   "notSure": {
+      "message": "Не впевнений (-а) "
+   },
+   "off": {
+      "message": "Вимкнено"
+   },
+   "okGotIt": {
+      "message": "Добре, зрозуміло"
+   },
+   "on": {
+      "message": "на"
+   },
+   "onBoarding4States": {
+      "message": "Є 4 стани:"
+   },
+   "onBoardingCheckWebsiteRep": {
+      "message": "щоб перевірити репутацію будь-якого веб-сайту, перш ніж перейти на нього."
+   },
+   "onBoardingHoverTheShield": {
+      "message": "Наведіть курсор на піктограму щита,"
+   },
+   "onBoardingReputationDashboard": {
+      "message": "Інформаційна панель репутації"
+   },
+   "onBoardingReputationScore": {
+      "message": "Оцінка репутації"
+   },
+   "onBoardingSafelyBrowse": {
+      "message": "Тепер ви можете безпечно переглядати веб-сторінки, не турбуючись ні про що. Не забудьте перевірити піктограму щита, перш ніж переходити на будь-який невідомий веб-сайт!"
+   },
+   "onBoardingThisPopupShows": {
+      "message": "Це спливаюче вікно показує оцінку репутації будь-якого веб-сайту. "
+   },
+   "onBoardingThisWebsiteIs": {
+      "message": "Цей веб-сайт %SAFETY%, як вважає WOT!"
+   },
+   "onBoardingYouCanClick": {
+      "message": "Ви можете натиснути «Читати відгуки», щоб прочитати більше відгуків користувачів."
+   },
+   "onBoardingYoureAllSet": {
+      "message": "Усе готово!"
+   },
+   "oneTrackerBlocked": {
+      "message": "1 заблокований трекер"
+   },
+   "oneTrackerDetected": {
+      "message": "1 трекер виявлено"
+   },
+   "optinAreYouSureMessage": {
+      "message": "Щоб забезпечити вам 360-градусний захист веб-сайтів, деякі функції WOT вимагають доступу до анонімної інформації, зібраної з веб-сайтів, які ви відвідуєте. Ця інформація не буде передана третім сторонам або використана в маркетингових цілях. Ви можете змінити свої налаштування в будь-який час, відвідавши сторінку налаштувань."
+   },
+   "optinEmailProtectionSubtitle": {
+      "message": "WOT попереджає вас при отриманні шахрайських, фішингових, підозрілих, шкідливих програм та спаму."
+   },
+   "optinGoBack": {
+      "message": "ПОВЕРТАЙСЯ"
+   },
+   "optinGoTurnOnProtection": {
+      "message": "Увімкніть Live Protection"
+   },
+   "optinHeaderEnhancedProtection": {
+      "message": "Покращений захист"
+   },
+   "optinHeaderInstallation": {
+      "message": "Встановлено успішно"
+   },
+   "optinHeaderScanDevice": {
+      "message": "Сканувати пристрій"
+   },
+   "optinHeaderSetupBrowser": {
+      "message": "Налаштуйте свій браузер"
+   },
+   "optinMaybeLater": {
+      "message": "Можливо пізніше"
+   },
+   "optinProtectYourEmail": {
+      "message": "Захистіть свою електронну пошту"
+   },
+   "optinProtectionItemOneSubtitle": {
+      "message": "Логотип, що знаходиться на панелі інструментів браузера, буде змінюватися залежно від репутації сайту"
+   },
+   "optinProtectionItemOneTitle": {
+      "message": "Шукайте логотип WOT"
+   },
+   "optinProtectionItemThreeSubtitle": {
+      "message": "WOT попередить вас, якщо ви потрапите на сайт із поганою репутацією"
+   },
+   "optinProtectionItemThreeTitle": {
+      "message": "Отримуйте сповіщення в режимі реального часу"
+   },
+   "optinProtectionItemTwoSubtitle": {
+      "message": "Перевірте колір логотипу WOT на сторінках результатів пошуку, щоб побачити, які сайти є безпечними"
+   },
+   "optinProtectionItemTwoTitle": {
+      "message": "Відмітьте результат пошуку"
+   },
+   "optinReputationIconsText": {
+      "message": "Приймайте зважені рішення в Інтернеті, використовуючи позначки безпеки WOT поруч із посиланнями на веб-сайт."
+   },
+   "optinSafetyScoreText": {
+      "message": "Використовуйте картки оцінок, щоб перевірити репутацію веб-сайту та відгуки."
+   },
+   "optinSubtitle": {
+      "message": "Щоб захистити вас у реальному часі, нам потрібен доступ до URL-адрес, які ви переглядаєте"
+   },
+   "optinTitle": {
+      "message": "Дозволити захист браузера"
+   },
+   "optinWebsiteBlockingText": {
+      "message": "Уникайте веб-сайтів, які можуть бути шкідливими або мають погану репутацію, блокуючи їх."
+   },
+   "optinWelcomeSubtitle": {
+      "message": "Ви щойно приєдналися до {millionMembers} , захищаючи один одного за допомогою WOT"
+   },
+   "or": {
+      "message": " або "
+   },
+   "other": {
+      "message": "Інші"
+   },
+   "outOfHere": {
+      "message": "Залишити цей сайт"
+   },
+   "ownThisSite": {
+      "message": "Ви є власник цього сайту?"
+   },
+   "parentalControl": {
+      "message": "Батьківський контроль"
+   },
+   "parentalControlOFF": {
+      "message": "Веб-сайти з неприйнятним для дітей вмістом не будуть заблоковані"
+   },
+   "parentalControlON": {
+      "message": "Веб-сайти з неприйнятним для дітей вмістом будуть заблоковані"
+   },
+   "performance": {
+      "message": "Продуктивність"
+   },
+   "pinWot": {
+      "message": "Закріпіть WOT!"
+   },
+   "pinWotPopup": {
+      "message": "Закріпіть $WOT$, щоб побачити поточний статус безпеки вашого веб-сайту",
+      "placeholders": {
+         "wot": {
+            "content": "$1",
+            "example": "WOT"
+         }
+      }
+   },
+   "pleaseRateUs": {
+      "message": "Знайдіть хвилинку, щоб оцінити нас"
+   },
+   "policy": {
+      "message": "Переглянути Політику конфіденційності"
+   },
+   "poorCustomerService": {
+      "message": "Погане обслуговування клієнтів"
+   },
+   "poorOnly": {
+      "message": "Лише з низьким рейтингом"
+   },
+   "poorRating": {
+      "message": "Цей веб-сайт є підозрілим."
+   },
+   "popupAdultStrip": {
+      "message": "Може містити вміст лише для дорослих"
+   },
+   "popupOnboardingStep1Subtitle": {
+      "message": "У цьому розділі ви можете перевірити, чи безпечний сайт, який ви зараз відвідуєте."
+   },
+   "popupOnboardingStep1SubtitleBold": {
+      "message": "Натисніть на посилання, щоб прочитати відгуки."
+   },
+   "popupOnboardingStep1Title": {
+      "message": "Ласкаво просимо до вашого нового WOT!"
+   },
+   "popupOnboardingStep2Subtitle": {
+      "message": "У цьому розділі показано, скільки сервісів відстежують ваші онлайн-звички."
+   },
+   "popupOnboardingStep2SubtitleBold": {
+      "message": "Натисніть на посилання, щоб налаштувати блокування трекерів."
+   },
+   "popupOnboardingStep2Title": {
+      "message": "Цифрові трекери"
+   },
+   "popupOnboardingStep3SubtitleBold": {
+      "message": "Натисніть тут, щоб відкрити налаштування облікового запису та керувати захистом."
+   },
+   "popupOnboardingStep3Title": {
+      "message": "Керуйте моїм захистом"
+   },
+   "postReview": {
+      "message": "Опублікувати відгук"
+   },
+   "potentiallyMalicious": {
+      "message": "Цей веб-сайт є потенційно шкідливим."
+   },
+   "preCheck": {
+      "message": "ПОПЕРЕДНЯ ПЕРЕВІРКА"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "premiumFeature": {
+      "message": "Функція Premium"
+   },
+   "premiumSecurity": {
+      "message": "Преміум-безпека"
+   },
+   "premiumText": {
+      "message": "Забезпечення всебічної безпеки онлайн для захисту від найбільш шкідливих веб-сайтів та посилань"
+   },
+   "presettings": {
+      "message": "Попередні налаштування"
+   },
+   "protectPrivacy": {
+      "message": "Захистіть особисті дані та конфіденційність "
+   },
+   "protectYourPrivacy": {
+      "message": "Блокувальник спливаючих вікон"
+   },
+   "protectYourPrivacyTooltip": {
+      "message": "Блокуйте спливаючі вікна для більш чистого, швидкого та безпечного перегляду."
+   },
+   "protectYourself": {
+      "message": "Отримуйте сповіщення про витоки даних зараз"
+   },
+   "protectedForXDays": {
+      "message": "Захищено протягом %1% днів"
+   },
+   "protection": {
+      "message": "захист"
+   },
+   "rateOnStore": {
+      "message": "Оцініть нас у магазині %BROWSER%"
+   },
+   "rateOverall": {
+      "message": "Оцініть ваш загальний *досвід* на %DOMAIN%"
+   },
+   "rateThisSite": {
+      "message": "Оцінити цей сайт"
+   },
+   "rateUs": {
+      "message": "Оцінити WOT"
+   },
+   "rateYourExperience": {
+      "message": "Оцініть ваш загальний досвід на"
+   },
+   "readMoreReviews": {
+      "message": "Читати більше відгуків (%1%)"
+   },
+   "readReviews": {
+      "message": "Читати відгуки"
+   },
+   "realTimeCheckups": {
+      "message": "Перевірки в режимі реального часу"
+   },
+   "realTimeCheckupsTooltip": {
+      "message": "Захистіться від фішингу, зловмисного програмного забезпечення та інших загроз у режимі реального часу."
+   },
+   "realtimePhishingAlerts": {
+      "message": "Сповіщення про фішинг у режимі реального часу"
+   },
+   "reportShoppingSiteTooltip": {
+      "message": "Повідомте нас про ненадійні або підроблені веб-сайти, які можуть загрожувати іншим"
+   },
+   "reputation": {
+      "message": "Репутація"
+   },
+   "reputationIcons": {
+      "message": "Значки репутації"
+   },
+   "reputationIconsSubtitle": {
+      "message": "WOT покаже рівень безпеки веб-сайту, який ви зараз відвідуєте"
+   },
+   "restorePurchases": {
+      "message": "Відновити покупки"
+   },
+   "resultFor": {
+      "message": "Результати для"
+   },
+   "reviewAddedErrorText": {
+      "message": "Сталася помилка. Повторіть спробу."
+   },
+   "reviewAddedErrorTitle": {
+      "message": "Не вдалося опублікувати відгук"
+   },
+   "reviewAddedOKText": {
+      "message": "Дякуємо, що зробили Інтернет безпечнішим!"
+   },
+   "reviewAddedOKTitle": {
+      "message": "Відгук успішно опубліковано"
+   },
+   "reviews": {
+      "message": "Відгуки"
+   },
+   "rtOFF": {
+      "message": "Тепер задіяно ручний режим – проактивний захист WOT відключено"
+   },
+   "rtON": {
+      "message": "Тепер проактивний захист WOT задіяний в повному обсязі."
+   },
+   "rtProtection": {
+      "message": "Захист в реальному часі"
+   },
+   "rtProtectionRecommended": {
+      "message": "Захист в реальному часі (рекомендовано)"
+   },
+   "safeBrowsing": {
+      "message": "Безпечний перегляд"
+   },
+   "safeBrowsingSubtitle": {
+      "message": "WOT забезпечує вашу пильність в Інтернеті, скануючи кожен сайт, сторінку та службу, які ви відвідуєте, за допомогою сповіщень у реальному часі."
+   },
+   "safeSearch": {
+      "message": "Безпечний пошук"
+   },
+   "safeSearchSubtitle": {
+      "message": "Піктограми відображатимуться поруч із результатами пошуку, щоб знати, чи веб-сайт безпечний чи ні, перш ніж ви натиснете."
+   },
+   "safeShopping": {
+      "message": "Безпечні покупки"
+   },
+   "safeShoppingSite": {
+      "message": "Цей веб-сайт безпечний для покупок"
+   },
+   "safeShoppingSiteTooltip": {
+      "message": "На основі алгоритму WOT, перевірки штучним інтелектом та користувачами цей веб-сайт є безпечним для покупок"
+   },
+   "safetyScore": {
+      "message": "Оцінка безпеки"
+   },
+   "safetyScoreSubtitle": {
+      "message": "Використовуйте картки показників, щоб перевірити репутацію веб-сайту та відгуки та поділитися власним досвідом"
+   },
+   "scannedOn": {
+      "message": "виявлені на"
+   },
+   "scoreCard": {
+      "message": "Картка оцінки"
+   },
+   "searchEnginePageResults": {
+      "message": "Сторінка результатів пошукової системи"
+   },
+   "searchEnginePageResultsSubtitle": {
+      "message": "Приймайте обґрунтовані рішення онлайн за допомогою індикатора безпеки WOT поруч із посиланнями на веб-сайт"
+   },
+   "searchIndicator": {
+      "message": "Індикатор пошуку"
+   },
+   "searchManualModeButton": {
+      "message": "Увімкніть Керівництво для пошукових систем"
+   },
+   "searchManualModeHeader": {
+      "message": "Вам не вистачає Керівництва WOT"
+   },
+   "searchManualModeText": {
+      "message": "Захист WOT для пошукових систем відключено. Ми не зможемо показати вам рейтинг веб-сайту поруч із посиланням."
+   },
+   "security": {
+      "message": "Безпека"
+   },
+   "securityBreaches": {
+      "message": "загрозам безпеці!"
+   },
+   "securityRiskDetected": {
+      "message": "Виявлено ризики безпеки"
+   },
+   "securityScore": {
+      "message": "Оцінка безпеки"
+   },
+   "securitySystem": {
+      "message": "Система безпеки"
+   },
+   "securityWarning": {
+      "message": "Попередження про безпеку"
+   },
+   "seeLess": {
+      "message": "Показати менше"
+   },
+   "seeMore": {
+      "message": "Показати більше"
+   },
+   "seeReviews": {
+      "message": "Відгуки"
+   },
+   "sendFeedback": {
+      "message": "Надішліть відгук"
+   },
+   "serpMailWarning": {
+      "message": "WOT вважає цей електронний лист підозрілим, оскільки він може містити небезпечні посилання або URL-адреси для відстеження"
+   },
+   "serpMailWarningOfferAction1": {
+      "message": "Оновити і захистити мою пошту"
+   },
+   "serpMailWarningOfferAction2": {
+      "message": "Нагадайте мені пізніше"
+   },
+   "serpMailWarningOfferContent": {
+      "message": "96% онлайн-шахрайства реалізується через електронну пошту. Не вагайтеся, захистіть себе ЗАРАЗ."
+   },
+   "serpMailWarningOfferTitle": {
+      "message": "Ваша ел. пошта під загрозою!"
+   },
+   "serpMailWarningTooltip": {
+      "message": "WOT виявляє та запобігає загрозам та відстеженню в Інтернеті, щоб ви могли бути впевнені в захищеності вашої особистої інформації."
+   },
+   "servicesTrackingYou": {
+      "message": "Сервіси відстежують вашу активність"
+   },
+   "settings": {
+      "message": "Налаштування"
+   },
+   "settingsBannerHeaderNotPremium": {
+      "message": "РОЗБЛОКУЙТЕ ПРЕМІУМ-ФУНКЦІЇ"
+   },
+   "settingsBannerSubtitleNotPremium": {
+      "message": "Підсильте свій захист"
+   },
+   "settingsBannerSubtitlePremium": {
+      "message": "Будь-де, будь-коли."
+   },
+   "settingsBannerTitle": {
+      "message": "Більш безпечний перегляд."
+   },
+   "setup": {
+      "message": "Налаштування"
+   },
+   "severeOnly": {
+      "message": "Лише небезпечні"
+   },
+   "share": {
+      "message": "Поділитися"
+   },
+   "shareExperience": {
+      "message": "Поділіться своїм власним досвідом щодо %1% та допоможіть іншим"
+   },
+   "shareFeedback": {
+      "message": "Поділитися своєю думкою"
+   },
+   "shareOnFacebook": {
+      "message": "Поділитися на Facebook"
+   },
+   "shareOnGoogle": {
+      "message": "Поділитися на Google +"
+   },
+   "shareOnTwitter": {
+      "message": "Поділитися на Twitter"
+   },
+   "shareText1": {
+      "message": "Я щойно допоміг (-могла) зробити Інтернет краще, оцінивши сайт %WEBSITE% на Web of Trust! Не погоджуєтеся? Оцініть його самостійно тут 👉 %LINK%"
+   },
+   "shareTextFacebook": {
+      "message": "Я знайшов (-ла) спосіб безпечного перегляду веб-сторінок та уникнення небезпечних веб-сайтів! Ознайомтеся з розширенням Web of Trust: %LINK%"
+   },
+   "shareTextFacebookRate": {
+      "message": "Я щойно допоміг (-могла) зробити Інтернет кращим місцем, оцінивши сайт %WEBSITE% %STARS% зірок з 5 на Web of Trust! Не погоджуєтеся? Оцініть його самостійно тут 👉 %LINK%"
+   },
+   "shareTextGoogle": {
+      "message": " Я користуюсь @Web_of_Trust для безпечного перегляду веб-сторінок та уникнення небезпечних веб-сайтів. Спробуйте його тут: %LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextGoogleRate": {
+      "message": "Я щойно допоміг (-могла) зробити Інтернет кращим місцем, оцінивши сайт %WEBSITE% %STARS% зірок з 5 на Web of Trust! Не погоджуєтеся? Оцініть його самостійно тут 👉 %LINK% #WOT #MyWOT"
+   },
+   "shareTextTwitter": {
+      "message": " Я користуюсь @Web_of_Trust для безпечного перегляду веб-сторінок та уникнення небезпечних веб-сайтів. Спробуйте його тут: %LINK% #WOT #MyWOT #Security"
+   },
+   "shareTextTwitterRate": {
+      "message": "Я щойно оцінив (-ла) сайт %WEBSITE% %STARS% зірок з 5 на WOT! Не погоджуєтеся? Оцініть його самостійно тут👉 %LINK%"
+   },
+   "shareTextWhatsApp": {
+      "message": "Я знайшов (-ла) спосіб безпечного перегляду веб-сторінок та уникнення небезпечних веб-сайтів! Ознайомтеся з розширенням Web of Trust: %LINK%"
+   },
+   "shareTextWhatsAppRate": {
+      "message": "Я щойно допоміг (-могла) зробити Інтернет кращим місцем, оцінивши сайт %WEBSITE% %STARS% зірок з 5 на Web of Trust! Не погоджуєтеся? Оцініть його самостійно тут 👉 %LINK%"
+   },
+   "shareWotFriends": {
+      "message": "Поділіться WOT із друзями!"
+   },
+   "shareWotRating": {
+      "message": "Поділіться своїм рейтингом %DOMAIN% із друзями!"
+   },
+   "shareYouRating": {
+      "message": "Поділіться своєю оцінкою з друзями"
+   },
+   "shopWithConfidence": {
+      "message": "Купуйте з упевненістю"
+   },
+   "shopWithConfidenceSubtitle": {
+      "message": "Перегляньте відгуки покупців у будь-якому інтернет-магазині та захистіть себе від фішингу та фальшивої електронної комерції"
+   },
+   "signIn": {
+      "message": "Увійти"
+   },
+   "signInNow": {
+      "message": "Увійти зараз"
+   },
+   "signInToRate": {
+      "message": "Увійдіть, щоб оцінити та написати відгук для цього веб-сайту"
+   },
+   "siteIsSafe": {
+      "message": "Чи ви вважаєте цей сайт *безпечним?*"
+   },
+   "siteIsSafeChildren": {
+      "message": "Чи цей сайт є *безпечним для дітей?*"
+   },
+   "skip": {
+      "message": "Пропустити"
+   },
+   "smartEmailProtectionSubtitle": {
+      "message": "Розширений захист від фішингу, створений для виявлення загроз і захисту від шахрайства."
+   },
+   "social": {
+      "message": "Соціальні мережі"
+   },
+   "someTrackersBlocked": {
+      "message": "%1% з %2% трекерів заблоковано"
+   },
+   "specialOfferBillingDetails": {
+      "message": "Один платіж у розмірі"
+   },
+   "specialOfferFeatures": {
+      "message": "Захист електронної пошти, блокування вмісту для дорослих, необмежене блокування трекерів та багато іншого!"
+   },
+   "startFreeTrial": {
+      "message": "Почніть використовувати безкоштовну пробну версію"
+   },
+   "startProtection": {
+      "message": "Запустити захист!"
+   },
+   "startYourFreeTrial": {
+      "message": "Почніть використовувати безкоштовну пробну версію"
+   },
+   "successRecPass": {
+      "message": "Інструкцію надіслано на вашу адресу електронної пошти"
+   },
+   "suspiciousByWOT": {
+      "message": "WOT позначив цей веб-сайт як підозрілий"
+   },
+   "suspiciousByWOTPopup": {
+      "message": "Підозрілий веб-сайт, як вважає WOT"
+   },
+   "suspiciousSite": {
+      "message": "Підозрілий веб-сайт"
+   },
+   "switchToClassic": {
+      "message": "Перейти на Classic WOT"
+   },
+   "systemPageAction": {
+      "message": "Зрозуміло"
+   },
+   "systemPageContent": {
+      "message": "Ви намагаєтеся використовувати WOT на непідтримуваній сторінці, як-от сторінка системи браузера, localhost або сторінка розширення."
+   },
+   "systemPageTitle": {
+      "message": "Сторінка системи"
+   },
+   "takeAction": {
+      "message": "Вжийте заходів"
+   },
+   "tellUsMore": {
+      "message": "Розкажи нам більше..."
+   },
+   "tellYourFriends": {
+      "message": "Поширюйте спільноту, розповідаючи своїм друзям про WOT!"
+   },
+   "termsOfUse": {
+      "message": "Умови використання"
+   },
+   "thankYou": {
+      "message": "Дякую!"
+   },
+   "thankYouForFeedback": {
+      "message": "Дякуємо за ваш відгук"
+   },
+   "thankYouForInstalling": {
+      "message": "Тепер переконайтеся, що ви повністю захищені, вибравши свій захисний щит"
+   },
+   "thanksGotIt": {
+      "message": "Добре, зрозуміло!"
+   },
+   "thisEmailAppearedInBreaches": {
+      "message": "Ця ел. адреса з’явилася у %1% відомих витоках даних"
+   },
+   "thisPopupShows": {
+      "message": "Це спливаюче вікно показує оцінку репутації будь-якого веб-сайту. "
+   },
+   "thisSiteOnly": {
+      "message": "цього сайта"
+   },
+   "threatsFound": {
+      "message": "Виявлені загрози"
+   },
+   "timerManualModeButton": {
+      "message": "Увімкнути захист у реальному часі"
+   },
+   "timerManualModeHeader": {
+      "message": "Ви переглядаєте веб-сторінки в ручному режимі!"
+   },
+   "timerManualModeText": {
+      "message": "Проактивний захист WOT відключено, і ми не зможемо захистити вас від небезпечних веб-сайтів."
+   },
+   "toWriteReview": {
+      "message": " написати відгук"
+   },
+   "toggleTooltipMessage": {
+      "message": "щоб увімкнути цю функцію"
+   },
+   "toggleTooltipUpgradeNow": {
+      "message": "ОНОВИТИ ЗАРАЗ"
+   },
+   "tooComplicated": {
+      "message": "Занадто складний"
+   },
+   "tooltipChildSafe": {
+      "message": "Чи є цей сайт вільним від такого вмісту як зображення чи відео оголених тіл, шокуючого або лякаючого вмісту тощо."
+   },
+   "tooltipSafe": {
+      "message": "Чи є цей сайт вільним від таких загроз, як шкідливе програмне забезпечення, віруси, фішинг тощо."
+   },
+   "tour": {
+      "message": "Тур"
+   },
+   "trackerBlocked": {
+      "message": "Заблоковано"
+   },
+   "trackerBlocker": {
+      "message": "Захист від трекерів"
+   },
+   "trackerBlockerDescription": {
+      "message": "Автоматично блокувати всі трекери на кожному веб-сайті, який ви відвідуєте."
+   },
+   "trackerCounterAction": {
+      "message": "Розблокувати більше трекерів"
+   },
+   "trackerCounterText": {
+      "message": "%1% / 3 трекерів доступні для базового захисту"
+   },
+   "trackerSomeBlocked": {
+      "message": "%1% з %2% заблоковано"
+   },
+   "trackerUnblocked": {
+      "message": "Розблоковано"
+   },
+   "trackersBlockAll": {
+      "message": "Автоматично блокувати всі трекери"
+   },
+   "trackersBlocked": {
+      "message": "Трекери заблоковано"
+   },
+   "trackersDetected": {
+      "message": "виявлено трекерів"
+   },
+   "trackingProtection": {
+      "message": "Захист від відстеження"
+   },
+   "trustIssues": {
+      "message": "У цього сайту проблеми з довірою користувачів. Відвідуйте його з обережністю."
+   },
+   "trusted": {
+      "message": "WOT довіряє"
+   },
+   "trustedByWOT": {
+      "message": "Веб-сайт, якому довіряє WOT"
+   },
+   "trustedByWOTPopup": {
+      "message": "Веб-сайт, якому довіряє WOT"
+   },
+   "trustedSite": {
+      "message": "Довірений веб-сайт"
+   },
+   "trustedSource": {
+      "message": "Довірене джерело"
+   },
+   "tryAgain": {
+      "message": "Спробуйте ще раз"
+   },
+   "turnOffProtection": {
+      "message": "Відключити захист"
+   },
+   "twoMillionMembers": {
+      "message": "2+ мільйони учасників"
+   },
+   "unknownByWOT": {
+      "message": "Відсутність достатньої інформації"
+   },
+   "unknownByWOTPopup": {
+      "message": "Невідомий веб-сайт, як вважає WOT"
+   },
+   "unknownSite": {
+      "message": "Невідомий веб-сайт"
+   },
+   "unlimitedTrackerBlockingOnlyPremium": {
+      "message": "Необмежене блокування трекерів доступне лише для преміум-користувачів"
+   },
+   "unlock": {
+      "message": "Розблокувати"
+   },
+   "unlockPremium": {
+      "message": "Розблокувати Premium"
+   },
+   "untrusted": {
+      "message": "WOT не довіряє"
+   },
+   "untrustedByWOT": {
+      "message": "WOT визнав цей веб-сайт ненадійним"
+   },
+   "untrustedByWOTPopup": {
+      "message": "Веб-сайт, якому не довіряє WOT"
+   },
+   "untrustedSite": {
+      "message": "Ненадійний веб-сайт"
+   },
+   "upgrade": {
+      "message": "ОНОВИТИ"
+   },
+   "upgradeNow": {
+      "message": "ОНОВИТИ ЗАРАЗ"
+   },
+   "viewAll": {
+      "message": "Подивитися все"
+   },
+   "viewFullReport": {
+      "message": "Продивитися повний звіт"
+   },
+   "viewFullScorecard": {
+      "message": "Переглянути оціночну карту"
+   },
+   "wantToDelete": {
+      "message": "Ви впевнені, що бажаєте видалити свій рейтинг?"
+   },
+   "wantToRateWOT": {
+      "message": "Знайдіть хвилину, щоб оцінити нас у %BROWSER% Store"
+   },
+   "wantToRateWOTBtn": {
+      "message": "Оцінити WOT"
+   },
+   "wantToRateWOTHeader": {
+      "message": "Сподобався WOT?"
+   },
+   "wantToUnlockPremiumFeatures": {
+      "message": "Хочете розблокувати всі функції WOT Premium?"
+   },
+   "warning": {
+      "message": "Попередження!"
+   },
+   "warningAlerts": {
+      "message": "Попереджувальні сповіщення"
+   },
+   "warningAlertsSubtitle": {
+      "message": "Показувати попередження про відвідані підозрілі веб-сайти"
+   },
+   "warnings": {
+      "message": "Застереження"
+   },
+   "weAppreciate": {
+      "message": "Ми цінуємо ваш час і дякуємо за допомогу в покращенні WOT"
+   },
+   "websiteBlocking": {
+      "message": "Блокування веб-сайтів"
+   },
+   "weekAgo": {
+      "message": "тиждень тому"
+   },
+   "weeksAgo": {
+      "message": "%1% тижня(-ів) тому"
+   },
+   "welcome": {
+      "message": "Ласкаво просимо"
+   },
+   "welcomeToWot": {
+      "message": "Ласкаво просимо до WOT"
+   },
+   "whatCanIDo": {
+      "message": "Що я можу з цим зробити?"
+   },
+   "whatCouldWeDo": {
+      "message": "Що ми можемо зробити краще?"
+   },
+   "whatIsNotSafeDescription": {
+      "message": "Ненадійна діяльність охоплює поведінку, яку зазвичай пов'язують із шахрайством, фішингом, зловмисним ПО, рекламою та іншими шкідливими, ризикованими та небезпечними веб-сайтами."
+   },
+   "whatIsNotSafeTitle": {
+      "message": "Що таке ненадійний веб-сайт?"
+   },
+   "whatIsSuspiciousDescription": {
+      "message": "Можлива підозріла діяльність охоплює поведінку, яку зазвичай пов'язують з шахрайством, криптовалютним розкраданням, перехопленням браузера та іншими шкідливими, ризикованими та небезпечними діями."
+   },
+   "whatIsSuspiciousTitle": {
+      "message": "Що таке *підозрілий* веб-сайт?"
+   },
+   "whatIsUnknownDescription": {
+      "message": "На даний момент у нас недостатньо інформації для оцінки цього веб-сайту. Ми радимо уникати надання ваших особистих даних, як-от ваш номер соціального страхування, банківського рахунку або дані кредитної картки."
+   },
+   "whatIsUnknownTitle": {
+      "message": "Що таке *невідомий* веб-сайт?"
+   },
+   "whatsNewWOT": {
+      "message": "Новий моніторинг незаконного доступу до даних"
+   },
+   "whatsNewWOTContent": {
+      "message": "За допомогою цієї потужної нової функції тепер ви можете переконатися, що ваша особиста інформація та паролі не скомпрометовані та не піддаються загрозам безпеки."
+   },
+   "whatsNewWOTGotIt": {
+      "message": "Давай подивимось"
+   },
+   "whatsNewWOTLearnMore": {
+      "message": "Дізнатися більше"
+   },
+   "whitelist": {
+      "message": "Whitelist"
+   },
+   "whitelistTitle": {
+      "message": "Не показувати застереження для цих сайтів"
+   },
+   "whyIsntSafe": {
+      "message": "Чому %DOMAIN% не є *безпечним?*"
+   },
+   "whyIsntSafeChildren": {
+      "message": "Чому %DOMAIN% не є *безпечним для дітей?*"
+   },
+   "wotAssistant": {
+      "message": "Помічник WOT"
+   },
+   "wotAssistantOFF": {
+      "message": "Не показувати гарну репутацію веб-сайту в куті мого браузера"
+   },
+   "wotAssistantON": {
+      "message": "Показати гарну репутацію веб-сайту в куті мого браузера"
+   },
+   "wotCommunity": {
+      "message": "Спільнота WOT"
+   },
+   "wotDetected": {
+      "message": "WOT виявила потенційну загрозу безпеці та заблокувала $DOMAIN$. Цей сайт потенційно шкідливий і може бути шахрайським.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotDetectedAdult": {
+      "message": "$DOMAIN$ було заблоковано WOT через потенційний вміст для дорослих.",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "mywot.com"
+         }
+      }
+   },
+   "wotHelper": {
+      "message": "Помічник WOT"
+   },
+   "wotHelperSettingsOffState": {
+      "message": "Віджет помічника WOT не буде показано."
+   },
+   "wotHelperSettingsOnState": {
+      "message": "Показувати віджет помічника WOT для швидкого доступу до рейтингу, коментарів та інформації щодо безпеки цього сайту."
+   },
+   "wotInstalledSuccessfuly": {
+      "message": "WOT успішно встановлено"
+   },
+   "writeAtLeast15": {
+      "message": "Щоб допомогти іншим, введіть принаймні 15 символів"
+   },
+   "writeFirstReview": {
+      "message": "Напишіть відгук першим"
+   },
+   "writeReview": {
+      "message": "Напишіть відгук"
+   },
+   "yearAgo": {
+      "message": "%1% рік тому"
+   },
+   "yearsAgo": {
+      "message": "%1% роки(-ів) тому"
+   },
+   "yes": {
+      "message": "Так"
+   },
+   "youCanAlsoEdit": {
+      "message": "Ви також можете редагувати свій поточний відгук та оцінку"
+   },
+   "youCanAlwaysChange": {
+      "message": "(ви завжди можете змінити свої налаштування пізніше)"
+   },
+   "youCanCheckAnyLink": {
+      "message": "Завдяки повному захисту WOT ви можете перевіряти будь-які посилання перед відвідуванням та багато іншого!"
+   },
+   "youRatingThisSite": {
+      "message": "Ви чудово справилися з оцінюванням цього веб-сайту!"
+   },
+   "yourRating": {
+      "message": "Ваш рейтинг"
+   },
+   "yourSubscription": {
+      "message": "Ваша підписка"
+   }
+}
