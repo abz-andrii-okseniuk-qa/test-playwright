@@ -1,4 +1,4 @@
-name: Run antivirus tests
+name: Antivirus tests
 on:
   workflow_dispatch:
   schedule:
